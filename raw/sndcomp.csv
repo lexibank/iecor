@@ -1,0 +1,33 @@
+id,lgSetName,lv0,lv1,lv2,lv3,cladeLevel0,cladeLevel1,cladeLevel2,cladeLevel3
+1,Germanic,1,0,0,0,8,0,0,0
+2,West Germanic,1,1,0,0,8,0,0,0
+3,North Germanic,1,2,0,0,8,0,0,0
+4,East Germanic,1,3,0,0,8,0,0,0
+5,Italic,2,0,0,0,9,0,0,0
+6,Iberia,2,1,0,0,9,1,0,0
+7,France,2,2,0,0,0,0,0,0
+8,Alpine,2,3,0,0,0,0,0,0
+9,Italy,2,4,0,0,0,0,0,0
+10,Balkans,2,5,0,0,0,0,0,0
+11,Balto-Slavic,3,0,0,0,7,0,0,0
+12,East Slavic,3,1,0,0,7,2,2,2
+13,West Slavic,3,2,0,0,7,2,2,1
+14,South Slavic,3,3,0,0,7,2,1,0
+15,Celtic,4,0,0,0,9,0,0,0
+16,Goidelic,4,1,0,0,9,0,0,0
+17,Brythonic,4,2,0,0,9,0,0,0
+18,Gaulish,4,3,0,0,9,0,0,0
+19,Lepontic,4,4,0,0,9,0,0,0
+20,Celtiberian,4,5,0,0,9,0,0,0
+21,Hellenic,5,0,0,0,3,0,0,0
+22,Anatolian,6,0,0,0,1,0,0,0
+23,Iranic,7,0,0,0,6,3,0,0
+24,Indic,8,0,0,0,6,1,0,0
+25,Indic Proper,8,1,0,0,6,1,1,0
+26,Hindu Kush,8,7,0,0,6,1,2,0
+27,Nuristani,8,8,0,0,6,2,0,0
+28,ALL Other,9,0,0,0,0,0,0,0
+29,Baltic,3,8,0,0,7,1,0,0
+30,Albanian,9,1,0,0,5,0,0,0
+31,Armenian,9,3,0,0,4,0,0,0
+32,Tocharian,9,5,0,0,2,0,0,0
