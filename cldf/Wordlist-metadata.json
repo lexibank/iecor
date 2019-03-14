@@ -462,6 +462,10 @@
                     {
                         "datatype": "string",
                         "name": "Source_form"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "Parallel_loan_event"
                     }
                 ]
             },

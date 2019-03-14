@@ -202,6 +202,7 @@ class Dataset(BaseDataset):
             'Comment',
             'Source_languoid',
             'Source_form',
+            {'name': 'Parallel_loan_event', 'datatype': 'boolean'},
         )
 
         clades = {d['id']: d for d in dicts('clade')}
@@ -318,6 +319,7 @@ class Dataset(BaseDataset):
                         'Comment': cset['loan_notes'],
                         'Source_languoid': cset['loan_source'],
                         'Source_form': cset['sourceFormInLoanLanguage'],
+                        'Parallel_loan_event': cset['parallelLoanEvent'] == 'True',
                     })
 
         ds.write(
