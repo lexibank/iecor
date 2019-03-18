@@ -413,7 +413,7 @@
                         "name": "Variety"
                     },
                     {
-                        "datatype": "string",
+                        "separator": ";",
                         "name": "Clade"
                     },
                     {

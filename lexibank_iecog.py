@@ -190,7 +190,7 @@ class Dataset(BaseDataset):
              'datatype': {'base': 'integer', 'minimum': 0}},
             'Description',
             'Variety',
-            'Clade',
+            {'name': 'Clade', 'separator': ';'},
             'Color',
             'ascii_name',
             {'name': 'historical', 'datatype': 'boolean'},
@@ -235,7 +235,8 @@ class Dataset(BaseDataset):
         lang_urls = {l['ID']: l.pop('url') for l in langs}
         for lang in langs:
             lang.update(
-                Clade=l2clade[lang['ID']]['cladeName'],
+                Clade=[l2clade[lang['ID']][cn] for cn in [
+                    'level0Name', 'level1Name', 'level2Name', 'level3Name']],
                 Color=l2clade[lang['ID']]['hexColor'])
         lids = set(d['ID'] for d in langs)
         forms = [f for f in dicts('lexeme', to_cldf=True) if
