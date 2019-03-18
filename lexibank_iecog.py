@@ -234,8 +234,12 @@ class Dataset(BaseDataset):
                      LANGUAGE_LIST]]
         lang_urls = {l['ID']: l.pop('url') for l in langs}
         for lang in langs:
+            combingCladeNameList = []
+            for cn in ['level0Name', 'level1Name', 'level2Name', 'level3Name']:
+                if len(l2clade[lang['ID']][cn]) > 0:
+                    combingCladeNameList.append(l2clade[lang['ID']][cn].strip())
             lang.update(
-                Clade=l2clade[lang['ID']]['cladeName'],
+                Clade=", ".join(combingCladeNameList),
                 Color=l2clade[lang['ID']]['hexColor'])
         lids = set(d['ID'] for d in langs)
         forms = [f for f in dicts('lexeme', to_cldf=True) if
