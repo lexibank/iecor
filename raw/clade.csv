@@ -24,13 +24,13 @@ id,cladeName,hexColor,shortName,export,exportDate,taxonsetName,atMost,atLeast,di
 45,Slavic South,E68A00,,False,False,SlavicSouth,,,_,,,7,2,1,0,Balto-Slavic,Slavic,Slavic South,
 46,Slavic West,FFAD33,,False,False,SlavicWest,,,_,,,7,2,2,0,Balto-Slavic,Slavic,Slavic West,
 47,Slavic East,FFCC80,,False,False,SlavicEast,,,_,,,7,2,3,0,Balto-Slavic,Slavic,Slavic East,
-48,Breton,2E8B57,,True,True,CelticBretonMonoOrig,1620,1400,U,1400,1620,10,2,3,0,Celtic,Brythonic,Breton,
 51,Roman,76EE00,,False,False,,,,_,,,9,1,0,0,,Roman,,
 16,Goidelic,008B00,,False,False,CelticGoidelicPara,1700,1200,N,,,10,3,0,0,Celtic,Goidelic,,
 17,Brythonic,2E8B57,,False,False,CelticBrythonic,,,_,,,10,2,0,0,Celtic,Brythonic,,
+40,Anglic,6495ED,,False,False,GermanicAnglicMonoOrig,1600,1400,N,,,8,2,2,1,Germanic,North-West,West Germanic,Anglic
+34,Romance,76EE00,,False,False,ItalicRomancePara,2200,1900,N,,,9,1,1,0,Italic,Roman,Romance,
+48,Breton,2E8B57,,False,False,CelticBretonMonoOrig,1620,1400,U,1400,1620,10,2,3,0,Celtic,Brythonic,Breton,
 49,Welsh,2E8B57,,False,False,CelticBrythonicWelsh,,,_,,,10,2,1,0,Celtic,Brythonic,Welsh,
 50,Cornish,2E8B57,,False,False,CelticBrythonicCornish,,,_,,,10,2,2,0,Celtic,Brythonic,Cornish,
 3,North,4169E1,,False,False,GermanicNorth,,,_,,,8,2,1,0,Germanic,North-West,North Germanic,
 2,West,6495ED,,False,False,GermanicWest,2500,1600,N,,,8,2,2,0,Germanic,North-West,West Germanic,
-40,Anglic,6495ED,,True,True,GermanicAnglicMonoOrig,1600,1400,N,,,8,2,2,1,Germanic,North-West,West Germanic,Anglic
-34,Romance,76EE00,,True,True,ItalicRomancePara,2200,1900,N,,,9,1,1,0,Italic,Roman,Romance,

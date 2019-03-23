@@ -12,11 +12,11 @@ Cite the source dataset as
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 38%](https://img.shields.io/badge/Source-38%25-red.svg "Source: 38%")
 
-- **Varieties:** 152
-- **Concepts:** 175
-- **Lexemes:** 27,191
+- **Varieties:** 151
+- **Concepts:** 170
+- **Lexemes:** 26,234
 - **Synonymy:** 1.09
-- **Cognacy:** 24,488 cognates in 2,802 cognate sets
+- **Cognacy:** 23,592 cognates in 2,701 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
@@ -28,4 +28,4 @@ Cite the source dataset as
   - Palula [palu1254](http://glottolog.org/resource/languoid/id/palu1254)
 
 
-- Entries missing sources: 16772/27191 (61.68%)
+- Entries missing sources: 16157/26234 (61.59%)

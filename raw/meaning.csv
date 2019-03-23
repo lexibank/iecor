@@ -2,21 +2,18 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 247,seventy,,,25.0,False,False,0,,0,,26,1721
 228,seven,,,25.0,False,False,0,,0,,7,1704
 218,go,,,100.0,True,False,0,,0,I saw him on the road. I don't know where he was going.,182,695
-120,push,,,96.1748633879781,False,False,0,,0,He was pushing and pulling the furniture around the room.  ,260,1452
 329,scratch_pst3sg,,,16.6666666666667,False,False,0,,0,,275,1436
 131,rub,,,82.9787234042553,False,False,0,,0,He rubbed his belly.,918,1449
 321,push_pst3sg,,,18.1818181818182,False,False,0,,0,,261,1452
-188,water,,,100.0,False,False,0,,0,"She was thirsty, so she drank some water.",122,948
 322,pull_pst3sg,,,57.1428571428571,False,False,0,,0,,263,1455
 337,pour_pst3sg,,,25.0,False,False,0,,0,,289,1487
 250,hundred,,,94.1176470588235,False,False,0,,0,,29,1634
 327,hit_pst3sg,,,76.4705882352941,False,False,0,,0,,271,1433
-220,carry,,,98.1481481481482,False,False,0,,0,She carried her bag [under her arm].,268,700
 293,hear_pst3sg,,,70.5882352941177,False,False,0,,0,,207,1408
 282,go_pst3sg,,,77.7777777777778,False,False,0,,0,,183,695
 317,give_pst3sg,,,75.0,False,False,0,,0,,253,1447
-122,red,,,99.4413407821229,False,False,0,,0,Blood is red.,179,156
-158,stand,,,97.6331360946746,True,False,0,"Stative verb, 'be standing', *not* change of state 'get up, stand up'. ",0,He is standing over there.,188,1442
+138,seed,,,98.3516483516484,False,False,0,,0,You can eat the seeds of (insert name of local fruit).,106,714
+120,push,,,96.195652173913,False,False,0,,0,He was pushing and pulling the furniture around the room.  ,260,1452
 285,stand_pst3sg,,,33.3333333333333,False,False,0,,0,,189,1442
 157,stab,,,78.5714285714286,False,False,0,,0,I stabbed him in the belly (with a knife).,922,1434
 155,split,,,78.8461538461538,False,False,0,,0,,920,1437
@@ -30,17 +27,15 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 251,two_hundred,,,14.2857142857143,False,False,0,,0,,30,0
 242,twenty-one,,,18.75,False,False,0,,0,,21,0
 256,stomach_organ,,,13.3333333333333,False,False,0,,0,,48,819
-180,tooth,,,99.4152046783626,False,False,0,,0,You can break a tooth if you bite on hard food.,37,1380
 107,narrow,,,95.3125,False,False,0,"Of a gap, opposite of 'wide'.  *Not* of an object, *not* opposite of 'broad, thick'. ",0,"The canyon is wide here, but further down it's narrow.",161,1267
-181,tree,,,96.2162162162162,False,False,0,,0,There is a tree beside the house.,97,906
-182,turn,,,95.5445544554455,False,False,0,,0,It was heavy so it was hard to turn it.,186,1588
+158,stand,,,97.6470588235294,True,False,0,"Stative verb, 'be standing', *not* change of state 'get up, stand up'. ",0,He is standing over there.,188,1442
 237,sixteen,,,25.0,False,False,0,,0,,16,0
+134,say,,,98.0392156862745,False,False,0,,0,She said that she would be late.,246,1458
 187,wash,,,98.3425414364641,False,False,0,,0,She washed her hands.,276,1453
 172,thin,,,88.0681818181818,True,True,0,"'Thin' of an object, not a person.  Opposite of 'thick', not of 'fat'.",0,"This piece of wood is thin, and that one is thick.",163,0
-196,wide,,,97.8142076502732,True,False,0,"Of a gap, opposite of 'narrow'.  *Not* of an object, *not* opposite of 'thick'. ",0,"The canyon is wide here, but further down it's narrow.",160,1243
+182,turn,,,95.5445544554455,False,False,0,,0,It was heavy so it was hard to turn it.,186,1588
 336,pour,,,27.7777777777778,False,False,0,,0,,288,1487
 316,play_pst3sg,,,61.5384615384615,False,False,0,,0,,251,1413
-190,wet,,,98.2352941176471,False,False,0,,0,Is it wet or dry?,168,1726
 249,ninety,,,25.0,False,False,0,,0,,28,1724
 221,take,,,98.125,False,False,0,,0,Take the money when you go.,258,1749
 171,thick,,,96.5909090909091,False,False,0,,0,That tree trunk is thick; it would take a long time cut through.,162,1244
@@ -54,11 +49,11 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 342,hide_pst3sg,,,31.25,False,False,0,,0,,295,602
 340,grind_pst3sg,,,60.0,False,False,0,,0,,291,1033
 260,girl,,,25.0,False,False,0,,0,,70,1646
-93,leg,,,99.3865030674847,False,False,0,,0,He fell and broke his leg.,52,1297
-138,seed,,,98.3606557377049,False,False,0,,0,You can eat the seeds of (insert name of local fruit).,106,714
+190,wet,,,98.2352941176471,False,False,0,,0,Is it wet or dry?,168,1726
 135,scratch,,,96.4497041420118,False,False,0,,0,She scratched her head.,274,1436
-185,walk,,,96.0,False,False,0,"The verb '(to) walk', not the noun '(a) walk'.",0,People can walk but fish cannot.,196,1443
-134,say,,,98.0392156862745,False,False,0,,0,She said that she would be late.,246,1458
+196,wide,,,97.2972972972973,True,False,0,"Of a gap, opposite of 'narrow'.  *Not* of an object, *not* opposite of 'thick'. ",0,"The canyon is wide here, but further down it's narrow.",160,1243
+93,leg,,,99.3865030674847,False,False,0,,0,He fell and broke his leg.,52,1297
+220,carry,,,98.1707317073171,False,False,0,,0,She carried her bag [under her arm].,268,700
 281,fresh,,,7.69230769230769,False,False,0,,0,,149,243
 333,freeze_pst3sg,,,69.2307692307692,False,False,0,,0,,283,1431
 244,forty,,,29.4117647058824,False,False,0,,0,,23,1716
@@ -73,56 +68,44 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 235,fourteen,,,25.0,False,False,0,,0,,14,0
 301,blow_pst3sg,,,16.6666666666667,False,False,0,,0,,221,0
 323,close,,,86.6666666666667,False,False,0,,0,,264,0
-264,groom,,,88.2352941176471,False,False,0,,0,,76,0
-216,hard,,,98.7341772151899,False,False,0,,0,It was very hard. When he bit it he broke his tooth.,172,1884
-203,forest,,,97.8021978021978,False,False,0,,0,There are many animals in the forest.,98,420
-109,neck,,,94.8979591836735,False,False,0,,0,He put his hand on his neck.,39,1333
 199,wing,,,98.1012658227848,False,False,0,,0,Birds have wings; people do not.,85,1257
 204,worm,,,98.3050847457627,False,False,0,,0,There is a worm in this (insert name of local fruit).,90,1219
 200,wipe,,,85.3932584269663,False,False,0,,0,He wiped the sweat from his brow.,924,1454
 345,two_days_ago,,,0.0,False,False,0,,0,,311,0
-103,mother,,,93.9759036144578,False,True,0,,0,Everyone has a father and a mother.,73,1216
-87,knee,,,99.4047619047619,False,False,0,,0,He put his hand on his knee.,54,1371
-207,yellow,,,97.5903614457831,False,False,0,,0,Egg yolk is yellow,178,1424
-197,wife,,,83.4586466165414,False,False,0,,0,,66,1199
-193,where,,,96.25,False,True,0,,0,Where is the knife?,314,1237
-78,horn,,,98.8372093023256,False,False,0,,0,Some animals have horns. Humans do not.,81,1393
-151,snake,,,97.8723404255319,False,False,0,,0,He jumped when he saw the snake.,89,730
-152,snow,,,98.7577639751553,False,False,0,,0,There was snow on the ground.,124,784
+133,sand,,,99.3975903614458,False,False,0,,0,She let the sand fall through her hands.,120,671
+177,throw,,,93.8967136150235,False,False,0,,0,He threw a stick into the water.,284,1456
+191,what,,,91.5254237288136,False,True,0,,0,What are you eating?,318,1236
 165,swell,,,100.0,True,False,0,,0,His arm swelled after he was injured.,222,1573
-159,star,,,99.4152046783626,False,False,0,,0,There were many stars in the night sky.,115,1430
-192,when,,,91.9753086419753,False,True,0,,0,When will we meet again?,315,1238
-163,suck,,,86.2068965517241,False,False,0,,0,,923,1421
 160,stick,,,96.5346534653465,False,False,0,"The noun '(a) stick' (e.g. of wood), not the verb for to adhere., ",0,He carried a stick under his arm.,101,1295
-162,straight,,,99.3865030674847,False,False,0,,0,"This stick is straight, but that one is bent.",175,1404
-177,throw,,,93.4272300469484,False,False,0,,0,He threw a stick into the water.,284,1456
+163,suck,,,86.2068965517241,False,False,0,,0,,923,1421
 81,husband,,,83.0882352941177,False,False,0,,0,,64,1200
-195,who,,,96.9325153374233,False,True,0,,0,Who killed this dog?,317,1235
+151,snake,,,97.8723404255319,False,False,0,,0,He jumped when he saw the snake.,89,730
 156,squeeze,,,80.0,False,False,0,,0,Don't squeeze the ball - you'll burst it!,921,1414
 154,spit,,,84.0764331210191,False,True,0,,0,He spat on the ground.,224,1440
-191,what,,,95.8333333333333,False,True,0,,0,What are you eating?,318,1236
 153,some,,,74.7747747747748,False,False,0,,0,There are some (insert name of local fruit) in the basket,919,1241
 189,we,,,97.5903614457831,False,True,0,^See full meaning description.*,0,^See full meaning description.*,321,1212
+192,when,,,91.4634146341463,False,True,0,,0,When will we meet again?,315,1238
 149,smoke,,,100.0,False,False,0,,0,I could see the smoke from the fire.,131,778
-174,this,,,91.3294797687861,False,True,0,,0,I used this knife.,298,1214
+161,stone,,,98.936170212766,False,False,0,,0,He held the stone in his hand,119,857
+264,groom,,,89.4736842105263,False,False,0,,0,,76,0
 176,three,,,100.0,False,False,0,,0,Three plus one is four.,3,492
 183,two,,,100.0,False,False,0,,0,One plus one is two.,2,1498
-175,you_sg.,,,94.2528735632184,False,True,0,^See full meaning description.*,0,^See full meaning description.*,320,0
 148,smell,,,96.8944099378882,True,False,0,Verb for a person *perceiving* an odour.  *Not* emit a odour (intransitive).  ,0,I (can) smell smoke.,208,1586
-161,stone,,,98.936170212766,False,False,0,,0,He held the stone in his hand,119,857
-186,hot,,,99.4444444444444,False,False,0,,0,The rocks get hot during the day and cold at night.,156,1286
-98,louse,,,96.2025316455696,False,False,0,,0,I picked a louse from his hair.,96,1392
-167,tail,,,97.4358974358974,False,False,0,,0,The dog wagged its tail.,82,1220
+203,forest,,,97.8142076502732,False,False,0,,0,There are many animals in the forest.,98,420
+103,mother,,,89.7142857142857,False,True,0,,0,Everyone has a father and a mother.,73,1216
+152,snow,,,98.7577639751553,False,False,0,,0,There was snow on the ground.,124,784
+174,this,,,87.3626373626374,False,True,0,,0,I used this knife.,298,1214
 130,round,,,96.7320261437908,False,False,0,,0,That table is round.,171,1395
+193,where,,,91.7159763313609,False,True,0,,0,Where is the knife?,314,1237
+195,who,,,92.4418604651163,False,True,0,,0,Who killed this dog?,317,1235
 217,sweet,,,99.3710691823899,False,False,0,,0,"This apple is ripe now, it tastes sweet.",155,717
-202,woman,,,96.1722488038278,False,False,0,,0,I saw a man and a woman.,65,962
+216,hard,,,98.7341772151899,False,False,0,,0,It was very hard. When he bit it he broke his tooth.,172,1884
+197,wife,,,82.8358208955224,False,False,0,,0,,66,1199
+175,you_sg.,,,90.1639344262295,False,True,0,^See full meaning description.*,0,^See full meaning description.*,320,0
+109,neck,,,94.8979591836735,False,False,0,,0,He put his hand on his neck.,39,1333
+162,straight,,,99.3865030674847,False,False,0,,0,"This stick is straight, but that one is bent.",175,1404
 265,bride,,,80.0,False,False,0,,0,,77,1266
-224,do,,,99.4082840236686,True,False,0,.,0,What did you **do** in the village yesterday?,210,813
-145,sky,,,99.4219653179191,False,False,0,,0,There were white clouds in the blue sky.,108,1732
-205,you_pl.,,,91.0714285714286,False,True,0,^See full meaning description.*,0,^See full meaning description.*,322,0
-146,sleep,,,98.2456140350877,False,False,0,,0,He is sleeping in the house.,216,1585
 225,grind,,,98.0,False,False,0,,0,He’s grinding flour.,290,1033
-147,small,,,97.2677595628415,False,False,0,,0,This is a small stone. That is a big stone.,170,1246
 248,eighty,,,93.75,False,False,0,,0,,27,1722
 288,fall_pst3sg,,,73.3333333333333,False,False,0,,0,,195,1280
 198,wind,,,98.3050847457627,False,False,0,"The noun '(a) wind', /wind/, not the verb /waind/.",0,She felt the wind in her face.,116,960
@@ -132,7 +115,6 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 296,do_pst3sg,,,77.7777777777778,False,False,0,,0,,211,813
 341,dig_pst3sg,,,76.4705882352941,False,False,0,,0,,293,1418
 298,die_pst3sg,,,76.4705882352941,False,False,0,,0,,215,1494
-229,eight,,,94.1176470588235,False,False,0,,0,,8,1705
 328,cut_pst3sg,,,80.0,False,False,0,,0,,273,1432
 313,cry_pst3sg,,,71.4285714285714,False,False,0,,0,,245,1839
 311,count_pst3sg,,,69.2307692307692,False,False,0,,0,,241,1420
@@ -147,58 +129,45 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 258,boy,,,58.8235294117647,False,False,0,,0,,68,1366
 232,eleven,,,93.3333333333333,False,False,0,,0,,11,1706
 139,sew,,,100.0,False,False,0,,0,He sewed the two pieces of cloth together.,278,1457
-96,liver,,,98.75,False,False,0,,0,When he died they found that his liver was very swollen.,61,1224
-144,skin,,,98.4536082474227,False,False,0,,0,His skin was old and hard.,56,763
+224,do,,,99.4082840236686,True,False,0,.,0,What did you **do** in the village yesterday?,210,813
 239,eighteen,,,80.0,False,False,0,,0,,18,1713
 261,daughter,,,88.2352941176471,False,False,0,,0,,71,1357
-73,heart,,,98.8571428571429,False,False,0,,0,His heart was beating fast.,60,1223
-108,near,,,95.3757225433526,False,False,0,----,0,You can walk there in one day; it's near.,301,1942
+208,ant,,,99.3377483443709,False,False,0,,0,There's an ant climbing up your leg.,93,587
 115,one,,,99.4186046511628,False,False,0,,0,One plus one is two.,1,1493
-91,leaf,,,99.4350282485876,False,False,0,,0,He picked a leaf from the tree.,102,628
-112,nose,,,98.8304093567251,False,False,0,,0,"While fighting, he hit him on the nose.",34,1221
-104,mountain,,,98.9528795811518,False,False,0,,0,He started to climb the mountain.,118,639
+108,near,,,95.3757225433526,False,False,0,----,0,You can walk there in one day; it's near.,301,1942
+229,eight,,,94.1176470588235,False,False,0,,0,,8,1705
 118,play,,,97.5,True,False,0,"Transitive verb, 'playing' a game for amusement.  *Not* 'playing' a musical instrument.",0,They’re playing a game outside.,250,1413
-92,left,,,98.7951807228916,False,False,0,"The opposite of 'right (hand side)'.  Ajdective, not adverb.",0,He is blind in his left eye.,305,244
-105,mouth,,,98.8439306358381,False,False,0,,0,He put his fingers in his mouth.,36,674
-110,new,,,99.4285714285714,False,False,0,,0,He lives in the new house; not in the old house.,154,1231
-117,person,,,97.1698113207547,True,False,0,,0,Only one person at a time can pass through the gate.,62,683
 119,pull,,,97.7272727272727,False,False,0,,0,He was pushing and pulling the furniture around the room.  ,262,1455
+94,lie,,,80.5714285714286,True,True,0,"Stative verb, i.e. 'be lying (down).  *Not* the English homonym 'tell untruths'. ",0,She was lying on the ground.,192,1411
+146,sleep,,,98.2456140350877,False,False,0,,0,He is sleeping in the house.,216,1585
 236,fifteen,,,94.1176470588235,False,False,0,,0,,15,1709
 292,fly_pst3sg,,,30.7692307692308,False,False,0,,0,,203,1441
-94,lie,,,84.3373493975904,True,True,0,"Stative verb, i.e. 'be lying (down).  *Not* the English homonym 'tell untruths'. ",0,She was lying on the ground.,192,1411
-97,long,,,99.4047619047619,False,False,0,,0,This is a long rope; that is a short rope.,158,1203
-99,man,,,97.6958525345622,False,False,0,"Specifically an adult male, not the generic sense of 'person' or 'humankind'.",0,I saw a man and a woman.,63,1554
-101,meat,,,100.0,False,False,0,,0,What animal does this meat come from?,137,634
+205,you_pl.,,,87.0056497175141,False,True,0,^See full meaning description.*,0,^See full meaning description.*,322,0
+145,sky,,,99.4219653179191,False,False,0,,0,There were white clouds in the blue sky.,108,1732
 245,fifty,,,44.4444444444444,False,False,0,,0,,24,1717
 126,road,,,87.4015748031496,False,False,0,,0,,916,667
 111,night,,,100.0,False,False,0,,0,Night and day.,114,1233
-64,good,,,98.989898989899,False,False,0,,0,That is a good idea.,150,1035
-208,ant,,,99.3333333333333,False,False,0,,0,There's an ant climbing up your leg.,93,587
+92,left,,,98.7951807228916,False,False,0,"The opposite of 'right (hand side)'.  Ajdective, not adverb.",0,He is blind in his left eye.,305,244
+110,new,,,99.4285714285714,False,False,0,,0,He lives in the new house; not in the old house.,154,1231
 116,other,,,88.9908256880734,False,False,0,,0,He opened one eye and kept the other eye closed.,915,197
 100,many,,,88.7931034482759,False,False,0,,0,We picked many (a lot of) (insert name of local fruit) today.,914,1198
 318,fight_pst3sg,,,73.3333333333333,False,False,0,,0,,255,1423
 255,finger,,,58.8235294117647,False,False,0,,0,,44,1303
-123,true,,,92.3857868020305,True,True,0,,0,The story he is telling is true.,176,1657
 113,not,,,95.4802259887006,False,True,0,,0,I do not understand.,308,1240
 308,fear_pst3sg,,,78.5714285714286,False,False,0,,0,,235,1419
-67,guts,,,96.8253968253968,False,False,0,,0,He cut open the animal and pulled out its guts.,49,1334
+32,drink,,,98.2456140350877,False,False,0,,0,He drank because he was thirsty.,232,1401
+77,hold,,,86.734693877551,False,False,0,,0,He is holding a stick in his hand.,911,1448
 71,head,,,98.3240223463687,False,False,0,,0,He has lots of hair on his head.,31,1256
 27,day,,,97.8021978021978,False,False,0,,0,Day and night.,112,1225
 72,hear,,,99.4117647058823,False,False,0,,0,I heard a noise last night.,206,1408
 82,I,,,92.8994082840237,False,True,0,*See full meaning description.^See full meaning description.*,0,*See full meaning description.*,319,1209
-74,heavy,,,96.5714285714286,False,False,0,,0,The rock was very heavy.,164,1210
-89,lake,,,97.0059880239521,False,False,0,,0,Her house is beside the lake.,128,624
-44,father,,,92.1787709497207,False,True,0,,0,Everyone has a father and a mother.,72,1217
 80,hunt,,,100.0,False,False,0,"The verb '(to) hunt', not the noun '(a) hunt'.",0,He’s hunting animals in the forest.,286,1435
-88,know,,,99.4505494505494,True,False,0,"Know a fact, *not* a person.  Be aware of not be acquainted with.",0,They know that we’re coming.,236,1410
+74,heavy,,,97.1428571428571,False,False,0,,0,The rock was very heavy.,164,1210
 79,how,,,88.6792452830189,False,True,0,,0,How do you make fire?,316,1239
-48,fight,,,95.852534562212,False,False,0,,0,The two men are fighting outside.,254,1423
 90,laugh,,,98.780487804878,False,False,0,,0,"When I saw him, he was laughing.",242,1355
-164,sun,,,99.4219653179191,False,False,0,,0,"During the day, the sun is in the sky; at night, it's not.",111,1343
+35,dust,,,98.876404494382,False,False,0,,0,"When the ground is dry, you kick up dust when you walk.",121,2
 83,ice,,,100.0,False,False,0,,0,The ice is melting in the sun.,123,617
-69,hand,,,99.4535519125683,False,False,0,,0,He burned his hand.,42,1277
-77,hold,,,86.734693877551,False,False,0,,0,He is holding a stick in his hand.,911,1448
-43,fat,,,88.5869565217391,True,True,0,"Noun, not adjective:  the substance.  'Fat' as opposed to muscle, bone, skin, etc..  *Not* the opposite of 'thin'.",0,Cut the fat off the meat.,140,323
+4,ash,,,100.0,False,False,0,"The powdery remains of a fire, not the tree species 'ash'.",0,There was nothing left but ash.,132,646
 287,lie_pst3sg,,,43.75,False,False,0,,0,,193,1411
 312,laugh_pst3sg,,,66.6666666666667,False,False,0,,0,,243,1355
 309,know_pst3sg,,,68.75,False,False,0,,0,,237,1410
@@ -208,26 +177,26 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 84,if,,,76.4150943396226,False,False,0,,0,"If she does this, then it will happen.",912,1459
 335,hunt_pst3sg,,,30.7692307692308,False,False,0,,0,,287,1435
 270,scorpion,,,26.6666666666667,False,False,0,,0,,95,1538
-4,ash,,,100.0,False,False,0,"The powdery remains of a fire, not the tree species 'ash'.",0,There was nothing left but ash.,132,646
 38,eat,,,100.0,False,False,0,,0,Eat some food and drink some water.,230,1336
-39,egg,,,98.7261146496815,False,False,0,,0,Don't drop the egg; it will break!,141,744
-7,bad,,,96.1165048543689,False,False,0,,0,That's a bad idea.,151,1292
 28,die,,,97.7401129943503,False,False,0,,0,Everyone dies sooner or later.,214,1494
 26,cut,,,96.8586387434555,False,False,0,,0,"I've cut my finger; look, it's bleeding.",272,1432
-33,dry,,,94.9152542372881,False,False,0,,0,Is it dry or wet?,167,1398
-31,dog,,,99.438202247191,False,False,0,,0,I would like to own a dog.,79,2009
-32,drink,,,98.2456140350877,False,False,0,,0,He drank because he was thirsty.,232,1401
-35,dust,,,98.876404494382,False,False,0,,0,"When the ground is dry, you kick up dust when you walk.",121,2
+33,dry,,,95.4802259887006,False,False,0,,0,Is it dry or wet?,167,1398
 25,count,,,99.4047619047619,False,False,0,,0,I counted the stones; there were five stones.,240,1420
-40,eye,,,98.8571428571429,False,False,0,,0,She closed one eye.,33,1248
-23,cold,,,100.0,False,False,0,,0,The rocks get hot during the day and cold at night.,157,1287
+39,egg,,,98.7261146496815,False,False,0,,0,Don't drop the egg; it will break!,141,744
 41,fall,,,99.3788819875776,False,False,0,,0,I fell from the tree yesterday and hurt my back.,194,1280
-42,far,,,96.5317919075144,False,False,0,,0,You can't walk there in one day; it's too far.,303,1406
 19,breathe,,,99.390243902439,False,False,0,,0,People can't breathe underwater. ,218,1407
-29,dig,,,94.413407821229,False,False,0,,0,He is digging in the ground.,292,1418
 66,green,,,98.8304093567251,False,False,0,,0,The grass was fresh and green.,177,1425
-24,come,,,99.4652406417112,False,False,0,,0,I saw him on the road. I don't know where he was coming from.,184,1446
+123,true,,,89.7560975609756,True,True,0,,0,The story he is telling is true.,176,1657
+42,far,,,96.5116279069767,False,False,0,,0,You can't walk there in one day; it's too far.,303,1406
+7,bad,,,96.6183574879227,False,False,0,,0,That's a bad idea.,151,1292
+89,lake,,,97.6047904191617,False,False,0,,0,Her house is beside the lake.,128,624
 30,dirty,,,97.3684210526316,False,False,0,,0,This cup is clean and that one is dirty.,166,1230
+88,know,,,99.4505494505494,True,False,0,"Know a fact, *not* a person.  Be aware of not be acquainted with.",0,They know that we’re coming.,236,1410
+44,father,,,88.2978723404255,False,True,0,,0,Everyone has a father and a mother.,72,1217
+67,guts,,,96.3157894736842,False,False,0,,0,He cut open the animal and pulled out its guts.,49,1334
+48,fight,,,95.8715596330275,False,False,0,,0,The two men are fighting outside.,254,1423
+29,dig,,,94.475138121547,False,False,0,,0,He is digging in the ground.,292,1418
+222,hide,,,98.7654320987654,False,False,0,"The verb 'to (hide)', not the noun for an animal skin.",0,They hid their food from the animals.,294,602
 259,son,,,36.8421052631579,False,False,0,,0,,69,1620
 246,sixty,,,29.4117647058824,False,False,0,,0,,25,1718
 263,sister,,,27.7777777777778,False,False,0,,0,,75,1263
@@ -236,10 +205,9 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 290,run_pst3sg,,,21.4285714285714,False,False,0,,0,,199,1519
 275,rice,,,20.0,False,False,0,,0,,138,926
 34,dull,,,80.4347826086957,False,False,0,,0,,906,1397
-36,ear,,,100.0,False,False,0,,0,One ear of his was bigger than the other ear. ,35,1247
+213,shadow,,,97.3856209150327,False,False,0,,0,He could see his shadow on the ground.,110,2275
 280,thirsty,,,25.0,False,False,0,,0,,147,847
 310,think_pst3sg,,,73.3333333333333,False,False,0,,0,,239,1415
-231,ten,,,33.3333333333333,False,False,0,,0,,10,1515
 320,take_pst3sg,,,75.0,False,False,0,,0,,259,1749
 291,swim_pst3sg,,,16.6666666666667,False,False,0,,0,,201,1439
 302,swell_pst3sg,,,8.33333333333333,False,False,0,,0,,223,1573
@@ -264,34 +232,23 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 234,thirteen,,,29.4117647058824,False,False,0,,0,,13,1708
 271,wood,,,36.8421052631579,False,False,0,,0,,99,1803
 268,wolf,,,25.0,False,False,0,,0,,87,522
-102,moon,,,100.0,False,False,0,,0,I saw the moon in the sky.,113,1313
+45,fear,,,98.9528795811518,True,False,0,,0,"While the dog was here, I was scared.",234,1419
 21,child,,,91.304347826087,False,True,0,"Kin term, for offspring;  *not* about young age, non-adult.  Opposite of 'parent', not of 'adult;. ",0,That is their first child.,67,0
 274,winter,,,33.3333333333333,False,False,0,,0,,135,1471
 22,cloud,,,97.6608187134503,False,False,0,,0,There were white clouds in the blue sky.,109,1489
-13,bite,,,97.6190476190476,False,False,0,"The verb '(to) bite', not the noun for '(a) bite'.",0,The dog bit him.,228,1403
-14,black,,,97.7401129943503,False,False,0,,0,Charcoal is black.,180,163
-127,root,,,98.780487804878,False,False,0,,0,You could see some of the roots of the tree above the ground.,104,670
-15,blood,,,97.6470588235294,False,False,0,,0,Blood is red.,58,946
+231,ten,,,33.3333333333333,False,False,0,,0,,10,1515
+184,vomit,,,98.8826815642458,True,False,0,,0,He ate something bad and threw up (vomited).,226,1278
 17,bone,,,98.1707317073171,False,False,0,,0,He fell and broke a bone.,57,1394
 16,blow,,,95.0617283950617,False,True,0,"The  verb '(to) blow', not the noun for (a) blow from hitting.",0,He blew on the sticks to start the fire.,220,0
-222,hide,,,100.0,False,False,0,"The verb 'to (hide)', not the noun for an animal skin.",0,They hid their food from the animals.,294,602
-6,back,,,97.8021978021978,False,False,0,"The noun, part of the human body, not the English adjective or adverb 'back'. ",0,I fell over and now my back hurts.,51,1291
-8,bark,,,98.7577639751553,False,False,0,The noun for the 'bark' of a tree.  *Not* the verb for the barking of dogs!,0,He tore some bark off the tree.,103,1204
+13,bite,,,97.6470588235294,False,False,0,"The verb '(to) bite', not the noun for '(a) bite'.",0,The dog bit him.,228,1403
 214,house,,,99.4535519125683,False,False,0,,0,His house is at the edge of the village.,136,1252
-213,shadow,,,97.3856209150327,False,False,0,,0,He could see his shadow on the ground.,110,2275
 9,because,,,84.5360824742268,False,False,0,,0,,905,1157
 5,at,,,84.6774193548387,False,False,0,,0,He stopped at the rock half way to the village.,904,1461
 210,navel,,,99.3197278911565,False,False,0,,0,One could see his navel.,50,1838
 212,yesterday,,,98.6577181208054,False,False,0,,0,I haven't seen him today but I saw him yesterday.,310,1174
 3,animal,,,90.0,False,False,0,,0,,903,619
-37,earth,,,97.5961538461538,True,False,0,"The material, not the planet.",0,"As he dug the hole, he threw out the earth.",117,1228
-184,vomit,,,98.8700564971751,True,False,0,,0,He ate something bad and threw up (vomited).,226,1278
-12,bird,,,97.3262032085562,False,False,0,,0,What bird does this feather come from?,92,937
-45,fear,,,98.9528795811518,True,False,0,,0,"While the dog was here, I was scared.",234,1419
-2,and,,,85.981308411215,False,False,0,,0,I can see a tree and a rock.,902,1577
 1,all,,,90.5660377358491,False,False,0,,0,He has cut down all the trees.,901,98
 166,swim,,,98.0132450331126,False,False,0,,0,He is swimming in the lake.,200,1439
-11,big,,,98.4042553191489,False,False,0,,0,This is a big stone. That is a small stone.,169,1202
 170,they,,,81.6568047337278,False,True,0,^See full meaning description.*,0,^See full meaning description.*,323,817
 169,there,,,87.3493975903614,False,True,0,,0,The knife is (over) there.,302,1937
 226,claw,,,98.6013986013986,False,False,0,,0,The cat scratched me with its claws.,83,72
@@ -299,50 +256,93 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 70,he,,,78.8461538461538,False,False,0,,0,,910,1211
 61,fruit,,,98.3870967741936,False,False,0,,0,He picked fruit from the trees.,145,1507
 62,full,,,98.8304093567251,False,False,0,,0,An empty pot is easier to carry than a full pot. (WOLD),165,1429
-63,give,,,98.8505747126437,False,False,0,,0,She wanted to cut the (insert name of local fruit). He gave her a knife.,252,1447
 65,grass,,,98.2142857142857,False,False,0,,0,There is grass growing beside the river.,107,606
 168,that,,,88.9502762430939,False,True,0,,0,I used that knife.,299,78
 56,fly_V,,,98.1366459627329,False,False,0,The verb '(to) fly'.,0,Birds can fly but people cannot.,202,1441
+223,cry,,,99.3630573248408,False,False,0,"The sense of shedding tears, not shouting out.",0,She was crying when I saw her.,244,1839
 50,fire,,,98.8636363636364,False,False,0,,0,"He was cold, so he moved closer to the fire.",130,221
-51,fish,,,99.3788819875776,False,False,0,,0,I can see a fish swimming in the water.,91,227
 53,float,,,92.7710843373494,False,False,0,,0,The leaf is floating on the river.,908,1574
-47,few,,,82.0224719101124,False,False,0,,0,It's a small village. There are few houses. (Eng. There are not many houses.),907,1242
-55,flower,,,96.5116279069767,False,False,0,"The noun '(a) flower', to the verb 'bloom'.",0,What type of flower is this?,105,239
 59,four,,,98.8235294117647,False,False,0,,0,Four plus one is five.,4,1500
-54,flow,,,89.4736842105263,False,False,0,,0,"The river flows, e.g. past the village, to the sea etc.",909,2003
 209,thigh,,,100.0,False,False,0,,0,He slapped his thigh.,53,800
-201,with,,,91.0112359550562,False,True,0,,0,I saw him walking with a friend.,307,1340
-140,sharp,,,96.8085106382979,False,False,0,,0,A sharp knife cuts better than a blunt one.,173,1396
 141,short,,,100.0,False,False,0,,0,This is a short rope; that is a long rope.,159,1645
-125,river,,,96.8421052631579,False,False,0,,0,He lives beside the river.,127,666
-129,rotten,,,95.4802259887006,False,False,0,,0,That fruit is rotten.,152,1728
 132,salt,,,98.1818181818182,False,False,0,,0,She puts too much salt in her food.,139,1274
-136,sea,,,99.4350282485876,False,False,0,,0,Her house is beside the sea.,129,1474
-137,see,,,98.8571428571429,False,False,0,,0,I see him every day on the road.,204,1409
 128,rope,,,86.4406779661017,False,False,0,,0,,917,1218
-18,chest,,,95.4314720812183,True,False,0,The part of the body between shoulders and stomach.  *Not* specifically the female breast.,0,His wore a medal on his chest.,46,1592
 57,fog,,,96.2962962962963,False,False,0,,0,I couldn't see the village because of the fog.,125,249
-142,sing,,,99.4082840236686,False,False,0,,0,I heard him yesterday. He was singing.,248,1261
+18,chest,,,94.9238578680203,True,False,0,The part of the body between shoulders and stomach.  *Not* specifically the female breast.,0,His wore a medal on his chest.,46,1592
 46,feather,,,97.5757575757576,False,False,0,,0,What bird does this feather come from?,84,1201
 60,freeze,,,98.6928104575163,False,False,0,,0,"When water freezes, it turns to ice. ",282,1431
-173,think,,,98.3425414364641,True,False,0,"Verb for the mental activity, process of thinking; the generic term for 'cogitate, be thinking abour something'.  *Not* have an opinion.",0,What are you doing?  I'm just thinking.,238,1415
 52,five,,,98.7951807228916,False,False,0,,0,Four plus one is five.,5,493
-133,sand,,,98.8023952095808,False,False,0,,0,She let the sand fall through her hands.,120,671
-150,smooth,,,96.0893854748603,False,False,0,,0,He picked a smooth stone from the river.,174,1234
+63,give,,,98.8505747126437,False,False,0,,0,She wanted to cut the (insert name of local fruit). He gave her a knife.,252,1447
+51,fish,,,99.3827160493827,False,False,0,,0,I can see a fish swimming in the water.,91,227
 143,sit,,,97.6190476190476,True,False,0,"Stative verb, 'be sitting', *not* change of state 'sit down'.. ",0,He is sitting over there.,190,1416
+140,sharp,,,96.8085106382979,False,False,0,,0,A sharp knife cuts better than a blunt one.,173,1396
+54,flow,,,89.4736842105263,False,False,0,,0,"The river flows, e.g. past the village, to the sea etc.",909,2003
+136,sea,,,98.876404494382,False,False,0,,0,Her house is beside the sea.,129,1474
+142,sing,,,99.4082840236686,False,False,0,,0,I heard him yesterday. He was singing.,248,1261
+137,see,,,98.8571428571429,False,False,0,,0,I see him every day on the road.,204,1409
+201,with,,,90.0552486187845,False,True,0,,0,I saw him walking with a friend.,307,1340
+11,big,,,98.9304812834225,False,False,0,,0,This is a big stone. That is a small stone.,169,1202
 124,right,,,99.4011976047904,True,False,0,"Opposite of 'left'.  *Not* 'correct'.  Adjective form, not adverb.",0,He is blind in his right eye.,304,1019
-223,cry,,,99.3630573248408,False,False,0,"The sense of shedding tears, not shouting out.",0,She was crying when I saw her.,244,1839
-10,belly,,,97.4747474747475,False,False,0,,0,He punched him in the belly.,47,1251
-86,kill,,,98.9473684210526,False,False,0,,0,They started fighting. He killed him.,256,1417
-219,run,,,97.5155279503106,False,False,0,,0,Can you run fast?,198,1519
-20,burn,,,96.4646464646465,True,False,0,"Intransitive verb, not transitive.  Most generic equivalent of 'combust' meaning.",0,The wood is burning in the fire.,280,2102
-68,hair,,,98.4848484848485,False,False,0,"Hair of the head, not the body.  Of people, not of animals.",0,She pulled him by his hair.,32,1040
-106,name,,,99.4252873563218,False,False,0,,0,What is your name?,78,1405
-179,tongue,,,98.8165680473373,False,False,0,,0,He stuck his tongue out.,38,1205
-58,foot,,,98.9071038251366,False,False,0,,0,Her foot is injured so she cannot walk.,55,1301
-76,hit,,,93.8775510204082,False,False,0,"The verb '(to) hit', not the noun for a blow or strike.",0,He hit the ball with the stick.,270,1433
+173,think,,,98.3425414364641,True,False,0,"Verb for the mental activity, process of thinking; the generic term for 'cogitate, be thinking abour something'.  *Not* have an opinion.",0,What are you doing?  I'm just thinking.,238,1415
+129,rotten,,,95.5307262569832,False,False,0,,0,That fruit is rotten.,152,1728
+55,flower,,,96.5116279069767,False,False,0,"The noun '(a) flower', to the verb 'bloom'.",0,What type of flower is this?,105,239
+2,and,,,86.1111111111111,False,False,0,,0,I can see a tree and a rock.,902,1577
+47,few,,,82.0224719101124,False,False,0,,0,It's a small village. There are few houses. (Eng. There are not many houses.),907,1242
+125,river,,,96.9230769230769,False,False,0,,0,He lives beside the river.,127,666
+150,smooth,,,96.0893854748603,False,False,0,,0,He picked a smooth stone from the river.,174,1234
 95,live,,,97.2826086956522,True,False,0,Verb 'be alive'. *Not* 'dwell' in a place.,0,How many years can people live for?,212,2309
-114,old,,,97.8723404255319,False,False,0,----,0,"He lives in the old house, not in the new house.",153,1229
-194,white,,,98.9189189189189,False,False,0,,0,There is a white cloud in the sky.,181,1335
+86,kill,,,98.9583333333333,False,False,0,,0,They started fighting. He killed him.,256,1417
+24,come,,,99.4652406417112,False,False,0,,0,I saw him on the road. I don't know where he was coming from.,184,1446
+114,old,,,98.4126984126984,False,False,0,----,0,"He lives in the old house, not in the new house.",153,1229
+106,name,,,99.4252873563218,False,False,0,,0,What is your name?,78,1405
+20,burn,,,96.4824120603015,True,False,0,"Intransitive verb, not transitive.  Most generic equivalent of 'combust' meaning.",0,The wood is burning in the fire.,280,2102
 178,tie,,,95.8762886597938,False,False,0,"The verb '(to) tie', not the noun.",0,He tied the two sticks together.,266,1917
-121,rain,,,97.0930232558139,False,False,0,,0,I saw him standing in the rain.,126,1253
+219,run,,,96.9512195121951,False,False,0,,0,Can you run fast?,198,1519
+76,hit,,,93.8775510204082,False,False,0,"The verb '(to) hit', not the noun for a blow or strike.",0,He hit the ball with the stick.,270,1433
+6,back,,,97.7900552486188,False,False,0,"The noun, part of the human body, not the English adjective or adverb 'back'. ",0,I fell over and now my back hurts.,51,1291
+207,yellow,,,97.5757575757576,False,False,0,,0,Egg yolk is yellow,178,1424
+194,white,,,98.9130434782609,False,False,0,,0,There is a white cloud in the sky.,181,1335
+188,water,,,100.0,False,False,0,,0,"She was thirsty, so she drank some water.",122,948
+185,walk,,,95.9798994974874,False,False,0,"The verb '(to) walk', not the noun '(a) walk'.",0,People can walk but fish cannot.,196,1443
+73,heart,,,98.8505747126437,False,False,0,,0,His heart was beating fast.,60,1223
+179,tongue,,,98.8095238095238,False,False,0,,0,He stuck his tongue out.,38,1205
+164,sun,,,99.4186046511628,False,False,0,,0,"During the day, the sun is in the sky; at night, it's not.",111,1343
+117,person,,,97.1563981042654,True,False,0,,0,Only one person at a time can pass through the gate.,62,683
+144,skin,,,98.9637305699482,False,False,0,,0,His skin was old and hard.,56,763
+102,moon,,,100.0,False,False,0,,0,I saw the moon in the sky.,113,1313
+101,meat,,,100.0,False,False,0,,0,What animal does this meat come from?,137,634
+98,louse,,,96.1783439490446,False,False,0,,0,I picked a louse from his hair.,96,1392
+91,leaf,,,99.4318181818182,False,False,0,,0,He picked a leaf from the tree.,102,628
+37,earth,,,97.5961538461538,True,False,0,"The material, not the planet.",0,"As he dug the hole, he threw out the earth.",117,1228
+122,red,,,99.438202247191,False,False,0,,0,Blood is red.,179,156
+58,foot,,,98.9010989010989,False,False,0,,0,Her foot is injured so she cannot walk.,55,1301
+43,fat,,,85.3403141361257,True,True,0,"Noun, not adjective:  the substance.  'Fat' as opposed to muscle, bone, skin, etc..  *Not* the opposite of 'thin'.",0,Cut the fat off the meat.,140,323
+40,eye,,,98.8505747126437,False,False,0,,0,She closed one eye.,33,1248
+159,star,,,99.4117647058823,False,False,0,,0,There were many stars in the night sky.,115,1430
+36,ear,,,100.0,False,False,0,,0,One ear of his was bigger than the other ear. ,35,1247
+23,cold,,,100.0,False,False,0,,0,The rocks get hot during the day and cold at night.,157,1287
+14,black,,,97.7272727272727,False,False,0,,0,Charcoal is black.,180,163
+8,bark,,,98.75,False,False,0,The noun for the 'bark' of a tree.  *Not* the verb for the barking of dogs!,0,He tore some bark off the tree.,103,1204
+180,tooth,,,99.4152046783626,False,False,0,,0,You can break a tooth if you bite on hard food.,37,1380
+112,nose,,,98.8165680473373,False,False,0,,0,"While fighting, he hit him on the nose.",34,1221
+147,small,,,97.2527472527473,False,False,0,,0,This is a small stone. That is a big stone.,170,1246
+104,mountain,,,98.9473684210526,False,False,0,,0,He started to climb the mountain.,118,639
+96,liver,,,98.7421383647799,False,False,0,,0,When he died they found that his liver was very swollen.,61,1224
+121,rain,,,97.0760233918129,False,False,0,,0,I saw him standing in the rain.,126,1253
+10,belly,,,97.4874371859297,False,False,0,,0,He punched him in the belly.,47,1251
+105,mouth,,,98.8372093023256,False,False,0,,0,He put his fingers in his mouth.,36,674
+87,knee,,,99.4011976047904,False,False,0,,0,He put his hand on his knee.,54,1371
+78,horn,,,98.8304093567251,False,False,0,,0,Some animals have horns. Humans do not.,81,1393
+15,blood,,,97.6331360946746,False,False,0,,0,Blood is red.,58,946
+202,woman,,,96.1352657004831,False,False,0,,0,I saw a man and a woman.,65,962
+12,bird,,,97.3118279569892,False,False,0,,0,What bird does this feather come from?,92,937
+31,dog,,,99.4350282485876,False,False,0,,0,I would like to own a dog.,79,2009
+97,long,,,99.4011976047904,False,False,0,,0,This is a long rope; that is a short rope.,158,1203
+127,root,,,97.5903614457831,False,False,0,,0,You could see some of the roots of the tree above the ground.,104,670
+181,tree,,,96.7213114754098,False,False,0,,0,There is a tree beside the house.,97,906
+69,hand,,,99.4505494505494,False,False,0,,0,He burned his hand.,42,1277
+186,hot,,,99.4708994708995,False,False,0,,0,The rocks get hot during the day and cold at night.,156,1286
+64,good,,,99.4897959183673,False,False,0,,0,That is a good idea.,150,1035
+99,man,,,97.6958525345622,False,False,0,"Specifically an adult male, not the generic sense of 'person' or 'humankind'.",0,I saw a man and a woman.,63,1554
+167,tail,,,97.4226804123711,False,False,0,,0,The dog wagged its tail.,82,1220
+68,hair,,,98.4848484848485,False,False,0,"Hair of the head, not the body.  Of people, not of animals.",0,She pulled him by his hair.,32,1040

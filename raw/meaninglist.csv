@@ -20,3 +20,23 @@ id,name,description
 6282,Jena180,
 6284,Cool_gang,
 6283,JBIL_Verbs,
+6289,JenaFinal170,
+6285,Jena170GermanicTest,"Jena175GermanicTest w/o
+forest
+hot
+person
+run
+walk"
+6287,default,public visible dataset 2019/03/12
+6286,JenaTesting168,"Jena 175 minus:
+3 meanings with insurmountable uncertainties as to deep Indo-European coding:
+* cut
+* guts
+* scratch
+2 meanings with widespread uncertainties, difficulties and loanwords across several branches of Indo-European:
+* person
+* walk
+2 meanings problematic, especially in Germanic:  
+* hot (vis à vis warm, the heiss/warm roots)
+* run (vis à vis walk, the rennen/laufen roots)"
+6288,JenaTesting169,With run but without hot.

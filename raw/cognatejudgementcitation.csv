@@ -374,7 +374,6 @@ id,pages,reliability,comment,cognate_judgement_id,source_id
 20763,137-138,B,,20709,47
 20775,,A,,20719,48
 20696,200,A,,20656,47
-20705,200,A,,20665,47
 20745,,A,,17830,56
 20766,,A,,20712,48
 20781,1.519ff,A,,20725,47
@@ -1450,6 +1449,8 @@ id,pages,reliability,comment,cognate_judgement_id,source_id
 *gʷ(ʰ)en- is possible for the anlaut but the the lowering of the vowel is unexpected.",55932,369
 49585,1009f.,,The broad variety of meanings of the verb and its compounds as well as a couple of phonological possible developments make it hard to determine the root. They don't see any clear cognate within IE.,55932,364
 36125,,B,,34807,212
+36147,,B,,34830,212
+36150,,B,,34833,212
 49586,43,,"Notes the use as an adjective 'raging, wild' and thus treats it as an early borrowing from Slav. *bystrъ, f. *bystra 'quick'.",55933,105
 49587,82,,"Calab.-Alb. ngë ~ nëngë, nëng, nuk, Sic.-Alb. ngë < Lat. nunquam 'never' and/or umquam 'ever'.",55936,687
 49588,283,,"ndej ~ ndêj 'to stretch out, to spread' < *en-tenja ~ Grk. τείνω (ἐντείνω 'stretch out'), Skt.tanóti",55937,105
@@ -1677,8 +1678,6 @@ Obviously preverb n(ë) + pështes/t. Demiraj compares the latter with pështás
 36112,,B,,34796,212
 36114,,B,,34798,212
 36115,,B,,34799,212
-36147,,B,,34830,212
-36150,,B,,34833,212
 36151,,B,,34834,212
 36176,,L,,33485,212
 36177,,B,,34857,212
@@ -2055,6 +2054,8 @@ OBret. delgim, delgu [Is Pres.] (Banassac) and perhaps Olr. coindelg 'contract, 
 40925,,A,,38187,54
 40926,,A,,38189,320
 40939,435-6,A,,38199,141
+42645,,A,,39110,249
+42652,,A,,39117,249
 39868,430,A,"There are no arguments to sustain Deshayes' hypothesis. A common Brittonic borrowing from Latin would be equally possible.
 Borrowing probably pre-Middle Breton.",37583,275
 39884,227,A,"Verb based on Proto-Celtic *tara-u̯o- 'hit, strike', PIE *terh₁- 'to drill, to rub' (IEW 1072, LIV 632) . Cognate with MW taraw, taro, (GPC trawaf[Pres 1 s]), OBret. toreusit gl. atriuit, MBret. tarauat 'rub, use', MoBret.
@@ -2128,10 +2129,8 @@ tarawad.
 40347,,A,,37860,320
 40362,289,A,,37867,320
 40384,417,A,,37886,320
-40395,,A,Suppletive comparative speaks for original cognacy with class A.,28772,172
 40396,275,A,,37893,320
 40410,362,A,,16377,321
-40418,,A,,37907,320
 40481,299,A,From Proto-Celtic *u̯ak-s-o- (??? CHECK),37937,309
 40483,689,L,"Borrowed from Middle French esterquer 'to starch' (?), < Middle Dutch sterken 'to make stiff'. ",37938,309
 40494,351,A,"From Proto-Celtic *sou̯k-n-o- 'to suck', cf. PIE *seu̯k̑- 'to suck' (IEW 1012, LIV² 539). ",37942,50
@@ -2290,8 +2289,6 @@ tarawad.
 42631,,A,,39099,269
 42636,,A,,6087,165
 42637,,A,,39102,249
-42645,,A,,39110,249
-42652,,A,,39117,249
 42653,,A,,39118,249
 42657,,A,,39122,249
 42664,,A,,39129,249
@@ -2535,13 +2532,6 @@ tarawad.
 46249,,A,,41202,269
 46345,676-677,A,,41236,345
 46346,676-677,A,,41237,345
-46365,,L,,41245,437
-46366,,L,,41246,437
-46367,,L,,41247,437
-46370,,A,,41250,437
-46371,,L,,41251,437
-46372,,L,,41252,437
-46373,,L,,41253,437
 46248,,A,,41201,269
 46251,,A,,41204,269
 46462,,A,,41343,269
@@ -3099,6 +3089,8 @@ tarawad.
 28580,,A,highly similar cluster of closely related sister languages,28489,56
 28582,,A,highly similar cluster of closely related sister languages,28491,56
 28585,,A,highly similar cluster of closely related sister languages,28494,56
+33463,,A,,32744,193
+33465,,A,,32746,193
 28588,,A,highly similar cluster of closely related sister languages,28497,56
 28593,,A,highly similar cluster of closely related sister languages,28502,56
 28672,55,A,,28574,47
@@ -3227,22 +3219,6 @@ tarawad.
 33288,,A,,32569,193
 33292,,A,,32573,193
 33294,,A,,32575,193
-33297,,A,,32578,193
-33302,,A,,32583,193
-33304,,A,,32585,193
-33313,,A,,32594,193
-33314,,A,,32595,193
-33315,,A,,32596,193
-33319,,A,,32600,193
-33320,,A,,32601,193
-33323,,A,,32604,193
-33332,,A,,32613,193
-33339,,A,,32620,193
-33340,,A,,32621,193
-33342,,A,,32623,193
-33344,,A,,32625,193
-33345,,A,,32626,193
-33351,,A,,32632,193
 33360,,A,,32641,193
 33375,,A,,32656,193
 33377,,A,,32658,193
@@ -3257,8 +3233,6 @@ tarawad.
 33450,,A,,32731,193
 33455,,A,,32736,193
 33460,,A,,32741,193
-33463,,A,,32744,193
-33465,,A,,32746,193
 33470,,A,,32751,193
 33472,,A,,32753,193
 33477,,A,,32756,193
@@ -3678,6 +3652,8 @@ tarawad.
 38867,416-417,A,,25975,66
 38860,480,A,,37136,66
 38845,,A,"Both masculine/neuter ἑν- and feminine μία come from PIE *sem- 'one (together)', but are represent different ablaut grades *sem-/*sm- originally.  εἷς < *sem-s, μία < *sm-ih̥₂",21424,269
+40473,,A,,37933,271
+40471,976,A,,37931,66
 39016,53-55,A,Compound containing ast- 'bone' < PIE *h₃e/ost(H)- or *h₂e/ost(H) and corn 'horn' < PIE *k̑or-nV-. See Schrijver's discussion of the phonological difficulties as well as of alternative proposals. ,37254,305
 39025,,A,,37261,249
 39033,435,A,From Proto-Celtic *yegi- 'ice' < PIE *yeg- 'ice' (IEW 503).,37267,50
@@ -3759,6 +3735,9 @@ and with PIE *luHo- > *luwo-.",37385,50
 In the following nouns: Oir. recht (u m.), MW reyth, ModW raith f. 'law, sermon, jury, verdict', MBret. rez, reiz 'law, rule, arrangement', MoBret. reizh m., Co. ryth 'sex, kind', Gaul. Rextu-genos PN, Celtib. retu-keno (Gen s, PN] (Bottorita III). All these nouns are used as adjectives as well. 
 Cognate with Proto-Celtic *reg-o- 'extend, stretch'.
 ",37573,50
+40413,355,A,"Based on Proto-Celtic *sterā 'star', cf. PIE: *h₂stēr 'star' (IEW 1028)
+OIr. ser is a hapax (it occurs in one of the archaic Leinster
+eulogies), its gender is unknown; therefore, the PCelt. reconstruction is uncertain. ",37904,50
 39846,120,A,"The adjectives mir. recht 'just, righteous', MW reizh, Middle Breton rez 'just, right' are listed by many handbooks together with the nouns and reconstructed as Proto-Celtic *rex-tu-. A there is a broad cross-linguistic evidence for a to-adjective, the underlying Proto-Celtic form may be rather *rexto-, which became homonymous with the cognate nouns in Brittonic.",37573,299
 39851,50,A,,37243,303
 39814,144-145,A,,17345,316
@@ -3772,7 +3751,6 @@ Cognate with Proto-Celtic *reg-o- 'extend, stretch'.
 39995,130,A,,31760,141
 40675,,A,Verb derived productively from a borrowed base or borrowed from French songer? CHECK,38036,275
 40710,180,A,,38059,320
-39897,T-121,A,"Brittonic (Welsh traeth, Corn. trait, Mbr. trez 'sand') and Goidelic (OIr. tracht 'shore, bank') loanword from Latin tractus 'drawing, trail track'. Loth, Les mots latins dans les langues brittoniques 1892, s.v. traeth considers these words as Celtic however. ",32619,296
 39899,,A,"The analysis as a loanword is less probable if one considers that the underlying root is well represented in Insular Celtic (PIE *treHgʰ- / *treHg̑ʰ- or *tragʰ- / *trag̑ʰ- 'to drain off, to ebb away', cf. Schumacher 2004, 635-36) and that there are nouns from this root belonging into the same semantic field: Old Breton tre, MW trei m. 'ebbtide', Old Irish tráig 'i, m/f' 'ebbtide, beach' < Proto-Brit. *trăgi̯o-. The word for sand could thus originate from an inherited tu-stem cognate with Latin tractus, i.e. Proto-Celtic *traxtus. ",20435,275
 39950,,A,,31806,270
 39953,,A,,17709,270
@@ -3861,11 +3839,6 @@ Pre-Middle Breton borrowing.",37841,309
 40343,164,A,,16385,321
 40356,,A,,37863,320
 40357,,A,Loan from Persian,16354,322
-40413,355,A,"Based on Proto-Celtic *sterā 'star', cf. PIE: *h₂stēr 'star' (IEW 1028)
-OIr. ser is a hapax (it occurs in one of the archaic Leinster
-eulogies), its gender is unknown; therefore, the PCelt. reconstruction is uncertain. ",37904,50
-40473,,A,,37933,271
-40471,976,A,,37931,66
 40474,65,A,,37934,66
 40609,324,A,,37982,320
 40619,140,A,,37992,320
@@ -3940,14 +3913,12 @@ Both branches point to an original u-stem.",27386,50
 40971,,A,,38216,270
 40979,546-48,A,"From Proto-Celtic *rig-e/o- 'to bind', compound with the preverb ad-. ",38220,304
 40981,546-48,A,"From Proto-Celtic *rig-e/o- 'to bind', compound with the preverb *u̯o-. ",37555,304
-40984,368,A,"From Proto-Celtic *tangʷāt- 'tongue', cf. PIE *dn̥g̑uh₂- 'tongue' (IEW 223) With initial *t- instead of the expected *d- as the result of assimilation. The forms with stem-final *-t presuppose an earlier a-stem *tangwā, see Widmer 1997.",32625,50
 40985,368,A,"From Proto-Celtic *tangʷāt- 'tongue', cf. PIE *dn̥g̑uh₂- 'tongue' (IEW 223) With initial *t- instead of the expected *d- as the result of assimilation. The forms with stem-final *-t presuppose an earlier a-stem *tangwā, see Widmer 1997.",19927,50
 40991,368,A,"From Proto-Celtic *tangʷāt- 'tongue', cf. PIE *dn̥g̑uh₂- 'tongue' (IEW 223) With initial *t- instead of the expected *d- as the result of assimilation. The forms with stem-final *-t presuppose an earlier a-stem *tangwā, see Widmer 1997.",19928,50
 40993,420,A,"From Proto-Celtic *u̯idu- 'wood', < PIE: *u̯idʰu- 'wood' (IEW 1117).
 
 
 ",38223,50
-40995,420,A,"From Proto-Celtic *u̯idu- 'wood', < PIE: *u̯idʰu- 'wood' (IEW 1117). ",32628,50
 41004,110,A,"From Proto-Celtic *du̯au̯ 'two', cf. PIE *du̯oh₁ 'two' (IEW 228f.)
 The feminine form was *du̯ī < PIE *dʷih₁.
 ",38225,50
@@ -4042,7 +4013,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32479,50
 41482,107,A,"From Proto-Celtic *dubro-/ā- 'dark', cf. PIE *dʰubʰ- 'black' (IEW 263ff.)
 In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also used as the substantivized adjective dobur 'water'. Brittonic continues only the word for 'water', Old Welsh dubr, MW dwfr, ModW dŵr, Breton, Cornish dour.",38408,50
 41484,122-124,A,From PIE *dʰeu̯b- 'deep' (IEW 267f.). ,32824,274
-41485,122-124,A,From PIE *dʰeu̯b- 'deep' (IEW 267f.). ,32631,274
 41486,122-124,A,From PIE *dʰeu̯b- 'deep' (IEW 267f.). ,18320,274
 41499,315,A,"Cognate with the noun Modern Breton gwolch, Corn. golgh, Welsh golch 'washing, lotion, urine'; all from Proto-Celtic *u̯olk-o-.",38409,309
 41514,,A,,38413,321
@@ -4126,9 +4096,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 42200,,A,,11340,322
 42205,,A,,11334,322
 42208,,A,< Arabic,38756,322
-42215,427-428,A,"From Proto-Celtic *u̯olto- 'hair', cf. PIE *u̯ol-t- 'hair' (IEW 1138).
-
-",32597,50
 42222,427-428,A,"From Proto-Celtic *u̯olto- 'hair', cf. PIE *u̯ol-t- 'hair' (IEW 1138).
 
 ",19261,50
@@ -4144,6 +4111,10 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 ",38762,50
 42233,303,A,"From *sk̑eu̯- 'to hit, to throw, to shoot' (IEW 953f.) or *skeu̯d- 'to throw, to shoot' (IEW 954f. = *skeu̯d- 'to drive, to push' LIV² 560)? ",38765,301
 42235,118,A,"Cf. also Old Breton corn 'drinking horn', from Latin cornū. Rather an inherited word according to scholars who thin this word is contained in the ethnonym Cornouii.",32521,301
+42931,,A,The root chov- is sometimes described as loan from Iranic.,39373,249
+42976,,A,The root chov- is sometimes described as loan from Iranic.,39412,249
+42998,,A,,4796,356
+43007,,A,,39437,249
 42234,190-91,A,"Cf. Proto-Celtic *karno- 'horn, hoof' < PIE *kr̥no- 'horn' (IEW 574ff.). OIr. corn 'horn' and W corn 'horn' are usually considered to be Latin loanwords (Haarmann 1970, 119, cf. Lat. cornu). However, Gaulish toponyms with the element Corn- (e.g. Cornacum, cf. Sims-Williams 2006: 65f.) might point to the existence of PCelt. *korno- 'horn'.",32521,50
 42245,,A,"NB: Beekes (2010) rejects the connection between Myc. to-ro-qe-jo-me-no and cs.-it. to τρέπω, τροπέω < *trokʷ-éi̯e/o-.",38770,269
 42264,,A,,38778,270
@@ -4256,10 +4227,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 42987,,A,,39419,249
 42989,,A,,39421,249
 42994,,A,,39426,249
-42931,,A,The root chov- is sometimes described as loan from Iranic.,39373,249
-42976,,A,The root chov- is sometimes described as loan from Iranic.,39412,249
-42998,,A,,4796,356
-43007,,A,,39437,249
 43008,,A,,39438,249
 43014,,A,,39444,249
 43016,,A,,39446,249
@@ -4611,7 +4578,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 44958,169-170,A,,28801,279
 44967,192-193,A,,28915,279
 44971,74-75,A,,37874,279
-44988,214,A,,22148,105
 44990,20,A,,785,130
 44992,120,A,,820,105
 45002,251,A,,29167,180
@@ -4865,12 +4831,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 46340,283-284,A,,20740,345
 46343,139-140,A,,41235,345
 46379,,A,,41257,325
-46392,,A,,41272,437
-46394,,A,,41274,437
-46396,,A,,41276,437
-46411,,A,,41291,437
-46417,,A,,41297,437
-46419,,A,,41299,437
 46429,,A,,41309,269
 46432,,A,,41312,269
 46436,,A,,41316,269
@@ -5059,7 +5019,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 18085,,A,,18093,56
 18094,,A,,18102,56
 18121,,A,,18129,56
-18172,,A,,18180,56
 18180,,A,,18188,56
 18183,,A,,18191,56
 18211,,A,,18219,56
@@ -5298,7 +5257,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 20627,1042,A,,20588,47
 20635,505,A,,20595,47
 20641,505,A,,20601,47
-20644,505,A,,20604,47
 20648,505,A,,20608,47
 20649,505,A,,20609,47
 20660,833-834,A,,20620,47
@@ -5745,6 +5703,7 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 27116,,A,same as sister languages,27039,56
 27171,,A,same as sister languages,27094,56
 27174,,A,same as sister languages,27097,56
+31992,391,A,,31624,105
 27194,,A,same as sister languages,27117,56
 27218,881,A,"Latin 'parvus' [...] replaced in pop. Lat. and Romance languages as 'small' by a variety of obscure forms apparently based on expressive syllables like *pikk, *pitt, *pits, etc.",27141,47
 27225,,A,,27148,56
@@ -5878,6 +5837,7 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 28406,,A,highly similar cluster of closely related sister languages,28315,56
 28417,,A,highly similar cluster of closely related sister languages,28326,56
 28423,,A,highly similar cluster of closely related sister languages,28332,56
+32004,99,A,,31634,105
 28436,,A,highly similar cluster of closely related sister languages,28345,56
 28438,,A,highly similar cluster of closely related sister languages,28347,56
 28440,,A,highly similar cluster of closely related sister languages,28349,56
@@ -5991,8 +5951,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 29402,497-498,A,,29291,47
 29652,,A,,29497,137
 31981,512,A,,24038,105
-31992,391,A,,31624,105
-32004,99,A,,31634,105
 32015,133,A,,31645,105
 32030,,A,Relates to second element of verb phrase.,31656,99
 32031,,A,,31657,99
@@ -6118,17 +6076,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 33286,,A,,32567,193
 33290,,A,,32571,193
 33291,,A,,32572,193
-33305,,A,,32586,193
-33311,,A,,32592,193
-33316,,A,,32597,193
-33318,,A,,32599,193
-33322,,A,,32603,193
-33324,,A,,32605,193
-33333,,A,,32614,193
-33343,,A,,32624,193
-33346,,A,,32627,193
-33347,,A,,32628,193
-33352,,A,,32633,193
 33357,,A,,32638,193
 33368,,A,,32649,193
 33391,,A,,32672,137
@@ -6266,6 +6213,7 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 34629,http://iedo.brillonline.nl/dictionaries/lemma.html?id=22531,A,"""standan-""",33486,165
 34634,http://iedo.brillonline.nl/dictionaries/lemma.html?id=22650,A,"""swellan-""",33491,165
 34642,http://iedo.brillonline.nl/dictionaries/lemma.html?id=22761,A,"""trewa-""",33499,165
+35747,,A,rotten in general,34446,212
 34643,http://iedo.brillonline.nl/dictionaries/lemma.html?id=21174,A,"""gēn-""",33500,165
 34644,http://iedo.brillonline.nl/dictionaries/lemma.html?id=23007,A,"""watar- ~ *watan-""",33501,165
 34645,http://iedo.brillonline.nl/dictionaries/lemma.html?id=21586,A,"""hwīta- ~ *hwitta-""",33502,165
@@ -6404,7 +6352,6 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 35808,,A,,34505,212
 35872,,A,,34569,212
 35738,,A,small river,34438,212
-35747,,A,rotten in general,34446,212
 35762,,A,,34460,212
 35897,,A,,34590,219
 35899,,A,,34592,219
@@ -6656,6 +6603,7 @@ In OIr. the adj. 'black' is also used as substantivized dobur o 'water' is also 
 39202,179,A,From Proto-Celtic *kʷetwores 'four' < PIE *kʷetwores 'four' (IEW 642).,37317,50
 40214,6,A,,37772,320
 40230,40,A,,37788,320
+39801,629,A,PIE *tens- 'to pull',37562,141
 39128,295-96,A,"From Proto-Celtic *obnu- or *obno- 'fear' < PIE *h₁ogʷno- or *h₁ogʷnu-, cf. PIE *h₁egʷ- (not in LIV).",37299,50
 39215,259-60,A,From Proto-Celtic *mati- 'good'.,37323,50
 39221,,A,,7084,271
@@ -6731,7 +6679,6 @@ word for 'mother' is preserved in Olr. mathir. The fact that the nursery word *m
 ",37553,50
 39987,,A,,17867,269
 39797,314 s.v. tinsit,A,"An inherited word based on PIE *ten- 'to stretch, to span' may have mixed up with a Latin borrowing. ",37558,301
-39801,629,A,PIE *tens- 'to pull',37562,141
 39819,,A,,37568,274
 39821,,A,S.v. Lat. avis 'bird'.,28619,54
 39826,,A,,31752,54
@@ -6922,10 +6869,16 @@ The Brittonic forms are secondary verbs derived from the verbal noun (MW chwyt).
 
 ",38226,304
 41125,436,A,"Certainly connected to Old Iranian zan-/zā- (= same root as German kind), but inherited or loan (from Persian?).",38279,321
+41989,,A,,11215,322
+42002,,A,,11234,322
+42007,,A,,11237,322
+42048,,A,,11266,322
+42049,,A,,20018,322
+42052,,A,,11269,322
+42059,,A,,38681,79
 41020,578-79,A,"From Proto-Celtic *skei̯-e/o- 'to vomit, to spew', cf. PIE *sk̑ei̯-(d)- 'defecate' (?) (IEW 920f.), cf. *sk̑ʰei̯- 'to split, to tear' (LIV² 547f.) and Schumachers remark concerning the final -d- of the root. The Brittonic forms are secondary verbs derived from the verbal noun (MW chwyt). 
 Later verbal forms containing -th- like Middle Irish sceithid are based on the Verbal noun sceith f. ā < *sci-tā.
 ",35460,304
-41024,202-03,A,"From Proto-Celtic *kerd-o- 'put, lay, move'.",32629,50
 41026,202-03,A,"From Proto-Celtic *kerd-o- 'put, lay, move'.",32566,50
 41031,,A,,38229,270
 41032,,A,,38230,270
@@ -6954,7 +6907,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 41130,263,A,"From Proto-Celtic *melino- 'yellow', based on *meli- 'honey'. The original meaning was 'honey-colored'. ",32997,50
 41132,263,A,"From Proto-Celtic *melino- 'yellow', based on *meli- 'honey'. The original meaning was 'honey-colored'. ",32575,50
 41136,181-82,A,From Proto-Celtic *kʷrimi- 'worm' < PIE *kʷr̥mi- 'worm' (IEW 1152).,26569,50
-41139,316,A,,32634,309
 41148,274,A,"OBret. mauu 'youth, servant', MBret. mau, MoBret. maw m. 'boy', Co. maw < Proto-Celtic *mogu- 'servant' < PIE *mogʰ-u- 'young person' (IEW 696). ",37397,172
 41150,425,A,"OIr. cét-, ceta- preverb, Old Welsh preposition cant 'with' < *km̥-th₂, an adverbial formation of 1. *ko, 1. kóm 'together, with, at' ",26468,294
 41835,,A,,38570,165
@@ -6966,8 +6918,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 41171,135,A,"From Proto-Celtic *flitano- 'broad'< *pl̥th₂-no- 'broad' (IEW 806,833, *pleth₂- 'to become broad, to spread' LIV² 486).",8193,50
 41174,135,A,"From Proto-Celtic *flitano- 'broad'< *pl̥th₂-no- 'broad' (IEW 806,833, *pleth₂- 'to become broad, to spread' LIV² 486).",28084,50
 41176,178-79,A,,28083,50
-41181,423,A,"From Proto-Celtic *u̯indo-/ā- 'white'. 
-",32632,50
 41187,550,A,Phonlogically more convincing that derivation from *ā-zā- as per Steblin-Kamenskij.,38285,334
 41200,327,A,"CIran. *swaćī-, fem. to *swaka-, cf. Persian sag etc.",38296,321
 41201,353,A,"From Proto-Celtic *tefesmo, as if from PIE *tepes-mo-, cf. the s-stem *tepes- 'heat' based on *tep- 'to be warm, hot' (IEW 1070, LIV² 629f.).",38292,50
@@ -7025,6 +6975,11 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 41483,122-124,A,From PIE *dʰeu̯b- 'deep' (IEW 267f.). ,30259,274
 41488,122-124,A,From PIE *dʰeu̯b- 'deep' (IEW 267f.). ,38408,274
 41503,679,A,"OIr folcaid, MW golch- 'washes' from PIE causative *u̯olk-éi̯e-, ?*u̯elk- 'to be / become wet'. ",26101,141
+42086,,A,,38698,322
+42077,324,A,From Proto-Celtic *sūli- 'sun'. ,27970,50
+42096,,A,,38707,322
+42103,,A,,38713,322
+42104,,A,,38714,322
 41507,278,A,"From Proto-Celtic *moru̯i- 'ant', cf. PIE *moru̯i- 'ant' (IEW 749).
 ""The PIE form is notoriously difficult to reconstruct. The PIE i-stem implied by the agreement between MIr. and Avestan is probably older than the thematic forms found in Skt. (which also involves metathesis) and Greek (with assimilation *moru̯o- > *mormo-, and subsequent change of *o > i̯ between a labial and a resonant).""
 ",38410,50
@@ -7053,8 +7008,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 41592,317,A,"From Proto-Celtic *rūsk(l)o-, rusko- 'bark'. ",17342,50
 41919,573,A,,23652,316
 42044,,A,,11262,322
-41595,385,A,"From Proto-Celtic torrV- 'belly'. 
-""I find it probable, in the absence of a PIE etymology, that these words were borrowed from some non-IE language (cf., however, Pokorny 1024).""",32579,50
 41596,385,A,"From Proto-Celtic torrV- 'belly'. ""I find it probable, in the absence of a PIE etymology, that these words were borrowed from some non-IE language (cf., however, Pokorny 1024).""",29816,50
 41598,385,A,"From Proto-Celtic torrV- 'belly'. ""I find it probable, in the absence of a PIE etymology, that these words were borrowed from some non-IE language (cf., however, Pokorny 1024).""",32638,50
 41614,,A,,30888,172
@@ -7069,7 +7022,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 41657,,A,"Irregular correspondece between Indic k- and Iranian g-, old loan?",38473,172
 41662,,A,,27674,172
 41670,,A,,38476,69
-41697,81,A,"From Proto-Celtic *bruson- 'abdomen, womb', cf. PIE *bʰreu̯s- 'belly' (?)(IEW 170f.).",32584,50
 41698,81,A,"From Proto-Celtic *bruson- 'abdomen, womb', cf. PIE *bʰreu̯s- 'belly' (?)(IEW 170f.).",17638,50
 41699,,A,,28745,172
 41707,,A,,27685,172
@@ -7113,18 +7065,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 41912,,A,,38611,271
 41926,385-387,A,,38621,274
 41979,,A,,11206,322
-41989,,A,,11215,322
-42002,,A,,11234,322
-42007,,A,,11237,322
-42048,,A,,11266,322
-42049,,A,,20018,322
-42052,,A,,11269,322
-42059,,A,,38681,79
-42086,,A,,38698,322
-42077,324,A,From Proto-Celtic *sūli- 'sun'. ,27970,50
-42096,,A,,38707,322
-42103,,A,,38713,322
-42104,,A,,38714,322
 42105,,A,,11277,322
 42107,,A,,38715,322
 42210,663,A,Borrowed from Old French grif (13th century) from Old High German grifân with the development *skrif > skirf and dissimilation.,38757,309
@@ -7145,7 +7085,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 42154,,A,,11327,322
 42156,,A,,38731,322
 42165,,A,,35725,172
-42171,,A,,1907,322
 42173,,A,,11349,322
 42175,,A,,11350,322
 42178,,A,,11346,322
@@ -8007,21 +7946,9 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 46341,283-284,A,,20739,345
 46355,319-320,A,,26620,345
 46359,2:120-121,A,,35831,172
-46364,,A,,41244,437
 46378,,A,,41256,325
-46375,,A,,41255,437
 46380,,A,,41258,325
-46382,,A,,41261,437
-46383,,A,,41262,437
-46385,,A,,41265,437
-46389,,A,,41269,437
 46400,,A,,41280,269
-46407,,A,,41287,437
-46408,,A,,41288,437
-46413,,A,,41293,437
-46415,,A,,41295,437
-46416,,A,,41296,437
-46418,,A,,41298,437
 46433,,A,,41313,269
 46442,,A,,41322,269
 46443,,A,,41323,269
@@ -8573,7 +8500,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 21171,,A,,21108,48
 21187,,A,This must be a borrowing,21124,56
 21196,,A,,21133,48
-21197,124,A,,21134,69
 21244,,A,,21180,48
 21264,,A,,21200,77
 21269,,A,,21205,77
@@ -8853,7 +8779,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 26069,565,A,,25988,69
 26071,44,A,,25990,69
 26096,,A,,26015,48
-26099,,A,,26018,48
 26101,,A,,26020,48
 26104,,A,,26023,48
 26113,,A,,26032,48
@@ -9083,6 +9008,8 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 28604,,A,highly similar cluster of closely related sister languages,28513,56
 28620,,A,highly similar cluster of closely related sister languages,28529,56
 28627,,A,highly similar cluster of closely related sister languages,28536,56
+32357,468,A,,31868,79
+32358,468,A,,31869,79
 28655,1208-1209,A,shows that the Romance 'connaître' set are cognate with noscere,28558,47
 28658,256,A,,28561,47
 28661,,A,relatively unchanged in daughters,28563,56
@@ -9217,8 +9144,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 32330,487,A,,31851,79
 32333,449,A,,29174,79
 32348,,A,,31863,99
-32357,468,A,,31868,79
-32358,468,A,,31869,79
 32359,546,A,,1644,79
 32361,552,A,,31871,79
 32366,286,A,,1669,79
@@ -9303,18 +9228,7 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 33281,,A,,32562,193
 33287,,A,,32568,193
 33289,,A,,32570,193
-33298,,A,,32579,193
-33299,,A,,32580,193
-33301,,A,,32582,193
 33308,17,A,,32589,47
-33317,,A,,32598,193
-33321,,A,,32602,193
-33325,,A,,32606,193
-33326,,A,,32607,193
-33330,,A,,32611,193
-33334,,A,,32615,193
-33336,,A,,32617,193
-33337,,A,,32618,193
 33356,,A,,32637,193
 33366,,A,,32647,193
 33390,,A,,32671,193
@@ -9782,6 +9696,7 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 38918,,A,,37181,249
 38921,,A,,37184,249
 38832,1106,A,,37122,66
+40114,1142-1143,A,,18491,66
 38813,1077,A,From derived form *h₃migʰ-leh₂.  Cf. alternative form to /lexeme/18680/ νεφέλη 'cloud' < (transponat) *nebʰ-e-l-eh₂,22600,66
 38817,1620-1621,A,,18045,66
 38841,1009,A,,18283,66
@@ -9869,6 +9784,7 @@ Cognate with Gr. áella 'stormwind'.",37405,50
 39564,,A,,37461,249
 39569,436,A,"Related to Middle Breton croc adj. 'attached, taken', m. 'fang, hook, efford' from Old French croc (end of 12th cent.) from Scandinavian krôkr.
 Croc and creguiff are both first attested in the Catholicon (1499). ",37236,309
+40124,606-607,A,,18813,66
 39584,,A,"Middle Breton niveraff is first attested in the Catholicon (1499). It can be analyzed as a denominal verb. The basis niver 'number' is borrowed from Latin numerus. This borrowing took place early, cf. Old Breton nimer 'number'. Middle Breton niveraff thus is either inherited from Old Breton or formed productively from niver.",37466,275
 39602,,A,,37471,249
 39603,,A,,37472,249
@@ -9885,7 +9801,6 @@ Croc and creguiff are both first attested in the Catholicon (1499). ",37236,309
 39717,361,A,"From Proto-Celtic *su̯ar-yo- 'to laugh' < PIE *swer- 'sound, make a sound' (IEW 1049f.). ""The attribution of these Celtic forms to the PIE root *swer- is semantically difficult, but possible (see KPV 609). PCelt. *swar-yo- continues the zero-grade of the root, PIE *su̯r̥-i̯o-."" ",37376,50
 39719,287,A,"Cognate with Cornish and Welsh. Verb related to the noun gourwez m., compound of gour- and Breton gwez, Corn. gweth, W gwedd 'aspect, form'.",37381,309
 39730,248,A,"From Proto-Celtic *lugrā- 'moon', PIE *leu̯g- 'to bend, twist' (IEW 685f., LIV 416). Presupposes that the young moon was denoted as 'bent'. The connection with *leu̯k- 'to shine' (IEW 690) is impossible for phonological reasons as this root contains *k, not *g. ",37533,50
-39731,248,A,"From Proto-Celtic *lugrā- 'moon', PIE *leu̯g- 'to bend, twist' (IEW 685f., LIV 416). Presupposes that the young moon was denoted as 'bent'. The connection with *leu̯k- 'to shine' (IEW 690) is impossible for phonological reasons as this root contains *k, not *g. ",37534,50
 39732,248,A,"From Proto-Celtic *lugrā- 'moon', PIE *leu̯g- 'to bend, twist' (IEW 685f., LIV 416). Presupposes that the young moon was denoted as 'bent'. The connection with *leu̯k- 'to shine' (IEW 690) is impossible for phonological reasons as this root contains *k, not *g. ",37535,50
 40171,,A,,37745,249
 40173,,A,,37747,249
@@ -9941,8 +9856,6 @@ Matasović assumed a relation with *krumbo- 'round, compact', cf. Mod. Bret. kro
 40092,,A,,37708,249
 40115,,A,,18491,270
 40121,,A,,18795,270
-40114,1142-1143,A,,18491,66
-40124,606-607,A,,18813,66
 40125,1172-1173,A,,18839,66
 40208,429,A,,37768,321
 40143,,A,,1754,276
@@ -10004,7 +9917,6 @@ The present cognate judgement adopts hypothesis 1.",37828,274
 40466,317,A,,37928,302
 40369,43-44,A,,37874,54
 40367,1014-1015,A,,37872,80
-40477,355,A,"Based on Proto-Celtic *sterā 'star', cf. PIE: *h₂stēr 'star' (IEW 1028) OIr. ser is a hapax (it occurs in one of the archaic Leinster eulogies), its gender is unknown; therefore, the PCelt. reconstruction is uncertain. ",32622,50
 40498,324,A,"From Proto-Celtic *sāu̯ol- / *sūli- 'sun', cf. PIE *seh₂u̯ōl 'sun'
 It appears that there was still an ablauting paradigm in PCelt., Nom. sg. *sāu̯ol, Gen. *sūl-os, from which Olr. súil was abstracted. Another possibility would be to start with *sh₂u̯ōl- > *saūl- (with the regular change of *ō > *ū in the final syllable), thence *sūl-.
 ",37943,50
@@ -10140,7 +10052,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 41195,300,A,"*fra-wahar-, cognate to words for ʿdawnʿ, root *h₂u̯es- ʿto become brightʿ.",38291,321
 41643,,A,,30717,172
 41646,,A,,30701,172
-41204,353,A,"From Proto-Celtic *tefesmo, as if from PIE *tepes-mo-, cf. the s-stem *tepes- 'heat' based on *tep- 'to be warm, hot' (IEW 1070, LIV² 629f.).",32630,50
 41206,353,A,"From Proto-Celtic *tefesmo, as if from PIE *tepes-mo-, cf. the s-stem *tepes- 'heat' based on *tep- 'to be warm, hot' (IEW 1070, LIV² 629f.).",20306,50
 41207,353,A,,28075,50
 41217,337,A,,30785,321
@@ -10208,6 +10119,14 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 41545,,A,,38432,66
 41547,,A,,38433,270
 41583,48,A,"From Proto-Celtic *me < PIE acc. sg. *(h₁)me, which ousted the old nom. sg. *(h₁)égoH. Old and Midddle Welsh reflect Late Proto-British *mi < *mī, while Middle and Modern Breton me and Middle Cornish my, me point to /mı/ < Late Proto-British *mɨ < Proto-British *mi. The development of these forms is related to those of the 2nd person Proto-Celtic *tū, which regulary became Proto-British *tȳ > *tī. This generated an analogical Proto-British nom. sg. *mū > *mȳ > *mi. The Proto-Celtic acc. sg. *me regularly became Proto-British *mi. Thus arose a PBr. system with nom. sg. *mī, *tī, acc. sg. *mi, *ti. Of these forms, Old Welsh generalized the former variant, Old South-West British the latter. A parallel development is found with the 2nd person pronouns. ",35392,273
+42143,,A,,19280,322
+42146,,A,From Middle Persian xwaršēd < *huwar xšaita- ʿsplendid sunʿ,21187,322
+42148,,A,,11316,322
+42151,,A,,11323,322
+42161,,A,,20651,322
+42163,,A,,38734,322
+42169,,A,,7491,322
+42174,,A,,11351,322
 41573,48,A,"From Proto-Celtic *me < PIE acc. sg. *(h₁)me, which ousted the old nom. sg. *(h₁)égoH. Old and Midddle Welsh reflect Late Proto-British *mi < *mī, while Middle and Modern Breton me and Middle Cornish my, me point to /mı/ < Late Proto-British *mɨ < Proto-British *mi. The development of these forms is related to those of the 2nd person Proto-Celtic *tū, which regulary became Proto-British *tȳ > *tī. This generated an analogical Proto-British nom. sg. *mū > *mȳ > *mi. The Proto-Celtic acc. sg. *me regularly became Proto-British *mi. Thus arose a PBr. system with nom. sg. *mī, *tī, acc. sg. *mi, *ti. Of these forms, Old Welsh generalized the former variant, Old South-West British the latter. A parallel development is found with the 2nd person pronouns. 
 ",37193,273
 41674,,A,,38482,172
@@ -10269,7 +10188,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 42450,,A,,38921,249
 42454,,A,"Etymologically it is a diminutive from 'zaivăt' 'belly, stomach'.",38925,249
 41949,86-87,A,"From Proto-Celtic *dago- 'good'. Perhaps from *dako- by dissimilation. From PIE *dk̑o- with an epenthetic vowel, the same root as in *dek̑os 'honour', cf. OIr. dech, Lat. decus; PIE *dek̑- 'to take, to perceive' (LIV 109ff.).",19112,50
-41948,86-87,A,"From Proto-Celtic *dago- 'good'. Perhaps from *dako- by dissimilation. From PIE *dk̑o- with an epenthetic vowel, the same root as in *dek̑os 'honour', cf. OIr. dech, Lat. decus; PIE *dek̑- 'to take, to perceive' (LIV 109ff.).",32596,50
 41972,,A,Present stem < *ā+ay-,38650,322
 41975,,A,,38651,322
 41977,,A,,38652,322
@@ -10310,14 +10228,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 41959,,A,Present stem bīn- < wēn- < *waina-,38641,323
 42134,135,A,"The Celtic words are from Proto-Celtic *gʷeltā ‘grass’. PIE root problematic, as *gʷʰel- 'to graze' does not seem to exist. ",38728,50
 42140,,A,,11304,322
-42143,,A,,19280,322
-42146,,A,From Middle Persian xwaršēd < *huwar xšaita- ʿsplendid sunʿ,21187,322
-42148,,A,,11316,322
-42151,,A,,11323,322
-42161,,A,,20651,322
-42163,,A,,38734,322
-42169,,A,,7491,322
-42174,,A,,11351,322
 42177,,A,,38736,322
 42180,,A,,38738,322
 42189,,A,,38747,322
@@ -10553,7 +10463,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 43308,,A,,39709,322
 43310,,A,,39711,322
 43311,,A,,39713,322
-43324,,A,,39726,322
 43329,,A,,39731,322
 43332,,A,,39734,322
 43333,,A,,39735,322
@@ -10584,7 +10493,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 43422,,A,,29954,363
 43555,,A,,39873,363
 43423,,A,,21139,363
-43426,,A,,29607,363
 43429,,A,,39800,363
 43433,,A,,21266,363
 43435,,A,,29899,363
@@ -10677,7 +10585,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 43846,,A,,40046,322
 43847,,A,,40047,322
 43855,,A,,40055,322
-43862,,A,,40062,322
 43873,,A,,40073,322
 43889,,A,,40088,322
 43893,,A,"Not cognate with Hitt. tē-, but only with suppletive tar-, root *ter-.",40092,322
@@ -11189,22 +11096,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 46334,600-601,A,,26063,345
 46348,546,A,,26340,345
 46354,318,A,,41238,345
-46361,,A,,41241,437
-46362,,A,,41242,437
-46387,,A,,41267,437
-46390,,A,,41270,437
-46395,,A,,41275,437
-46401,,A,,41281,437
-46402,,A,,41282,437
-46405,,A,,41285,437
-46409,,A,,41289,437
-46410,,A,,41290,437
-46412,,A,,41292,437
-46414,,A,,41294,437
-46421,,A,,41301,437
-46426,,A,,41306,437
-46427,,A,,41307,437
-46428,,A,,41308,437
 46435,,A,,41315,269
 46437,,A,,41317,269
 46438,,A,,41318,269
@@ -11257,7 +11148,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 46630,I:162,A,,17844,172
 46632,55-56,A,,41927,83
 46636,,A,"Removed the Ossetic lexemes as well as the other Iranian ones again from the Germanic /cognate/245/, because other sources are also sceptical about the connection. (2016-07-27)",31143,385
-46639,II:728,A,,37887,172
 46641,,A,should be linked to cognate class Ah of CUT,41944,172
 46645,11,A,,41951,105
 46649,,A,Unknown etymology.,41973,276
@@ -11337,7 +11227,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 46961,,A,,42573,276
 46962,,A,,42574,276
 46966,,A,,42579,269
-46972,,A,,42591,437
 46982,,A,"Only once as a full noun, elsewhere adverbial accusative",18248,172
 31837,360,A,,31516,105
 31936,147,A,,31582,105
@@ -12553,22 +12442,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 33273,,A,,32554,193
 33277,,A,,32558,193
 33296,,A,,32577,193
-33300,,A,,32581,193
-33303,,A,,32584,193
-33306,,A,,32587,193
-33307,17,A,,32588,47
-33310,,A,,32591,193
-33312,,A,,32593,193
-33327,,A,,32608,193
-33329,,A,,32610,193
-33335,,A,,32616,193
-33338,,A,,32619,193
-33341,,A,,32622,193
-33348,,A,,32629,193
-33349,,A,,32630,193
-33350,,A,,32631,193
-33353,,A,,32634,193
-33354,,A,,32635,193
 33358,,A,,32639,193
 33361,,A,,32642,193
 33365,,A,,32646,193
@@ -13006,8 +12879,6 @@ The feminine form was *du̯ī < PIE *dʷih₁.",32565,50
 38550,,A,,36884,249
 38562,,A,,36896,249
 38569,,A,,36903,249
-38581,,A,,36915,249
-38582,,A,,36916,249
 38588,,A,,36922,249
 38591,,A,,36925,249
 38604,,A,,36938,249
@@ -13119,6 +12990,10 @@ Generally regarded as a Loan word, a verb derived productively from a native adj
 41451,,A,Loan from Indo-Aryan,36657,321
 42930,,A,,39372,249
 39285,,A,Andriotis's proposed etymology is one of the different proposals listed in the cognate coding.  (Cognate coding needs sorting out.),24233,269
+39789,304-05,A,"From Proto-Celtic *oi̯no- 'one' < PIE *h₃ei̯-no- 'one' (IEW 28lff.).
+Matasivić assumed the derivative *oi̯nano- 'alone, personally' to underly OIr. oentin and MBret. unan, onan, and W hunan (with secondary h-). ",37556,50
+39802,595-596,A,"From Old Breton puls 'space in time'. Like Cornish pols 'heartbeat, moment' from Latin pulsus 'pulse'.",37563,309
+39807,,A,,19405,175
 39290,48-49,A,"Middle Cornish ty, te and Old South-West British ti, te /tɪ/ < Late Proto-British *tɨ < Proto-British *ti. Old Welsh and Middle Welsh ti reflect Late Proto-British *ti < *tī. The attested form can be generated from Proto-Celtic *tū, *tu in more than one way. The Proto-Celtic nom. sg. *tū became Proto-British *tȳ < *tī, while the Proto-Celtic acc. sg. *te became *ti. Of these forms, Old Welsh generalized the former variant, Old South-West British the latter.",20776,273
 40078,,A,,37694,249
 40079,,A,,37695,249
@@ -13198,10 +13073,6 @@ word for 'name', i.e. from *h₃nmen-, just like, e.g., the Slavic forms (cf. Ru
 39749,699,A,Cf. Old Breton strit. From Latin strictus. Pre-Middle Breton loan-word.,37543,309
 39769,286,A,"Proto-Celtic *ne, *ni, *nī.",37550,50
 39776,156,A,"From Proto-Celtic *gdonyo- 'human, person' < PIE *dʰg̑ʰom-yo- 'human, earthling' (IEW 414).",37554,50
-39789,304-05,A,"From Proto-Celtic *oi̯no- 'one' < PIE *h₃ei̯-no- 'one' (IEW 28lff.).
-Matasivić assumed the derivative *oi̯nano- 'alone, personally' to underly OIr. oentin and MBret. unan, onan, and W hunan (with secondary h-). ",37556,50
-39802,595-596,A,"From Old Breton puls 'space in time'. Like Cornish pols 'heartbeat, moment' from Latin pulsus 'pulse'.",37563,309
-39807,,A,,19405,175
 39835,,A,,19390,270
 39840,274,A,"Brittonic cognate set, from Proto-Celtic *u̯olau̯o-.",37571,309
 39813,380,A,,17300,316
@@ -13213,7 +13084,6 @@ Matasivić assumed the derivative *oi̯nano- 'alone, personally' to underly OIr.
 39892,319,A,"From Proto-Celtic *salano- 'salt', cf. PIE *seh₂1- 'salt'. gen.sg. *sh₂1-os (IEW 878). The Irish and British forms cannot derived from a single proto-form. Old Irish salann points to a PIE derived stem *sh₂l-Hno- > PCelt. salano-, while the British words have another suffix, i.e. Proto-Celtic *saleno- < *sh₂l-eno-. ",18206,50
 39994,308,A,,31760,66
 39893,T-121,A,"Brittonic (Welsh traeth, Corn. trait, Mbr. trez 'Sand') and Goidelic (OIr. tracht 'shore, bank') loanword from Latin tractus 'drawing, trail track'. Loth, Les mots latins dans les langues brittoniques 1892, s.v. traeth considers these word as Celtic however. ",37591,296
-39898,T-121,A,"The analysis as a loanword is less probable if one considers that the underlying root is well represented in Insular Celtic (PIE *treHgʰ- / *treHg̑ʰ- or *tragʰ- / *trag̑ʰ- 'to drain off, to ebb away', cf. Schumacher 2004, 635-36) and that there are nouns from this root belonging into the same semantic field: Old Breton tre, MW trei m. 'ebbtide', Old Irish tráig 'i, m/f' 'ebbtide, beach' < Proto-Brit. *trăgi̯o-. The word for sand could thus originate from an inherited tu-stem cognate with Latin tractus, i.e. Proto-Celtic *traxtus. ",32619,275
 40048,,A,Decided for perfectives.,37667,249
 39908,,A,,17231,270
 39921,,A,,37598,271
@@ -13307,7 +13177,6 @@ Matasivić assumed the derivative *oi̯nano- 'alone, personally' to underly OIr.
 40371,292,A,,37875,320
 40373,290,A,,37877,320
 40382,,A,Present ē- from *ā + i-,37883,322
-40385,425,A,,37887,320
 40386,425,A,,37888,320
 40338,283,A,*pād(a)-,16328,321
 40394,174,A,,37892,320
@@ -13336,9 +13205,6 @@ particular use', according to GPC. The Olr. form in -a is a collective built fro
 40502,324,A,"From Proto-Celtic *sāu̯ol- / *sūli- 'sun', cf. PIE *seh₂u̯ōl 'sun'
 It appears that there was still an ablauting paradigm in PCelt., Nom. sg. *sāu̯ol, Gen. *sūl-os, from which Olr. súil was abstracted. Another possibility would be to start with *sh₂u̯ōl- > *saūl- (with the regular change of *ō > *ū in the final syllable), thence *sūl-.
 ",32558,50
-40506,324,A,"From Proto-Celtic *sāu̯ol- / *sūli- 'sun', cf. PIE *seh₂u̯ōl 'sun'
-It appears that there was still an ablauting paradigm in PCelt., Nom. sg. *sāu̯ol, Gen. *sūl-os, from which Olr. súil was abstracted. Another possibility would be to start with *sh₂u̯ōl- > *saūl- (with the regular change of *ō > *ū in the final syllable), thence *sūl-.
-",32623,50
 40508,362,A,"From Proto-Celtic *su̯ed-o- 'swell', cf. PIE *su̯ei̯d- 'to sweat, to start sweating' (IEW 1043, LIV² 607). For the semantic development 'sweat' > 'swell' see KPV 609.",37944,50
 40518,362,A,"From Proto-Celtic *su̯ed-o- 'swell', cf. PIE *su̯ei̯d- 'to sweat, to start sweating' (IEW 1043, LIV² 607). For the semantic development 'sweat' > 'swell' see KPV 609.",37946,50
 40522,,A,,37949,322
@@ -13350,7 +13216,6 @@ It appears that there was still an ablauting paradigm in PCelt., Nom. sg. *sāu
 40628,499,A,,38001,320
 40633,22,A,,38006,320
 40634,366,A,,38007,320
-40575,269,A,"From Proto-Celtic *lusto- or *lustā-, cf. PIE *leu̯s- 'to detach oneself, to losen' (LIV² 374f., fn. 7). Welsh llost f. seems to originate from *lustā-, OIr. los (m. o) from *lusto-. Schrijver (1995, 412) reconstructs a formation with *-st-, i.e. *lus-sto/eh₂-.",32624,299
 40978,,A,,38219,270
 40924,636,A,,38186,54
 40577,269,A,"From Proto-Celtic *lusto- or *lustā-, cf. PIE *leu̯s- 'to detach oneself, to losen' (LIV² 374f., fn. 7). Welsh llost f. seems to originate from *lustā-, OIr. los (m. o) from *lusto-. Schrijver (1995, 412) reconstructs a formation with *-st-, i.e. *lus-sto/eh₂-.",32559,299
@@ -13451,7 +13316,6 @@ Later verbal forms containing -th- like Middle Irish sceithid are based on the V
 41100,,A,,38266,66
 41106,,A,,38269,270
 41111,,A,,38273,66
-41131,263,A,"From Proto-Celtic *melino- 'yellow', based on *meli- 'honey'. The original meaning was 'honey-colored'. ",32635,50
 41138,181-82,A,From Proto-Celtic *kʷrimi- 'worm' < PIE *kʷr̥mi- 'worm' (IEW 1152).,28090,50
 39500,178-79,A,"From Proto-Celtic *kʷēs 'who' < PIE *kʷe/o-i̯- 'who, what' (IEW 635).
 While OW pui, MW pwy show the regular outcome, in Middle Breton and Cornish a metathesis *wy > yw took place.
@@ -13515,7 +13379,6 @@ While OW pui, MW pwy show the regular outcome, in Middle Breton and Cornish a me
 41479,570,A,"PIE neo-nominative *n̥smḗs > *n̥snēs > Proto-Celtic *snīs > Old Irish sní (nom.), MW ni (nominative and oblique).",32739,294
 41841,,A,,38576,165
 41487,122-124,A,From PIE *dʰeu̯b- 'deep' (IEW 267f.). ,32568,274
-41491,107-08,A,"From Proto-Celtic *dubro-/ā- 'dark', cf. PIE *dʰubʰ- 'black' (IEW 263ff.) In OIr. the adj. 'black' is also used as the substantivized adjective dobur 'water'. Brittonic continues only the word for 'water', Old Welsh dubr, MW dwfr, ModW dŵr, Breton, Cornish dour. ",32631,50
 41494,107-08,A,"From Proto-Celtic *dubro-/ā- 'dark', cf. PIE *dʰubʰ- 'black' (IEW 263ff.) In OIr. the adj. 'black' is also used as the substantivized adjective dobur 'water'. Brittonic continues only the word for 'water', Old Welsh dubr, MW dwfr, ModW dŵr, Breton, Cornish dour. ",32568,50
 41497,107-08,A,"From Proto-Celtic *dubro-/ā- 'dark', cf. PIE *dʰubʰ- 'black' (IEW 263ff.) In OIr. the adj. 'black' is also used as the substantivized adjective dobur 'water'. Brittonic continues only the word for 'water', Old Welsh dubr, MW dwfr, ModW dŵr, Breton, Cornish dour. ",32738,50
 41500,315,A,"Cognate with the noun Modern Breton gwolch, Corn. golgh, Welsh golch 'washing, lotion, urine'; all from Proto-Celtic *u̯olk-o-.",26101,309
@@ -13546,7 +13409,6 @@ While OW pui, MW pwy show the regular outcome, in Middle Breton and Cornish a me
 42306,53,A,"Lat. ardeo is derived from the adjective ar(i)dus 'dry', cf. PIE *h₂eh₁s- 'to dry up, to shrivel, to whither' (LIV² 257f., IEW 68).",17696,54
 42993,,A,,39425,249
 41580,48,A,"From Proto-Celtic *me < PIE acc. sg. *(h₁)me, which ousted the old nom. sg. *(h₁)égoH. Old and Midddle Welsh reflect Late Proto-British *mi < *mī, while Middle and Modern Breton me and Middle Cornish my, me point to /mı/ < Late Proto-British *mɨ < Proto-British *mi. The development of these forms is related to those of the 2nd person Proto-Celtic *tū, which regulary became Proto-British *tȳ > *tī. This generated an analogical Proto-British nom. sg. *mū > *mȳ > *mi. The Proto-Celtic acc. sg. *me regularly became Proto-British *mi. Thus arose a PBr. system with nom. sg. *mī, *tī, acc. sg. *mi, *ti. Of these forms, Old Welsh generalized the former variant, Old South-West British the latter. A parallel development is found with the 2nd person pronouns. ",35387,273
-41591,317,A,"From Proto-Celtic *rūsk(l)o-, rusko- 'bark'. ",32578,50
 41603,,A,,27645,172
 41613,,A,,27649,172
 41617,,A,,27650,175
@@ -13631,7 +13493,6 @@ REF: LEIA M-65, GPC III: 2512, DGVB 54, Deshayes 2003: 525.
 42132,,A,,11297,322
 42138,,A,Looks like a loan from Turkic *küčik,24806,322
 42168,,A,,35728,79
-42172,,A,,10379,322
 42176,,A,,11348,322
 42184,,A,,38742,322
 42228,177,A,From Proto-Celtic *kʷenno- 'head'. ,38761,50
@@ -13969,7 +13830,6 @@ For now the Kashubian word should be put into a separate cognate class. The prob
 44023,,A,,40213,322
 44028,,A,,40218,322
 44030,,A,,40220,322
-44031,,A,,40221,322
 44033,,A,,40223,322
 44038,,A,,40228,322
 44039,,A,,40229,322
@@ -14462,19 +14322,7 @@ On of these roots might in fact be the basis for ie. *dʰu̯ens- from which the 
 46356,319-320,A,,26618,345
 46357,319-320,A,,20754,345
 46358,319-320,A,,20753,345
-46374,,A,,41254,437
-46384,,A,,41263,437
-46386,,A,,41266,437
-46391,,A,,41271,437
-46398,,A,,41278,437
 46399,,A,,41279,269
-46403,,A,,41283,437
-46404,,A,,41284,437
-46406,,A,,41286,437
-46420,,A,,41300,437
-46422,,A,,41302,437
-46424,,A,,41304,437
-46425,,A,,41305,437
 46430,,A,,41310,269
 46431,,A,,41311,269
 46434,,A,,41314,269
@@ -14582,7 +14430,6 @@ On of these roots might in fact be the basis for ie. *dʰu̯ens- from which the 
 46952,,A,,42564,276
 46956,,A,,42568,276
 46963,,A,,42575,276
-46971,,A,,42590,437
 46976,,A,,42593,249
 46985,,,,42610,269
 46986,"Vol.II, p. 564",,,42615,172
@@ -14613,8 +14460,6 @@ On of these roots might in fact be the basis for ie. *dʰu̯ens- from which the 
 47012,47,,"wāk-, wakk- can be put in connection with Gk. ἅγνυμι ‘to break’ and be traced back to *u̯eh2g/ĝ- 'to bite'.",40193,451
 47013,,,,42766,442
 47350,105,,dī- < *diyah = Non-Persian *ziyah,45161,344
-47354,112,,P = (loan from) Persian,45279,437
-47355,184,,,45321,437
 47281,,,,43009,269
 47282,591,,,43117,452
 47283,626,,,43143,452
@@ -14659,10 +14504,8 @@ On of these roots might in fact be the basis for ie. *dʰu̯ens- from which the 
 47347,366-7,,"Cognate to Avestan dānu-, Vedic dā́nu- 'river, water', and to European river names like that of the Danube.",45129,156
 47348,,,Derived from xāk < Proto-Indo-Iranian *hāsaka-.,11179,322
 47308,803-805,,,43497,80
-47356,161,,S = Sogdian (inherited),45382,437
 47357,335,,,45532,321
 47358,,,,45535,172
-47438,,,P = Persian,45710,437
 47441,,,,45795,269
 47440,52,,"Parth. nyzmʾn < *myznʾn. Borrowing from Middle Persian possible (z easier to explain), but unassured.",45792,459
 47442,362,,"Verbal adjective to *stamb- 'be stiff, withstand'",45803,83
@@ -14799,7 +14642,6 @@ cf. Pali valāuṇā ʻto deceive, wheedleʼ;
 47010,51,,,40473,368
 32123,"117, 142",A,"Etymology disputed. Usually taken to be either from *denk̑- 'bite' or *dʰei̯Hgʷ- 'sting, pierce'.",31745,141
 45369,"117-118, 142",A,"Etymology disputed. Usually taken to be either from *denk̑- 'bite' or *dʰei̯Hgʷ- 'sting, pierce'.",31746,141
-48005,no. 13676,,,49500,442
 48006,no. 12961,,,49501,442
 48007,no. 1858,,,49503,442
 48009,no. 9090,,,49521,442
@@ -16270,7 +16112,6 @@ cf. Pali valāuṇā ʻto deceive, wheedleʼ;
 49492,,,,46645,435
 49493,,,,46648,435
 49494,,,,46252,435
-49495,,,,51477,435
 49496,,,,46254,435
 49497,,,,46255,435
 49498,,,,46660,435
@@ -16307,6 +16148,7 @@ cf. Pali valāuṇā ʻto deceive, wheedleʼ;
 49530,193f..,,"Compares Lat. sāgiō, so < PIE *seh₂ǵ/g- (LIV 520: ‘einer Fährte nachgehen’)",798,369
 49532,171f.,,"Difficult to get an etymology; Demiraj discards the old connection with OInd. ániti and follows Cabej and Ölberg in connecting Gr. oidéō, so from  *h₂oi̯d-ni̯o- with early cluster reduction.",52235,369
 49533,975f.,,"""Only plausible derivation"": From thematic root present to *h₂eu̯- 'enjoy, indulge' (LIV 274).",52241,364
+49737,123,,S = inherited,51448,779
 49534,994,,"Connevction with *u̯reh₁g̑- phonologically plausible, but doubted on semantic grounds by Schumacher & Matzinger and proposed to belong to *h₁reh₁s- 'to lunge, throw oneself', what would need a preverb like *an- to get /rr-/; either way, a stem suffix *-ske- seems necessary to get the -h- (> Geg f).",795,364
 49535,999,,,31656,364
 49556,79,,Gives a variant drushk (uncertain) an therefore wants a derivative of dru 'wood'.,55501,105
@@ -16345,3 +16187,185 @@ This view is also supported by the fact that the development *čn > *šn postula
 49565,41,,Follows Demiraj and treats it as ultimately belonging to *h₁ei̯-.,55916,687
 49567,527,,"zhur, shur 'gravel'. Borrowed from Lat. saburra 'sand ballast'.",55917,105
 49566,154,,"To PIE *[h₁]ei̯- with -k- from the imperative and such forming an equation with Lith. eîk, eîki 'go!' and finding a parallel in Slav. *jьdǫ 'go' which might have generalized the imperative ending *-dhi as well.",55916,105
+49620,,,Phonologically identical to Sanskrit and thus a loan instead of inherited. The cluster ry cannot be preserved in Marathi.,61180,322
+49621,541f.,,,28190,156
+49622,541f.,,,28189,156
+49623,37,,"Unclear, cognacy with Wakhi ɣaṣ is not possible, this works only for Yazghulami ɣax̌.",61190,325
+40395,,A,"Suppletive comparative is probably originally cognate and can as well belong to *sed- as the positive forms, so they should be united rather than split.",28772,172
+49624,,,The phonological development (s instead of *sp) shows that the word is a loan from Persian.,61193,322
+49625,II 224,,"S- instead of sp- and (in some varieties) -g betray a SW loan source, probably Persian. A real cognate appears to exist as ""sipa, sipē"" acc. to Cabolov p.262.",61194,363
+49627,,,"Must be a loan from Persian, a genuine cognate would rather look like Zazaki hāg or Kurdish ax.",61198,322
+49628,,,Initial d- instead of z- betrays a loan from Persian,61205,322
+49629,,,"Preservation of -d points to loan from Persian, not inherited form.",61214,322
+49630,,,"Although -d- might be genuine in Raji, the form is too similar to Persian, so rather a loan as in Mazanderani.",61215,322
+49631,,,"Initial d- betrays Persian origin, as in most other (North-)Western Iranic languages.",61216,322
+49632,,,Preservation of -d- (vs. loss in 'smoke') points to loan from Persian rather than inheritance.,61222,322
+49634,449,,"Considers inheritance possible, but also considers an ancient loan from Middle Persian ""žiy"".",54260,321
+49635,,,"Since initial *x- normally yield Kurdish k-, kʰ-, we must assume a loan. Cf. especially *xāniyaka- > Kurdish N kanî, C kânî 'source'.",61224,322
+49636,82-83,,"-x- can only occur in loans, but even the variant šāh is suspicious.",61225,344
+49637,114,,,61226,83
+49640,191,,P = [oan from] (Classical) Persian,41258,779
+49641,50,,TS,41255,779
+49642,10,,P = [loan from] Persian,41254,779
+49643,14,,P = [loan from] Persian,61228,779
+49644,20,,P = [loan from] Persian,41261,779
+49645,84,,U = [loan from] Uzbek,61229,779
+49646,129,,P = [loan from] Persian,41263,779
+49647,166,,P = [loan from] Persian,41270,779
+49648,154,,P = [loan from] Persian,41266,779
+49649,183,,"S = ""Sogdian"", inherited",41267,779
+49650,194,,P = [loan from] Persian,51467,779
+49651,154,,S = inherited,41271,779
+49652,157,,S = inherited,51410,779
+49653,180,,S = inherited,46772,779
+49654,153,,P = [loan from] Persian,46764,779
+49655,155,,S = inherited,51380,779
+49657,143,,"S = inherited, cognate to Sogdian",61231,779
+49658,106,,S = inherited,41242,779
+49659,106,,S,41241,779
+49660,146,,P = [loan from] Persian,41272,779
+49661,107,,S = inherited,41292,779
+49662,82,,SP = inherited or Persian,51370,779
+49663,89,,S = inherited,46317,779
+49664,90,,S = inherited,46206,779
+49665,195,,P = [loan from] Persian,61232,779
+49666,62,,S = inherited,46180,779
+49667,207,,S = inherited,51412,779
+49668,197,,S = inherited,46157,779
+49669,169,,SP = inherited and/or Persian,46150,779
+49670,42,,SP = inherited (but Persian loan would look identical),51371,779
+49671,23,,ST = inherited (but influence from Tajik possible),46131,779
+49672,122,,S = inherited,45546,779
+49673,107,,P = [loan from] Persian,45545,779
+49674,127,,S = inherited,41293,779
+49675,127,,P = [loan from] Persian,41294,779
+49676,53,,P = [loan from] Persian,46043,779
+49677,174,,"T = [loan from] Tajik, but this is from Turkic",51381,779
+49678,134,,S = inherited,45776,779
+49679,27,,TP = [loan from] Tajik/Persian,41297,779
+49680,164,,S = inherited,41296,779
+49681,164,,S,41295,779
+49682,124,,S = inherited,51445,779
+49683,137,,S = inherited,41301,779
+49684,164,,S = inherited,51372,779
+49685,159,,S = inherited,45985,779
+49686,184,,S = inherited,45950,779
+49687,195,,P = [loan from] Persian,61233,779
+49688,147,,P = [loan from] Persian,51423,779
+49689,145,,"T = [loan from] Tajik, but an inherited word wood look identical",51446,779
+49690,33,,S = inherited,51454,779
+49691,34,,"P = [loan from] Persian
+but there is no conclusive evidence for a loan",45894,779
+49692,151,,T = [loan from] Tajik,45875,779
+49693,149,,S = inherited,45864,779
+49694,41,,S = inherited,45854,779
+49695,37,,P = [loan from] Persian,45846,779
+49696,184,,AP = Arabic/Persian,61227,779
+49697,18,,S = inherited,54214,779
+49698,56,,S = inherited,51425,779
+49699,83,,S = inherited,51382,779
+49700,103,,"Certainly inherited, although Novák says ""P?"" But cf. Sogdian oblique /maná/",54240,779
+49701,45,,S = inherited,41284,779
+49702,175,,S = inherited,54252,779
+49704,206,,P = [loan from] Persian,41286,779
+49703,206,,S = inherited,41287,779
+49705,59,,S = inherited,51451,779
+49706,125,,R = [loan from] Russian,61223,779
+49707,12,,P = [loan from] Persian,54265,779
+49708,23,,T = [loan from] Tajik,57554,779
+49709,134,,S = inherited,51426,779
+49710,112,,S = inherited,54277,779
+49711,208,,S = inherited,51427,779
+49712,75,,P = [loan from] Persian,51409,779
+49713,163,,S = inherited,51424,779
+49714,108,,S = inherited,51428,779
+49715,200,,S = inherited,54324,779
+49717,102,,P = [loan from] Persian,61235,779
+49718,56,,S = inherited,45565,779
+49719,113,,S = inherited,51411,779
+49720,116,,S = inherited,45775,779
+49722,116,,S = inherited,45769,779
+49723,113,,P = [loan from] Persian,61239,779
+49724,113,,S = inherited,41305,779
+49725,190,,S = inherited,45768,779
+49726,114,,S = inherited,41307,779
+49727,114,,S,41306,779
+49728,111,,S = inherited,41308,779
+49729,132,,P = [loan from] Persian,61241,779
+49730,70,,S = inherited,41274,779
+49731,198,,P = [loan from] Persian,41275,779
+49732,120,,A = [loan from] Arabic,51429,779
+49733,18,,P = [loan from] Persian,54475,779
+49734,188,,S = inherited,51447,779
+49735,17,,P = [loan from] Persian,45744,779
+49736,157,,P = [loan from] Persian,45737,779
+49738,142,,P = [loan from] Persian,61242,779
+49739,36,,"P = [loan from] Persian
+But not conclusive evidence against an inherited item",51449,779
+49740,112,,P = [loan from] Persian,45279,779
+49741,141,,P = [loan from] Persian,61243,779
+49742,10,,A = [loan from] Arabic,51450,779
+49743,184,,S = inherited,45321,779
+49744,169,,S,51430,779
+49745,161,,S = inherited,45382,779
+49746,154,,S = inherited,51414,779
+49747,155,,P = [loan from] Persian,45389,779
+49748,114,,S = inherited,45402,779
+49749,137,,"S = in herited, but a loan from Persian is also possible",61244,779
+49750,124,,P = [loan from] Persian,51431,779
+49751,176,,S = inherited,51413,779
+49752,41,,P = [loan from] Persian,41288,779
+49753,131,,S = inherited,41290,779
+49754,131,,S,41289,779
+49755,108,,P = [loan from] Persian,42591,779
+49756,183,,S = inherited,41291,779
+49757,154,,PS = Persian or inherited,51432,779
+49758,149,,S = inherited,45478,779
+49759,121,,P = [loan from] Persian,45710,779
+49760,194,,S = inherited,41276,779
+49761,161,,P = [loan from] Persian,41304,779
+49762,42,,PS = Persian or inherited,51434,779
+49763,117,,S = inherited,45521,779
+49764,55,,TS,47134,779
+49765,55,,T = from Tajik? No sufficient evidence against inheritance,45526,779
+49766,72,,S = inherited,51444,779
+49767,164,,S = inherited,41298,779
+49768,164,,S,41299,779
+49769,151,,P = [loan from] Persian,41300,779
+49770,185,,S = inherited,61245,779
+49771,411,,,61245,83
+49772,6,,,45701,83
+49773,179,,,45701,779
+49774,205,,S = inherited,45700,779
+49775,38,,S = inherited,45695,779
+49776,33,,P = [loan from] Persian,61246,779
+49777,143,,P = [loan from] Persian,61248,779
+49778,41,,SP,41278,779
+49779,153,,S = inherited,51435,779
+49780,123,,S = inherited,51373,779
+49781,108,,S = inherited,41281,779
+49782,26,,S = inherited,51374,779
+49783,79,,S = inherited,51375,779
+49784,88,,S = inherited,51376,779
+49785,147,,P = [loan from] Persian,51439,779
+49786,153,,S = inherited,51440,779
+49787,84,,S = inherited,51377,779
+49788,185,,S = inherited,51378,779
+49789,128,,P = [loan from] Persian,51379,779
+49790,71,,S = inherited,46941,779
+49791,86,,ST,45173,779
+49792,155,,P = [loan from] Persian,45170,779
+49793,203,,P = [loan from] Persian,45171,779
+49794,133,,S = inherited,45165,779
+49795,162,,S = inherited,41282,779
+49796,173,,S = inherited,41283,779
+49797,65,,P = [loan from] Persian,41245,779
+49798,7,,S = inherited,41250,779
+49799,176,,P = [loan from] Persian,61249,779
+49800,240,,,61251,781
+49801,240,,,61250,781
+49802,74,,P = [loan from] Persian,41252,779
+49803,67,,A = [loan from] Arabic,41251,779
+49804,376,,No. 6586 Cognate of Skt. doṣ- 'forearm',61256,442
+49805,376,,Preserved -d- points to loan from Persian,61257,442
+49806,395,,,61260,81

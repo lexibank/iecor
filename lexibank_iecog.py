@@ -15,7 +15,7 @@ from sqlalchemy import create_engine
 from mappings import FIELD_MAP, AUTHOR_MAP
 
 LANGUAGE_LIST = "Current"
-MEANING_LIST = "Jena175"
+MEANING_LIST = "JenaFinal170"
 CONCEPTICON_MAPPING = "raw/Heggarty-2017-200.tsv"
 
 
