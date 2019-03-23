@@ -180,6 +180,9 @@ class Dataset(BaseDataset):
             'Root_Form',
             'Root_Gloss',
             'Root_Language',
+            'Comment',
+            'Justification',
+            {'name': 'Ideophonic', 'datatype': 'boolean'},
             {'name': 'Dyen', 'separator': ";"})
         ds.add_component(
             'LanguageTable',
@@ -310,6 +313,7 @@ class Dataset(BaseDataset):
             if cset['ID'] in csids:
                 cset['Source'] = csrefs.get(cset['ID'], [])
                 cset['Dyen'] = sorted(dyen.get(cset['ID'], []))
+                cset['Ideophonic'] = cset['Ideophonic'] == 'True'
                 css.append(cset)
 
                 if cset['loanword'] == 'True':

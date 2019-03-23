@@ -188,6 +188,7 @@ FIELD_MAP = {
             "root_language": "Root_Language",
             # alias
             "notes": "Comment",
+            "justificationDiscussion": "Justification",
             # name  - always empty
 
             "loan_notes": "loan_notes",
@@ -205,7 +206,7 @@ FIELD_MAP = {
             # parallelDerivation:         13 True
             # revisedBy
             # revisedYet
-            # ideophonic:                 49 True
+            "ideophonic": "Ideophonic",
             # proposedAsCognateTo_id:    110 not-NULL
             # proposedAsCognateToScale
         }

@@ -311,6 +311,18 @@
                         "name": "Root_Language"
                     },
                     {
+                        "datatype": "string",
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Justification"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "Ideophonic"
+                    },
+                    {
                         "separator": ";",
                         "name": "Dyen"
                     }
