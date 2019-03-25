@@ -13,7 +13,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 27191,
+            "dc:extent": 26234,
             "tableSchema": {
                 "columns": [
                     {
@@ -119,7 +119,7 @@
             "url": "forms.csv"
         },
         {
-            "dc:extent": 80,
+            "dc:extent": 86,
             "tableSchema": {
                 "columns": [
                     {
@@ -143,7 +143,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 175,
+            "dc:extent": 170,
             "tableSchema": {
                 "columns": [
                     {
@@ -192,7 +192,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 26911,
+            "dc:extent": 25972,
             "tableSchema": {
                 "columns": [
                     {
@@ -273,7 +273,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
-            "dc:extent": 5225,
+            "dc:extent": 5081,
             "tableSchema": {
                 "columns": [
                     {
@@ -311,6 +311,18 @@
                         "name": "Root_Language"
                     },
                     {
+                        "datatype": "string",
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Justification"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "Ideophonic"
+                    },
+                    {
                         "separator": ";",
                         "name": "Dyen"
                     }
@@ -323,7 +335,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 152,
+            "dc:extent": 151,
             "tableSchema": {
                 "columns": [
                     {
@@ -440,7 +452,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 851,
+            "dc:extent": 909,
             "tableSchema": {
                 "columns": [
                     {

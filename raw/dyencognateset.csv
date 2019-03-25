@@ -159,8 +159,6 @@ id,cognate_class_id,name,doubtful
 ",False
 108,108,"133-204
 ",False
-109,109,"134-008
-",False
 110,110,"135-009
 ",False
 111,111,"136-003
@@ -1190,8 +1188,6 @@ id,cognate_class_id,name,doubtful
 768,723,"114-003
 ",False
 769,93,"117-211
-",False
-771,725,"120-216
 ",False
 772,101,"125-206
 ",False
@@ -3736,8 +3732,6 @@ id,cognate_class_id,name,doubtful
 2357,1836,"064-008
 ",False
 2359,1838,"117-221
-",False
-2360,1839,"124-203
 ",False
 2361,808,"125-205
 ",False
