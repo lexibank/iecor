@@ -145,7 +145,9 @@ class Dataset(BaseDataset):
         re_ref = re.compile(r'\{ref\s+([^{]+?)\s*\}', re.IGNORECASE)
         re_cog = re.compile(r'/cognate/(\d+)/?', re.IGNORECASE)
         re_lex = re.compile(r'/lexeme/(\d+)/?', re.IGNORECASE)
-        def parse_links(s):
+        def parse_links_to_markdown(s):
+            # format: [label](type-id)  supported types: src/cog/lex
+            # return text for non-found IDs
             ret = s
             ret = re_lex.sub(make_lexeme_link, ret)
             ret = re_cog.sub(make_cognate_link, ret)
@@ -159,26 +161,26 @@ class Dataset(BaseDataset):
                 shorthand_ref = 'Meyer-Lübke 1935'
 
             if shorthand_ref in shorthand_sources:
-                return "<a href='/sources/%s'>%s</a>" % (
-                        shorthand_sources[shorthand_ref],
-                        shorthand_ref)
+                return "[%s](src-%s)" % (
+                        shorthand_ref,
+                        shorthand_sources[shorthand_ref])
             if ':' in shorthand_ref: # : typo {ref Foo 2000:16-18}
                 arr = shorthand_ref.split(':', 2)
                 if arr[0] in shorthand_sources:
-                    return "<a href='/sources/%s'>%s</a>:%s" % (
-                            shorthand_sources[arr[0]], arr[0], arr[1])
+                    return "[%s](src-%s):%s" % (
+                            arr[0], shorthand_sources[arr[0]], arr[1])
             return shorthand_ref
         def make_cognate_link(m):
             cog_ref = m.groups()[0]
             if cog_ref in csids:
-                return "<a href='/cognatesets/%s'>cognateset %s</a>" % (
+                return "[cognate set %s](cog-%s)" % (
                         cog_ref,
                         cog_ref)
-            return 'cognate %s' % (cog_ref)
+            return 'cognate set %s' % (cog_ref)
         def make_lexeme_link(m):
             lex_ref = m.groups()[0]
             if lex_ref in fids:
-                return "<a href='/values/%s'>lexeme %s</a>" % (
+                return "[lexeme %s](lex-%s)" % (
                         lex_ref,
                         lex_ref)
             return 'lexeme %s' % (lex_ref)
@@ -360,8 +362,8 @@ class Dataset(BaseDataset):
                 cset['Source'] = csrefs.get(cset['ID'], [])
                 cset['Dyen'] = sorted(dyen.get(cset['ID'], []))
                 cset['Ideophonic'] = cset['Ideophonic'] == 'True'
-                cset['Comment'] = parse_links(cset['Comment'])
-                cset['Justification'] = parse_links(cset['Justification'])
+                cset['Comment'] = parse_links_to_markdown(cset['Comment'])
+                cset['Justification'] = parse_links_to_markdown(cset['Justification'])
                 css.append(cset)
 
                 if cset['loanword'] == 'True':
@@ -376,7 +378,7 @@ class Dataset(BaseDataset):
                     })
 
         for f in forms:
-            f['Comment'] = parse_links(f['Comment'])
+            f['Comment'] = parse_links_to_markdown(f['Comment'])
 
         ds.write(
             FormTable=forms,
