@@ -11,6 +11,7 @@ from pycldf.dataset import Wordlist
 from pycldf.sources import Source
 from pylexibank.dataset import Dataset as BaseDataset
 from sqlalchemy import create_engine
+import re
 
 from mappings import FIELD_MAP, AUTHOR_MAP
 
@@ -138,6 +139,52 @@ class Dataset(BaseDataset):
         self.db_dump_to_csv()
 
     def cmd_install(self, **kw):
+
+        shorthand_sources = {} # shorthand to scr_id map
+
+        re_ref = re.compile(r'\{ref\s+([^{]+?)\s*\}', re.IGNORECASE)
+        re_cog = re.compile(r'/cognate/(\d+)/?', re.IGNORECASE)
+        re_lex = re.compile(r'/lexeme/(\d+)/?', re.IGNORECASE)
+        def parse_links_to_markdown(s):
+            # format: [label](type-id)  supported types: src/cog/lex
+            # return text for non-found IDs
+            ret = s
+            ret = re_lex.sub(make_lexeme_link, ret)
+            ret = re_cog.sub(make_cognate_link, ret)
+            ret = re_ref.sub(make_source_link, ret)
+            return ret
+        def make_source_link(m):
+            shorthand_ref = m.groups()[0]
+
+            # fixes:
+            if shorthand_ref == 'Meyer-Lübke 1930–1935':
+                shorthand_ref = 'Meyer-Lübke 1935'
+
+            if shorthand_ref in shorthand_sources:
+                return "[%s](src-%s)" % (
+                        shorthand_ref,
+                        shorthand_sources[shorthand_ref])
+            if ':' in shorthand_ref: # : typo {ref Foo 2000:16-18}
+                arr = shorthand_ref.split(':', 2)
+                if arr[0] in shorthand_sources:
+                    return "[%s](src-%s):%s" % (
+                            arr[0], shorthand_sources[arr[0]], arr[1])
+            return shorthand_ref
+        def make_cognate_link(m):
+            cog_ref = m.groups()[0]
+            if cog_ref in csids:
+                return "[cognate set %s](cog-%s)" % (
+                        cog_ref,
+                        cog_ref)
+            return 'cognate set %s' % (cog_ref)
+        def make_lexeme_link(m):
+            lex_ref = m.groups()[0]
+            if lex_ref in fids:
+                return "[lexeme %s](lex-%s)" % (
+                        lex_ref,
+                        lex_ref)
+            return 'lexeme %s' % (lex_ref)
+
         authors = {
             '{0} {1}'.format(v['First_Name'], v['Last_Name']): v for v in
             dicts('author', to_cldf=True)}
@@ -152,6 +199,7 @@ class Dataset(BaseDataset):
         ds.add_columns('FormTable', 'Value', 'Gloss', 'phon_form', 'Phonemic',
                        'native_script', 'url')
         for src in dicts('source'):
+            shorthand_sources[src['shorthand']] = src['id']
             ds.add_sources(
                 Source(src['ENTRYTYPE'], src['id'], **source_to_kw(src)))
         ds.add_component(dict(
@@ -314,6 +362,8 @@ class Dataset(BaseDataset):
                 cset['Source'] = csrefs.get(cset['ID'], [])
                 cset['Dyen'] = sorted(dyen.get(cset['ID'], []))
                 cset['Ideophonic'] = cset['Ideophonic'] == 'True'
+                cset['Comment'] = parse_links_to_markdown(cset['Comment'])
+                cset['Justification'] = parse_links_to_markdown(cset['Justification'])
                 css.append(cset)
 
                 if cset['loanword'] == 'True':
@@ -326,6 +376,9 @@ class Dataset(BaseDataset):
                         'Source_form': cset['sourceFormInLoanLanguage'],
                         'Parallel_loan_event': cset['parallelLoanEvent'] == 'True',
                     })
+
+        for f in forms:
+            f['Comment'] = parse_links_to_markdown(f['Comment'])
 
         ds.write(
             FormTable=forms,

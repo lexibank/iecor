@@ -190,7 +190,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30597,143,4,hi,,PAlb. *skin-,129;105[147],hi,,,,,
 49477,147,187,niee,,nighe,,niee,,nʲiː,nʲiː,,
 49474,147,184,skeay,,sceith,,skeay,,skeː,skeː,,
-19335,111,25,gānanā,,see /lexeme/22072/ for probable morphological breakdown,29,gānanā,,ganənɑ,,गानना,
+19335,111,25,gānanā,,see lexeme 22072 for probable morphological breakdown,29,gānanā,,ganənɑ,,गानना,
 68901,303,176,þrija,,,,þrija,,ˈθrija,ˈθrija,𐌸𐍂𐌹𐌾𐌰,
 49602,236,19,anadlu,,,,anadlu,,aˈnadlɨ,aˈnadlɨ,,
 63665,128,112,vaēnā,,attested only once,,vaēnā,N.f,,u̯ai̯naː,𐬬𐬀𐬉𐬥𐬁,
@@ -350,11 +350,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28136,127,6,cúl,,,28;208,cúl,,ku:l,,,
 6307,26,6,rêch,,Removed RUG.,,rêch,,rɛːx,,,
 20340,112,6,tergum,,gen. tergī.,206,tergum,"hinder part of the human body, back",ˈtergũ,ˈtergum,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dtergum
-28388,130,24,kúmbened,,"Native script: <b>kúmbened</b> (3.sg.pf. CA A 10), with preverb com- /lexeme/28434/ (= Lat. conuēnit).  Latin script: cebnust (3.sg.fut., TB 20), with preverb ce-.  Cf. Native Script <b>kúmbennieís</b> 'decision-making body of the city, assembly' (gen.sg., Po 3,4,14) a deverbal noun *kom-ben-i̯o-m from this verb *kom-ben-i̯o- 'come together' (as attested in context as <b>kúmbened</b> 'it came to an agreement').","279[143-145, 412]",kúmbened,come together,,,,
+28388,130,24,kúmbened,,"Native script: <b>kúmbened</b> (3.sg.pf. CA A 10), with preverb com- lexeme 28434 (= Lat. conuēnit).  Latin script: cebnust (3.sg.fut., TB 20), with preverb ce-.  Cf. Native Script <b>kúmbennieís</b> 'decision-making body of the city, assembly' (gen.sg., Po 3,4,14) a deverbal noun *kom-ben-i̯o-m from this verb *kom-ben-i̯o- 'come together' (as attested in context as <b>kúmbened</b> 'it came to an agreement').","279[143-145, 412]",kúmbened,come together,,,,
 32205,150,14,dub,,,193,dub,,,,,
 32070,148,14,du,,,193;301[153],du,black,,,,
 35129,172,4,ludu,,,280[1828];283,ludu,ashes,ˈlyːdy,,,
-1771,8,6,kṙtʿownkʿ,,"nAF: KUṘN, < 'curved, crooked body part' < Arm. KOR 'curved, crooked', cogn. with 'turn' in /cognate/3063/; ultimate cognate of /cognate/2183/?","79[376, 382];170;56",kṙtʿownkʿ,,kərtʰuŋkʰ,,կռթունք,
+1771,8,6,kṙtʿownkʿ,,"nAF: KUṘN, < 'curved, crooked body part' < Arm. KOR 'curved, crooked', cogn. with 'turn' in [cognate set 3063](cog-3063); ultimate cognate of [cognate set 2183](cog-2183)?","79[376, 382];170;56",kṙtʿownkʿ,,kərtʰuŋkʰ,,կռթունք,
 68930,303,204,waurms,,,,waurms,,wɔrms,wɔrms,𐍅𐌰𐌿𐍂𐌼𐍃,
 12755,56,6,dorso,,,,dorso,,,,,
 68961,303,206,jer,,,,jer,,jeːr,jeːr,𐌾𐌴𐍂,
@@ -410,7 +410,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 1772,8,7,vat,,,170,vat,,vɑt,uɑt,վատ,
 12364,55,7,zły,,It covers both the meaning 'bad' and 'evil'.,,zły,,zwɘ̟,zwɨ,,http://sjp.pwn.pl/szukaj/zły
 12756,56,7,mau,,,,mau,,maw,maw,,
-13354,59,7,rău,,"from Latin: reus 'defendant, culprit'. Related to Dolomite Ladino /lexeme/31718/?",47,rău,,ɾəw,rəw,,https://dexonline.ro/definitie/rău
+13354,59,7,rău,,"from Latin: reus 'defendant, culprit'. Related to Dolomite Ladino lexeme 31718?",47,rău,,ɾəw,rəw,,https://dexonline.ro/definitie/rău
 15915,68,7,malo,,,,malo,,ˈmalo,ˈmalo,,http://dle.rae.es/?w=malo
 16115,69,7,dålig,,,,dålig,,ˈdòːlɪ(ɡ),,,http://www.saob.se/artikel/?seek=dålig
 17852,76,7,må,,,,må,,moː,moː,,
@@ -422,7 +422,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28829,133,14,dakkui-,,,377[202],dakkui-,dark,,,da-ak-ku-ú-i-iš (CL),
 8658,38,8,coirt,,,193;226,coirt,,,,,
 4921,21,8,schors,,,95[322],schors,,sχɔrs,,,http://www.etymologiebank.nl/trefwoord/schors
-28390,130,27,iúkleí,,"Native script <b>iúkleí</b> (loc.sg., Cp 33.34), a dialect variant of /lexeme/28391/?",28;279[352],iúkleí,day,,,,
+28390,130,27,iúkleí,,"Native script <b>iúkleí</b> (loc.sg., Cp 33.34), a dialect variant of [lexeme 28391](lex-28391)?",28;279[352],iúkleí,day,,,,
 51031,48,209,noha,,'Leg' (and 'foot'). One can find a special word for this meaning in dictionaries (sćehno') but it is not used and in fact unknown to native speakers. Native speakers use the general word for leg.,,noha,,ˈnɔ.ɑ̈,ˈnɔ.a,,
 35132,172,7,"goal, goall",,"Seems to be used in the same contexts as drouc. There is a homonymous noun gwall m. 'error, crime, mistake, evil; misfortune, lack'.",280[1072];283,"goal, goall","bad, serious",ˈgoalː,,,
 51133,238,133,piasek,,,,piasek,,ˈpʲɒːsɛk,ˈpʲaːsɛk,,
@@ -431,7 +431,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 10228,46,8,žievė̃,,,530,žievė̃,,,,,http://etimologija.baltnexus.lt/?w=zieve
 5714,25,8,écorce,,,91[281],écorce,,ekɔʁs,eˈkɔʁs,,http://www.cnrtl.fr/etymologie/écorce
 28139,127,8,croiccenn,,,28;208,croiccenn,"hide, skin",krokʹənn,,,
-28391,130,27,zicolom,,"Latin script: zicolom (acc.sg., TB 14), zico(lom) (acc.sg., TB 15), ziculud (abl.sg., TB 16), zicel[ei] (loc.sg. TB 7), zicolom (gen.pl., TB 17).  Dialect variant of /lexeme/28390/?",28;279[868-869],zicolom,day; day of hearing (leg.),,,,
+28391,130,27,zicolom,,"Latin script: zicolom (acc.sg., TB 14), zico(lom) (acc.sg., TB 15), ziculud (abl.sg., TB 16), zicel[ei] (loc.sg. TB 7), zicolom (gen.pl., TB 17).  Dialect variant of [lexeme 28390](lex-28390)?",28;279[868-869],zicolom,day; day of hearing (leg.),,,,
 17853,76,8,pèlote,,,,pèlote,,pɛˈlɔt,pɛˈlɔt,,
 9433,42,8,scorza,,,,scorza,,,ˈʃkortsa,,
 15916,68,8,corteza,,,,corteza,,koɾ'teθa,koɾˈteθa,,http://dle.rae.es/?w=corteza
@@ -680,7 +680,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 16122,69,14,svart,,,,svart,,svaʈː,,,http://www.saob.se/artikel/?seek=svart
 14748,95,14,crn,,,,crn,,tsə̂ɾn,tsr̂ːn,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f1tmWRA
 10434,47,14,carny,,,,carny,,ˈtsɑ̈ɾnɘ̟,ˈtsarnɘ̟,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/carny
-26176,122,14,neri,,"Msg., fsg. nere, mpl.=fpl. neris. Identical to /lexeme/31656/ 'liver'.",182,neri,,'neri,'neri,,http://claap.org/definizion/?diz=fur-it&leme=neri
+26176,122,14,neri,,"Msg., fsg. nere, mpl.=fpl. neris. Identical to [lexeme 31656](lex-31656) 'liver'.",182,neri,,'neri,'neri,,http://claap.org/definizion/?diz=fur-it&leme=neri
 35139,172,11,meur,,,283;280[1926],meur,"big, great, greatly; difficult",ˈmøːr,,,
 6315,26,15,bloed,,,124[116],bloed,,blu.ət,,,
 37546,179,121,wārān,,,359,wārān,N,wārān,u̯aːraːn,wʾrʾn,
@@ -942,7 +942,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36413,176,19,"dausă, daisă",,Substantive with meaning 'breath' and 'soul'. Two different forms reflect different dialectal pronunciation.,354,"dausă, daisă",,"ˈdausɜ, daisɜ","ˈdausɜ, daisɜ",,
 5135,22,24,come,,"Middle English comen, Old English cuman",357;93[322],come,,kʌm,,,http://www.oed.com/view/Entry/36824?
 23210,81,144,yats,,,345[549],yats,skin,jəʦ,yaʦ,,
-12380,55,24,przychodzić,,Imperfective/repetitive form. Better is /lexeme/29390/ przyjść.,142,przychodzić,,pʂɘ̟ˈxɔdʑitɕ,pʂɨˈxodʑitɕ,,
+12380,55,24,przychodzić,,Imperfective/repetitive form. Better is [lexeme 29390](lex-29390) przyjść.,142,przychodzić,,pʂɘ̟ˈxɔdʑitɕ,pʂɨˈxodʑitɕ,,
 30234,140,73,crid(io)-,,Attested in proper names.,157[129],crid(io)-,,,,,
 15149,66,25,počítať,,,,počítať,,ˈpɔtʃiːtɑ̈c,ˈpotʃiːtac,,http://slovnik.azet.sk/pravopis/?q=počítať
 4148,18,25,počítat,,,,počítat,,ˈpɔtʃiːtɑ̈t,ˈpotʃiːtat,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=počítati
@@ -1044,7 +1044,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20358,112,20,ardēre,,"ārdeō, ārdēre, ārsī, ārsum",206,ardēre,to catch alight. burn (intransitive),arˈdeːre,arˈdeːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dardeo
 63682,287,180,γaš,,,,γaš,N.m,,ɣaʃ,γš,
 66407,128,125,dānuš,,"Probably the best candidate for the Swadesh term, since it is attested twice (as simplex and in a compound) and not just once.",184[733-734],dānuš,river,,dānuš,𐬛𐬁𐬥𐬎𐬱,
-28407,130,92,nertrak,,"Native script: <b>nertrak</b> (Po 39).  Used as a preposition with acc. 'left from', but in origin an abl.sg.f. *nertru- 'left', cf. Umb. nertru 'left' (adj.) /lexeme/28783/.",279[492-493],nertrak,,,,,
+28407,130,92,nertrak,,"Native script: <b>nertrak</b> (Po 39).  Used as a preposition with acc. 'left from', but in origin an abl.sg.f. *nertru- 'left', cf. Umb. nertru 'left' (adj.) [lexeme 28783](lex-28783).",279[492-493],nertrak,,,,,
 35157,172,20,lesquiff,,,280[1758];283,lesquiff,to burn,ˈleskiṽ,,,
 30236,140,86,orge,,The attested form is imperative 2sg.,157[244],orge,,,,,
 32224,150,69,lau,,,193,lau,,,,,
@@ -1269,7 +1269,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28787,132,108,nesimei,,"superlative form, Latin script: nesimei (loc.sg.n., 2x in VIa 9)",279[493-494],nesimei,nearest,,,,
 12780,56,32,beber,,,,beber,,bɨˈbeɾ,bɨˈbeɾ,,
 10251,46,32,gérti,,,530,gérti,,ˈɡʲæ:ɾʲtʲɪ,,,http://etimologija.baltnexus.lt/?w=gerti
-28162,127,28,at-baill,,"From *exs-id-bal-ni 'throws it (out)', cognate with Gk. bállō /lexeme/18968/",28;193;227[267];50[53],at-baill,,adˈbalʹlʹ,,,http://dil.ie/4577
+28162,127,28,at-baill,,"From *exs-id-bal-ni 'throws it (out)', cognate with Gk. bállō lexeme 18968",28;193;227[267];50[53],at-baill,,adˈbalʹlʹ,,,http://dil.ie/4577
 24107,120,74,schwéier,,,"448[4, 199]",schwéier,,,,,
 28414,130,121,anafríss,,"Deities associated with Ceres through the attributive adjective <b>kerríiúís</b>.  Usually interpreted as 'rain-deities' (Lat. dat.pl. imbribus, nom.sg. imber 'rain, heavy rain, rainstorm'.  See further notes in cognate coding.  Attestations: native script <b>anafríss</b> (dat.pl., Sa1 A9, B12)",279[95-96];401[1200-1206],anafríss,'Imbres',,,,
 6524,27,33,trocken,,,96[1292-3],trocken,,'trɔkn̩,,,
@@ -1549,7 +1549,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8293,36,38,eta,,only of animals,218,eta,,ɛːtʰa,,,
 21103,100,24,priti,,,28,priti,,priti,priti,прити,
 21101,100,23,studenŭ,,"Alternative lexemes are 'хладьнъ' and 'зимьнъ'. 'хладьнъ' is more like 'cool, fresh'. The primary meaning of 'зимьнъ' is 'winter, wintry'.",,studenŭ,,studɛnʊ̆,studenʊ,стѹдєнъ,
-20370,112,29,fodere,,"fodiō, fodere, fōdī, fossum; identical with /lexeme/20517/.",206,fodere,to dig,ˈfodere,ˈfodere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dfodio
+20370,112,29,fodere,,"fodiō, fodere, fōdī, fossum; identical with lexeme 20517.",206,fodere,to dig,ˈfodere,ˈfodere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dfodio
 6529,27,38,essen,,,96[419],essen,,'ɛsn̩,,,
 8882,39,40,occhio,,,90[280],occhio,,'ɔkkjo,ˈɔkkjo,,
 23873,115,171,tiugh,,,,tiugh,,,tʲu,,
@@ -1972,7 +1972,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 10656,48,45,bojeć so,,,,bojeć so,,ˈbɔjɛtʃ sɔ,ˈbɔjɛtʃ sɔ,,
 10464,47,45,bójaś se,,,,bójaś se,,ˈb(ɘ̟/ɛ)jɑ̈ɕ sɛ,ˈbojaɕ se,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/bójaś se
 4168,18,46,péro,,,,péro,,ˈpɛːɾɔ,ˈpeːro,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=péro
-1616,7,45,vaxnal,,From CA վախենալ vax-en-a-l 'id.'; cf. /lexeme/31543/.,,vaxnal,,vɑχˈnɑl,vɑχ-n-ɑ-l,վախնալ,
+1616,7,45,vaxnal,,From CA վախենալ vax-en-a-l 'id.'; cf. [lexeme 31543](lex-31543).,,vaxnal,,vɑχˈnɑl,vɑχ-n-ɑ-l,վախնալ,
 24591,118,15,xin,,,,xin,,,,,
 37478,179,52,panž,,AF pnc,359,panž,NUM,panǰ,pand͜ʒ,pnj,
 6345,26,46,fear,,,124[234],fear,,fɪ.ər,,,
@@ -2549,7 +2549,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67728,297,141,kurt,,,,kurt,,kurt,kurt,,
 67729,297,196,brêd,,,,brêd,,brɛːd,brɛːd,,
 10664,48,56,lećeć,,Unidirectional verb; multidirectional: 'lětać'.,,lećeć,,ˈletʃɛtʃ,ˈletʃɛtʃ,,
-1816,8,55,całik,,poss. related to 'laugh' /cognate/680/ and 'green',79[336];170,całik,,ʦɑˈʁik,ʦɑʁik,ծաղիկ,
+1816,8,55,całik,,poss. related to 'laugh' [cognate set 680](cog-680) and 'green',79[336];170,całik,,ʦɑˈʁik,ʦɑʁik,ծաղիկ,
 10472,47,56,leśeś,,Unidirectional verb; multidirectional: 'lětaś'.,,leśeś,,ˈleɕeɕ,ˈleɕeɕ,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/leśeś
 24599,118,46,jɨld,,,,jɨld,,,,,
 67730,297,107,engi,,,,engi,,ˈeŋɡi,ˈenɣi,,
@@ -2677,7 +2677,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 53894,253,143,s′ä̀d′a,,,,s′ä̀d′a,,ˈsʲædʲɐ,ˈsædja,,
 52797,249,99,čọlọv′ík,,,,čọlọv′ík,,tʂoloβʲik,tʂoloˈvʲik,,
 5166,22,56,fly,,"Middle English flien, from Old English flēogan",357;93[595],fly,,flaɪ,,,http://www.oed.com/view/Entry/72266?
-10273,46,55,gėlė̃,,prob. cognate with terms for 'yellow' /cognate/174/,530,gėlė̃,,ɡʲe:ˈlʲe:,,,http://etimologija.baltnexus.lt/?w=gele
+10273,46,55,gėlė̃,,prob. cognate with terms for 'yellow' cognate set 174,530,gėlė̃,,ɡʲe:ˈlʲe:,,,http://etimologija.baltnexus.lt/?w=gele
 13400,59,56,a zbura,,,,a zbura,,a zbuˈɾa,a zbuˈra,,https://dexonline.ro/definitie/a zbura
 4178,18,57,mlha,,,,mlha,,ˈml̩ɦɑ̈,ˈmlɦa,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=mlha
 12411,55,56,lecieć,,Unidirectional verb; multidirectional: 'latać',142,lecieć,,ˈlɛtɕetɕ,ˈletɕetɕ,,http://sjp.pwn.pl/szukaj/lecieć
@@ -2772,7 +2772,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67830,298,18,brēost,,,,brēost,,breːo̯st,breːo̯st,,
 28185,127,50,daig,,"Also 'flame'. < IE *dhegwh-i-, root*dhegwh- ‘to burn’.",151[159];28;208,daig,,daɣʹ,,,http://dil.ie/14169
 67831,298,10,būc,,,,būc,,buːk,buːk,,
-37721,130,95,bivus,,"Adjective bivu- < *gʷih₃-u̯o- (Lat. uīuus) derived to unattested verbal stem *biv- 'live' (cf. Lat. uīuo). Native script <b>bivus</b> (nom.pl.m., Cp 37), used as an attributive adjective to <b>humuns</b> 'people' /lexeme/28413/ Cf. Osc. <b>biítam</b> 'life' (acc.sg.f., Cm 13), < PIE *gʷih₃-teh₂- (as Lat. uīta).",279[148-149],bivus,"alive, living",,,,
+37721,130,95,bivus,,"Adjective bivu- < *gʷih₃-u̯o- (Lat. uīuus) derived to unattested verbal stem *biv- 'live' (cf. Lat. uīuo). Native script <b>bivus</b> (nom.pl.m., Cp 37), used as an attributive adjective to <b>humuns</b> 'people' lexeme 28413 Cf. Osc. <b>biítam</b> 'life' (acc.sg.f., Cm 13), < PIE *gʷih₃-teh₂- (as Lat. uīta).",279[148-149],bivus,"alive, living",,,,
 5761,25,57,brouillard,,,91[105],brouillard,,bʀujaʀ,bʀuˈjaʀ,,http://www.cnrtl.fr/etymologie/brouillard
 28811,132,182,vurtus,,"Native script: <b>vurtus</b> (3.sg.fut., IIa 2), <b>kuvertu</b> (3.sg.imptv. + preverb ko-, Ib 9,36,38, IIa 39), <b>kuvurtus</b> (3.sg.fut. + preverb ko-, Ib 11).  Latin script: couertu (3.sg.imptv. + preverb ko-, VIb 47, VIIa 44, 45), couortus (3.sg.fut. + preverb ko-, VIIa 39), courtust (3.sg.fut. + preverb ko-, VIa 6), couortuso (3.sg.fut.pass.? + preverb ko-, VIb 64).",279[864-865],vurtus,,,,,
 67833,298,210,nafela,,,,nafela,,ˈnɑvelɑ,ˈnɑfelɑ,,
@@ -2856,7 +2856,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 47612,229,184,"dislonkã, dislonk-",,,,"dislonkã, dislonk-",,"disˈlõŋkã, disˈlõŋk-","disˈlõŋkã, disˈlõŋk-",,
 37491,179,64,nēw,,"good, brave, valiant",359,nēw,ADJ,nēw,neːu̯,nyw,
 67884,298,161,stān,,,,stān,,stɑːn,stɑːn,,
-20200,80,62,šūu- / šūuau̯-,,comp. 'heavy' /lexeme/20213/,28,šūu- / šūuau̯-,"full, complete",,,šu-u-uš,
+20200,80,62,šūu- / šūuau̯-,,comp. 'heavy' [lexeme 20213](lex-20213),28,šūu- / šūuau̯-,"full, complete",,,šu-u-uš,
 67885,298,133,sand,,,,sand,,sɑnd,sɑnd,,
 67886,298,35,dūst,,,,dūst,,duːst,duːst,,
 67887,298,188,wæter,,,,wæter,,ˈwæter,ˈwæter,,
@@ -3102,7 +3102,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68025,299,180,zan,,,,zan,,tsan,tsan,,
 68026,299,179,zunge,,,,zunge,,ˈtsuŋɡə,ˈtsunɡə,,
 68027,299,109,hals,,,,hals,,hals,hals,,
-32439,140,133,graua,,"Reconstructed form based on attestations, cf Cat, Pr grava, Fr grève, gravier, Fruil grave. Related to /cognate/1739/?",193,graua,,,,,
+32439,140,133,graua,,"Reconstructed form based on attestations, cf Cat, Pr grava, Fr grève, gravier, Fruil grave. Related to [cognate set 1739](cog-1739)?",193,graua,,,,,
 68028,299,69,hant,,,,hant,,hant,hant,,
 68029,299,49,nagel,,,,nagel,,ˈnaɡəl,ˈnaɡəl,,
 68030,299,18,brust,,,,brust,,brust,brust,,
@@ -3920,7 +3920,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 7563,32,86,skotṓnō,,,271,skotṓnō,kill,sko̞ˈto̞no̞,sko̞ˈto̞no̞,σκοτώνω,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=σκοτώνω
 34774,162,86,māreti,,,246[524],māreti,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=Marati
 32481,140,37,talamo-,,"Reconstructed form, based on attestations of place names.",193[27],talamo-,,,,,
-30894,144,76,maranā,,Identical to /lexeme/30905/ 'to kill' (same language).,169,maranā,,mɑrnɑ,,मरना,
+30894,144,76,maranā,,Identical to [lexeme 30905](lex-30905) 'to kill' (same language).,169,maranā,,mɑrnɑ,,मरना,
 10290,46,73,širdìs,,,530,širdìs,,ʃʲɪrʲˈdʲɪs,,,http://etimologija.baltnexus.lt/?w=širdis
 15195,66,73,srdce,,,,srdce,,ˈsr̩tsɛ,ˈsrtse,,http://slovnik.azet.sk/pravopis/?q=srdce
 7567,32,91,fýllo,,,271,fýllo,leaf,ˈfilo̞,ˈfilo̞,φύλλο,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=φύλλο
@@ -3983,7 +3983,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32482,140,38,depro-,,"Reconstructed form, based on attestations of male names.",193[27],depro-,,,,,
 28201,127,66,úaine,,,28;208,úaine,,u:ənʹe,,,http://dil.ie/42643
 21924,108,78,ragis,,EV,28;532,ragis,,,,,
-30905,144,86,maranā,,Identical to /lexeme/30894/ 'to hit' (same language).,169,maranā,,mɑrnɑ,,मरना,
+30905,144,86,maranā,,Identical to [lexeme 30894](lex-30894) 'to hit' (same language).,169,maranā,,mɑrnɑ,,मरना,
 15979,68,74,grave,,split from DKB,,grave,,,,,
 31365,145,71,ovuð,,,177,ovuð,,ˈòvʉð,ˈòvʉð,,
 3999,17,74,feixuc,,,116[122],feixuc,,fə'ʃuk,,,
@@ -4015,7 +4015,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 18731,110,51,ichthỹs,,G.sg. ἰχθῡ́ος.,160,ichthỹs,fish,ikʰtʰŷːs,ikʰtʰŷːs,ἰχθῦς,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=i)xqu=s
 36733,175,63,dac,,,249,dac,,dɑ̈ts,dats,,
 9497,42,76,bate,,,,bate,,,ˈbatε,,
-30912,144,93,goḍ,,Identical to /lexeme/30874/ 'foot' (same language).,169,goḍ,,ɡoɽ,,गोड,
+30912,144,93,goḍ,,Identical to [lexeme 30874](lex-30874) 'foot' (same language).,169,goḍ,,ɡoɽ,,गोड,
 17916,76,74,loûrd,,,,loûrd,,luːʁ,luːʁ,,
 16180,69,76,slå,,,121[395],slå,,slo:,,,http://www.saob.se/artikel/?seek=slå
 15198,66,76,udrieť,,,,udrieť,,ˈudriɛc,ˈudriec,,http://slovnik.azet.sk/pravopis/?q=udrieť
@@ -4356,7 +4356,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68796,302,217,sœtr,,,,sœtr,,søːtr,søːtr,,
 68797,302,186,heitr,,,,heitr,,hɛi̯tr,hɛi̯tr,,
 68798,302,23,kaldr,,,,kaldr,,kaldr,kaldr,,
-30965,144,147,choṭ,,One is phonological variant of the other. Identical to /lexeme/30959/ 'short'.,169,choṭ,,cʰot(ɑ),,छोट,
+30965,144,147,choṭ,,One is phonological variant of the other. Identical to [lexeme 30959](lex-30959) 'short'.,169,choṭ,,cʰot(ɑ),,छोट,
 68799,302,97,langr,,,,langr,,laŋɡr,lanɡr,,
 68800,302,141,skammr,,,,skammr,,skamːr,skamːr,,
 68801,302,196,víðr,,,,víðr,,wiːðr,wiːθr,,
@@ -4695,7 +4695,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 69020,303,178,bindan,,,,bindan,,ˈbindan,ˈbindan,𐌱𐌹𐌽𐌳𐌰𐌽,
 69024,303,187,þwahan,,,,þwahan,,ˈθwahan,ˈθwahan,𐌸𐍅𐌰𐌷𐌰𐌽,
 24160,120,87,Knéi,,,"448[2, 409]",Knéi,,,,,
-31020,144,199,pāṅkh,,Identical to /lexeme/30861/ 'feather'.,169,pāṅkh,,pɑ̃kʰ,,पांख,
+31020,144,199,pāṅkh,,Identical to [lexeme 30861](lex-30861) 'feather'.,169,pāṅkh,,pɑ̃kʰ,,पांख,
 5593,24,92,linksch,,,,linksch,,,,,
 45186,219,210,šópu,,,,šópu,,ˈɕopo,ɕópu,شوۡپوۡ,
 45189,219,213,čhay,,,,čhay,,tɕʰaj,tɕʰaj,چھئیۡ,
@@ -4916,7 +4916,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4215,18,97,dlouhý,,,,dlouhý,,ˈdlɔuɦiː,ˈdlouɦiː,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=dlouhý
 8934,39,96,fegato,,,90[159],fegato,,'fegato,ˈfegato,,
 4803,20,95,leve,,,97[http://ordnet.dk/ddo/ordbog?query=leve&search=S%C3%B8g],leve,,ˈle:və,,,
-32503,140,130,kurro-,,"Reconstructed form, based on attestations. Related to /cognate/2444/?",193[29],kurro-,,,,,
+32503,140,130,kurro-,,"Reconstructed form, based on attestations. Related to [cognate set 2444](cog-2444)?",193[29],kurro-,,,,,
 31384,145,90,gręsas,,used especially about a scornful laughter,177,gręsas,,ˈgrɛ̃̀ːsɑs,,,
 6582,27,96,Leber,,,96[829],Leber,,'le:bɐ,,,
 5202,22,95,live,,,93[910],live,,lɪv,,,http://www.oed.com/view/Entry/109300?
@@ -4925,7 +4925,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 21943,108,101,mensā,,"EV menso, Gr mense",28;532,mensā,,,,,
 6583,27,97,lang,,,96[819],lang,,laŋ,,,
 8740,38,98,míol,,,193;226,míol,,,,,http://www.teanglann.ie/ga/fgb/míol
-1855,8,99,mard,,Also 'human being'. Identical to /lexeme/31555/.,170,mard,,mɑɾtʰ,mɑɾd,մարդ,
+1855,8,99,mard,,Also 'human being'. Identical to lexeme 31555.,170,mard,,mɑɾtʰ,mɑɾd,մարդ,
 5599,24,98,luis,,,,luis,,,,,
 26253,122,91,fuee,,,182,fuee,,ˈfwee,'fwee,,http://claap.org/definizion/?diz=fur-it&leme=fuee
 23931,115,179,teanga,,,193,teanga,,,tʲɛŋgə,,
@@ -5521,7 +5521,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 11499,51,118,khelnu,,,,khelnu,,kʰelnu,,खेल्नु,
 5224,22,118,play,,,93[1193],play,,pleɪ,,,http://www.oed.com/view/Entry/145475?
 14249,62,118,jocare,,,,jocare,,,,,
-5424,23,120,skumpa,,= /lexeme/21959/?,213,skumpa,'shove',ˈskʊmpa,,,
+5424,23,120,skumpa,,= lexeme 21959?,213,skumpa,'shove',ˈskʊmpa,,,
 12861,56,118,jogar,,playing a game,,jogar,,ʒuˈɡaɾ,ʒuˈɡaɾ,,
 13261,58,120,skyve,,,219,skyve,,ˈʃỳːʋə,,,
 28242,127,106,ainm,,,151[284];28;193,ainm,,anʹmʹ,,,http://dil.ie/1471
@@ -5696,7 +5696,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17963,76,124,dreûte,,,,dreûte,,,,,
 14853,95,129,gnjio,,,,gnjio,,ˈɡɲî.ɔ,ˈɡɲî.o,,http://hjp.znanje.hr/index.php?show=search_by_id&id=fFZkWxQ
 12475,55,124,prawy,,,142,prawy,,ˈpɾɑ̈vɘ̟,ˈpravɨ,,http://sjp.pwn.pl/szukaj/prawy
-1884,8,129,nexac,,comp. M. /lexeme/11311/,170,nexac,,nɛˈχɑts,nɛχ-ɑts,նեխած,
+1884,8,129,nexac,,comp. M. [lexeme 11311](lex-11311),170,nexac,,nɛˈχɑts,nɛχ-ɑts,նեխած,
 12868,56,125,rio,,,,rio,,ˈʀiu,ˈʀiu,,
 10258,46,39,kiaušìnis,,,530,kiaušìnis,,,,,http://etimologija.baltnexus.lt/?w=kiaušinis
 4244,18,127,kořen,,,,kořen,,ˈkɔr̝ɛn,ˈkor̝en,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=kořen
@@ -5773,7 +5773,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20455,112,104,mōns,,gen. montis,206,mōns,"mountain, hill",moːns,moːns,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dmons
 6614,27,129,faul,,,96[438],faul,,faŭl,,,
 20456,112,105,ōs,,gen. ōris.,206,ōs,mouth (of a person or animal),oːs,oːs,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dos1
-8966,39,129,marcio,,comp. /cognate/403/,90[250],marcio,,'martʃo,ˈmaɾtʃo,,
+8966,39,129,marcio,,comp. [cognate set 403](cog-403),90[250],marcio,,'martʃo,ˈmaɾtʃo,,
 65551,178,12,way,,ZMP (murw is probably more common),,way,N,,u̯ai̯,wʾd,
 23963,115,28,bàsaich,,,193,bàsaich,,,baːsɪç,,
 27795,128,125,rauuan,,Means in fact ʿvalleyʿ and is thus not relevant.,28;322,rauuan,N.m,,rau̯an,𐬭𐬀𐬎𐬎𐬀𐬥,
@@ -5986,12 +5986,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5442,23,140,bitur,,split from DKB. poetic,213,bitur,,ˈb̥iːtʰʊɹ,,,
 36791,175,115,jeden,,,249,jeden,,ˈjɛdɛn,ˈjeden,,
 35275,172,114,coz,,,280[1630];283,coz,"old, ancient",ˈkoːθ,,,
-28260,127,121,bráen,,Related to /cognate/1043/?,151[312];28,bráen,,brain,,,http://dil.ie/6469
+28260,127,121,bráen,,Related to [cognate set 1043](cog-1043)?,151[312];28,bráen,,brain,,,http://dil.ie/6469
 12879,56,137,ver,,,,ver,,veɾ,veɾ,,
 30724,143,188,ujë,,,129,ujë,,,,,
 36520,176,108,blaizĕk,,,354,blaizĕk,,ˈblaizɘk,ˈblaizɘk,,
 8975,39,139,cucire,,,90[111],cucire,,ku'tʃire,kuˈtʃiɾe,,
-916,3,143,rri,,"Also 'to stand, to stay, to remain'. Goes back to PAlb *rina etymologically xlose to Skt rnóti 'to arise, to move', Gk ορνυμαι 'to move up' and related forms. See also /lexeme/929/.",105[386],rri,,,,,
+916,3,143,rri,,"Also 'to stand, to stay, to remain'. Goes back to PAlb *rina etymologically xlose to Skt rnóti 'to arise, to move', Gk ορνυμαι 'to move up' and related forms. See also [lexeme 929](lex-929).",105[386],rri,,,,,
 6623,27,139,nähen,,,96[920],nähen,,'nɛ:ən,,,
 17975,76,137,vèyî,,,,vèyî,,vɛ'jiː,vɛ'jiː,,
 13477,59,138,sămânță,,,,sămânță,,səˈmɨnʦə,səˈmɨnʦə,,https://dexonline.ro/definitie/sămânță
@@ -6222,7 +6222,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20472,112,119,trahere,,"trahō, trahere, taxī, tractum",206,trahere,"move by pulling, drag",ˈtrahere,ˈtrahere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dtraho
 5845,25,146,dormir,,,91[268-9],dormir,,doʀmiʀ,doʀˈmiʀ,,http://www.cnrtl.fr/etymologie/dormir
 33799,157,104,fiäl,,less common term,209,fiäl,,fjælː,,,
-24214,120,120,drécken,,cognate with 'pull' in /cognate/2834/ and 'rub' in /cognate/1167/,"448[1, 224]",drécken,,,,,
+24214,120,120,drécken,,cognate with 'pull' in [cognate set 2834](cog-2834) and 'rub' in cognate set 1167,"448[1, 224]",drécken,,,,,
 5251,22,146,sleep,,"Middle English slepe, Old English slæp",357;93[1453],sleep,,sli:p,,,http://www.oed.com/view/Entry/181604?
 31433,145,139,söma,,,202[455],söma,,ˈsœ̀ːmɑ,ˈsœ̀ːmɑ,,
 10558,47,149,dym,,An alternative lexeme is 'kuŕ' but it has also a meaning 'dust'.,,dym,,dɘ̟m,dɘ̟m,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/dym
@@ -6236,7 +6236,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 15855,97,150,gladek,,,,gladek,,ˈɡlɑ̈̀ːdək,ˈɡlàːdək,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4286473/gladek
 10751,48,150,hładki,,,,hładki,,ˈwatkʲi,ˈwadki,,
 10559,47,150,gładki,,,,gładki,,ˈɡwatkʲi,ˈɡwadki,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/gładki
-30733,143,202,grua,,VAlso 'wife'. See /lexeme/30825/. Related to Gk γραυς 'old woman'.,129;105[125],grua,,,,,
+30733,143,202,grua,,VAlso 'wife'. See lexeme 30825. Related to Gk γραυς 'old woman'.,129;105[125],grua,,,,,
 4067,17,147,petit,,,116[200],petit,,pə'tit,,,
 10359,46,146,miegóti,,,530,miegóti,,,,,http://etimologija.baltnexus.lt/?w=miegoti
 35284,172,122,ruz,,"The Catholicon (1499) translates 'rouge, Latin rubeus, ruber'.",280[2769-70];283,ruz,red,ˈryːð,,,
@@ -6368,7 +6368,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 31438,145,144,stjinn,,only for human skin,202[443],stjinn,,stʃɪnː,stʃɪnː,,
 14281,62,151,serpente,,,,serpente,,,,,
 17989,76,151,sièrpint,,,,sièrpint,,,,,
-929,3,158,rri,,"Also 'to sit, to stay, to remain'. Goes back to PAlb *rina etymologically close to Skt rnóti 'to arise, to move', Gk ορνυμαι 'to move up' and related forms. See also /lexeme/916/.",105[386],rri,,,,,
+929,3,158,rri,,"Also 'to sit, to stay, to remain'. Goes back to PAlb *rina etymologically close to Skt rnóti 'to arise, to move', Gk ορνυμαι 'to move up' and related forms. See also [lexeme 916](lex-916).",105[386],rri,,,,,
 6636,27,152,Schnee,,,96[1116],Schnee,,ʃne:,,,
 6445,26,160,"stôk, stok",,,124[989],"stôk, stok",,"stɔ:k, stɔk",,,
 9569,42,152,neif,,,,neif,,,ˈnei̯f,,
@@ -6781,7 +6781,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 9007,39,171,grosso,,,90[189],grosso,,'grɔsso,ˈgɾɔsso,,
 20496,112,140,acūtus,,"G.sg. acūtī; acūtus, acūta, acūtum",206,acūtus,"sharpened, pointed, tapering",aˈkuːtus,aˈkuːtus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dacutus
 27836,128,179,hizū,,"further attested stems: hizβah (n.), hizβā (f.)",28;184,hizū,N.m,,hizuː,𐬵𐬌𐬰𐬏,
-60388,282,8,qałwāx,,possible cognate to /cognate/9118,,qałwāx,,,,,
+60388,282,8,qałwāx,,possible cognate to [cognate set 9118](cog-9118),,qałwāx,,,,,
 6464,26,179,tonge,,split from DKB,124[1062],tonge,,'toŋə,,,
 6655,27,171,dick,,,96[317],dick,,dɪk,,,
 10775,48,176,tři,,,,tři,,tsʲi,tsi,,
@@ -6797,7 +6797,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 62509,291,17,ostoxun,,,,ostoxun,,Ɂɔst̪ɔχũ,ɔst̪ɔχun,,
 23252,81,196,wärts,,,345[139-140],wärts,wide,wɨrʦ,wrʦ,,
 6465,26,180,tosk,,"Related to English tusk, both a different cognate subset within the same 'tooth' cognate set",124[1064],tosk,,tosk,,,
-24005,115,188,uisge,,also 'rain' /lexeme/24007/,193,uisge,,ɯʃɡ̊ʲɪ,ɯʃgʲə,,
+24005,115,188,uisge,,also 'rain' [lexeme 24007](lex-24007),193,uisge,,ɯʃɡ̊ʲɪ,ɯʃgʲə,,
 16072,68,171,espeso,,,,espeso,,,,,http://dle.rae.es/?espeso
 26326,122,164,soreli,,Deriv. soreglon.,182,soreli,,so'reli,so'reli,,http://claap.org/definizion/?diz=fur-it&leme=soreli
 5077,21,171,dik,,,95[89],dik,,dɪk,,,http://www.etymologiebank.nl/trefwoord/dik
@@ -6959,7 +6959,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4098,17,180,dent,,,,dent,,den,,,
 18014,76,176,treûs,,,,treûs,,,,,
 12918,56,176,três,,,,três,,tɾeʃ,tɾeʃ,,
-8820,38,182,cor,,"< CORN 'roll', prob. Lat. CORNU 'horn', see there /cognate/2457/",225,cor,,,,,
+8820,38,182,cor,,"< CORN 'roll', prob. Lat. CORNU 'horn', see there [cognate set 2457](cog-2457)",225,cor,,,,,
 53965,212,224,-li-,,,,-li-,,-li-,-li-,,
 54009,212,146,ostom-,,,,ostom-,,ostom-,ostom-,,
 54018,212,221,-pč-,,,,-pč-,,-pʧ-,-pʧ-,,
@@ -7101,7 +7101,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35326,172,152,erch,,,280[751];283,erch,snow,ˈerx,,,
 24248,120,50,Feier,,,"448[1, 315]",Feier,,,,,
 31467,145,173,taintja,,,202[456],taintja,,ˈtɑ̀ɪntʃɑ,ˈtɑ̀ɪntʃɑ,,
-9597,42,181,alber,,cognate with /cognate/347/?,,alber,,,ˈalbεr,,
+9597,42,181,alber,,cognate with [cognate set 347](cog-347)?,,alber,,,ˈalbεr,,
 10593,47,186,śopły,,,,śopły,,ˈɕɔpwɘ̟,ˈɕopwɘ̟,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/śopły
 10785,48,186,ćopły,,,,ćopły,,ˈtʃɔpwɘ̟,ˈtʃɔpwɘ̟,,
 14310,62,180,dente,,,,dente,,,,,
@@ -7245,7 +7245,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36836,175,158,stac,,,249,stac,,stɑ̈ts,stats,,
 23295,82,29,rapanaṃ,,"Root /rapa-/; nasal pres. replacement for PToch. root pres. *rəpa-, cf. Toch. A rpā-, inf. rpātsi.",345[574];341[812-813],rapanaṃ,dig,rəˈpənə̃,rap-ə́n-a-n,,
 34721,162,32,pivati/pibati,,,246[461],pivati/pibati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=pivati
-8290,36,35,ryk,,cf. 'smoke' /lexeme/8396/,,ryk,,rɪːk,,,
+8290,36,35,ryk,,cf. 'smoke' [lexeme 8396](lex-8396),,ryk,,rɪːk,,,
 30795,143,138,farë,,"Also 'semen, kin'. From PAlb *sparā < IE *sporā closely connected with Gk fem. σπoρα 'seed' and further to *sper- 'to spill, to sow'. Holm suggests it may be a loan < Gk.",129;105[93];130[33],farë,,,,,
 20320,80,194,ḫarki-,,,,ḫarki-,"white, bright",,,ḫar-ki-iš,
 8291,36,36,eyra,,,,eyra,,ˈeiːra,,,
@@ -7648,7 +7648,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13238,58,96,lever,,,,lever,,ˈlɛʋːəɾ,,,
 4112,17,194,blanc,,,116[33],blanc,,blaŋ,,,
 33750,157,66,grön,,,209,grön,,ɡrøːn,ɡrøːn,,
-30802,143,162,drejtë,,Also cf. the other lexeme under /lexeme/30790/ 'right'.,129,drejtë,,,,,
+30802,143,162,drejtë,,Also cf. the other lexeme under lexeme 30790 'right'.,129,drejtë,,,,,
 26345,122,183,doi,,,182,doi,,'doj,'doj,,http://claap.org/definizion/?diz=fur-it&leme=doi
 23352,82,89,lyam,,,345[614],lyam,lake,lʲəm,lʲəmə,,
 35337,172,164,"heaul, eaul, heol",,,280[1203-04],"heaul, eaul, heol",sun,"ˈheol, ˈheaul, ˈeol, ˈeaul",,,
@@ -7738,7 +7738,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4114,17,196,ample,,,116[12],ample,,ˈamplə,,,
 35862,174,65,ggīsai,,stem ggīsaa-,320[84],ggīsai,NOM.SG,gi:sæi,giːsai̯,,
 37243,178,106,nām,,ZP nʾm,359,nām,N,nɑ:m,naːm,nʾm,
-28316,127,167,err,,"< IE *ersā; root *ers- 'rear, tail'. Cf. also Gk ονρα 'tail'. Cognate with other OIr term for tail /lexeme/29494/?",151[383];28;208,err,,err,,,
+28316,127,167,err,,"< IE *ersā; root *ers- 'rear, tail'. Cf. also Gk ονρα 'tail'. Cognate with other OIr term for tail [lexeme 29494](lex-29494)?",151[383];28;208,err,,err,,,
 6678,27,194,weiß,,,96[1423],weiß,,vaĭs,,,
 4816,20,109,hals,,,97[http://ordnet.dk/ddo/ordbog?query=hals&search=S%C3%B8g],hals,,halˀs,,,http://ordnet.dk/ddo/ordbog?query=hals
 33764,157,80,iägha,,,209,iägha,,ˈjæɣa,jæga,,
@@ -8042,7 +8042,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 34839,162,150,saṇha,,,246[672],saṇha,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=saṇha
 33811,157,111,nat,,,209,nat,,natː,natː,,
 5463,23,161,steinur,,,213,steinur,,ˈstaiːnʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=steinur
-24033,115,104,beinn,,"AF? BRI, BRE > cogn. with /cognate/261/",193,beinn,,,beiNʲ,,
+24033,115,104,beinn,,"AF? BRI, BRE > cogn. with [cognate set 261](cog-261)",193,beinn,,,beiNʲ,,
 15317,66,199,krídlo,,,,krídlo,,ˈkɾiːdlɔ,ˈkriːdlo,,http://slovnik.azet.sk/pravopis/?q=krídlo
 35356,97,93,noga,,,,noga,,ˈnɔ̀ːɡɑ̈,ˈnɔ̀ːɡa,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4289380/noga
 9234,40,203,wan,,,,wan,,ʋɑn,ʋɑn,ون,
@@ -8415,7 +8415,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33859,157,141,kort,,seems to be limited to time expressions,209,kort,,kort,,,
 25847,58,150,jevn,,split from DKB,219,jevn,'even',jɛʋn,,,
 29468,58,58,fot,,,219;150,fot,,fuːt,,,
-20533,112,171,crassus,,"G.sg. crassī; crassus, crassa, crassumsee 'fat' in /cognate/1262/. Etymology unclear.",206,crassus,"having considerable thickness in section, thick",ˈkrasːus,ˈkrasːus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dcrassus1
+20533,112,171,crassus,,"G.sg. crassī; crassus, crassa, crassumsee 'fat' in cognate set 1262. Etymology unclear.",206,crassus,"having considerable thickness in section, thick",ˈkrasːus,ˈkrasːus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dcrassus1
 34972,48,91,łopjeno,,,249,łopjeno,,ˈwɔp(ĕ)ɛnɔ,ˈwɔpjɛnɔ,,
 5906,25,207,jaune,,,91[447],jaune,,ʒon,ʒon,,http://www.cnrtl.fr/etymologie/jaune
 34887,162,161,amha/asama,,,"246[74, 88]",amha/asama,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=amha
@@ -8474,7 +8474,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28331,127,177,sreïd,,,28;208,sreïd,,sʹrʹeʔiðʹ,,,http://dil.ie/38776
 25266,26,29,grave,,split from DKB,124[350],grave,,'gra:və,,,
 54255,162,219,dhāvati,,,,dhāvati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=dhāvati
-25023,38,87,glúin,,prob. cogn. with 'cloud' in /lexeme/5133/,47[243];193,glúin,,ɡˠɫuːɲ,,,http://www.teanglann.ie/ga/fgb/glúin
+25023,38,87,glúin,,prob. cogn. with 'cloud' in [lexeme 5133](lex-5133),47[243];193,glúin,,ɡˠɫuːɲ,,,http://www.teanglann.ie/ga/fgb/glúin
 49914,82,213,skiyo,,,,skiyo,,ˈskijo,skəyo,,
 24042,115,27,là,,,,là,,,La.a,,
 54256,162,138,bīja,,,,bīja,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=bīja
@@ -8840,7 +8840,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25261,39,29,scavare,,,90[383],scavare,,ska'vare,skaˈvaɾe,,
 24547,46,56,skrìsti,,,530,skrìsti,,ˈsʲkʲɾʲɪsʲtʲɪ,,,http://etimologija.baltnexus.lt/?w=skristi
 24050,115,64,math,,,193,math,,"ma:, mah",,,
-26023,26,182,"wiele, wielje",,"split from DKB, IE *quel-, = ON HJOL, Skt. CAKRA-, 'wheel', NE WHEEL; see also comment on /lexeme/22907/",124[1182],"wiele, wielje",,"'vi.ələ, 'vi.əljə",,,
+26023,26,182,"wiele, wielje",,"split from DKB, IE *quel-, = ON HJOL, Skt. CAKRA-, 'wheel', NE WHEEL; see also comment on lexeme 22907",124[1182],"wiele, wielje",,"'vi.ələ, 'vi.əljə",,,
 25399,68,49,uña,,,47[245],uña,,'uɲa,ˈuɲa,,http://dle.rae.es/?id=b72slJo
 24810,40,99,zon,,,,zon,,,,ZON,
 35002,48,102,měsačk,,Formally a diminutive.,249,měsačk,,ˈm(ʲ)ɪsɑ̈tʃk,ˈmɪsatʃk,,
@@ -8926,7 +8926,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25400,59,49,unghie,,,47[245],unghie,,ˈungje,ˈungje,,https://dexonline.ro/definitie/unghie
 35763,124,147,ḱysyl,,,324,ḱysyl,,tʃʰɘˈʃɘl,čəšəl,чысыл,
 25013,46,130,ãpskritas,,two-dimensional,530,ãpskritas,,,,,http://etimologija.baltnexus.lt/?w=apskritas
-26966,36,102,tungl,,Cognate with /lexeme/21699/.,,tungl,,tʰuŋkl,,,
+26966,36,102,tungl,,Cognate with lexeme 21699.,,tungl,,tʰuŋkl,,,
 28345,127,187,nigid,,,28,nigid,,nʹiɣʹəðʹ,,,http://dil.ie/33179
 25502,8,76,zarkel,,split from DKB,170,zarkel,,,,զարկել,
 58397,277,223,merbane,,"with metathesis, cf. Cheung (2007: 24)",,merbane,,,merbæne,,
@@ -9369,7 +9369,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26859,18,41,padnout,,,,padnout,,ˈpɑ̈dnɔut,ˈpadnout,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=padnouti
 37010,66,212,včera,,,249,včera,,ˈftʃɛɾɑ̈,ˈftʃera,,http://slovnik.azet.sk/pravopis/?q=včera
 27164,95,165,oteći,,An alternative lexeme is 'nabreknuti'.,,oteći,,ˈɔ̌tɛtɕi,ˈǒtetɕi,,http://hjp.znanje.hr/index.php?show=search_by_id&id=eFdmWhI
-26941,115,160,maide,,Cognate with /lexeme/8603/.,,maide,,mad̊ʲɪ,madʲə,,
+26941,115,160,maide,,Cognate with lexeme 8603.,,maide,,mad̊ʲɪ,madʲə,,
 33595,36,28,andast,,metaphorical 'breathe one's last' TKD,218,andast,,ˈand̥ast,,,
 33331,20,120,skyde,,less common,97,skyde,,ˈsɡ̊yːðə,,,
 37129,95,214,dom,,'home' and 'house'. 'Kuća' is more generic as a lexeme for a building/structure.,249,dom,,dɔ̂m,,,
@@ -9547,7 +9547,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26927,38,182,cas,,,226,cas,,kas,,,http://www.teanglann.ie/ga/fgb/cas
 28370,127,206,blíadain,,,28,blíadain,,bʹlʹiːəðənʹ,,,http://dil.ie/6133
 26984,69,167,svans,,,,svans,,svans,,,http://www.saob.se/artikel/?seek=svans
-29390,55,24,przyjść,,See also /lexeme/12380/ 'come'.,142,przyjść,,pʂɘ̟jɕtɕ,pʂɨjɕtɕ,,http://sjp.pwn.pl/szukaj/przyjść
+29390,55,24,przyjść,,See also [lexeme 12380](lex-12380) 'come'.,142,przyjść,,pʂɘ̟jɕtɕ,pʂɨjɕtɕ,,http://sjp.pwn.pl/szukaj/przyjść
 36947,47,225,mlaś,,,249,mlaś,,ml(ʲ)ɑ̈ɕ,mlaɕ,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/mlaś
 37137,95,222,sakrivati,,,249,sakrivati,,sɑ̈ˈkɾǐːvɑ̈ti,saˈkrǐːvati,,http://hjp.znanje.hr/index.php?show=search_by_id&id=dldnWBk
 37005,18,225,mlít,,,249,mlít,,mliːt,mliːt,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=mlíti
@@ -9673,7 +9673,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 34528,21,145,lucht,,,223,lucht,,lʏχt,,,http://www.etymologiebank.nl/trefwoord/lucht1
 26934,38,62,lán,,,193,lán,,"l̪ˠɑːn̪ˠ, l̪ˠæːn̪ˠ",,,http://www.teanglann.ie/ga/fgb/lán
 23783,112,37,humus,,G.sg. humī; EXCLUDED.,206;137,humus,"surface of the earth, ground",ˈhumus,ˈhumus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dhumus
-29477,127,18,ucht,,< *pok-tu- (?) ‘breast'. Cf. also Lat pectus /lexeme/27662/.,151[74],ucht,,uxt,,,http://dil.ie/42871
+29477,127,18,ucht,,< *pok-tu- (?) ‘breast'. Cf. also Lat pectus [lexeme 27662](lex-27662).,151[74],ucht,,uxt,,,http://dil.ie/42871
 36370,112,211,musca,,G.sg. muscae,206,musca,a fly,ˈmuska,ˈmuska,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dmusca1
 27246,68,140,afilado,,,,afilado,,afi'laðo,afiˈlado,,http://dle.rae.es/?id=0xnBzYO
 29478,127,18,bruinne,,"< *bhru-s-n-yo-, root: *bhreu-s-‘to swell, sprout’.",151[74];208,bruinne,,brunʹnʹe,,,http://dil.ie/7117
@@ -9684,7 +9684,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20624,44,42,tālu,,,28;535,tālu,,tâlu,,,
 26087,17,198,aire,,split from DKB. Changed from AYRE.,116[11],aire,,'aijrə,,,
 32362,115,37,tír,,,193;232,tír,,,,,
-26935,38,110,úr,,"New, fresh. Cognate with /lexeme/24047/?This is the Swadesh term in the North (Ulster)",193;226,úr,,uːɾˠ,,,
+26935,38,110,úr,,"New, fresh. Cognate with [lexeme 24047](lex-24047)?This is the Swadesh term in the North (Ulster)",193;226,úr,,uːɾˠ,,,
 36639,176,204,zmėjăk,,,354,zmėjăk,,ˈzmejɜk,ˈzmejɜk,,
 36195,172,215,"hueru, huerou",,,280[369];283,"hueru, huerou",bitter (taste; also metaphorically),ˈxweːru,,,
 37432,176,223,plokăt,,,249,plokăt,,ˈplɔkɜt,ˈplokɜt,,
@@ -9800,7 +9800,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36381,112,223,lācrimāre,,"lācrimō, lācrimāre, lācrimāuī, lācrimātum",206,lācrimāre,"to shed tears, weep",ɫaːkriˈmaːre,laːkriˈmaːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dlacrimo
 34203,145,136,av,,"NB! Used about oceans, e.g. the Atlantic or the Baltic Sea. No lakes or seas in the Övdalian speaking area are called ""av"".",202,av,,,,,
 34537,21,95,wonen,,,223,wonen,,ˈwonə,,,http://www.etymologiebank.nl/trefwoord/wonen
-29488,127,86,"orcaid, oirgid",,< IE *h3erg-. Cf. ClArm /lexeme/28521/ 'to hit'.,151[228];193;208,"orcaid, oirgid",,"orgəðʹ, orʹgʹəðʹ",,,http://dil.ie/33726
+29488,127,86,"orcaid, oirgid",,< IE *h3erg-. Cf. ClArm [lexeme 28521](lex-28521) 'to hit'.,151[228];193;208,"orcaid, oirgid",,"orgəðʹ, orʹgʹəðʹ",,,http://dil.ie/33726
 26904,59,124,drept,,,,drept,,dɾept,drept,,https://dexonline.ro/definitie/drept
 33167,69,55,blomma,,,211,blomma,,ˈblʊ̀mːa,,,http://www.saob.se/artikel/?seek=blomma
 25927,51,160,ḍanḍā,,split from DKB,,ḍanḍā,,ɖʌnɖa,,डन्डा,
@@ -9952,7 +9952,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32334,127,64,dag,,,193;208,dag,,daɣ,,,http://dil.ie/14139
 33635,36,140,hvass,,,218,hvass,,"xʷasː, kʰvasː",,,
 33634,36,140,skarpur,,,218,skarpur,'keen',ˈskar̥pʰʏr,,,
-34616,115,66,gorm,,MacBain's links this to /cognate/333/,232,gorm,,,gɔrɔm,,
+34616,115,66,gorm,,MacBain's links this to [cognate set 333](cog-333),232,gorm,,,gɔrɔm,,
 33202,23,119,hála,,Either from Old Norse 'hala' or Danish 'hale' from Low German 'halen',213,hála,,ˈhɔaːla,,,
 33203,23,120,skjóta,,,213,skjóta,'shoot',ʃɔuːtʰa,,,
 33204,23,120,trýsta,,,213,trýsta,,ˈtʰɹʊista,,,
@@ -10295,7 +10295,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 21911,108,66,saligan,,"n., EV",28;532,saligan,,,,,
 21913,108,68,scebelis,,EV,28;532,scebelis,,,,,
 20616,44,35,pîs̀l-̜i,,= Lat. PINSERE 'crush',28,pîs̀l-̜i,,,,,
-21885,108,39,paute,,"related to many terms for 'child, son', e.g. /cognate/1462/",28;532,paute,,,,,
+21885,108,39,paute,,"related to many terms for 'child, son', e.g. cognate set 1462",28;532,paute,,,,,
 1769,8,4,moxir,,,79[484];170,moxir,,mɔˈχiɾ,mɔχiɾ,մոխիր,
 28441,129,4,moxir,,,28;277[483],moxir,Also 'dust',mɔˈχiɾ,mɔχiɾ-ɔ-,մոխիր,
 38643,108,222,auklipts,,ppp.,532,auklipts,,,,,
@@ -10457,7 +10457,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 41296,203,8,escorce,,,,escorce,,,,,http://www.anglo-norman.net/D/escorce
 41298,203,10,ventre,,,,ventre,,,,,http://www.anglo-norman.net/D/ventre
 39926,195,64,kalós,,,,kalós,,kɐˈlɔs,kɐˈlɔs,καλός,
-13376,59,30,murdar,,"< Turk. MURDAR < PERS. MURDAR 'corpse', thus cognate with many terms for 'die' /cognate/18/",47[1082],murdar,,muɾˈdaɾ,murˈdar,,https://dexonline.ro/definitie/murdar
+13376,59,30,murdar,,"< Turk. MURDAR < PERS. MURDAR 'corpse', thus cognate with many terms for 'die' [cognate set 18](cog-18)",47[1082],murdar,,muɾˈdaɾ,murˈdar,,https://dexonline.ro/definitie/murdar
 28448,129,10,orovayn,,,28;170;276,orovayn,,vɔɾɔvɑjn,ɔɾɔvɑjn,որովայն,
 8068,35,12,pakṣī,,,,pakṣī,,pəkʃi,,पक्षी,
 8070,35,14,kālā,,,,kālā,,kɑlɑ,kɑlɑ,काला,
@@ -10774,7 +10774,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23995,115,134,can,,,193,can,,,kan,,
 24011,115,136,cuan,,,,cuan,,,kuən,,
 24036,115,66,glas,,,193;232,glas,,glas,,,
-24027,115,149,ceò,,same as 'dust' /cognate/1698/,,ceò,,,kʲɔː,,
+24027,115,149,ceò,,same as 'dust' [cognate set 1698](cog-1698),,ceò,,,kʲɔː,,
 24004,115,159,"rionnag, reannag",,,193;232,"rionnag, reannag",,rʲuːnak,,,
 23993,115,25,cunnt,,,,cunnt,,,kũːNd,,
 42912,115,29,ruamhair,,,190,ruamhair,ruamhair,,Ruəvɪrʲ,,
@@ -10841,7 +10841,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24055,115,30,salach,,,,salach,,sɑləx,saLəx,,
 24008,115,125,abhainn,,,,abhainn,,,a.ɪN,,
 23912,115,55,flùr,,presumably a loanword,,flùr,,,fLuːr,,
-24020,115,57,ceò,,same as 'smoke' /lexeme/24027/,,ceò,,,kʲɔː,,
+24020,115,57,ceò,,same as 'smoke' [lexeme 24027](lex-24027),,ceò,,,kʲɔː,,
 23904,115,203,coille,,,,coille,,kɤʎɪ,kɤLʲə,,
 23967,115,76,buail,,,,buail,,ˈbuɪl,buəl,,
 23966,115,80,sealg,,,,sealg,,ʃaɫ̪aɡ,ʃaLag,,
@@ -10851,7 +10851,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24003,115,102,gealach,,,193,gealach,,,gʲaLəx,,
 24049,115,114,sean,,,,sean,,ʃɛn,ʃɛn,,
 23997,115,118,cluich,,,,cluich,,,kLuç,,
-24007,115,121,an t-uisge,,Rather 'water' /lexeme/24005/ (also typically used of rain when combined witht he def article),193,an t-uisge,water,,ə tɯʃgʲə,,
+24007,115,121,an t-uisge,,Rather 'water' [lexeme 24005](lex-24005) (also typically used of rain when combined witht he def article),193,an t-uisge,water,,ə tɯʃgʲə,,
 24054,115,129,lobhta,,,,lobhta,,,Lɔvdə,,
 24015,115,133,gainmheach,,,193,gainmheach,,,gɛnɛvəx,,
 24058,115,140,geur,,,,geur,,,gʲiar,,
@@ -11298,7 +11298,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 43820,213,78,ṣiŋ′a,,,,ṣiŋ′a,horn,ʂiŋˈi,ʂiŋˈɨ,,
 43688,213,83,še,,,,še,ice,ʃɛ̱,ʃˈɛ̱,,
 43691,213,86,ǰâř′e-,,,,ǰâř′e-,kill,ʤaɹˈɛ̱-,ʤaɹˈɛ̱-,,
-1817,8,56,tʿṙčʿel,,see /lexeme/1776/,170,tʿṙčʿel,,tʰərˈtʃʰɛl,tʰir-tʃʰ-ɛ-l,թռչել,
+1817,8,56,tʿṙčʿel,,see [lexeme 1776](lex-1776),170,tʿṙčʿel,,tʰərˈtʃʰɛl,tʰir-tʃʰ-ɛ-l,թռչել,
 43796,213,88,zâř′e-,,,,zâř′e-,know; understand; recognize,zaɹˈɛ̱-,zaɹˈɛ̱-,,
 44418,216,145,dilu,,,,dilu,sky,dilˈu,dilˈu,,
 43724,213,127,l′u,,,,l′u,root,lˈu,lˈu,,
@@ -11622,7 +11622,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45832,122,45,vê pôre,,,,vê pôre,,'ve 'pore,'veː 'poːre,,http://claap.org/definizion/?diz=fur-it&leme=pôre
 45843,122,218,lâ,,"Inf. pres., ind. subj. 3sg. vadi.",,lâ,,'la,'laː,,http://claap.org/definizion/?diz=fur-it&leme=lâ
 45838,122,83,glace,,,,glace,,'glaʧe,'glaʧe,,http://claap.org/definizion/?diz=fur-it&leme=glace
-31656,122,96,neri,,< *nigrāmen: nigrum. Identical to /lexeme/26176/ 'black'.,182,neri,,,,,
+31656,122,96,neri,,< *nigrāmen: nigrum. Identical to [lexeme 26176](lex-26176) 'black'.,182,neri,,,,,
 44357,216,72,akâr datu˜,,"""to-ear cast""",,akâr datu˜,to hear,ɐka̞ɾdɐtˈũ,ɐka̞ɾ dɐtˈũ,,
 44447,216,187,pala-,,,,pala-,wash [body],pɐlˈɐ-,pɐlˈɐ-,,
 44354,216,69,dost,,,,dost,hand; hand and forearm,dˈost,dˈost,,
@@ -11802,7 +11802,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26292,122,130,taront,,"Msg., fsg. taronde, mpl. taronts, fpl. tarondis.",182,taront,,ta'rɔnt,ta'rɔnt,,http://claap.org/definizion/?diz=fur-it&leme=taront
 26301,122,139,cusî,,"Inf. pres., ind. pres. 2sg. cusis.",,cusî,,ku'zi,ku'ziː,,http://claap.org/definizion/?diz=fur-it&leme=cusî
 13431,59,90,a râde,,,,a râde,,a ˈɾɨde,a ˈrɨde,,https://dexonline.ro/definitie/a râde
-13491,59,152,zăpadă,,> Slav. 'fall' in /cognate/1126/,,zăpadă,,zəˈpadə,zəˈpadə,,https://dexonline.ro/definitie/zăpadă
+13491,59,152,zăpadă,,> Slav. 'fall' in [cognate set 1126](cog-1126),,zăpadă,,zəˈpadə,zəˈpadə,,https://dexonline.ro/definitie/zăpadă
 26009,59,177,a arunca,,,,a arunca,,a aɾuŋˈka,a arunˈka,,https://dexonline.ro/definitie/a arunca
 13519,59,180,dinte,,,,dinte,,'dinte,ˈdinte,,https://dexonline.ro/definitie/dinte
 46004,222,55,phūl,,,,phūl,,pʰul,,फूल,
@@ -11865,7 +11865,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 42715,209,41,chëoir,,,,chëoir,,,,,
 31959,147,23,feayr,,"fuar. Reradicalisation, i.e. reinterpretation of [hu] as [φ].",193,feayr,,fuər,fuər,,
 41523,204,8,corteça,,,,corteça,,,,,
-1586,7,13,xacnel,,"Traditionally, խած- xac- is derived from *kʰad-i̯e- (cf. Ved. khādati 'chew, bite'). Cf. also խոտ xot 'grass' /cognate/593/.",79[363],xacnel,,χɑdzˈnɛl,χɑdz-n-ɛ-l,խածնել,
+1586,7,13,xacnel,,"Traditionally, խած- xac- is derived from *kʰad-i̯e- (cf. Ved. khādati 'chew, bite'). Cf. also խոտ xot 'grass' [cognate set 593](cog-593).",79[363],xacnel,,χɑdzˈnɛl,χɑdz-n-ɛ-l,խածնել,
 42749,209,83,glace,,,,glace,,,,,
 42753,209,89,lac,,,,lac,,,,,
 42754,209,90,rire,,,,rire,,,,,
@@ -12237,7 +12237,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24221,120,118,spillen,,intransitive. only transitive in the meaning: to play an instrument.,"448[4, 245]",spillen,,,,,
 47407,120,177,geheien,,,446,geheien,,,,,
 47408,120,178,strécken,,"to knit, to tie (whool, a rope, shoe laces)",446,strécken,,,,,
-24175,120,184,katzen,,"= NHG KOTZEN, prob. an intensive formation fr. KOPPEN 'to belch' (Kluge  1989: 404); cf. also /lexeme/15693/ intense. means rather 'to puke' than 'to vomit'",,katzen,,,,,
+24175,120,184,katzen,,"= NHG KOTZEN, prob. an intensive formation fr. KOPPEN 'to belch' (Kluge  1989: 404); cf. also lexeme 15693 intense. means rather 'to puke' than 'to vomit'",,katzen,,,,,
 24217,120,139,bitzen,,like Lett. SPICE fr. NHG SPITZE 'lace'?MHG büeʒen 'to mend (clothes)'.,"448[1, 150]",bitzen,,,,,
 47415,120,223,kräischen,,Germ. 'kreischen' (squeel). Eng. 'cry'. Continental West-Gmc. with -sk(e)- suffix?,446,kräischen,,,,,
 47414,120,226,Krallen,,"plural-collecitve. (Singular Krall exists, though hardly used)",446,Krallen,,,,,
@@ -12602,7 +12602,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 47765,147,19,tayrn ennal,,anáil a tharraingt,,tayrn ennal,,tarn ˈenal,tarn ˈenal,,
 47769,147,25,coontey,,,,coontey,,ˈkuːntə,ˈkuːndə,,
 34214,145,178,knåyta,,,202,knåyta,,ˈknɔ̀ɪtɑ,ˈknɔ̀ɪtɑ,,
-9080,40,38,khyon,,cf. 'drink' /lexeme/9074/,,khyon,,cʰon,kʰjon,کھیون,
+9080,40,38,khyon,,cf. 'drink' [lexeme 9074](lex-9074),,khyon,,cʰon,kʰjon,کھیون,
 46043,222,108,pās,,,,pās,,pɑs,,पास,
 46044,222,110,nayā,,,,nayā,,n̪əjɑ,,नया,
 46045,222,111,rāti,,,,rāti,,rɑt̪ɪ,,राति,
@@ -12663,7 +12663,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 47856,63,48,bricare,,,,bricare,,,,,
 47858,63,50,focu,,,,focu,,,,,
 47859,63,211,musca,,,,musca,,,,,
-14424,63,93,camma,,cf. /lexeme/20018/,77[26],camma,,,,,
+14424,63,93,camma,,cf. lexeme 20018,77[26],camma,,,,,
 14398,63,65,erba,,,,erba,,,,,
 47861,63,225,mólere,,,,mólere,,,,,
 47863,63,216,tostáu,,,,tostáu,,,,,
@@ -12717,7 +12717,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32384,115,194,fionn,,,193,fionn,,,fjũːN,,
 1835,8,76,xpʿel,,"Also 'attach, fasten, nail; fire, shoot; (dial.) cover, shut, close'",170,xpʿel,"Also 'attach, fasten, nail; fire, shoot; (dial.) cover, shut, close'",χəˈpʰɛl,χupʰ-ɛ-l,խփել,
 47880,63,129,guastu,,,,guastu,,,,,
-28521,129,76,harkanem,,Suppletive aorist:  հար(ե)- har(-e)- < PIE *pr̥- of 3.*per-; cf. /cognate/600/.,170,harkanem,,hɑɾkɑˈnɛm,hɑɾ(-)k-ɑn-ɛ-m,հարկանեմ,
+28521,129,76,harkanem,,Suppletive aorist:  հար(ե)- har(-e)- < PIE *pr̥- of 3.*per-; cf. [cognate set 600](cog-600).,170,harkanem,,hɑɾkɑˈnɛm,hɑɾ(-)k-ɑn-ɛ-m,հարկանեմ,
 26802,56,143,sentar-se,,,,sentar-se,,sẽˈtaɾse,,,
 12893,56,151,cobra,,,,cobra,,ˈkɔβɾɐ,,,
 30848,144,35,dhūrī,,,169,dhūrī,,d̪ʰuri,,धूरी,
@@ -13536,7 +13536,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49533,229,48,"stourm, stourm-",,,,"stourm, stourm-",,"ˈstuɹm, ˈstuɹm-","ˈsturm, ˈsturm-",,
 49550,229,107,moan,,,,moan,,ˈmwãːn,ˈmwãːn,,
 49521,234,104,tostenn,,,,tostenn,,tɔʃtɛn,,,
-9106,40,66,nyuul,,Related to /lexeme/32714/?,,nyuul,,nʲuːl,njuːl,نیوُل,
+9106,40,66,nyuul,,Related to lexeme 32714?,,nyuul,,nʲuːl,njuːl,نیوُل,
 9134,40,97,zyuuṭh,,,,zyuuṭh,,zʲoːʈ,zjoːʈʰ,زیوٹھ,
 47606,229,177,"darc'hoĩ, darc'ho-",,,,"darc'hoĩ, darc'ho-",,"daɹˈho̞ːĩ, daɹˈho̞ː-","darˈhoːĩ, darˈhoː-",,
 49553,229,178,"skourmã, skourm-",,,,"skourmã, skourm-",,"ˈskuɹmã, ˈskuɹm-","ˈskurmã, ˈskurm-",,
@@ -13785,7 +13785,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 31504,112,20,ūrō,,"ūrō, ūrere, ūssi, ūstum",175[841];206,ūrō,to burn (normally transitive),ˈuːroː,ˈuːroː,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Duro
 20402,112,56,uolāre,,"uolō, uolāre, uolāuī, uolātum",206,uolāre,to fly,woˈɫaːre,woˈlaːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dvolo2
 30807,143,45,kam frikë,,"The verb druaj is slightly less colloquial.Loan from Byzantine Middle φρίκη /friki/ 'shiver(ing), frost, shudder of fear' though expected palatalization is missing; OR idependent derivative of an s-form of PIE *preK- (cf. Tocharian and Germanic words of 'fear').",129,kam frikë,,,,,
-35456,173,50,pu-*,,"Attested in occupational term pu-ka-wo [puːr-káu̯os] 'fireburner' cf. /lexeme/35448/ and Classical terms πυρκαεύς 'fire kindler' and πυρίκαος 'fire-burner'.  In PY An 39.1, 424.1, 427.3, 594.1.",303[168],pu-*,fire,pûːr*,pûːr*,𐀢,
+35456,173,50,pu-*,,"Attested in occupational term pu-ka-wo [puːr-káu̯os] 'fireburner' cf. [lexeme 35448](lex-35448) and Classical terms πυρκαεύς 'fire kindler' and πυρίκαος 'fire-burner'.  In PY An 39.1, 424.1, 427.3, 594.1.",303[168],pu-*,fire,pûːr*,pûːr*,𐀢,
 50563,127,24,do·téit,,,,do·téit,,do'teːd,,,http://dil.ie/40447
 5133,22,22,cloud,,"Old English clūd 'rock, hill', in modern sense first appears in 13th century",357;93[307],cloud,,klaʊd,,,http://www.oed.com/view/Entry/34689?
 28203,127,69,lám,,"< IE *pl̥H-mā ‘flat Hand’, root: *pelə-/*plā- ‘wide, flat; to spread'. Cf. also Gk παλαμη ‘flat hand’; Lat palma ‘id.'.",151[206];28,lám,,laːṽ,,,http://dil.ie/29507
@@ -13817,7 +13817,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 50647,63,160,fuste,,,,fuste,,,,,
 50648,63,217,gulce,,,,gulce,,,,,
 50649,63,221,picare,,,,picare,,,,,
-28169,127,35,lúaithred,,"Also ashes, see /lexeme/28134/",28;208,lúaithred,,luːəθʹrʹəð,,,http://dil.ie/30819
+28169,127,35,lúaithred,,"Also ashes, see [lexeme 28134](lex-28134)",28;208,lúaithred,,luːəθʹrʹəð,,,http://dil.ie/30819
 28174,127,40,súil,,"< IE *sãl -i-; root *s~wel-, *s(u)wel-,*sãl- ‘sun’.",151[143];28,súil,,suːlʹ,,,http://dil.ie/39215
 50935,190,55,puče,,,536,puče,,,,,
 28192,127,56,fo·luathar,,"IE root: *pleu- 'to trickle, fly, swim, fly'.",151[167];28,fo·luathar,,foˈluːəθər,,,http://dil.ie/23182
@@ -13917,7 +13917,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20182,80,41,"mau- / mu-, maušš-",,,403[211-213],"mau- / mu-, maušš-",to fall,,,ma-uš-zi,
 20330,80,203,tii̯eššar / tii̯ešn-,,The oblique stem ti-e-eš-ni is dat.-loc.sg.,80[878-879],tii̯eššar / tii̯ešn-,forest,,,ti-i-e-eš-šar / ti-i-e-eš-ni,
 20197,80,59,me(i̯)u̯- / mei̯au̯-,,"perhaps derived from the adjective 'little': 'little hand', the fingers minus the thumb (Gvozdanovic 1992:77).",403[308],me(i̯)u̯- / mei̯au̯-,four,,,mi-e-u̯a-aš,
-20273,80,141,*manninku(u̯a)-,,the same lexeme in 'near' /lexeme/20243/,403[170],*manninku(u̯a)-,short,,,ma-ni!-in-ku-e-eš,
+20273,80,141,*manninku(u̯a)-,,the same lexeme in 'near' [lexeme 20243](lex-20243),403[170],*manninku(u̯a)-,short,,,ma-ni!-in-ku-e-eš,
 20227,80,88,šākk-/šakk-,,,405[21-32],šākk-/šakk-,"to know, to experience, to pay attention to, to heed",,,ša-a-ak-ki,
 20230,80,91,paršdu-,,"Cf. tentatively OE brord, -es m. ‘prick, point, lance, javelin, the first blade or spire of grass/corn, etc.’ from *bhrsdh-.",28;404[190-191],paršdu-,"leaf, foliage",,,pár-aš-du-uš,
 20236,80,99,pešna- / pišna-,,Nom.sg. always uses Sumerographic writing LÚ-aš. Native script form reconstructed based on attested gen.sg. pé-eš-na-aš.,404[324-328],pešna- / pišna-,man,,,*pé-es-na-aš,
@@ -13925,7 +13925,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 47586,229,145,neñv,,,,neñv,,ˈnẽː,ˈnẽː,,
 50987,229,150,luffr,,,,luffr,,ˈlyf,ˈlyf,,
 47646,229,148,"c'hwessa, c'hwess",,,,"c'hwessa, c'hwess",sweat,,,,
-6388,26,98,flie,,Removed from cognate class B /cognate/258/.; see also cognate set in 'fly (n)',124[290],flie,,fli.ə,,,
+6388,26,98,flie,,Removed from cognate class B cognate set 258.; see also cognate set in 'fly (n)',124[290],flie,,fli.ə,,,
 50969,95,61,voće,,,,voće,,ˈvɔ̂tɕɛ,vôtɕe,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f19vXBV4
 28899,133,164,tiu̯at-,,,377[230-231],tiu̯at-,"sun, Sun-god",,,ti-u̯a-az (CL),
 50990,133,209,kaldunni-,,Only CL.,377[98],kaldunni-,"?thigh, ?leg (one of paired body part).",,,kal-du-un-ni-iš (CL),
@@ -13946,7 +13946,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32487,140,64,manu-/o-,,"Reconstructed form, based on attestations of male names.",193[27],manu-/o-,,,,,
 32488,140,71,barro-,,"Reconstructed form, based on attestations of male names and place names, e.g. Bar-le-Duc (France).",193[28],barro-,,,,,
 32496,140,105,genu-,,"Reconstructed form, based on attestations of place names (viz Geneva).",193[29],genu-,,,,,
-32495,140,105,manto-/i-,,"Reconstructed form, based on attestations of male names. Related to /cognate/262/?",193[29],manto-/i-,,,,,
+32495,140,105,manto-/i-,,"Reconstructed form, based on attestations of male names. Related to [cognate set 262](cog-262)?",193[29],manto-/i-,,,,,
 32497,140,110,nouio-/neuio-,,"Reconstructed forms, based on attestations in place names.",193[29],nouio-/neuio-,,,,,
 32440,140,147,meion,,"Reconstructed form, based on attestations in male names.",193[30],meion,,,,,
 32508,140,147,bikko-,,"Reconstructed form, based on attestations of male names.",193[30],bikko-,,,,,
@@ -13963,7 +13963,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32507,140,147,"lagu-, lau",,"Reconstructed form, based on attestations of male names.",193[30],"lagu-, lau",,,,,
 32514,140,181,bilio-,,"Reconstructed form based on attestations, viz Fr bille, billot 'section of a tree trunk'.",193[30],bilio-,,,,,
 32513,140,181,uidu-,,Reconstructed form based on attestations of toponyms and personal names.,193[30],uidu-,,,,,
-32516,140,188,unna-,,< *udnā. Reconstructed form based on attestations of names of deities. Related to /lexeme/28815/?,193[31],unna-,,,,,
+32516,140,188,unna-,,< *udnā. Reconstructed form based on attestations of names of deities. Related to [lexeme 28815](lex-28815)?,193[31],unna-,,,,,
 11195,50,7,vāīṭa,,,98[596],vāīṭa,,ʋa͜i:ʈ,,वाईट,
 51004,177,225,alḗthō,,"Attested 2x: Mt. 24:41, Lk 17:35.",,alḗthō,grind,aˈle̝tʰo̞,aˈle̝tʰo̞,ἀλήθω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a)lh/qw
 49609,236,29,cloddio,,,,cloddio,,,,,
@@ -13978,7 +13978,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 11284,50,101,māṁsa,,,98[598],māṁsa,,mãs,,मांस,
 11209,50,22,ḍhaga,,,98[596],ḍhaga,,ɖʱag,,ढग,
 11210,50,23,thaṇḍī,,,98[596],thaṇḍī,,'tʰaɳɖi:,,थंडी,
-11211,50,24,yeṇe,,"comp. /lexeme/9066/, cognate with /cognate/2377/?",98[597],yeṇe,,jeɳe,,येणे,
+11211,50,24,yeṇe,,"comp. [lexeme 9066](lex-9066), cognate with cognate set 2377?",98[597],yeṇe,,jeɳe,,येणे,
 11235,50,48,laḍhaṇe,,,98[597],laḍhaṇe,,ləɖʰɳe,,लढणे,
 11237,50,51,māsā,,,98[597],māsā,,masa,,मासा,
 11238,50,52,pāca,,,98[597],pāca,,paʦ,,पाच,
@@ -14114,7 +14114,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 51058,238,33,suchy,,,142,suchy,,ˈsuxɨː,ˈsuxiː,,
 51053,238,28,umrzeć,,,142,umrzeć,,ˈ(w)umr̝eːts,ˈumr̝eːts,,
 30690,143,60,ngrij,,"< Pr. Alb. *en-kreinja, related to Lith. krenà 'film, thin skin (on milk)'.",105[296];129,ngrij,,,,,
-51049,238,24,przychodzić,,Imperfective/repetitive form. Better is /lexeme/29390/ przyjść.,142,przychodzić,,pʂɘ̟ˈxɔdʑitɕ,pʂɨˈxodʑitɕ,,
+51049,238,24,przychodzić,,Imperfective/repetitive form. Better is [lexeme 29390](lex-29390) przyjść.,142,przychodzić,,pʂɘ̟ˈxɔdʑitɕ,pʂɨˈxodʑitɕ,,
 8225,35,176,tīna,,,,tīna,,t̪in,t̪in,तीन,
 51070,238,46,pióro,,,,pióro,,ˈpʲoːrɔ,ˈpʲoːro,,
 51072,238,50,ogień,,,,ogień,,ˈɔɡ(ʲ)ɛɲ,ˈoɡeɲ,,
@@ -14717,13 +14717,13 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 47945,38,209,ceathrú,,,,ceathrú,,,,,http://www.teanglann.ie/ga/fgb/ceathrú
 47937,38,222,cuir i bhfolach,,,,cuir i bhfolach,,,,,http://www.teanglann.ie/ga/fgb/cuir i
 32240,38,45,bí eagla ar,,"Used in the construction bí + eagla + ar, lit. ""there is (etc.) fear on""",195;226,bí eagla ar,,,,,http://www.teanglann.ie/ga/fgb/eagla
-28134,127,4,lúaithred,,"Also 'dust', see /lexeme/28169/",28,lúaithred,,luːəθʹrʹəð,,,http://dil.ie/30819
-29475,127,13,ithid,,"Also 'eats, devours'. < *pi-tu- ‘drink, food'. Also belongs to /cognate/1699/. Identical to /lexeme/28172/ 'eat'.",151[59],ithid,,iθʹəðʹ,,,http://dil.ie/29162
+28134,127,4,lúaithred,,"Also 'dust', see [lexeme 28169](lex-28169)",28,lúaithred,,luːəθʹrʹəð,,,http://dil.ie/30819
+29475,127,13,ithid,,"Also 'eats, devours'. < *pi-tu- ‘drink, food'. Also belongs to cognate set 1699. Identical to [lexeme 28172](lex-28172) 'eat'.",151[59],ithid,,iθʹəðʹ,,,http://dil.ie/29162
 28147,127,17,cnáim,,"Cf. also Gk κνημη 'shin bone', OHG hamma‘hindquarter’.",28,cnáim,,knaːṽʹ,,,http://dil.ie/9712
 47920,127,226,ingen,,,,ingen,,iŋʹgʹen,,,http://dil.ie/28652
 28161,127,27,"laithe, lae",,,28;208;227[180],"laithe, lae",,"laθʹe, la.e",,,http://dil.ie/29234
 28197,127,62,lán,,"< IE *plH-no- ‘full’, root: *pel(ə)-’to fill’ amongst others.",151[173];28,lán,,laːn,,,http://dil.ie/29542
-29494,127,167,erball,,"Ary. -ball < *bhel-nó or *bhl-nó-; root*bhel- ’to bloat, swell'. Cognate with other Old Irish term for tail /lexeme/28316/?",151[383];208,erball,,erball,,,http://dil.ie/20216
+29494,127,167,erball,,"Ary. -ball < *bhel-nó or *bhl-nó-; root*bhel- ’to bloat, swell'. Cognate with other Old Irish term for tail [lexeme 28316](lex-28316)?",151[383];208,erball,,erball,,,http://dil.ie/20216
 28224,127,88,ro·fitir,,"< IE *wid-r-, root *weid- 'to know'.",151[234];28;193,ro·fitir,,roˈɸʹidərʹ,,,http://dil.ie/search?q=fitir&search_in=headword
 52072,242,203,šidrētan,,literally 'trees'; there is no dedicated word for 'forest',,šidrētan,,ʃɪdɻeːtɐn,ʃɪdɻeːtɐn,,
 51899,242,14,sīya,,,,sīya,,siːjɐ,siːjɐ,,
@@ -15281,7 +15281,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13401,59,57,ceață,,split from DKB,85[166],ceață,,ˈʧe̯aʦə,ˈʧe̯aʦə,,https://dexonline.ro/definitie/ceață
 13512,59,173,a gândi,,Replaced A (SE) GINDI (LA).,47[1202],a gândi,,a ɡɨnˈdi,a ɡɨnˈdi,,https://dexonline.ro/definitie/a gândi
 26155,59,134,a spune,,,85[739],a spune,,a 'spune,a ˈspune,,https://dexonline.ro/definitie/a spune
-10415,46,202,móteris,,"'mother' > 'woman', cf. /cognate/79/.",530,móteris,,ˈmo:tʲɛrʲɪs,,,http://etimologija.baltnexus.lt/?w=móteris
+10415,46,202,móteris,,"'mother' > 'woman', cf. cognate set 79.",530,móteris,,ˈmo:tʲɛrʲɪs,,,http://etimologija.baltnexus.lt/?w=móteris
 23490,59,6,spate,,pl. of 'shoulder blade',,spate,,ˈspate,ˈspate,,https://dexonline.ro/definitie/spate
 13428,59,86,a omorî,,from Slavic UMORITI 'cause to die',,a omorî,,a omoˈɾɨ,a omoˈrɨ,,https://dexonline.ro/definitie/a omorî
 54284,59,4,scrum,,,,scrum,,scɾum,scrum,,https://dexonline.ro/definitie/scrum
@@ -16080,7 +16080,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 42946,210,8,tséflo,,,,tséflo,peel,ˈtseflo,ˈtseflo,τσέφλο,
 43172,211,8,floúdi(n),,also /ˈfliðin/,,floúdi(n),"bark, wood shavings",ˈfluði(n),ˈfluði(n),φλούδι(ν),
 33666,157,6,rygger,,"Based on citations, these seem to be true synonyms",209,rygger,,ˈryɡːer,ryɡːer,,
-14933,65,7,naraka,,comp. Khaskura /lexeme/9245/,,naraka,,,,නරක,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=නරක
+14933,65,7,naraka,,comp. Khaskura lexeme 9245,,naraka,,,,නරක,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=නරක
 11395,51,7,narāmrō,,,69[153],narāmrō,,nʌramro,,नराम्रो,
 2163,10,8,bākal,,,,bākal,,bakol,,বাকল,
 13156,58,7,dårlig,,,219,dårlig,,ˈdòːɭɪ,,,
@@ -16197,10 +16197,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 42953,210,15,óima,,,,óima,,ˈojma,ˈoima,όιμα,
 28449,129,11,mec,,a-stem.,28;79[458-460],mec,"great, big, large",mɛts,mɛts-ɑ-,մեծ,
 14937,65,11,loku,,,,loku,,loku,loku,ලොකු,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ලොකු
-30750,144,13,kāṭanā,,same as 'cut' /lexeme/30761/.,169,kāṭanā,,kɑtənɑ,,काटना,
+30750,144,13,kāṭanā,,same as 'cut' lexeme 30761.,169,kāṭanā,,kɑtənɑ,,काटना,
 13557,60,11,bol'šoj,,,47[879];92;56,bol'šoj,,bɐlʲˈʂɔj,bolʲ'ʂoj,большой,http://gramota.ru/slovari/dic/?all=x&word=большой
 13161,58,12,fugl,,,219,fugl,,fʉːl,,,
-28450,129,12,tʿṙčʿown,,"Traditionally pronounced [tʰərˈtʃʰun]. Martirosyan derives թիռ- tʿiṙ- 'to fly' /lexeme/1817/ from PIE *pter- (in turn cognate with /cognate/700/) and eventually *pet- 'to fly' /cognate/1486/, see also /cognate/608/.",28;56,tʿṙčʿown,"Orig. ""flying (one)""; cf. թռչիմ  [tʰərˈtʃʰim] 'I fly', ultimately from PIE *pter- 'feather'.",tʰərˈtʃʰun,tʰir-tʃʰ-un-ɔ-,թռչուն,
+28450,129,12,tʿṙčʿown,,"Traditionally pronounced [tʰərˈtʃʰun]. Martirosyan derives թիռ- tʿiṙ- 'to fly' [lexeme 1817](lex-1817) from PIE *pter- (in turn cognate with [cognate set 700](cog-700)) and eventually *pet- 'to fly' [cognate set 1486](cog-1486), see also [cognate set 608](cog-608).",28;56,tʿṙčʿown,"Orig. ""flying (one)""; cf. թռչիմ  [tʰərˈtʃʰim] 'I fly', ultimately from PIE *pter- 'feather'.",tʰərˈtʃʰun,tʰir-tʃʰ-un-ɔ-,թռչուն,
 27286,125,14,saw,,,122,saw,,sɑw,saw,сау,
 40716,201,8,floústro,,Cal.,,floústro,"peel, bark",ˈflustro̞,ˈflustro̞,φλούστρο,
 5323,23,11,stórur,,originally CC 360,,stórur,,ˈstɔuːɹʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=stórur
@@ -16284,7 +16284,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23105,81,17,āy,,,147[42],āy,bone,aj,āy,,
 2172,10,17,hāṛ,,,,hāṛ,,haɽ,,হাড়,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=হাড়
 1603,7,31,šun,,,,šun,,ʃun,ʃ-un,շուն,
-35460,173,69,ke-*,,Attested as an element in compound ke-ni-qa /kʰer-nigʷa/ 'bowl for washing hands' (KN Ws 8497.β). Cf. /lexeme/35648/,302[342],ke-*,hand,kʰer-*,kʰer-*,𐀐,
+35460,173,69,ke-*,,Attested as an element in compound ke-ni-qa /kʰer-nigʷa/ 'bowl for washing hands' (KN Ws 8497.β). Cf. [lexeme 35648](lex-35648),302[342],ke-*,hand,kʰer-*,kʰer-*,𐀐,
 13563,60,17,kost',,,92;56,kost',,kɔsʲtsʲ,kostʲ,кость,http://gramota.ru/slovari/dic/?all=x&word=кость
 27294,125,22,meǧæ,,,122,meǧæ,"cloud, fog",meʁɜ,meʁɜ,мегъӕ,
 19322,111,15,sonit,,,29,sonit,,sonɪt̪,,सोनित,
@@ -16417,7 +16417,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 11410,51,23,ciso,,,,ciso,,ʧiso,,चिसो,
 3559,16,23,halodny,,,,halodny,,xɑ̈ˈɫɔdnɨ,xoˈlodni,халодны,http://www.slounik.org/search?search=халодны
 35897,177,69,cheír,,> 30 attestations in the NT.,330;329,cheír,"hand, arm",kʰir,kʰir,χείρ,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=xei/r
-18657,110,11,mégas,,"G.sg. μεγάλου; μέγας, μεγάλη, μέγα.  Antonym: μικρός /lexeme/18906/",160,mégas,"big, large",mé̞ɡas,mé̞ɡas,μέγας,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=me/gas
+18657,110,11,mégas,,"G.sg. μεγάλου; μέγας, μεγάλη, μέγα.  Antonym: μικρός [lexeme 18906](lex-18906)",160,mégas,"big, large",mé̞ɡas,mé̞ɡas,μέγας,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=me/gas
 24316,119,115,ek,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],ek,,ek,,ایک,
 3169,15,25,broâ,,,,broâ,,bɾuˈjɤ,broˈjɤ,броя,https://rechnik.chitanka.info/w/броя
 43188,211,29,skáf(t)ō,,,,skáf(t)ō,,ˈskaf(t)o̞,ˈskaf(t)o̞,σκάφ(τ)ω,
@@ -16602,7 +16602,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17124,73,30,brudnij,,,,brudnij,,bɾʊˈdnɪj,bruˈdnɪj,брудний,http://sum.in.ua/s/brudnyj
 14955,65,30,kilutu,,,,kilutu,,,,කිලුටු,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=කිලුටු
 13178,58,30,skitten,,,219,skitten,,ˈʃɪ̀tːən,,,
-35904,177,89,thálassa,,"> 30 attestations in the NT.  Cf. 'sea' /lexeme/35921/: the conflation of the meanings 'lake' and 'sea' is a Semitism in the NT Greek Lexicon (cf. Hebrew יָם 'sea, lake'; BDAG³ s.v. θάλασσα).  Cf. the restricted use of the regular Greek lexeme λίμνη 'lake' elsewhere in NT Greek: /lexeme/36188/",330;329,thálassa,sea; lake,ˈtʰalasa,ˈtʰalasa,θάλασσα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qa/lassa
+35904,177,89,thálassa,,"> 30 attestations in the NT.  Cf. 'sea' [lexeme 35921](lex-35921): the conflation of the meanings 'lake' and 'sea' is a Semitism in the NT Greek Lexicon (cf. Hebrew יָם 'sea, lake'; BDAG³ s.v. θάλασσα).  Cf. the restricted use of the regular Greek lexeme λίμνη 'lake' elsewhere in NT Greek: [lexeme 36188](lex-36188)",330;329,thálassa,sea; lake,ˈtʰalasa,ˈtʰalasa,θάλασσα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qa/lassa
 32547,152,46,fteré,,,,fteré,,fte̞ˈre̞,fte̞ˈre̞,φτερέ,
 3567,16,31,sabaka,,,,sabaka,,sɑ̈ˈbɑ̈kɑ̈,saˈbaka,сабака,http://www.slounik.org/search?search=сабака
 12189,54,31,sag,,,326,sag,,sæg,sæg,سگ,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2LParw%3d%3d
@@ -16732,7 +16732,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32552,152,62,giomáte,,,,giomáte,,ʝo̞ˈmate̞,ɣio̞ˈmate̞,γιομάτε,
 27330,125,51,kæsalgæ,,,122,kæsalgæ,,kʰɜsɑlgɜ,kɜsalgɜ,кӕсалгӕ,
 14961,65,36,kana,,,,kana,,,,කන,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=කන
-1800,8,37,hoł,,"hoł fr. IE *pela-? , connected to 'wide' in /cognate/667/, Lat. PALAM 'overt, publictly' and OCS POLJE 'field'",79[415];170,hoł,,hɔʁ,hɔʁ,հող,
+1800,8,37,hoł,,"hoł fr. IE *pela-? , connected to 'wide' in [cognate set 667](cog-667), Lat. PALAM 'overt, publictly' and OCS POLJE 'field'",79[415];170,hoł,,hɔʁ,hɔʁ,հող,
 11031,92,36,uvo,,,,uvo,,ˈuvɔ,ˈuvo,уво,http://makedonski.info/search/#уво
 40738,201,28,(a)pethaínō,,Cal.; /(a)pe̞ˈse̞no̞/ Ap.,,(a)pethaínō,,(a)pe̞ˈθe̞no̞,(a)pe̞ˈθe̞no̞,(α)πεθαίνω,
 35479,173,198,a-ne-mo,,G.pl. in list of offerings in KN Fp 1.10 a-ne-mo / i-je-re-ja 'to the priestess of the winds',302[65],a-ne-mo,wind,anémo̞-,anémo̞-,𐀀𐀚𐀗,
@@ -16906,9 +16906,9 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 14967,65,42,dura,,,,dura,,,,දුර,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=දුර
 11037,92,42,daleku,,,,daleku,,ˈdɑ̈lɛku,ˈdaleku,далеку,http://makedonski.info/search/#далеку
 43206,211,50,ápsimo(n),,,,ápsimo(n),,ˈapsimo̞(n),ˈapsimo̞(n),άψιμο(ν),
-7522,32,42,makriá,,Antonym of κοντά 'near' /lexeme/7583/,271,makriá,,makriˈa,makriˈa,μακριά,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=μακριά
+7522,32,42,makriá,,Antonym of κοντά 'near' [lexeme 7583](lex-7583),271,makriá,,makriˈa,makriˈa,μακριά,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=μακριά
 42981,210,51,psar,,,,psar,,psar̥,psar,ψαρ,
-35921,177,136,thálassa,,"> 30 attestations in the NT. Cf. 'lake' /lexeme/35904/: the conflation of the meanings 'lake' and 'sea' is a Semitism in the NT Greek Lexicon (cf. Hebrew יָם 'sea, lake'; BDAG³ s.v. θάλασσα).",330;329,thálassa,sea; lake,ˈtʰalasa,ˈtʰalasa,θάλασσα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qa/lassa
+35921,177,136,thálassa,,"> 30 attestations in the NT. Cf. 'lake' [lexeme 35904](lex-35904): the conflation of the meanings 'lake' and 'sea' is a Semitism in the NT Greek Lexicon (cf. Hebrew יָם 'sea, lake'; BDAG³ s.v. θάλασσα).",330;329,thálassa,sea; lake,ˈtʰalasa,ˈtʰalasa,θάλασσα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qa/lassa
 38423,188,88,xérō,,,,xérō,,ˈkse̞ro̞,ˈkse̞ro̞,ξέρω,
 27348,125,66,c'æx,,,122,c'æx,,tsʼɜχ,cʼɜχ,цъӕх,
 28479,129,36,ownkn,,Traditionally pronounced [uŋkən]; pl. ականջք akanǰ-k‘ [ɑkɑɲdʒəkʰ],28;79[21],ownkn,,ˈuŋkən,unk-ɑn-,ունկն,
@@ -16927,7 +16927,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 42982,210,52,pénte,,,,pénte,,ˈpende,ˈpende,πέντε,
 12203,54,45,tarsīdan,,,326,tarsīdan,"tremble, fear",tʰærsiˈdæn,tærsidæn,ترسیدن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2KrYsdiz2YrYr9mG
 43208,211,52,pénte,,,,pénte,,ˈpe̞ndə,ˈpe̞nte̞,πέντε,
-1808,8,46,t'ev,,"'wing, arm'; see also 'bird' in /cognate/571/ and 'wing' /lexeme/1757/",,t'ev,,,,թև,
+1808,8,46,t'ev,,"'wing, arm'; see also 'bird' in cognate set 571 and 'wing' [lexeme 1757](lex-1757)",,t'ev,,,,թև,
 38424,188,91,fýlle,,,,fýlle,,ˈfile̞,ˈfile̞,φύλλε,
 40746,201,35,kourrathtó,,Cal.,,kourrathtó,,kurraˈθto̞,kurraˈθto̞,κουρραθτό,
 27345,124,65,kærdæg,,,122,kærdæg,,kʰɜrˈdɜg,kɜrdɜg,кӕрдӕг,
@@ -16996,7 +16996,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30856,144,41,giranā,,,169,giranā,,girnɑ,,गिरना,
 35492,173,139,e-ra-pe-me-na,,Perfect passive participle N.pl.neut. referring to cloths (marked with the ideogram TELA¹) in KN L 647.B.  Derived from *ῥάπτω (not attested otherwise as a finite verb in Mycenaean).,302[234],e-ra-pe-me-na,"sewn, stitched",errap⁽ʰ⁾ména,errap⁽ʰ⁾ména,𐀁𐀨𐀟𐀕𐀙,
 43211,211,56,petṓ,,,,petṓ,,pe̞ˈto̞,pe̞ˈto̞,πετώ,
-35498,173,31,ku-na-*,,"Oblique stem attested in compound ku-na-ke-ta-i 'hunters' (D.pl. in PY Na 248), cf. Att. κυν-ηγέτης 'hunter' (lit. 'dog-leader'). Cf. Attic κύων, G.sg. κυν-ός /lexeme/18699/",302[402];349[184],ku-na-*,dog,*kun-,*kun-,𐀓𐀙,
+35498,173,31,ku-na-*,,"Oblique stem attested in compound ku-na-ke-ta-i 'hunters' (D.pl. in PY Na 248), cf. Att. κυν-ηγέτης 'hunter' (lit. 'dog-leader'). Cf. Attic κύων, G.sg. κυν-ός [lexeme 18699](lex-18699)",302[402];349[184],ku-na-*,dog,*kun-,*kun-,𐀓𐀙,
 1619,7,48,kṙvil,,"Denominative of (CA) կռիւ kṙiw 'fight, strife; uproar'.",,kṙvil,,gərˈvil,g(ə)riv-i-l,կռուիլ,
 42986,210,57,pousloúch,,Turkish loanward,,pousloúch,,puˈsluç,puˈslux,πουσλούχ,
 40750,201,39,aggouó,,Cal.; /aˈk(v)o̞/ Ap.,,aggouó,,aˈgʷo̞,aˈɣɣo̞,αγγουό,
@@ -17113,7 +17113,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 38433,188,109,laimó,,,,laimó,,le̞ˈmo̞,le̞ˈmo̞,λαιμό,
 5560,24,55,bloem,,,,bloem,,,,,
 22375,105,38,ad-,,root,28,ad-,verb,*ɐd-,ad-,अद-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=17
-12211,54,55,gol,,related to 'round' /cognate/2451/?Probably not (MJK),326,gol,,gol,gol,گل,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2q%2fZhA%3d%3d
+12211,54,55,gol,,related to 'round' cognate set 2451?Probably not (MJK),326,gol,,gol,gol,گل,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2q%2fZhA%3d%3d
 12212,54,56,parwāz kardan,,,,parwāz kardan,,pʰærvɒ:z kʰærdæn,pærvɒz kærdæn,پرواز كردن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2b7YsdmI2KfYsiDZg9ix2K%2fZhg%3d%3d
 35932,177,179,glō̃ssa,,> 30 attestations in the NT.  Also 'language',330;329,glō̃ssa,tongue; language,ˈɣlo̞sa,ˈɣlo̞sa,γλῶσσα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=glw=ssa
 1625,7,55,całik,,,,całik,,dzɑˈʁig,dzɑʁig,ծաղիկ,
@@ -17127,8 +17127,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 11048,92,56,leta,,,,leta,,ˈle̞tɑ̈,ˈleta,лета,http://makedonski.info/search/#лета
 17148,73,55,kvìtka,,,,kvìtka,,ˈkv(ʲ)itkɐ,ˈkvitka,квітка,http://sum.in.ua/s/kvitka
 2208,10,55,phul,,Minimal pair with 'fruit'.,,phul,,pʰul,,ফুল,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=ফুল
-28488,129,45,erknčʿim,,erknč‘im cf. /lexeme/18719/,28;79[268];549;307,erknčʿim,,jɛɾkəɲˈtʃʰim,ɛɾki-ɲtʃʰ-i-m,երկնչիմ,
-30861,144,46,paṅkh,,Identical to /lexeme/31020/ 'wing'.,169,paṅkh,,pɑ̃kʰ,,पांख,
+28488,129,45,erknčʿim,,erknč‘im cf. [lexeme 18719](lex-18719),28;79[268];549;307,erknčʿim,,jɛɾkəɲˈtʃʰim,ɛɾki-ɲtʃʰ-i-m,երկնչիմ,
+30861,144,46,paṅkh,,Identical to [lexeme 31020](lex-31020) 'wing'.,169,paṅkh,,pɑ̃kʰ,,पांख,
 1626,7,56,tʿṙčʿil,,,,tʿṙčʿil,,tʰərˈtʃʰil,tʰir-tʃʰ-i-l,թռչիլ,
 35782,174,179,biśāʾ,,,320[290],biśāʾ,NOM.SG,bɪʓɑʵ:,biʒa̤ː,,
 38434,188,110,tsainoúrgie,,,,tsainoúrgie,,tse̞ˈnurʝe̞,tse̞ˈnurɣe̞,τσαινούργιε,
@@ -17141,7 +17141,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 3199,15,56,letâ,,,,letâ,,lɘˈtʲɤ,leˈtjɤ,летя,https://rechnik.chitanka.info/w/летя
 42992,210,65,chortária,,,,chortária,grasses (plural),xorˈtarja,xorˈtaria,χορτάρια,
 35513,173,161,ra-e-ja,,"Adjective of material, N.sg. fem. describing a to-pe-za 'table' in PY Ta 642.1.  To be interpreted as *λᾱhεία 'of stone', derived from *λᾱh-.  Cf. Homeric λᾶας 'stone'.",303[214],ra-e-ja,of stone,laːhei̯a-,laːhei̯a-,𐀨𐀁𐀊,
-35648,173,187,-ni-qa*,,Root *nei̯gʷ- 'wash' Attested as an element in compound ke-ni-qa /kʰer-nigʷa/ 'bowl for washing hands' (KN Ws 8497.β). /lexeme/35460/,302[342],-ni-qa*,wash (hands),-nigʷa,-nigʷa,𐀛𐀣,
+35648,173,187,-ni-qa*,,Root *nei̯gʷ- 'wash' Attested as an element in compound ke-ni-qa /kʰer-nigʷa/ 'bowl for washing hands' (KN Ws 8497.β). [lexeme 35460](lex-35460),302[342],-ni-qa*,wash (hands),-nigʷa,-nigʷa,𐀛𐀣,
 22376,105,39,āṇḍám,,,28;78,āṇḍám,n.,*a:ɳ'ɖɐm,āṇḍám,आण्ढम्,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=134
 23315,82,49,mekwa,,Plurale tantum.,345[502],mekwa,nails,ˈmekwa,mekwa,,
 12213,54,57,meh,,,326,meh,,meh,meh,مه,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2YXZhw%3d%3d
@@ -17160,7 +17160,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28728,131,125,rautah,,,28;358,rautah,N.n,,rau̯tah,𐎼𐎢𐎫,
 38435,188,111,noútha,,,,noútha,,ˈnutʰa,ˈnutʰa,νούτ̔α,
 3591,16,56,lâcec′,,Unidirectional verb; multidirectional: 'лятаць'.,,lâcec′,,lʲaˈtsʲetsʲ,lʲoˈtsʲetsʲ,ляцець,http://www.slounik.org/search?search=ляцець
-1819,8,58,otkʿ,,see /lexeme/1770/. Changed from OT.,170,otkʿ,"foot, leg",vɔtkʰ,ɔt-kʰ,ոտք,
+1819,8,58,otkʿ,,see lexeme 1770. Changed from OT.,170,otkʿ,"foot, leg",vɔtkʰ,ɔt-kʰ,ոտք,
 32579,152,96,škṓki,,,,škṓki,,ˈʃko̞ci,ˈʃko̞ki,σ̌κώκι,
 11050,92,58,noga,,,,noga,,ˈno̞ɡɑ̈,ˈnoɡa,нога,http://makedonski.info/search/#нога
 12214,54,58,pā,,AF پاى pāy /pɒ:j/,326,pā,foot; leg,pʰɒ:,pɒ,پا,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2b7Ypw%3d%3d
@@ -17424,7 +17424,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23224,81,164,koṃ,,,147[162-163],koṃ,"sun, day",kõ,kon,,
 28738,131,161,aϑanga,,,28,aϑanga,,,aθanga,𐎠𐎰𐎥,
 22387,105,49,nakhá-,,"'nail, claw', stem",28,nakhá-,m. n.,*nɐ'kʰɐ-,nakʰá-,नख-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=524
-30874,144,58,god,,Identical to /lexeme/30912/ 'leg' (same language).,169,god,,ɡoɽ,,गोड,
+30874,144,58,god,,Identical to [lexeme 30912](lex-30912) 'leg' (same language).,169,god,,ɡoɽ,,गोड,
 23326,82,62,ite,,,345[68],ite,full,ˈite,(y)əyte,,
 13213,58,68,hår,,,219,hår,,hoːɾ,,,
 5376,23,68,hár,,,213,hár,,hɔaːɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=hár
@@ -17620,7 +17620,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 43012,210,89,gkiöl,,Turkish loanword,,gkiöl,,ɟøl̥,giøl,γκιο̈λ,
 43238,211,89,"limní(n), limnítsi(n)",,,,"limní(n), limnítsi(n)",,"liˈmnin, liˈmnitsi(n)","liˈmni(n), liˈmnitsi(n)","λιμνί(ν), λιμνίτσι(ν)",
 45048,219,89,sáar,,,,sáar,,saːɾ,sáar,سار,
-14999,65,76,gahanavā,,cogn. with 'rub' in /cognate/2884/,69[155],gahanavā,,,,ගහනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ගහනවා
+14999,65,76,gahanavā,,cogn. with 'rub' in cognate set 2884,69[155],gahanavā,,,,ගහනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ගහනවා
 3610,16,76,udaryc′,,,,udaryc′,,uˈdɑ̈ɾɨtsʲ,uˈdaritsʲ,ударыць,http://www.slounik.org/search?search=ударыць
 11461,51,76,ṭhoknu,,split from DKB,,ṭhoknu,,ʈʰoknu,,ठोक्नु,
 32599,152,127,šínta,,,,šínta,,ˈʃinda,ˈʃinta,σ̌ίντα,
@@ -17676,7 +17676,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8132,35,80,śikāra karanā,,,,śikāra karanā,,ʃɪkəɾ kəɾnā,ʃɪkəɾ kəɾnā,शिकार करना,
 28513,129,68,her,,,28;277[403],her,,her,,հեր,
 13622,60,80,ohotit'sâ,,,92;56,ohotit'sâ,,ɐ'xɔtsʲitsːɐ,a'xotʲitʲsʲa,охотиться,http://gramota.ru/slovari/dic/?all=x&word=охотиться
-15002,65,80,daḍayam karanavā,,see 'push' in /lexeme/25732/,,daḍayam karanavā,,,,දඩයම් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=දඩයම්
+15002,65,80,daḍayam karanavā,,see 'push' in lexeme 25732,,daḍayam karanavā,,,,දඩයම් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=දඩයම්
 11264,50,80,śikāra karaṇe,,,98[598],śikāra karaṇe,,ʃikaɾ kaɾɳe,,शिकार करणे,
 11072,92,83,mraz,,An alternative lexeme is 'лед' [led].,,mraz,,mɾɑ̈s,mraz,мраз,http://makedonski.info/search/#мраз
 3613,16,80,palâvac′,,,,palâvac′,,pɑ̈lʲɑ̈ˈvɑ̈tsʲ,palʲoˈvatsʲ,паляваць,http://www.slounik.org/search?search=паляваць
@@ -17995,7 +17995,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 1857,8,101,mis,,,170,mis,,mis,mis,միս,
 18727,110,49,ónyx,,G.sg. ὄνυχος,160,ónyx,"fingernail, hoof",ó̞nyks,ó̞nyks,ὄνυξ,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)/nuc
 24385,119,96,kaleja,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],kaleja,,kəleʤɑ,,کلیجہ,
-30902,144,83,baraf,,Identical to /lexeme/30970/ 'snow'.,169,baraf,,bərəpʰ,,बरफ,
+30902,144,83,baraf,,Identical to [lexeme 30970](lex-30970) 'snow'.,169,baraf,,bərəpʰ,,बरफ,
 3238,15,98,v″ška,,,,v″ška,,ˈvɤʃkə,ˈvɤʃka,въшка,https://rechnik.chitanka.info/w/въшка
 8347,36,98,lús,,,,lús,,luːs,,,
 12252,54,99,ādam,,,326,ādam,,ɒdˈæm,ɒdam,آدم,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2KLYr9mF
@@ -18040,7 +18040,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 3631,16,99,mužčyna,,,,mužčyna,,muʂˈtʂɨnɑ̈,muʐˈtʂina,мужчына,http://www.slounik.org/search?search=мужчына
 23356,82,93,ckācko*,,"Attested only in acc. ckāckai, du. ckāckane.",345[278],ckācko*,"leg, (particularly) shin, calf",ˈʨkaʨko,cəkácko,,
 1667,7,101,mis,,,,mis,,mis,mis,միս,
-1859,8,104,sar,,"split from DKB. Cognate with /cognate/53/ 'head' although some scholars believe the term to be a loan < Iranian, cf MPers sl, ManMPers, MParth sr 'eahd'; top, summit; end, Av sarah- 'head'.",170;79[570];180[906],sar,,sɑɾ,sɑɾ,սար,
+1859,8,104,sar,,"split from DKB. Cognate with [cognate set 53](cog-53) 'head' although some scholars believe the term to be a loan < Iranian, cf MPers sl, ManMPers, MParth sr 'eahd'; top, summit; end, Av sarah- 'head'.",170;79[570];180[906],sar,,sɑɾ,sɑɾ,սար,
 15020,65,99,minisā / minihā,,,100[44],minisā / minihā,,miniha,,මිනිසා / මිනිහා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=මිනිසා
 8150,35,99,ādamī,,,,ādamī,,ɑd̪mi,ɑd̪mi,आदमी,
 37236,178,98,ispiš,,ZP spyš,359,ispiš,N,ɪspɪʃ,ispiʃ,ʿspyš,
@@ -18395,7 +18395,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36065,177,122,erythrós,,,329,erythrós,red,e̞rytʰˈro̞s,e̞rytʰˈro̞s,ἐρυθρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=e)ruqro/s
 34796,162,108,antika,,,246[48],antika,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=antika
 11106,92,119,vleče,,,,vleče,,ˈvle̞tʃɛ,ˈvletʃe,влече,http://makedonski.info/search/#влече
-28547,129,99,ayr,,Irregular. Identical to /lexeme/28526/ 'husband'.,28,ayr,,ɑjɾ,ɑ(i)ɾ(-ɑn)-,այր,
+28547,129,99,ayr,,Irregular. Identical to lexeme 28526 'husband'.,28,ayr,,ɑjɾ,ɑ(i)ɾ(-ɑn)-,այր,
 1683,7,119,kʿašel,,,,kʿašel,,kʰɑˈʃɛl,kʰɑʃ-ɛ-l,քաշել,
 4822,20,115,en,,,97[http://ordnet.dk/ddo/ordbog?query=en&search=S%C3%B8g],en,,eˀn,,,http://ordnet.dk/ddo/ordbog?query=en
 1684,7,120,hrel,,,,hrel,,həˈɾɛl,h(ə)ɾ-ɛ-l,հրել,
@@ -18683,7 +18683,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 27506,125,13,xwæcun,,Past stem: χʷɜst-.,122,xwæcun,,χʷɜtsʰun,χʷɜc-un,хуӕцун,
 9166,40,132,nuun,,,,nuun,,nuːn,nuːn,نون,
 11119,92,134,kaže,,,,kaže,,ˈkɑ̈ʒɛ,ˈkaʒe,каже,http://makedonski.info/search/#каже
-11311,50,129,nāsakā,,"M. NĀS 'destruction, damage, loss', = Skt.  NĀŚAḤ, comp. Arm. /lexeme/1884/",,nāsakā,,naska,,नासका,
+11311,50,129,nāsakā,,"M. NĀS 'destruction, damage, loss', = Skt.  NĀŚAḤ, comp. Arm. [lexeme 1884](lex-1884)",,nāsakā,,naska,,नासका,
 3270,15,132,sol,,,,sol,,sɔɫ,sol,сол,https://rechnik.chitanka.info/w/сол
 40827,201,105,stóma,,Cal.; but non-cognate /le̞ˈmo̞/ Ap.,,stóma,,ˈsto̞ma,ˈsto̞ma,στόμα,
 43063,210,149,kapnós,,,,kapnós,,kaˈpnos,kaˈpnos,καπνός,
@@ -18746,7 +18746,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 3663,16,134,skazac′,,,,skazac′,,skɑ̈ˈzɑ̈tsʲ,skaˈzatsʲ,сказаць,http://www.slounik.org/search?search=сказаць
 37752,152,30,leré,,,,leré,,le̞ˈre̞,le̞ˈre̞,λερέ,
 13672,60,133,pesok,,,92;56,pesok,,pʲɪ'sɔk,pʲi'sok,песок,http://gramota.ru/slovari/dic/?all=x&word=песок
-1891,8,137,tesnel,,"IE *derk-, thus /cognate/814/?",170,tesnel,,tɛsˈnɛl,tɛs-n-ɛ-l,տեսնել,
+1891,8,137,tesnel,,"IE *derk-, thus [cognate set 814](cog-814)?",170,tesnel,,tɛsˈnɛl,tɛs-n-ɛ-l,տեսնել,
 37564,179,140,taxl,,"""bitter, sharp""",359,taxl,ADJ,taxl,taxl,txl,
 11314,50,133,vāḷū,,,,vāḷū,,vaɭu:,,वाळू,
 7607,32,133,ámmos,,,271,ámmos,sand,ˈamo̞s,ˈamo̞s,άμμος,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=άμμος
@@ -19003,7 +19003,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17232,73,144,škìra,,,,škìra,,ˈʂkʲiɾɐ,ˈʂkira,шкіра,http://sum.in.ua/s/shkira
 13682,60,143,sidet',,,92;56,sidet',,sʲɪ'dzʲetsʲ,sʲi'dʲetʲ,сидеть,http://gramota.ru/slovari/dic/?all=x&word=сидеть
 8192,35,143,baiṭhanā,,,,baiṭhanā,,bɛʈʰnɑ,bɛʈʰnɑ,बैठना,
-7617,32,143,káthomai,,From Ancient κάθημαι /lexeme/18901/.  Has suppletive perfective stem κάθισα from aorist of Ancient Greek καθίζω (cf. /lexeme/18900/),271,káthomai,be sitting,ˈkaθo̞me̞,ˈkaθo̞me̞,κάθομαι,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=κάθομαι
+7617,32,143,káthomai,,From Ancient κάθημαι [lexeme 18901](lex-18901).  Has suppletive perfective stem κάθισα from aorist of Ancient Greek καθίζω (cf. [lexeme 18900](lex-18900)),271,káthomai,be sitting,ˈkaθo̞me̞,ˈkaθo̞me̞,κάθομαι,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=κάθομαι
 15062,65,143,in̆dagannavā,,,,in̆dagannavā,,,,ඉඳගන්නවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ඉඳගන්නවා
 3282,15,144,koža,,,,koža,,ˈkɔʒə,ˈkoʒa,кожа,https://rechnik.chitanka.info/w/кожа
 3673,16,144,skura,,,,skura,,ˈskuɾɑ̈,ˈskura,скура,http://www.slounik.org/search?search=скура
@@ -19101,7 +19101,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 3678,16,149,dym,,,,dym,,dɨm,dim,дым,http://www.slounik.org/search?search=дым
 1905,8,151,ōj,,,170,ōj,,ɔdz,odz,օձ,
 8197,35,148,sūṅghanā,,,,sūṅghanā,,sũgʱnɑ,sũgʱnɑ,सूंघना,
-8396,36,149,reykur,,see also 'dust' /lexeme/8290/. Replaced REYKR.,,reykur,,ˈreiːkʰʏr,,,
+8396,36,149,reykur,,see also 'dust' [lexeme 8290](lex-8290). Replaced REYKR.,,reykur,,ˈreiːkʰʏr,,,
 40033,195,216,sklerós,,,,sklerós,,sklɛˈrɔs,sklɛˈrɔs,σκλερός,
 23403,82,143,ṣamäṃ,,"Root /ləma-/, alternating with /lama-/ in the subj. and /lʲəma-/ in the pret.; suppletive pres. /ṣəm-ə/e-/. Latter widely taken to be from PIE *sed- with *m of nonpres. stem, but source of latter itself disputed.",345[716-717];341[926-927],ṣamäṃ,sits,ˈʂəmɨ̃,ṣəm-ə́-n,ṣamäṃ ≠ ləma-,
 27542,125,63,dættun,,Past stem (suppletive): lɜvard-.,122,dættun,,dɜtːun,dɜtː-un,дӕттун,
@@ -19279,7 +19279,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 2306,10,159,tārā,,cf. they,,tārā,,t̪ara,,তারা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=তারা
 11146,92,161,kamen,,,,kamen,,ˈkɑ̈mɛn,ˈkamen,камен,http://makedonski.info/search/#камен
 21218,100,118,igrati,,"In the Canon it seems to be attested only in the meaning 'to have fun, to entertain. However, the meaning 'to play a game' is attested in younger texts.",28,igrati,,iɡrɑti,iɡrati,играти,
-30959,144,141,choṭā,,"Free variation between cʰotɑ and cʰot. Identical to /lexeme/30965/ 'small, little'.",169,choṭā,,cʰot(ɑ),,छोटा,
+30959,144,141,choṭā,,"Free variation between cʰotɑ and cʰot. Identical to [lexeme 30965](lex-30965) 'small, little'.",169,choṭā,,cʰot(ɑ),,छोटा,
 38531,188,214,spítshi,,,,spítshi,,ˈspitsʰi,ˈspitsʰi,σπίτσ̔ι,
 27559,124,119,lasyn,,Past stem: lašt-.,122,lasyn,,ˈlɑʃɘn,laš-ən,ласын,
 13299,58,159,stjerne,,,219,stjerne,,ˈstjæ̀ːɳə,,,
@@ -19481,7 +19481,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 18795,110,87,góny,,G.sg. γόνατος.,160,góny,knee,ɡó̞ny,ɡó̞ny,γόνυ,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=go/nu^
 11156,92,173,misli,,,,misli,,ˈmisli,ˈmisli,мисли,http://makedonski.info/search/#мисли
 9211,40,179,zew,,,,zew,,zɛʋ,zɛʋ,زیو,
-15086,65,167,valgaya / naguṭa,,cf. /cognate/781/,69[436],valgaya / naguṭa,,,,වල්ගය / නගුට,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=වල්ගය
+15086,65,167,valgaya / naguṭa,,cf. [cognate set 781](cog-781),69[436],valgaya / naguṭa,,,,වල්ගය / නගුට,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=වල්ගය
 13706,60,167,hvost,,,92;56,hvost,,xvɔst,xvost,хвост,http://gramota.ru/slovari/dic/?all=x&word=хвост
 11348,50,167,"śepaṭī, śepūṭa",,,98[600],"śepaṭī, śepūṭa",,"ʃepʈi:, ʃepu:ʈ",,"शेपटी ,शेपूट",
 36125,177,76,týptō,,,329,týptō,"beat, strike",ˈtypto̞,ˈtypto̞,τύπτω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=tu/ptw
@@ -19495,7 +19495,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 40863,201,134,légō,,Cal.; Ap. /ˈle̞o̞/,,légō,,ˈle̞ɣo̞,ˈle̞ɣo̞,λέγω,
 43099,210,199,kanát,,Turkish loanward,,kanát,,qaˈnat,kaˈnat,κανάτ,
 43325,211,199,"fteró(n), fteroúli(n)",,,,"fteró(n), fteroúli(n)","feather, wing","fte̞ˈro̞(n), fte̞ˈruli(n)","fte̞ˈro̞(n), fte̞ˈruli(n)","φτερό(ν),  φτερούλι(ν)",
-30970,144,152,baraf,,Identical to /lexeme/30902/ 'ice'.,169,baraf,,bərəpʰ,,बरफ,
+30970,144,152,baraf,,Identical to [lexeme 30902](lex-30902) 'ice'.,169,baraf,,bərəpʰ,,बरफ,
 7641,32,167,oyrá,,,271,oyrá,tail,u'ra,u'ra,ουρά,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=ουρά
 22484,105,124,dákṣiṇa-,,,28,dákṣiṇa-,adj.,*'dɐkʂiɳɐ-,dáksina-,दक्षिण-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=465
 9203,40,171,moṭ,,,,moṭ,,moʈ,moʈ,مُٹہ,
@@ -19791,7 +19791,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45149,219,93,khur,,,,khur,,kʰuɾ,kʰur,کُھر,
 5486,23,184,spýggja,,,213,spýggja,,ˈspʊid̥ʒːa,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=spýggja
 13323,58,183,to,,,219,to,,tuː,,,
-11363,50,182,vaḷaṇe,,"cf. Skt. VAL- 'to turn' (Buck 1949: 665), prob. ultimately fr. the same root as /cognate/1186/",98[600],vaḷaṇe,,ʋəɭ'ɳe,,वळणे,
+11363,50,182,vaḷaṇe,,"cf. Skt. VAL- 'to turn' (Buck 1949: 665), prob. ultimately fr. the same root as [cognate set 1186](cog-1186)",98[600],vaḷaṇe,,ʋəɭ'ɳe,,वळणे,
 12334,54,184,estefrāġ kardan,,,326,estefrāġ kardan,,estefɾɒ:ʁ kʲærdæn,estefrɒɢ kærdæn,استفراغ کردن,
 37811,152,210,aphalé,,,,aphalé,,apʰaˈle̞,apʰaˈle̞,απ̔αλέ,
 22497,105,132,lavaṇám,,,28;41,lavaṇám,n.,*lɐʋɐ'ɳɐm,lavanám,लवणम्,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=898
@@ -19863,11 +19863,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5687,24,188,water,,,,water,,,,,
 27615,124,181,bælas,,,122,bælas,,bɜˈlɑʃ,bɜlaš,бӕлас,
 3716,16,187,myc′,,,,myc′,,mɨtsʲ,mitsʲ,мыць,http://www.slounik.org/search?search=мыць
-28615,129,158,kam,,"Also ‘to stay, halt; to stop, rest; to wait; to appear; to dwell’. Widely considered to be cognate with /cognate/2370/ 'to walk, step, go'.",28;79[249],kam,,kɑm,k(-)ɑ-m,կամ,
+28615,129,158,kam,,"Also ‘to stay, halt; to stop, rest; to wait; to appear; to dwell’. Widely considered to be cognate with cognate set 2370 'to walk, step, go'.",28;79[249],kam,,kɑm,k(-)ɑ-m,կամ,
 11566,51,186,tāto,,,69[347],tāto,,t̪at̪o,,तातो,
 36183,177,137,horáō,,,269,horáō,"see, look",o̞rˈo̞,o̞rˈao̞,ὁράω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o(ra/w
 17274,73,186,teplij,,,,teplij,,ˈtɛpɫɪ̽j,ˈteplɪj,теплий,http://sum.in.ua/s/teplyj
-15105,65,186,rasne,,"Karunatillake gives uṇu, /cognate/6183/",,rasne,,,,රස්නෙ,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ග්‍රීෂ්‍මය
+15105,65,186,rasne,,"Karunatillake gives uṇu, [cognate set 6183](cog-6183)",,rasne,,,,රස්නෙ,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ග්‍රීෂ්‍මය
 19484,111,148,gəndh aeəb,,"Trail: concerning a flower, Davies gives also 'to smell bad': gandhāyab, ghand deb",29;7,gəndh aeəb,,gəndh aeəb,,गंध आना,
 13725,60,186,tëplyj,,,92;56,tëplyj,,'tsʲɔpɫɘj,'tʲoplij,тёплый,http://gramota.ru/slovari/dic/?all=x&word=тёплый
 7660,32,186,zestós,,,271,zestós,"hot, warm",ze̞ˈsto̞s,ze̞ˈsto̞s,ζεστός,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=ζεστός
@@ -19968,7 +19968,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 38565,188,139,rávgō,,,,rávgō,,ˈravɣo̞,ˈravɣo̞,ράβγω,
 11180,92,198,vetar,,,,vetar,,ˈve̞tɑ̈ɾ̥,ˈvetar,ветар,http://makedonski.info/search/#ветар
 19489,111,152,baraph,,"‘to snow’ , snow = bərph",29;7,baraph,,bəɾəf,,बरफ,
-1757,7,199,tʿew,,the same in 'feather' /lexeme/1808/,,tʿew,,tʰɛv,tʰɛu,թեւ,
+1757,7,199,tʿew,,the same in 'feather' [lexeme 1808](lex-1808),,tʿew,,tʰɛv,tʰɛu,թեւ,
 36189,177,221,hairéō,,,329,hairéō,"take with the hand, take away",e̞ˈro̞,e̞ˈre̞o̞,αἱρέω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=ai(re/w
 37822,152,129,sápže,,,,sápže,,ˈsapʒe̞,ˈsapʒe̞,σάπζ̌ε,
 40887,201,214,spíti,,It.,,spíti,,ˈspiti,ˈspiti,σπίτι,
@@ -20012,7 +20012,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36365,177,19,pnéō,,,329,pnéō,breathe,ˈpno̞,ˈpne̞o̞,πνέω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=pne/w
 34874,162,182,vaṭṭati,,,246[594],vaṭṭati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=vaṭṭati
 18823,110,104,óros,,G.sg. ὄρεος,160,óros,"mountain, hill",ó̞ro̞s,ó̞ro̞s,ὄρος,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)/ros1
-24481,119,129,galā-saṛā,,comp. /lexeme/2082/,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],galā-saṛā,,ɡəlɑ səɽɑ,,گَلا سڑا,
+24481,119,129,galā-saṛā,,comp. lexeme 2082,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],galā-saṛā,,ɡəlɑ səɽɑ,,گَلا سڑا,
 11375,50,194,sapheda,,,,sapheda,,səpʰed̪,,सफेद,
 27859,128,196,pərəϑu,,appears to be more widely used than paθana-,28,pərəϑu,ADJ,,pərθu,𐬞𐬆𐬭𐬆𐬚𐬎,
 24480,119,7,k̲h̲arāba,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],k̲h̲arāba,,bʊɾɑ,,بُرا,
@@ -20063,7 +20063,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 1764,7,206,tari,,,306[800],tari,,dɑˈɾi,dɑɾi,տարի,
 28626,129,165,uṙnum / uṙčʿim,,,28;170,uṙnum / uṙčʿim,,,,uṙnum / uṙč‘im,
 40081,195,142,traoydṓ,,Alternative form: τραουώ.,,traoydṓ,,trɐuˈðɔ,trɐuˈðɔ,τραουδώ,
-28627,129,166,lołam,,"Identical to /lexeme/28496/ 'to float'. Cf., byform լողիմ lołim.",28,lołam,,lɔˈʁɑm,lɔʁ-ɑ-m,լողամ,
+28627,129,166,lołam,,"Identical to lexeme 28496 'to float'. Cf., byform լողիմ lołim.",28,lołam,,lɔˈʁɑm,lɔʁ-ɑ-m,լողամ,
 3727,16,198,vecer,,,,vecer,,ˈvʲetsʲɛɾ,ˈvʲetsʲer,вецер,http://www.slounik.org/search?search=вецер
 37829,152,213,stsádi,,,,stsádi,,ˈstsaði,ˈstsaði,στσάδι,
 17286,73,198,vìter,,,,vìter,,ˈv(ʲ)itɛ̽ɾ,ˈviter,вітер,http://sum.in.ua/s/viter
@@ -20082,7 +20082,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 27863,128,198,vāta,,,28,vāta,N.m,,u̯aːta,𐬬𐬁𐬙𐬀,
 24484,119,130,gol,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],gol,,ɡol,,گول,
 50996,177,212,echthés,,"Attested 3x: Jo 4:52, Acts 9:28, Heb. 13:8.",,echthés,,e̞ˈkʰtʰe̞s,e̞ˈkʰtʰe̞s,ἐχθές,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=e)xqe/s
-1956,8,202,kin,,Identical to /lexeme/1951/ 'wife'.,,kin,,kin,kin,կին,
+1956,8,202,kin,,Identical to lexeme 1951 'wife'.,,kin,,kin,kin,կին,
 13737,60,198,veter,,,92;56,veter,,'vʲetʲɪɾ,'vʲetʲer,ветер,http://gramota.ru/slovari/dic/?all=x&word=ветер
 8447,36,203,skógur,,Replaced SKOGR.; more basic than mörk TKD,,skógur,,ˈskouːʏr,,,
 17287,73,199,krilo,,,,krilo,,kɾɪ̽ˈɫɔ,krɪˈlo,крило,http://sum.in.ua/s/krylo
@@ -20196,7 +20196,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 43134,210,18,gkiögksÿ́,,Turkish loanward,,gkiögksÿ́,,ɟøˈŋgsy,giøˈŋgsy,γκιο̈γκσΰ,
 5705,24,206,jaer,,,,jaer,,,,,
 37837,152,147,(e)mitshī́,,,,(e)mitshī́,,(e̞)miˈtsʰi,(e̞)miˈtsʰi,(ε)μιτσ̔ή,
-1961,8,207,dełin,,Martirosyan relates to Gr. THALLO 'to bloom' and  'leaf' in /cognate/1025/,170,dełin,,dɛˈʁin,dɛʁin,դեղին,
+1961,8,207,dełin,,Martirosyan relates to Gr. THALLO 'to bloom' and  'leaf' in [cognate set 1025](cog-1025),170,dełin,,dɛˈʁin,dɛʁin,դեղին,
 37838,152,148,nyžízou,,/miˈʒizu/ NPT,,nyžízou,,ɲiˈʒizu,ɲiˈʒizu,νυζ̌ίζου,
 35552,92,31,kuče,,"An alternative lexeme is 'пес' [pes]. However, it is less frequently used.",313,kuče,,ˈkutʃɛ,ˈkutʃe,куче,http://makedonski.info/search/#куче
 2353,10,206,bachar,,,,bachar,,bɔtʃʰor,,বছর,
@@ -20594,7 +20594,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45192,219,216,ḍanɡ,,,,ḍanɡ,,ɖaŋg,ɖang,ڈنگ,
 37082,92,209,bedro,,hip,249,bedro,,ˈbedrɔ,,бедро,
 26584,50,13,cāvaṇe,,,98[596],cāvaṇe,,ʦaʋɳe,,चावणे,
-25707,65,118,sellam karanavā,,"split from DKB, see 'push' /lexeme/25732/",,sellam karanavā,,,,සෙල්ලම් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සෙල්ලම්
+25707,65,118,sellam karanavā,,"split from DKB, see 'push' lexeme 25732",,sellam karanavā,,,,සෙල්ලම් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සෙල්ලම්
 43383,211,217,glykýs,,,,glykýs,,ɣliˈcis,ɣliˈkis,γλυκύς,
 37068,60,213,ten',,,249,ten',,tsʲenʲ,tʲenʲ,тень,http://gramota.ru/slovari/dic/?all=x&word=тень
 40921,201,165,fysaínomai,,Cal.;  but non-cognate /ˈprisko̞me̞/ Ap.,,fysaínomai,,fiˈse̞no̞me̞,fiˈse̞no̞me̞,φυσαίνομαι,
@@ -20795,7 +20795,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36254,124,211,bynʒ,,,156[Vol. 1: 280],bynʒ,,bɘnz,bənz,бындз,
 37092,92,218,odi,,,249,odi,,ˈo̞di,ˈodi,оди,http://makedonski.info/search/#оди
 37111,15,218,otivam,,,249,otivam,,uˈtʲivəm,oˈtivam,отивам,https://rechnik.chitanka.info/w/отивам
-28664,129,199,tʿew,,Also 'arm'. Cf. /lexeme/28538/ 'leaf'.,28;79[286],tʿew,,tʰɛv,tʰɛu-ɔ-,թեւ,
+28664,129,199,tʿew,,Also 'arm'. Cf. [lexeme 28538](lex-28538) 'leaf'.,28;79[286],tʿew,,tʰɛv,tʰɛu-ɔ-,թեւ,
 37054,16,217,salodkì,,,249,salodkì,,sɑ̈ˈɫɔtkʲi,soˈlodki,салодкі,http://www.slounik.org/search?search=салодкі
 35136,100,148,čuti,,'to feel'. Not attested in the particular meaning 'to smell' in the OCS texts.,267,čuti,,tʃyti,,чути,
 45307,211,6,plátī,,,,plátī,,ˈplati,ˈplati,πλάτη,
@@ -20859,13 +20859,13 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37057,16,220,nasìc′,,,249,nasìc′,,nɑ̈ˈsʲitsʲ,noˈsʲitsʲ,насіць,http://www.slounik.org/search?search=насіць
 49384,10,223,kām̐dā,,,,kām̐dā,,kãd̪a,,কাঁদা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=কাঁদা
 50197,24,62,vol,,,,vol,,,,,
-28667,129,202,kin,,Irregular. Identical to /lexeme/28662/ 'wife'.,28,kin,,kin,kin-ɑ-/-ɔdʒ-,կին,
+28667,129,202,kin,,Irregular. Identical to lexeme 28662 'wife'.,28,kin,,kin,kin-ɑ-/-ɔdʒ-,կին,
 45233,119,220,le jānā,,,,le jānā,,le ʤɑnɑ,,لے جانا,
 45310,211,220,kouvalṓ,,also /ko̞vaˈlo̞/,,kouvalṓ,,kuvaˈlo̞,kuvaˈlo̞,κουβαλώ,
 49968,125,214,xæʒaræ,,,,xæʒaræ,,χɜdzɑrɜ,χɜʒarɜ,хӕдзарӕ,
 38611,188,199,fteré,,,,fteré,,fte̞ˈre̞,fte̞ˈre̞,φτερέ,
 33973,58,78,horn,,,219,horn,,huːɳ,,,
-26877,32,160,ravdí,,Cognate with /lexeme/18928/.,271,ravdí,stick,raˈvði,raˈvði,ραβδί,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=ραβδί
+26877,32,160,ravdí,,Cognate with [lexeme 18928](lex-18928).,271,ravdí,stick,raˈvði,raˈvði,ραβδί,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=ραβδί
 25313,40,35,duuṛ,,"split from DKB, related to PHŎK 'blowing'? (Turner 1931: 407)",,duuṛ,,,,DUUR,
 37032,73,214,budinok,,'house' with a tendency to 'building',249,budinok,,bʊˈdɪnɔk,buˈdɪnok,будинок,http://sum.in.ua/s/budynok
 50198,24,218,gaan,,,,gaan,,,,,
@@ -21189,7 +21189,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 51024,73,35,pil,,"Alternative lexemes are 'порох' and 'курява'. The choice is not straightforward. According to a native speaker 'пил' is the most generic and neutral of them and can be used both for 'dust outside' and 'building internal-dust', although it shows some tendency to the meaning 'building internal-dust'. The other words usually refer to 'dust outside' but are slightly expressive.",,pil,,pɪɫ,pɪl,пил,http://sum.in.ua/s/pyl
 19554,111,194,ujjar,,,29;7,ujjar,,ʊʤʤəɾ,,उज्जर,
 31052,129,18,kowrckʿ,,"Plurale tantum; Traditionally pronounced as two syllables, i.e. [ˈkuɾ.tsəkʰ].",170;277[360],kowrckʿ,Fig. also 'heart; mind',ˈkuɾts(ə)kʰ,kuɾts-i-kʰ,կուրծք,
-26731,8,129,pʿtac,,Related to /lexeme/522/?,170,pʿtac,,pʰəˈtɑts,pʰut-ɑts,փտած,
+26731,8,129,pʿtac,,Related to lexeme 522?,170,pʿtac,,pʰəˈtɑts,pʰut-ɑts,փտած,
 26624,50,141,ṭheṅgā,,,98[599],ṭheṅgā,short in height,'ʈʰeŋgɳa,,ठेंगा,
 42671,35,214,ghara,,,,ghara,,gʱəɾ,gʱər,घर,
 22573,105,190,ārdrá-,,,28,ārdrá-,,*a:ɾdɾɐ-,ārdrá-,आर्दर-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=152
@@ -21267,7 +21267,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49802,40,87,koṭh,,,,koṭh,,kʊʈʰ,koʈʰ,کُٹھ,
 31064,129,57,maṙaxuł,,,170,maṙaxuł,,maṙaxuł,,մառախուղ,
 42680,35,217,mīṭhā,,,,mīṭhā,,miʈʰɑ,miʈʰɑ,मीठा,
-31065,129,57,bal,,"Also 'mist'. In dialect, also 'white fleck'. Connected to 'white' /cognate/1190/.",79[162];170,bal,,bal,,բալ,
+31065,129,57,bal,,"Also 'mist'. In dialect, also 'white fleck'. Connected to 'white' [cognate set 1190](cog-1190).",79[162];170,bal,,bal,,բալ,
 45347,35,99,puruṣ,,,,puruṣ,,pʊɾʊʃ,,पुरुष,
 42917,35,58,pām̐va,,,,pām̐va,,pɑ̃ʋ,pɑ̃v,पाँव,
 31066,129,61,mirg,,,170;276,mirg,,mirg,,միրգ,
@@ -21276,7 +21276,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26041,73,187,miti,,,,miti,,ˈmɪtɪ̽,ˈmɪtɪ,мити,http://sum.in.ua/s/myty
 45548,35,167,duma,,,,duma,,d̪ʊm,d̪ʊm,दुम,
 33919,157,182,vända,,,209,vända,,ˈvænda,vænda,,
-26740,8,158,kangnel,,cf. /lexeme/1912/,170,kangnel,,kɑŋgˈnɛl,kɑng-n-ɛ-l,կանգնել,
+26740,8,158,kangnel,,cf. lexeme 1912,170,kangnel,,kɑŋgˈnɛl,kɑng-n-ɛ-l,կանգնել,
 33188,23,87,knæ,,,213,knæ,,knɛaː,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=knæ
 22582,105,196,urú-,,"'wide, extensive, broad, extended, spacious, roomy; not narrow'",28,urú-,adj.,*uˈɾu-,urú-,उरु-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=217
 40964,201,62,giomáto,,Cal.; /ɟo̞ˈma(t)o̞/ Ap.,,giomáto,,ʝo̞ˈmato̞,ɣio̞ˈmato̞,γιομάτο,
@@ -22164,7 +22164,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 841,3,60,mërdhif,,,,mërdhif,,,,,
 839,3,58,kâmë,,"kâmë ~ kâmbë Loan < Romance *camba ~ *gamba (but not attested in Balkan Romance) < (Vul)Lat gamba 'leg, ankle, pastern' (itself < Grk. κάμπη)",105[177],kâmë,,,,,
 949,3,178,lidh,,,,lidh,,,,,
-950,3,179,gjue,,"From PAlb *glusā, further connected with IE dial. *golso- 'sound', cf also ON kall 'shout', Lith galsas 'echo', Slav golsъ 'voice'. Holm disagrees, favouring instead a root in IE *dnghuā 'tongue', cf /cognate/327/(cognate class W).",105[138];130[40],gjue,,,,,
+950,3,179,gjue,,"From PAlb *glusā, further connected with IE dial. *golso- 'sound', cf also ON kall 'shout', Lith galsas 'echo', Slav golsъ 'voice'. Holm disagrees, favouring instead a root in IE *dnghuā 'tongue', cf [cognate set 327](cog-327)(cognate class W).",105[138];130[40],gjue,,,,,
 30715,143,178,lidh,,Also 'to bind'.,129;105[226-227];80[980],lidh,,,,,
 30827,143,207,verdhë,,Borrowed < *vir(i)de < Lat. viridis 'greenish'.,129;105[499],verdhë,,,,,
 947,3,176,tre,,f. tri,,tre,,,,,
@@ -22616,10 +22616,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 58333,277,194,isbi,,,,isbi,,,isbi,,
 58337,277,24,mā,,,,mā,,,ma,,
 30270,110,30,rhyparós,,"G.sg. ῥυπαροῦ; ῥυπαρός, ῥυπαρά, ῥυπαρόν.",160;47[1081],rhyparós,"dirty, filthy",hryparó̞s,hryparó̞s,ῥυπαρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=r(uparo/s
-35692,110,220,phérō,,"Inf. φέρειν.  (Suppletive future οἴσω, aorist ἤνεγκα, perfect ἐνήνοχα < *h₁nek̑- cf. /cognate/5130/).",160,phérō,"bear, carry",pʰé̞ro̞ː,pʰé̞ro̞ː,φέρω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=fe/rw
+35692,110,220,phérō,,"Inf. φέρειν.  (Suppletive future οἴσω, aorist ἤνεγκα, perfect ἐνήνοχα < *h₁nek̑- cf. [cognate set 5130](cog-5130)).",160,phérō,"bear, carry",pʰé̞ro̞ː,pʰé̞ro̞ː,φέρω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=fe/rw
 36349,110,226,ónyx,,G.sg. ὄνυχος.,160,ónyx,"nail, claw, hoof",ó̞nyks,ó̞nykʰs,ὄνυξ,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)/nuc
 35686,110,224,práttō,,Inf. πράττειν.,160,práttō,"do, be busy with; accomplish; manage affairs",prátto̞ː,prátto̞ː,πράττω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=pra/ttw
-18701,110,33,xērós,,"G.sg. ξηροῦ; ξηρός, ξηρά, ξηρόν. Antonym of ὑγρός 'wet' /lexeme/18991/",160,xērós,dry,ksɛːró̞s,ksɛːró̞s,ξηρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=chro/s
+18701,110,33,xērós,,"G.sg. ξηροῦ; ξηρός, ξηρά, ξηρόν. Antonym of ὑγρός 'wet' [lexeme 18991](lex-18991)",160,xērós,dry,ksɛːró̞s,ksɛːró̞s,ξηρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=chro/s
 18691,110,27,hēméra,,G.sg. ἡμέρᾱς,160,hēméra,day,hɛːmé̞raː,hɛːmé̞raː,ἡμέρα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=h(me/ra
 18888,110,136,thálatta,,G.sg. θαλάττης.,160,thálatta,sea,tʰálatːa,tʰálatːa,θάλαττα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qa/lassa
 18694,110,29,orýttō,,Inf. ὀρύττειν (Ion. ὀρύσσειν).,160,orýttō,"dig, dig up",o̞rýtːo̞ː,o̞rýtːo̞ː,ὀρύττω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)ru/ssw
@@ -22634,13 +22634,13 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 18770,110,74,barýs,,"G.sg. βαρέως; βαρύς, βαρεῖα, βαρύ.",160,barýs,heavy,barýs,barýs,βαρύς,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=baru/s
 18781,110,78,kéras,,Att. G.sg. κέρως < *κέρα-ος.,160,kéras,horn (of an animal),ké̞ras,ké̞ras,κέρας,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=ke/ras
 35669,110,214,oikía,,G.sg. οἰκίας,160,oikía,house,oi̯kíaː,oi̯kíaː,οἰκία,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=oi)ki/a
-18783,110,80,thēreúō,,Inf. θηρεύειν.  Cf. θήρ 'wild animal' /cognate/1104/. Alternative lexeme θηράω.,160,thēreúō,hunt,tʰɛːréu̯o̞ː,tʰɛːréu̯o̞ː,θηρεύω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qhreu/w
+18783,110,80,thēreúō,,Inf. θηρεύειν.  Cf. θήρ 'wild animal' cognate set 1104. Alternative lexeme θηράω.,160,thēreúō,hunt,tʰɛːréu̯o̞ː,tʰɛːréu̯o̞ː,θηρεύω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qhreu/w
 18796,110,88,oĩda,,Inf. εἰδέναι.  Irregular verb; cf. notes in cognate coding.,160,oĩda,know,óì̯da,óì̯da,οἶδα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=oi)=da
 18802,110,92,aristerós,,G.sg. ἀριστεροῦ,160,aristerós,"left, on the left",ariste̞ró̞s,ariste̞ró̞s,ἀριστερός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a)ristero/s
 18805,110,93,skélos,,G.sg. σκέλεος.,160,skélos,leg (from the hip downwards),ské̞lo̞s,ské̞lo̞s,σκέλος,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=ske/los
 18810,110,95,záō,,Inf. ζῆν.,160,záō,I live,zdô̞ː,zdáːo̞ː,ζάω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=zw=
 18813,110,97,makrós,,G.sg. μακροῦ.,160,makrós,long,makró̞s,makró̞s,μακρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=makro/s1
-18817,110,101,kréas,,Gen. κρέως < *κρέϝα-ος.  Cf. /cognate/1112/,160,kréas,"flesh, meat",kré̞as,kré̞as,κρέας,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=kre/as
+18817,110,101,kréas,,Gen. κρέως < *κρέϝα-ος.  Cf. [cognate set 1112](cog-1112),160,kréas,"flesh, meat",kré̞as,kré̞as,κρέας,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=kre/as
 58185,277,40,kölāriye,,,,kölāriye,,,kølarije,,
 18826,110,107,stenós,,"G.sg. στενοῦ. στενός, στενή, στενόν.",160,stenós,narrow,ste̞nó̞s,ste̞nó̞s,στενός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=steno/s1
 35649,110,210,omphalós,,G.sg. ὀμφαλοῦ.,160,omphalós,navel,o̞mpʰaló̞s,o̞mpʰaló̞s,ὀμφαλός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)mfalo/s
@@ -22666,7 +22666,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 18901,110,143,káthēmai,,Compound with κατά. Inf. (καθ-)ἧσθαι.,160,káthēmai,"be seated, sit",kátʰɛːmai̯,kátʰɛːmai̯,κάθημαι,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=ka/qhmai
 32677,110,144,dérma,,G.sg. δέρματος,160,dérma,"skin, hide",dé̞rma,dé̞rma,δέρμα,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=de/rma
 18905,110,146,katheúdō,,Compound of εὕδω 'sleep' with preverb κατά.  Inf. καθεύδειν.,160,katheúdō,"lay down to sleep, sleep",katʰéu̯do̞ː,katʰéu̯do̞ː,καθεύδω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=kaqeu/dw
-18906,110,147,mikrós,,"G.sg. μικροῦ; μικρός, μικρά, μικρόν. AF σμικρός.  Antonym: μέγας /lexeme/18657/",160,mikrós,small,mikró̞s,mikró̞s,μικρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=mikro/s
+18906,110,147,mikrós,,"G.sg. μικροῦ; μικρός, μικρά, μικρόν. AF σμικρός.  Antonym: μέγας [lexeme 18657](lex-18657)",160,mikrós,small,mikró̞s,mikró̞s,μικρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=mikro/s
 18908,110,149,kapnós,,G.sg. καπνοῦ,160,kapnós,smoke,kapnó̞s,kapnó̞s,καπνός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=kapno/s
 18893,110,140,oxýs,,"G.sg. ὀξέως; ὀξύς, ὀξεῖα, ὀξύ",160,oxýs,"sharp, keen (of a point or edge)",o̞ksýs,o̞ksýs,ὀξύς,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)cu/s2
 18911,110,151,óphis,,G.sg. ὄφεως,160,óphis,"snake, serpent",ó̞pʰis,ó̞pʰis,ὄφις,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)/fis
@@ -22691,15 +22691,15 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 18944,110,166,néō,,Inf. νεῖν,160,néō,swim,nô̞ː,né̞o̞ː,νέω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=ne/w1
 35689,110,217,hēdýs,,"ἡδύς, ἡδεῖα, ἡδύ.",160;269,hēdýs,"sweet, pleasant (of taste)",hɛːdýs,hɛːdýs,ἡδύς,
 18926,110,158,hístēmi,,Inf.  ἱστάναι.,160,hístēmi,stand,hístɛːmi,hístɛːmi,ἵστημι,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=i(/sthmi
-18889,110,137,horáō,,Inf. ὁρᾶν.  Has suppletive aorist εἶδον belonging to cognate class /cognate/929/,47[1042];160,horáō,"see, look",ho̞rô̞ː,ho̞ráo̞ː,ὁράω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o(ra/w
+18889,110,137,horáō,,Inf. ὁρᾶν.  Has suppletive aorist εἶδον belonging to cognate class [cognate set 929](cog-929),47[1042];160,horáō,"see, look",ho̞rô̞ː,ho̞ráo̞ː,ὁράω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o(ra/w
 35652,110,209,mērós,,G.sg. μηροῦ.,160,mērós,thigh,mɛːró̞s,mɛːró̞s,μηρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=mhro/s
 18903,110,145,ouranós,,G.sg. οὐρανοῦ,160,ouranós,"sky, firmament",uːranó̞s,uːranó̞s,οὐρανός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=ou)rano/s
 18975,110,182,trépō,,Inf. τρέπειν,160,trépō,"turn, direct (towards something)",tré̞po̞ː,tré̞po̞ː,τρέπω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=tre/pw
-18991,110,190,hygrós,,"G.sg. ὑγροῦ; ὑγρός, ὑγρά, ὑγρόν. Antonym of ξηρός 'dry' /lexeme/18701/",160,hygrós,wet,hygró̞s,hygró̞s,ὑγρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=u(gro/s
+18991,110,190,hygrós,,"G.sg. ὑγροῦ; ὑγρός, ὑγρά, ὑγρόν. Antonym of ξηρός 'dry' [lexeme 18701](lex-18701)",160,hygrós,wet,hygró̞s,hygró̞s,ὑγρός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=u(gro/s
 18996,110,194,leukós,,"G.sg. λευκοῦ; λευκός, λευκή, λευκόν",160,leukós,"white, light",leu̯kós,leu̯kós,λευκός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=leuko/s2
 19002,110,198,ánemos,,G.sg. ἀνέμου,160,ánemos,wind,áne̞mo̞s,áne̞mo̞s,ἄνεμος,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a)/nemos
-19003,110,199,ptéryx,,G.sg πτέρυγος; cf. /lexeme/18721/,160,ptéryx,wing (of a bird),pté̞ryks,pté̞ryks,πτέρυξ,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=pte/ruc
-19008,110,202,gynḗ,,G.sg. γυναικός; cf. /lexeme/19000/,160,gynḗ,woman; wife,ɡynɛ́ː,ɡynɛ́ː,γυνή,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=gunh/
+19003,110,199,ptéryx,,G.sg πτέρυγος; cf. [lexeme 18721](lex-18721),160,ptéryx,wing (of a bird),pté̞ryks,pté̞ryks,πτέρυξ,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=pte/ruc
+19008,110,202,gynḗ,,G.sg. γυναικός; cf. lexeme 19000,160,gynḗ,woman; wife,ɡynɛ́ː,ɡynɛ́ː,γυνή,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=gunh/
 19013,110,206,étos,,G.sg. ἔτεος,160,étos,year,é̞to̞s,é̞to̞s,ἔτος,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=e)/tos1
 19014,110,207,xanthós,,"G.sg. ξανθοῦ. ξανθός, ξανθή, ξανθόν.",160,xanthós,yellow,ksantʰó̞s,ksantʰó̞s,ξανθός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=canqo/s
 35651,110,212,chthés,,Indeclinable adverb.,160,chthés,yesterday,kʰtʰé̞s,kʰtʰé̞s,χθές,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=xqe/s
@@ -22939,7 +22939,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20186,80,45,nāḫ- / naḫḫ-,,,403[338-341],nāḫ- / naḫḫ-,to fear,,,na-a-ḫi,
 20215,80,76,u̯alḫ-,,,28,u̯alḫ-,to hit,,,u̯a-al-aḫ-zi,
 20204,80,66,ḫaḫliu̯ant-,,,,ḫaḫliu̯ant-,green,,,ḫa-aḫ-li-u-u̯a-an-za,
-20198,80,60,egai- / igai-,,"intrans., < IE *iég-o-, cognate with 'ice' in /lexeme/24026/, 'cold' in /cognate/982/. Not exactly 'to freeze', but 'to cool down'. Form i-ga-it 3.sg.pret.act. (3.sg.pres.act. not attested).",80[235];28,egai- / igai-,to cool down,,,i-ga-it,
+20198,80,60,egai- / igai-,,"intrans., < IE *iég-o-, cognate with 'ice' in [lexeme 24026](lex-24026), 'cold' in [cognate set 982](cog-982). Not exactly 'to freeze', but 'to cool down'. Form i-ga-it 3.sg.pret.act. (3.sg.pres.act. not attested).",80[235];28,egai- / igai-,to cool down,,,i-ga-it,
 20219,80,80,ḫuu̯arn- / ḫurn-,,Native script form ḫu-ur-nu-u̯a-an-zi is an infinitive. The 3.sg.pres. is only attested as an imperfective stem [ḫ]u-u-u̯a-ar-ni-iš-ke-ez-zi.,,ḫuu̯arn- / ḫurn-,to hunt,,,ḫu-ur-nu-u̯a-an-zi,
 20168,80,25,kappuu̯e/a-,,"maybe related to Lat. COMPUTARE, but rejected by Kloekhorst",28;80[440],kappuu̯e/a-,,,,kap-pu-u-ez-zi,
 20171,80,28,āk- / akk-,,"etym. dubious, maybe related to Lat. NECARE 'to kill', Gr. NEKYS 'corpse' or Toch. AK(E) (Weeks 1985: 76). Acc to Puhvel, an IE root is probable and links the form to an obscure Venetic compound. Naturally this is not a particularly pleasing link.",28;406[21–22],āk- / akk-,"to die, to be killed, to be eclipsed",,,ak-i,
@@ -22951,7 +22951,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49946,80,225,malla- / mall-,,,403[125-126],malla- / mall-,"to mill, to grind",,,ma-al-la-i,
 47798,80,12,u̯attai-,,Form attested only once (nom.pl. wa-at-ta-e-eš). Identification with Sum. MUŠEN (Friedrich 1927:190 1) is generally accepted. The word (a diphthong stem) is probably inherited.,,u̯attai-,bird,,,u̯a-at-ta-e-eš,
 20158,80,14,dankui- / dankuu̯ai-,,"A zero-grade is possible, see the cognate OHG tunkal < *dhngw-lo-.",28;80[829];543,dankui- / dankuu̯ai-,"black, dark",,,da-an-ku-iš,
-20165,80,22,alpa-,,"Connection with Lat. albus 'white' and ἀλφός 'dull-white leprosy' plausible, albeit the generally accepted reconstruction as *h2elbho- 'white' shows serious difficulties concerning the existence of PIE *a.Weeks discusses relation to /cognate/955/ ,white (thing) > cloud' '(1985: 20f).",28,alpa-,cloud,,,al-pa-aš,
+20165,80,22,alpa-,,"Connection with Lat. albus 'white' and ἀλφός 'dull-white leprosy' plausible, albeit the generally accepted reconstruction as *h2elbho- 'white' shows serious difficulties concerning the existence of PIE *a.Weeks discusses relation to [cognate set 955](cog-955) ,white (thing) > cloud' '(1985: 20f).",28,alpa-,cloud,,,al-pa-aš,
 20196,80,58,"pāt- / pat-, pata-",,"The lexeme is normally spelled using the Sumerogram GÌR (Akk. ŠĒPU), e.g. nom.sg. GÌR-aš. The native script form given, pa-a-tu-u[š] is acc.pl. Also attested are instr. pa-te-et, gen.pl. pa-ta-a-an, and dat.-loc.pl. pa-ta-a-aš. According to Kloekhorst (2008:653-654) the OH forms may reflect the original athematic root noun, while the thematic pata- forms attested in NH are secondary innovations.",404[231-235],"pāt- / pat-, pata-","foot, leg",,,pa-a-tu-u[š],
 20311,80,186,ānt-,,Lit. a participle derived from the verb ā(i)- 'to be hot'.,,ānt-,hot,,,a-a-an-za,
 20210,80,72,ištamašš-,,,28;406[460],ištamašš-,to hear,,,iš-ta-ma-aš-zi,
@@ -22959,7 +22959,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20234,80,96,leši- / lišši-,,,403[72],leši- / lišši-,liver,,,le-e-ši,
 20235,80,97,taluki- / talugai-,,"Nom.sg. only attested with Sumerographic writing GÍD.DA-aš. Native script form reconstructed using stem attested from oblique cases: ta-lu-kán (acc.sg.), ta-lu-ga (nom./acc.n.), da-lu-ga-aš (gen.sg.).",28,taluki- / talugai-,long,,,*ta-lu-ka-aš,
 20153,80,10,šarḫuu̯ant-,,Native script form šar-ḫu-u-u̯a-an-da-an is acc.sg.; the nom.sg. form is not attested.,405[253-254],šarḫuu̯ant-,"belly, innards, foetus, unborn child",,,šar-ḫu-u̯a-an-da-an,
-20167,80,24,u̯ē-/uu̯a-,,"*u 'hither' + *i 'come' (Weeks 1985: 154), the latter part being cognate with /cognate/2377/",28,u̯ē-/uu̯a-,,,,ú-e-ez-zi,
+20167,80,24,u̯ē-/uu̯a-,,"*u 'hither' + *i 'come' (Weeks 1985: 154), the latter part being cognate with cognate set 2377",28,u̯ē-/uu̯a-,,,,ú-e-ez-zi,
 20199,80,61,šēša-,,,405[445-446],šēša-,"fruit, fruit-tree",,,še-ša-aš,
 20213,80,74,daššu- / daššau̯-,,"'strong, powerful, heavy'",457[259-260],daššu- / daššau̯-,heavy,,,da-aš-šu-uš,
 20217,80,78,karāu̯ar / karaun-,,Oblique ka-ra-ú-ni is dat.-loc.sg.,,karāu̯ar / karaun-,horn,,,ka-ra-a-u̯a-ar / ka-ra-ú-ni,
@@ -22967,7 +22967,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20163,80,20,ur- / u̯ar-,,ur-āri (attested in OS textsalready) / u̯ar-āri (from MS texts onwards)(Med.). Pres.3sg. u̯(a)rāni shows dissimilation from original *u̯(a)rāri.,28;454[371];80[924],ur- / u̯ar-,"burn (intr.), to be burned",,,ú-ra-a-ni,
 37889,80,214,per- / parn-,,"Nom.sg. is always spelled as a Sumerogram É-er, (gen.sg. É-aš). The nominative stem per- is certain from dat.-loc.sg. pé-e-ri (beside pár-ni) and abl. É-er-za beside pár-na-za.",404[273-291],per- / parn-,house,,,É-er / pár-n-,
 20242,80,107,ḫatku- / ḫatgau-,,,28,ḫatku- / ḫatgau-,"tight, pressed, stressful",,,ḫa-at-ku-uš,
-20243,80,108,*maninku(u̯a)-,,"Native script form ma-ni!-in-ku-e-eš (nom.pl.). In context (KUB 23.55 iv 8) the form could also be restored as a verb ma-ni!-in-ku-e-eš[-ta], but even if that restoration is correct, one would posit an adjective *maninkuu̯a- to explain the formation of the verb maninkuu̯anu- and the adverb maninkuu̯an (CHD). Cf. 'short' /lexeme/20273/",403[170],*maninku(u̯a)-,near,,,ma-ni!-in-ku-e-eš,
+20243,80,108,*maninku(u̯a)-,,"Native script form ma-ni!-in-ku-e-eš (nom.pl.). In context (KUB 23.55 iv 8) the form could also be restored as a verb ma-ni!-in-ku-e-eš[-ta], but even if that restoration is correct, one would posit an adjective *maninkuu̯a- to explain the formation of the verb maninkuu̯anu- and the adverb maninkuu̯an (CHD). Cf. 'short' [lexeme 20273](lex-20273)",403[170],*maninku(u̯a)-,near,,,ma-ni!-in-ku-e-eš,
 20279,80,149,tuḫḫuu̯ai- / tuḫḫui-,,,,tuḫḫuu̯ai- / tuḫḫui-,smoke,,,túḫ-ḫu-iš,
 20249,80,114,*mi(i̯a)ḫu(u̯a)nt-,,"Always written using the Sumerograms LÚ.ŠU.GI. There are no syllabic writings attested, but the reconstructed stem is based on the factitive verb *mi(i̯a)ḫu(u̯a)ntaḫḫ-, mieḫuu̯andaḫḫ-, miḫuntaḫḫ- 'to make old', derived noun *mii̯aḫuu̯andatar 'old age', mii̯a(ḫ)ḫuntešš- 'to become old'.",403[223-227],*mi(i̯a)ḫu(u̯a)nt-,"old, mature",,,ŠU.GI-an-za,
 20280,80,150,mīu-,,,403[306-308],mīu-,"smooth, gentle, soft",,,mi-i-uš,
@@ -23049,10 +23049,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23687,80,144,mī/a/eluli-,,,403[253],mī/a/eluli-,"skin, flesh, soft tissue?",,,mi-i-lu-ú-li,
 20287,80,160,ḫu(u̯a)ḫurpal-,,"Occurs in a ritual fragment KBo 12, 123:9f.: p]iran GIŠ.MAR.GÍD.DA unuwanda (10) GIŠ ḫu-]u-u̯a-ḫur-pa-al KÙ.BABBAR GAR.RA A-NA GU₄.ḪI.A=ya ""Ahead are decked-out wagons. The stick is decorated with silver and for the oxen' (cf. HW² Ḫ). Cf. also turi- 'spear, lance', CLuv. tura/i- 'stick, weapon'.",463[84],ḫu(u̯a)ḫurpal-,"stick, whip",,,ḫu-ḫu-ur-pa-al,
 50955,133,218,pa-,,"cf. i- 'to go'. Stem pa- 'go' only HL. CL attests only i- 'go' (cf. Hitt. i̯e/a- 'come, go', both ultimately from PIE *h₁ei̯- (cf. notes in cognate class). Native script form is 3.sg.imptv.",,pa-,,,,pa-tu (HL),
-28855,133,66,ḫaḫḫal(u)u̯ant(i)-,,"Only CL. ""May not be complete. Luvian status not assured, but supported by following tarrawaūnta."" Same lexeme as YELLOW /lexeme/28855/.",377[45],ḫaḫḫal(u)u̯ant(i)-,green,,,ḫa-aḫ-ḫa-lu-u̯a-an-ti[ ] (CL),
+28855,133,66,ḫaḫḫal(u)u̯ant(i)-,,"Only CL. ""May not be complete. Luvian status not assured, but supported by following tarrawaūnta."" Same lexeme as YELLOW [lexeme 28855](lex-28855).",377[45],ḫaḫḫal(u)u̯ant(i)-,green,,,ḫa-aḫ-ḫa-lu-u̯a-an-ti[ ] (CL),
 28884,133,124,išaru̯ila/i-,,"From *išaru-/išaru̯a- 'right-hand' with dimin. suffix -ila-? Cf. variant išaru̯ai̯(a)- from *išaru-/išaru̯a- 'right-hand' with suffix -ai̯(a)-. Cf. CL īš(ša)ra/i-, HL istra/i- 'hand'.",377[94],išaru̯ila/i-,"right(side), favorable",,,i-šar-ú-i-li-iš (CL),
 58968,263,65,Gras,,,,Gras,,graːs,graːs,,
-28926,133,207,ḫaḫḫal(u)u̯ant(i)-,,"Only CL. ""May not be complete. Luvian status not assured, but supported by following tarrawaūnta."" Same lexeme as GREEN /lexeme/28855/.",377[45],ḫaḫḫal(u)u̯ant(i)-,"yellow, green",,,ḫa-aḫ-ḫa-lu-u̯a-an-ti-[ ] (CL),
+28926,133,207,ḫaḫḫal(u)u̯ant(i)-,,"Only CL. ""May not be complete. Luvian status not assured, but supported by following tarrawaūnta."" Same lexeme as GREEN [lexeme 28855](lex-28855).",377[45],ḫaḫḫal(u)u̯ant(i)-,"yellow, green",,,ḫa-aḫ-ḫa-lu-u̯a-an-ti-[ ] (CL),
 28968,133,106,ataman-,,only HL; cf. lyd. ẽtamν.,28,ataman-,name,,,a-ta₅-ma-za (HL),
 58955,263,51,Fisch,,,,Fisch,,fɪʃ,fɪʃ,,
 58956,263,12,Vogel,,,,Vogel,,fɔgu,fɔg̊əl,,
@@ -23577,7 +23577,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45184,219,208,pilíilu,,,,pilíilu,,piˈliːlo,pilíilu,پِلِیلوۡ,
 23095,81,7,omäskeṃ,,,147[90-91],omäskeṃ,bad,omɨskẽ,omsken,,
 35171,97,7,slab,,"An alternative lexeme is 'zel' which means, however, 'morally bad, evil' (in this meaning it is used normally as attribute of people, mythological personages and their behavior) or 'very bad, bringing suffering and great problems'.",,slab,,slɑ̈́p,slab,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4291871/slab
-35449,173,12,o-ni-ti-ja-pi,,"Interpreted as the instrumental plural of an adjective *ὀρνίθιος (*ὀρνιθίαφι(ν)) meaning 'decorated with birds', referring to the ornamentation of a to-no *θόρνος 'chair' in PY Ta 707.1.  The lexeme ὄρνῑς 'bird' is not otherwise attested in Mycenaean.  Cf. Attic ὄρνις (stem: ὀρνιθ-)  /lexeme/18660/.",303[27],o-ni-ti-ja-pi,(decorated) with birds,orniːtʰii̯apʰi(n),orniːtʰii̯apʰi(n),𐀃𐀛𐀴𐀊𐀠,
+35449,173,12,o-ni-ti-ja-pi,,"Interpreted as the instrumental plural of an adjective *ὀρνίθιος (*ὀρνιθίαφι(ν)) meaning 'decorated with birds', referring to the ornamentation of a to-no *θόρνος 'chair' in PY Ta 707.1.  The lexeme ὄρνῑς 'bird' is not otherwise attested in Mycenaean.  Cf. Attic ὄρνις (stem: ὀρνιθ-)  [lexeme 18660](lex-18660).",303[27],o-ni-ti-ja-pi,(decorated) with birds,orniːtʰii̯apʰi(n),orniːtʰii̯apʰi(n),𐀃𐀛𐀴𐀊𐀠,
 14746,95,12,ptica,,,,ptica,,ˈptîtsɑ̈,ˈptîtsa,,http://hjp.znanje.hr/index.php?show=search_by_id&id=dl1kURM
 15728,97,12,ptica,,,,ptica,,ˈptìːtsɑ̈,ˈptìːtsa,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4291029/ptica
 52703,249,12,pọ́t′a,,"Alternative lexeme is 'ptax', with the same root. The lexeme 'ptɪ́cʹa' is a collective noun in this variety.",,pọ́t′a,,ˈpo(tʲ/c)ɑ̈,ˈpotʲa,,
@@ -25766,7 +25766,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 22418,105,72,śru-,,root,28,śru-,verb,*ɕɾu-,śru-,श्रु-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=1100
 4868,20,162,lige,,slightly more common,97[http://ordnet.dk/ddo/ordbog?query=lige&search=S%C3%B8g],lige,,ˈli:ə,,,http://ordnet.dk/ddo/ordbog?query=lige
 61076,286,119,ndanj,,Note the semantic specialization and unclear lowering of the vowel compared to Std.Alb. ndej. Eventually contamination with ndan 'to seperate'.,,ndanj,,,ndáɲ,,
-22328,105,4,ā́saḥ,,"AV ~ bhásma n. AV+ SHOULD BE EARLY VEDIC SWADESH TERM, on which see /cognate/2189/.The Sanskrit word is a thematicized form from the full grade stem of the PIE root noun.",78[160];28,ā́saḥ,m.,*ˈaːsɐh,ā́sas,आसः,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=160
+22328,105,4,ā́saḥ,,"AV ~ bhásma n. AV+ SHOULD BE EARLY VEDIC SWADESH TERM, on which see [cognate set 2189](cog-2189).The Sanskrit word is a thematicized form from the full grade stem of the PIE root noun.",78[160];28,ā́saḥ,m.,*ˈaːsɐh,ā́sas,आसः,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=160
 61104,286,150,lish,,"Std.Italian liscio [ˈliʃʃo], Calabrian lísciu 'smooth, sleek, polished; simple'",,lish,,,líʂ:,,
 22400,105,58,pā́t,,,28,pā́t,m.,*ˈpa:t,pā́d,पात्,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=616
 852,3,72,(n)dëgoj,,"< Lat. intelligere 'to perceive'. More evident in dialect forms, such as this one (ndëgoj), Çamic endiglo and Old Geg (Buzuku) ëndiglonj.",105[62],(n)dëgoj,,,,,
@@ -25913,7 +25913,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 57593,271,18,pāz,,"usually glossed 'face, front, breast'. Often in phrase 'to fall on one's face'.",,pāz,N,,pa:z,pʾz,
 57436,271,23,sart,,,,sart,ADJ,,sart,srt,
 57437,271,25,pǝčmerti,,"MS (CS pcmr- count, reckon, consider), rhotacised vowel",,pǝčmerti,PRS.IND.3SG,,pt͜ʃmeʳti,ptšmyrty,
-63471,118,8,tīvila darē,,possible cognate to /cognate/9120,,tīvila darē,,,,,
+63471,118,8,tīvila darē,,possible cognate to [cognate set 9120](cog-9120),,tīvila darē,,,,,
 57451,271,41,ampatǝt,,Or synonym ʾwpt from the same root,,ampatǝt,PRS.IND.3SG,,ampatǝt,ʾmptt,
 57452,271,42,δūr,,,,δūr,ADJ,,ðu:r,dwr,
 57456,271,46,parn,,reconstructed from S prn,,parn,N,,parn,prn,
@@ -26231,7 +26231,7 @@ The lexeme 'vomit' in this variety has rather narrower register uses, slightly e
 58308,277,186,dāġ,,,,dāġ,,,daɢ,,
 62608,291,186,dạġ,,,,dạġ,,d̪a̠ˁɢ,d̪a̠ˁɢ,,
 58709,274,186,dag,,,,dag,,,,,
-30782,143,99,burrë,,"nom.def. burri. Primary meaning. Also 'husband' /lexeme/30778/. Proposed as borrowed < OHG gibūro 'peasant, villager'.",105[42-43];129,burrë,,,,,
+30782,143,99,burrë,,"nom.def. burri. Primary meaning. Also 'husband' lexeme 30778. Proposed as borrowed < OHG gibūro 'peasant, villager'.",105[42-43];129,burrë,,,,,
 57429,271,13,žīβā,,"BS (CS žyb- reconstructed from verbal abstract žybʾmnty and forms of the verb M jβ-, S zyβ- etc.)",,žīβā,IPRF.3SG,,ʒiːβaː,žyβʾʾ,
 69264,120,219,lafen,,,,lafen,,,,,
 47424,120,219,rennen,,,446,rennen,,,,,
