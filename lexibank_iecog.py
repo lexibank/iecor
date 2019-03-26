@@ -257,8 +257,16 @@ class Dataset(BaseDataset):
         )
 
         clades = {d['id']: d for d in dicts('clade')}
-        l2clade = {d['language_id']: clades[d['clade_id']] for d in
-                   dicts('languageclade')}
+        lcdict = dicts('languageclade')
+        l2clade = {d['language_id']: clades[d['clade_id']] for d in lcdict}
+        for lc in sorted(lcdict,
+                key=lambda d: d['cladesOrder'], reverse=True):
+            llid = lc['language_id']
+            if not 'cladeNames' in l2clade[llid]:
+                l2clade[llid]['cladeNames'] = []
+            l2clade[llid]['cladeNames'].append(clades[lc['clade_id']]['cladeName'])
+            l2clade[llid]['cladeNames'] = [x for i, x in enumerate(l2clade[llid]['cladeNames'])
+                if l2clade[llid]['cladeNames'].index(x) == i]
 
         llists = {d['id']: (d['name'], set()) for d in dicts('languagelist')}
         for llid, _ds in groupby(
@@ -286,8 +294,7 @@ class Dataset(BaseDataset):
         lang_urls = {l['ID']: l.pop('url') for l in langs}
         for lang in langs:
             lang.update(
-                Clade=[l2clade[lang['ID']][cn] for cn in [
-                    'level0Name', 'level1Name', 'level2Name', 'level3Name']],
+                Clade=l2clade[lang['ID']]['cladeNames'],
                 Color=l2clade[lang['ID']]['hexColor'])
         lids = set(d['ID'] for d in langs)
         forms = [f for f in dicts('lexeme', to_cldf=True) if
