@@ -120,7 +120,7 @@ FIELD_MAP = {
     'language':  # -> languages.csv
         {
             "id": "ID",  # -> id
-            "iso_code": "Iso",  # -> iso639P3code
+            "iso_code": "ISO639P3code",  # -> iso639P3code
             "ascii_name": "ascii_name",
             "utf8_name": "Name",  # -> Name
             "description": "Description",
