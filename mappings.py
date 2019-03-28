@@ -130,10 +130,10 @@ FIELD_MAP = {
             "author": "Authors",
             "foss_stat": "fossil",
             "glottocode": "Glottocode",  # -> glottocode
-            "level0": "",
-            "level1": "",
-            "level2": "",
-            "level3": "",
+            "level0": "level0",
+            "level1": "level1",
+            "level2": "level2",
+            "level3": "level3",
             "low_stat": "",  # always False
             "representative": "",
             "reviewer": "",
@@ -141,7 +141,7 @@ FIELD_MAP = {
             "rfcWebPath2": "",  # all empty
             "soundcompcode": "",
             "variety": "Variety",
-            "sortRankInClade": "",
+            "sortRankInClade": "sortRankInClade",
             "sndCompLevel0": "",
             "sndCompLevel1": "",
             "sndCompLevel2": "",
