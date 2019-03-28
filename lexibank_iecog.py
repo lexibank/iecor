@@ -245,7 +245,9 @@ class Dataset(BaseDataset):
             'Color',
             'ascii_name',
             {'name': 'historical', 'datatype': 'boolean'},
-            {'name': 'fossil', 'datatype': 'boolean'})
+            {'name': 'fossil', 'datatype': 'boolean'},
+            {'name': 'sort_order', 'datatype': {'base': 'integer'}},
+            )
         ds.add_table(
             'loans.csv',
             'Cognateset_ID',
@@ -292,10 +294,13 @@ class Dataset(BaseDataset):
                  d['notInExport'] == 'False' and d['ID'] in llists[
                      LANGUAGE_LIST]]
         lang_urls = {l['ID']: l.pop('url') for l in langs}
-        for lang in langs:
+        for i, lang in enumerate(sorted(langs, key=lambda x: (
+            int(x['level0']), int(x['level1']), int(x['level2']),
+            int(x['level3'] or 0), int(x['sortRankInClade'])))):
             lang.update(
                 Clade=l2clade[lang['ID']]['cladeNames'],
-                Color=l2clade[lang['ID']]['hexColor'])
+                Color=l2clade[lang['ID']]['hexColor'],
+                sort_order=i+1)
         lids = set(d['ID'] for d in langs)
         forms = [f for f in dicts('lexeme', to_cldf=True) if
                  f['Form'] and (f['Language_ID'] in lids and f[

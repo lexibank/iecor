@@ -443,6 +443,10 @@
                     {
                         "datatype": "boolean",
                         "name": "fossil"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "sort_order"
                     }
                 ],
                 "primaryKey": [
