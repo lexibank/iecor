@@ -111,7 +111,7 @@ FIELD_MAP = {
             "notes": "Comment",
             "_order": "",
             "dubious": "",
-            "not_swadesh_term": "",
+            "not_swadesh_term": "not_swadesh_term",
             "phoneMic": "Phonemic",
             "rfcWebLookup1": "url",
             "rfcWebLookup2": "",  # all empty

@@ -305,7 +305,7 @@ class Dataset(BaseDataset):
         forms = [f for f in dicts('lexeme', to_cldf=True) if
                  f['Form'] and (f['Language_ID'] in lids and f[
                      'Comment'] != 'EXCLUDE.') and f['Parameter_ID'] in mlists[
-                     MEANING_LIST]]
+                     MEANING_LIST] and f['not_swadesh_term'] == 'False']
         for f in forms:
             if f['url']:
                 if f['Language_ID'] in lang_urls:
