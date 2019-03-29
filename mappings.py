@@ -135,7 +135,7 @@ FIELD_MAP = {
             "level2": "level2",
             "level3": "level3",
             "low_stat": "",  # always False
-            "representative": "",
+            "representative": "representative",
             "reviewer": "",
             "rfcWebPath1": "url",
             "rfcWebPath2": "",  # all empty
@@ -155,7 +155,7 @@ FIELD_MAP = {
             "uniformUpper": "",
             "latitude": "Latitude",  # -> Latitude
             "longitude": "Longitude",  # -> Longitude
-            "exampleLanguage": "",
+            "exampleLanguage": "exampleLanguage",
             "fragmentary": "",
         },
     'meaning':  # -> parameters.csv

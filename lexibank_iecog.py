@@ -1,7 +1,7 @@
 # coding=utf-8
 from __future__ import unicode_literals, print_function
 
-from collections import OrderedDict
+from collections import OrderedDict, defaultdict
 from itertools import groupby
 
 from clldutils.dsv import UnicodeWriter, reader
@@ -231,7 +231,9 @@ class Dataset(BaseDataset):
             'Comment',
             'Justification',
             {'name': 'Ideophonic', 'datatype': 'boolean'},
-            {'name': 'Dyen', 'separator': ";"})
+            {'name': 'Dyen', 'separator': ";"},
+            'Root_Form_calc',
+            'Root_Language_calc')
         ds.add_component(
             'LanguageTable',
             {'name': 'Author_ID', 'separator': ';'},
@@ -259,6 +261,7 @@ class Dataset(BaseDataset):
         )
 
         clades = {d['id']: d for d in dicts('clade')}
+        cladesObj = dicts('clade')
         lcdict = dicts('languageclade')
         l2clade = {d['language_id']: clades[d['clade_id']] for d in lcdict}
         for lc in sorted(lcdict,
@@ -328,6 +331,7 @@ class Dataset(BaseDataset):
         for lang in langs:
             lang['historical'] = lang['historical'] == 'True'
             lang['fossil'] = lang['fossil'] == 'True'
+            lang['Authors'] = re.sub(r'\s*&\s*',' and ', lang['Authors'])
             lang['Authors'] = lang['Authors'].split(' and ') if lang[
                 'Authors'] else []
             lang['Authors'] = [AUTHOR_MAP.get(a, a) or a for a in
@@ -369,6 +373,141 @@ class Dataset(BaseDataset):
         css = []
         loans = []
 
+        lcdict_sorted = sorted(lcdict, key=lambda x: x['cladesOrder'])
+        langs_byRank_sorted = sorted(langs, key=lambda x: x['sortRankInClade'])
+
+        def getCladeFromLanguageIds(languageIds):
+            '''
+            getCladeFromLanguageIds :: Clade | None
+            Tries to find the most specific clade that contains all given languageIds.
+            If no such clade can be found returns None.
+            '''
+            # Calculating clade
+            lIdToCladeOrders = defaultdict(dict)  # lId -> cId -> cladesOrder
+            for i in lcdict:
+                if i['language_id'] in languageIds:
+                    lIdToCladeOrders[i['language_id']][i['clade_id']] = i['cladesOrder']
+            # Intersecting clades:
+            cladeIdOrderMap = None
+            for _, newcIdOrderMap in lIdToCladeOrders.items():
+                if cladeIdOrderMap is None:
+                    cladeIdOrderMap = newcIdOrderMap
+                else:
+                    intersection = newcIdOrderMap.keys() & cladeIdOrderMap.keys()
+                    cladeIdOrderMap.update(newcIdOrderMap)
+                    cladeIdOrderMap = {k: v for k, v in cladeIdOrderMap.items()
+                                           if k in intersection}
+            # Retrieving the Clade:
+            if cladeIdOrderMap:
+                cId = min(cladeIdOrderMap, key=cladeIdOrderMap.get)
+                for i in cladesObj:
+                    if i['id'] == cId:
+                        return i['taxonsetName']
+            return None
+
+        def getOrthographics(languageIds, affectedFormIds):
+            affectedLangs = list()
+            for lid in languageIds:
+                for i in langs_byRank_sorted:
+                    if i['ID'] == lid:
+                        affectedLangs.append(i['ID'])
+                        break
+            for lid in affectedLangs:
+                for i in forms:
+                    if i['Language_ID'] == lid and i['Form'] != '' and i['ID'] in affectedFormIds:
+                        return i['Form']
+            return None
+
+        def calculateRootForm(cset):
+            # If single lexeme in cognate class, use romanised form
+            a = []
+            cid = cset['ID']
+            for i in cognates:
+                if i['Cognateset_ID'] == cid:
+                    a.append(i)
+                    if len(a) > 1:
+                        break
+            if len(a) == 1:
+                a_form_id = a[0]['Form_ID']
+                for i in forms:
+                    if i['ID'] == a_form_id:
+                        return i['Form']
+            # Do we have a loanword?
+            if cset['loanword'] == 'True':
+                for i in loans:
+                    if i['Cognateset_ID'] == cid:
+                        if len(i['Source_form']) > 0:
+                            return "(%s)" % i['Source_form']
+                        else:
+                            break
+            # Branch lookup
+            affectedFormIds = set(
+                [i['Form_ID'] for i in cognates if i['Cognateset_ID'] == cid]
+            )
+            affectedLgIds = set(
+                    [i['Language_ID'] for i in forms if i['ID'] in affectedFormIds]
+                )
+            commonCladeIds = [i['clade_id'] for i in lcdict_sorted if
+                                             i['language_id'] in affectedLgIds]
+            if commonCladeIds:
+                commonCladeIds = commonCladeIds[0]
+                affectedLgIdsByClade = [i['language_id'] for i in lcdict_sorted \
+                    if i['clade_id'] == commonCladeIds and i['language_id'] in affectedLgIds]
+                foundLangs = list() # order is important
+                for aid in affectedLgIdsByClade:
+                    for i in langs_byRank_sorted:
+                        if i['ID'] == aid:
+                            foundLangs.append(i)
+                            break
+                lids = [i['ID'] for i in foundLangs if i['representative'] == 'True']
+                if lids:
+                    orthographics = getOrthographics(lids, affectedFormIds)
+                    if orthographics:
+                        return orthographics
+                lids = [i['ID'] for i in foundLangs if i['exampleLanguage'] == 'True']
+                if lids:
+                    orthographics = getOrthographics(lids, affectedFormIds)
+                    if orthographics:
+                        return orthographics
+                lids = [i['ID'] for i in foundLangs]
+                orthographics = getOrthographics(lids[::-1], affectedFormIds)
+                if orthographics:
+                    return orthographics
+            return ''
+
+        def calculateRootLanguage(cset):
+            # If single lexeme in cognate class, use language name
+            a = []
+            cid = cset['ID']
+            for i in cognates:
+                if i['Cognateset_ID'] == cid:
+                    a.append(i)
+                    if len(a) > 1:
+                        break
+            if len(a) == 1:
+                a_form_id = a[0]['Form_ID']
+                for i in forms:
+                    if i['ID'] == a_form_id:
+                        lgId = i['Language_ID']
+                        for j in langs:
+                            if j['ID'] == lgId:
+                                return j['Name'] + 'AAA1'
+            # Maybe we can find a clade specific to the related languages
+            affectedFormIds = [i['Form_ID'] for i in cognates if i['Cognateset_ID'] == cid]
+            parentCladeTaxonsetName = getCladeFromLanguageIds(set(
+                i['Language_ID'] for i in forms if i['ID'] in affectedFormIds))
+            if parentCladeTaxonsetName is not None:
+                return "(%s)" % parentCladeTaxonsetName
+            # Maybe we can use loan_source:
+            if cset['loanword'] == 'True':
+                for i in loans:
+                    if i['Cognateset_ID'] == cid:
+                        if len(i['Source_languoid']) > 0:
+                            return "(%s)" % i['Source_languoid']
+                        else:
+                            break
+            return ''
+
         for cset in dicts('cognateclass', to_cldf=True):
             if cset['ID'] in csids:
                 cset['Source'] = csrefs.get(cset['ID'], [])
@@ -388,6 +527,11 @@ class Dataset(BaseDataset):
                         'Source_form': cset['sourceFormInLoanLanguage'],
                         'Parallel_loan_event': cset['parallelLoanEvent'] == 'True',
                     })
+
+                if not cset['Root_Form']:
+                    cset['Root_Form_calc'] = calculateRootForm(cset)
+                if not cset['Root_Language']:
+                    cset['Root_Language_calc'] = calculateRootLanguage(cset)
 
         for f in forms:
             f['Comment'] = parse_links_to_markdown(f['Comment'])
