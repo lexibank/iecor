@@ -491,7 +491,7 @@ class Dataset(BaseDataset):
                         lgId = i['Language_ID']
                         for j in langs:
                             if j['ID'] == lgId:
-                                return j['Name'] + 'AAA1'
+                                return j['Name']
             # Maybe we can find a clade specific to the related languages
             affectedFormIds = [i['Form_ID'] for i in cognates if i['Cognateset_ID'] == cid]
             parentCladeTaxonsetName = getCladeFromLanguageIds(set(
