@@ -85,7 +85,11 @@ TRS
 def iterrefs(type_, refid):
     for id_, items in groupby(
             sorted(dicts(type_), key=lambda i: i[refid]), lambda i: i[refid]):
-        refs = [(i['source_id'], i['pages'].replace(';', '|')) for i in items]
+        refs = [(i['source_id'],
+            "{0}{1}".format(i['pages'].replace(';', '|'),
+            "{{{0}}}".format(
+                re.sub(r'[\n\r]+', ' ', i['comment'].replace(';', '|'))) if i['comment'] else ''))\
+                    for i in items]
         refs = ['{0}{1}'.format(sid, '[{0}]'.format(p) if p else '') for sid, p
                 in refs]
         yield id_, refs
@@ -148,6 +152,8 @@ class Dataset(BaseDataset):
         def parse_links_to_markdown(s):
             # format: [label](type-id)  supported types: src/cog/lex
             # return text for non-found IDs
+            if type(s) is list:
+                return [parse_links_to_markdown(i) for i in s]
             ret = s
             ret = re_lex.sub(make_lexeme_link, ret)
             ret = re_cog.sub(make_cognate_link, ret)
@@ -535,6 +541,11 @@ class Dataset(BaseDataset):
 
         for f in forms:
             f['Comment'] = parse_links_to_markdown(f['Comment'])
+            f['Source'] = parse_links_to_markdown(f['Source'])
+        for c in cognates:
+            c['Source'] = parse_links_to_markdown(c['Source'])
+        for c in css:
+            c['Source'] = parse_links_to_markdown(c['Source'])
 
         ds.write(
             FormTable=forms,
