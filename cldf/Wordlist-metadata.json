@@ -438,6 +438,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "clade_name"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "Color"
                     },
                     {
