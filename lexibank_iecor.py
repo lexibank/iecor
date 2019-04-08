@@ -191,9 +191,26 @@ class Dataset(BaseDataset):
                         lex_ref)
             return 'lexeme %s' % (lex_ref)
 
+        authors_dict = dicts('author', to_cldf=True)
+        # add programmers
+        last_author_id = max(int(a['ID']) for a in authors_dict)
+        authors_dict.extend([
+            {
+                'ID': str(last_author_id + 1),
+                'Last_Name': 'Bibiko',
+                'First_Name': 'Hans-Jörg',
+                'URL': 'https://www.shh.mpg.de/person/42541/25500'
+            },
+            {
+                'ID': str(last_author_id + 2),
+                'Last_Name': 'Runge',
+                'First_Name': 'Jakob',
+                'URL': 'https://github.com/runjak'
+            }
+        ])
         authors = {
             '{0} {1}'.format(v['First_Name'], v['Last_Name']): v for v in
-            dicts('author', to_cldf=True)}
+            authors_dict}
         author_max_id = max(int(a['ID']) for a in authors.values())
 
         for p in Path('cldf').iterdir():
