@@ -96,7 +96,7 @@ def iterrefs(type_, refid):
 
 
 class Dataset(BaseDataset):
-    id = 'iecog'
+    id = 'iecor'
     dir = Path(__file__).parent
 
     @staticmethod

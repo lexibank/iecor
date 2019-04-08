@@ -3,25 +3,24 @@ import sys
 import json
 
 
-PY2 = sys.version_info.major == 2
-with open('metadata.json', **({} if PY2 else {'encoding': 'utf-8'})) as fp:
+with open('metadata.json', encoding='utf-8') as fp:
     metadata = json.load(fp)
 
 
 setup(
-    name='lexibank_iecog',
+    name='lexibank_iecor',
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
-    py_modules=['lexibank_iecog'],
+    py_modules=['lexibank_iecor'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'iecore=lexibank_iecog:Dataset',
+            'iecor=lexibank_iecor:Dataset',
         ]
     },
     install_requires=[
-        'pylexibank>=0.9.0', 'Fabric3>=1.11', 'pycdstar',
+        'pylexibank>=1.1.1', 'pycdstar',
     ]
 )
