@@ -250,6 +250,7 @@ class Dataset(BaseDataset):
             'Description',
             'Variety',
             {'name': 'Clade', 'separator': ';'},
+            'clade_name',
             'Color',
             'ascii_name',
             {'name': 'historical', 'datatype': 'boolean'},
@@ -273,6 +274,7 @@ class Dataset(BaseDataset):
         for lc in sorted(lcdict,
                 key=lambda d: d['cladesOrder'], reverse=True):
             llid = lc['language_id']
+            l2clade[llid]['clade_name'] = clades[lc['clade_id']]['level0Name']
             if not 'cladeNames' in l2clade[llid]:
                 l2clade[llid]['cladeNames'] = []
             l2clade[llid]['cladeNames'].append(clades[lc['clade_id']]['cladeName'])
@@ -309,6 +311,7 @@ class Dataset(BaseDataset):
             lang.update(
                 Clade=l2clade[lang['ID']]['cladeNames'],
                 Color=l2clade[lang['ID']]['hexColor'],
+                clade_name=l2clade[lang['ID']]['clade_name'],
                 sort_order=i+1)
         lids = set(d['ID'] for d in langs)
         forms = [f for f in dicts('lexeme', to_cldf=True) if
