@@ -16,11 +16,8 @@ Cite the source dataset as
 - **Concepts:** 170
 - **Lexemes:** 24,300
 - **Synonymy:** 1.01
-- **Cognacy:** 22,088 cognates in 2,505 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
+- **Cognacy:** 24,310 cognates in 4,727 cognate sets (2,222 singletons)
+- **Cognate Diversity:** 0.19
 
 ## Possible Improvements:
 
