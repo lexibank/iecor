@@ -293,6 +293,10 @@ class Dataset(BaseDataset):
             'clade_name',
             'short_name',
             'color',
+            {'name': 'clade_level0','datatype': {'base': 'integer'}},
+            {'name': 'clade_level1','datatype': {'base': 'integer'}},
+            {'name': 'clade_level2','datatype': {'base': 'integer'}},
+            {'name': 'clade_level3','datatype': {'base': 'integer'}},
             {'name': 'at_most','datatype': {'base': 'integer'}},
             {'name': 'at_least','datatype': {'base': 'integer'}},
             'distribution'
@@ -315,7 +319,8 @@ class Dataset(BaseDataset):
         for lc in sorted(lcdict,
                 key=lambda d: d['cladesOrder'], reverse=True):
             llid = lc['language_id']
-            l2clade[llid]['clade_name'] = clades[lc['clade_id']]['level0Name']
+            if clades[lc['clade_id']]['shortName'] and not 'clade_name' in l2clade[llid]:
+                l2clade[llid]['clade_name'] = clades[lc['clade_id']]['cladeName']
             if not 'cladeNames' in l2clade[llid]:
                 l2clade[llid]['cladeNames'] = []
             l2clade[llid]['cladeNames'].append(clades[lc['clade_id']]['cladeName'])

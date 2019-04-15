@@ -537,6 +537,22 @@
                     },
                     {
                         "datatype": "integer",
+                        "name": "clade_level0"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "clade_level1"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "clade_level2"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "clade_level3"
+                    },
+                    {
+                        "datatype": "integer",
                         "name": "at_most"
                     },
                     {
