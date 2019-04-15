@@ -72,7 +72,7 @@ ID	ENGLISH	DESCRIPTION	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_DEFINITION	E
 46	feather		1201	FEATHER	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	What bird does this feather come from?
 50	fire		221	FIRE	The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	He was cold, so he moved closer to the fire.
 51	fish		227	FISH	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	I can see a fish swimming in the water.
-55	flower	The noun '(a) flower', to the verb 'bloom'.	239	FLOWER	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	What type of flower is this?
+55	flower	The noun '(a) flower', not the verb 'bloom'.	239	FLOWER	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	What type of flower is this?
 211	fly_N	The noun for the insect '(a) fly'..	1504	FLY (INSECT)	A common insect; any species of insect of the order Diptera.	He killed a fly.
 78	horn		1393	HORN (ANATOMY)	A hard growth of keratin that protrudes from the top of the head of certain animals.	Some animals have horns. Humans do not.
 79	how		1239	HOW	In what way.	How do you make fire?

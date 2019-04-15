@@ -113,7 +113,7 @@ ID,Name,Description,Concepticon_ID,Concepticon_Gloss,Concepticon_Definition,Exam
 124,right,"Opposite of 'left'.  *Not* 'correct'.  Adjective form, not adverb.",1019,RIGHT,Something that is on the right side relative to another object.,He is blind in his right eye.
 173,think,"Verb for the mental activity, process of thinking; the generic term for 'cogitate, be thinking abour something'.  *Not* have an opinion.",1415,THINK (REFLECT),"To actively and consciously use one's mental powers, usually to form ideas.",What are you doing?  I'm just thinking.
 129,rotten,,1728,ROTTEN,"Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).",That fruit is rotten.
-55,flower,"The noun '(a) flower', to the verb 'bloom'.",239,FLOWER,"The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.",What type of flower is this?
+55,flower,"The noun '(a) flower', not the verb 'bloom'.",239,FLOWER,"The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.",What type of flower is this?
 125,river,,666,RIVER,"A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.",He lives beside the river.
 150,smooth,,1234,SMOOTH,Not rough; having a surface texture that lacks friction.,He picked a smooth stone from the river.
 95,live,Verb 'be alive'. *Not* 'dwell' in a place.,2309,LIVE,To be alive; to have a life.,How many years can people live for?

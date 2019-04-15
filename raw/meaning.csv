@@ -285,7 +285,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 124,right,,,99.4011976047904,True,False,0,"Opposite of 'left'.  *Not* 'correct'.  Adjective form, not adverb.",0,He is blind in his right eye.,304,1019
 173,think,,,98.3425414364641,True,False,0,"Verb for the mental activity, process of thinking; the generic term for 'cogitate, be thinking abour something'.  *Not* have an opinion.",0,What are you doing?  I'm just thinking.,238,1415
 129,rotten,,,95.5307262569832,False,False,0,,0,That fruit is rotten.,152,1728
-55,flower,,,96.5116279069767,False,False,0,"The noun '(a) flower', to the verb 'bloom'.",0,What type of flower is this?,105,239
+55,flower,,,96.5116279069767,False,False,0,"The noun '(a) flower', not the verb 'bloom'.",0,What type of flower is this?,105,239
 2,and,,,86.1111111111111,False,False,0,,0,I can see a tree and a rock.,902,1577
 47,few,,,82.0224719101124,False,False,0,,0,It's a small village. There are few houses. (Eng. There are not many houses.),907,1242
 125,river,,,96.9230769230769,False,False,0,,0,He lives beside the river.,127,666
