@@ -498,6 +498,58 @@
                 ]
             },
             "url": "loans.csv"
+        },
+        {
+            "dc:extent": 35,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "level0_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "level1_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "level2_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "level3_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "clade_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "short_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "color"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "at_most"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "at_least"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "distribution"
+                    }
+                ]
+            },
+            "url": "clades.csv"
         }
     ]
 }
