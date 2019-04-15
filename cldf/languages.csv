@@ -1,19 +1,19 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Author_ID,Earliest_Time_Depth_Bound,Latest_Time_Depth_Bound,Description,Variety,Clade,clade_name,Color,ascii_name,historical,fossil,sort_order
-254,Macedonian: Suho,,40.8200000000,23.3600000000,mace1250,mkd,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,MacedonianSuho,false,false,75
-260,Slovenian: Kostel,,45.5100000000,14.9100000000,lowe1384,slv,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,SloveneKostel,false,false,80
-176,Polabian,,51.0000000000,14.0000000000,pola1255,pox,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,Polabian,true,false,84
+254,Macedonian: Suho,,40.8200000000,23.3600000000,mace1250,mkd,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,MacedonianSuho,false,false,75
+260,Slovenian: Kostel,,45.5100000000,14.9100000000,lowe1384,slv,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,SloveneKostel,false,false,80
+176,Polabian,,51.0000000000,14.0000000000,pola1255,pox,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,Polabian,true,false,84
 278,Bactrian,,36.7500000000,66.9000000000,bact1239,xbc,45,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,Bactrian,true,false,49
 128,Avestan: Younger,,31.5400000000,53.6300000000,aves1237,ave,69,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,AvestanYounger,true,false,43
 26,Frisian,,52.9700000000,7.7400000000,east2288,frs,72,,,,,Germanic;North-West;West,Germanic,6495ED,Frisian,false,false,113
 178,Middle Persian,,28.6600000000,55.1600000000,pahl1241,xmn,5,,,"Middle Persian as found in Manichaean texts from Central Asia, written in Manichaean script. In contrast to Zoroastrian ""Pahlavi"" writing reflects the actual phonology much better, and this variety also appears to be more strictly ""Persian"" (less loans from NW Iranian). Phonologization follows Durkin-Meisterernst and MacKenzie.",,Indo-Iranic;Iranic,Iranic,FF3E96,MiddlePersian,true,false,52
 214,Kâmviri,,35.0400000000,71.2900000000,kamv1242,xvi,27,,,,,Indo-Iranic;Nuristani,Nuristani,DC143C,Kamviri,false,false,37
-190,Latgalian,,56.0000000000,26.0000000000,east2282,ltg,10,,,,,Balto-Slavic;Baltic,Balto-Slavic,FFBB00,Latgalian,false,false,69
+190,Latgalian,,56.0000000000,26.0000000000,east2282,ltg,10,,,,,Balto-Slavic;Baltic,Baltic,FFBB00,Latgalian,false,false,69
 210,Greek: Cappadocian,,38.7300000000,35.4500000000,capp1239,cpg,12,,,,,Hellenic;Modern Hellenic,Hellenic,00BFFF,GreekCappodocian,false,false,9
 195,Greek: Cypriot,,35.0000000000,33.0000000000,cypr1249,ell,73,,,,,Hellenic;Modern Hellenic,Hellenic,00BFFF,GreekCypriot,false,false,11
-108,Old Prussian,,54.0900000000,19.8900000000,prus1238,prg,10,,,,,Balto-Slavic;Baltic;Baltic East,Balto-Slavic,FFCC88,OldPrussian,true,false,71
+108,Old Prussian,,54.0900000000,19.8900000000,prus1238,prg,10,,,,,Balto-Slavic;Baltic;Baltic East,Baltic,FFCC88,OldPrussian,true,false,71
 263,German: Bernese,,46.9500000000,7.4200000000,swis1247,gsw,48,,,,,Germanic;North-West;West,Germanic,6495ED,GermanBernese,false,false,109
-245,Old Novgorod,,58.5500000000,31.2700000000,,,11,,,,,Balto-Slavic;Slavic;Slavic East,Balto-Slavic,FFCC80,OldNovgorod,true,false,90
-249,Rusyn,,48.7200000000,22.9600000000,rusy1239,rue,11,,,,,Balto-Slavic;Slavic;Slavic East,Balto-Slavic,FFCC80,Rusyn,false,false,94
+245,Old Novgorod,,58.5500000000,31.2700000000,,,11,,,,,Balto-Slavic;Slavic;Slavic East,Slavic,FFCC80,OldNovgorod,true,false,90
+249,Rusyn,,48.7200000000,22.9600000000,rusy1239,rue,11,,,,,Balto-Slavic;Slavic;Slavic East,Slavic,FFCC80,Rusyn,false,false,94
 201,Greek: Italiot,,37.9400000000,15.8300000000,apul1236,ell,12,,,,,Hellenic;Modern Hellenic,Hellenic,00BFFF,GreekItaliot,false,false,12
 280,Delvari,,33.4500000000,56.8500000000,sout2645,,74,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,Delvari,false,false,58
 148,Old Breton,,48.2500000000,-3.7900000000,bret1244,bre,16,1200,900,,,Celtic;Brythonic;Breton,Celtic,2E8B57,OldBreton,true,false,144
@@ -23,7 +23,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Author_ID,Earliest_
 219,Palula,,35.5100000000,71.8400000000,palu1254,phl,56,,,,,Indo-Iranic;Indic,Indic,B0171F,Palula,false,false,34
 211,Greek: Pontic,,37.9200000000,23.6700000000,pont1253,pnt,12,,,,,Hellenic;Modern Hellenic,Hellenic,00BFFF,GreekPontic,false,false,10
 7,Armenian: Western,,40.0000000000,45.0000000000,nucl1235,hye,6,,,,,Armenian,Armenian,800080,ArmenianWestern,false,false,17
-73,Ukrainian,,48.1800000000,24.4000000000,ukra1253,ukr,11,,,,,Balto-Slavic;Slavic;Slavic East,Balto-Slavic,FFCC80,Ukrainian,false,false,93
+73,Ukrainian,,48.1800000000,24.4000000000,ukra1253,ukr,11,,,,,Balto-Slavic;Slavic;Slavic East,Slavic,FFCC80,Ukrainian,false,false,93
 21,Dutch,,52.0000000000,5.0000000000,dutc1256,nld,67,,,,,Germanic;North-West;West,Germanic,6495ED,Dutch,false,false,111
 80,Hittite,,40.0100000000,34.6200000000,hitt1242,hit,26,,,,,Anatolian,Anatolian,8B4513,Hittite,true,false,1
 105,Vedic: Early,,30.0000000000,75.0000000000,sans1269,san,25,,,New iso code request for `vsn` is in progress 2011-08,,Indo-Iranic;Indic,Indic,B0171F,VedicEarly,true,false,21
@@ -32,11 +32,11 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Author_ID,Earliest_
 131,Old Persian,,31.4700000000,49.7100000000,oldp1254,peo,69,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,OldPersian,true,false,51
 282,Hawrami,,35.0400000000,36.4500000000,hawr1243,hac,77,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,Hawrami,false,false,65
 110,Greek: Ancient,,37.9600000000,23.7300000000,anci1242,grc,4,,,"Classical Attic (ca. 550-350 BCE).  For phonological description and phonetic reconstruction cf. Allen (1987).  Verb forms listed in 1.sg. present indicative unless otherwise specified.  Nouns listed in nominative singular unless otherwise specified.  Transliterations follow the ALA-LC system, with the addition of accentual diacritics.",,Hellenic;Ancient Hellenic,Hellenic,00BFFF,AncientGreek,true,false,6
-95,Serbo-Croat,,43.6700000000,20.6900000000,croa1245,hrv,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,SerboCroatian,false,false,77
-97,Slovenian,,46.2500000000,14.7800000000,slov1268,slv,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,Slovenian,false,false,79
-55,Polish,,51.8400000000,18.6300000000,poli1260,pol,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,Polish,false,false,82
+95,Serbo-Croat,,43.6700000000,20.6900000000,croa1245,hrv,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,SerboCroatian,false,false,77
+97,Slovenian,,46.2500000000,14.7800000000,slov1268,slv,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,Slovenian,false,false,79
+55,Polish,,51.8400000000,18.6300000000,poli1260,pol,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,Polish,false,false,82
 10,Bengali,,24.0000000000,90.0000000000,beng1280,ben,44,,,,,Indo-Iranic;Indic,Indic,B0171F,Bengali,false,false,24
-259,Slovenian: Early Modern,,46.2500000000,14.7800000000,slov1268,slv,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,SloveneHistorical,true,false,78
+259,Slovenian: Early Modern,,46.2500000000,14.7800000000,slov1268,slv,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,SloveneHistorical,true,false,78
 286,Albanian: Arbëresh,,38.9100000000,16.7200000000,arbe1236,aae,65,,,,,Albanian,Albanian,999999,AlbanianArberesh,false,false,20
 35,Hindi,,25.0000000000,77.0000000000,hind1269,hin,15,,,,,Indo-Iranic;Indic,Indic,B0171F,Hindi,false,false,28
 292,Pashto,,34.0000000000,71.3300000000,yusu1238,pbu,46,,,,Yusufzai,Indo-Iranic;Iranic,Iranic,FF3E96,Pashto,false,false,47
@@ -52,22 +52,22 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Author_ID,Earliest_
 284,Khowar,,36.0000000000,72.0000000000,khow1242,khw,82;56,,,,,Indo-Iranic;Indic,Indic,B0171F,Khowar,false,false,36
 297,Old Saxon,,53.1000000000,9.5000000000,olds1250,osx,83,,,,,Germanic;North-West;West,Germanic,6495ED,OldSaxon,true,false,104
 295,Old High German,,50.3000000000,9.7000000000,oldh1241,goh,83,,,,,Germanic;North-West;West,Germanic,6495ED,OldHighGerman,true,false,105
-92,Macedonian,,41.6000000000,21.7900000000,mace1250,mkd,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,Macedonian,false,false,74
-175,Kashubian,,54.3000000000,18.6200000000,kash1274,csb,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,Kashubian,false,false,83
-66,Slovak,,48.5500000000,18.7800000000,slov1269,slk,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,Slovak,false,false,85
-243,Old Czech,,50.5300000000,14.1300000000,czec1258,ces,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,OldCzech,true,false,86
-18,Czech,,49.8700000000,15.1000000000,czec1258,ces,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,Czech,false,false,87
-48,Sorbian: Upper,,51.2400000000,14.4100000000,uppe1395,hsb,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,SorbianUpper,false,false,88
-47,Sorbian: Lower,,51.6600000000,13.9400000000,lowe1385,dsb,11,,,"This was called ""L(ower) Lusatian"" in the Dyen et al. original material, but this name is out of date.",,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,SorbianLower,false,false,89
+92,Macedonian,,41.6000000000,21.7900000000,mace1250,mkd,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,Macedonian,false,false,74
+175,Kashubian,,54.3000000000,18.6200000000,kash1274,csb,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,Kashubian,false,false,83
+66,Slovak,,48.5500000000,18.7800000000,slov1269,slk,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,Slovak,false,false,85
+243,Old Czech,,50.5300000000,14.1300000000,czec1258,ces,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,OldCzech,true,false,86
+18,Czech,,49.8700000000,15.1000000000,czec1258,ces,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,Czech,false,false,87
+48,Sorbian: Upper,,51.2400000000,14.4100000000,uppe1395,hsb,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,SorbianUpper,false,false,88
+47,Sorbian: Lower,,51.6600000000,13.9400000000,lowe1385,dsb,11,,,"This was called ""L(ower) Lusatian"" in the Dyen et al. original material, but this name is out of date.",,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,SorbianLower,false,false,89
 177,Greek: New Testament,,42.3200000000,24.8700000000,koin1234,grc,4,,,Strictly confined to the variety of Roman-period koiné Greek that is attested in the New Testament corpus.  Other varieties of Jewish koiné Greek (e.g. in the Septuagint translation of the Hebrew scriptures) are not included.,,Hellenic;Ancient Hellenic,Hellenic,00BFFF,NTGreek,true,false,7
 81,Tocharian A,,42.9300000000,89.3600000000,tokh1242,xto,24,,,,,Tocharian,Tocharian,F4A488,TocharianA,true,false,3
-60,Russian,,56.0000000000,38.0000000000,russ1263,rus,11,,,,,Balto-Slavic;Slavic;Slavic East,Balto-Slavic,FFCC80,Russian,false,false,91
+60,Russian,,56.0000000000,38.0000000000,russ1263,rus,11,,,,,Balto-Slavic;Slavic;Slavic East,Slavic,FFCC80,Russian,false,false,91
 119,Urdu,,25.0000000000,67.0000000000,urdu1245,urd,15,,,,,Indo-Iranic;Indic,Indic,B0171F,Urdu,false,false,29
 8,Armenian: Eastern,,40.0000000000,45.0000000000,nucl1235,hye,6,,,"Standard Eastern Modern Armenian. Note that <ew> is practically <ev>; there is no phonemic difference between v after e and v after any other vowel; but we use <ew> (vs. <av>, <ov>, etc.) because of an orthographic convention, accordinq to which Modern Armenian uses one grapheme for it, namely և (vs. Classical Armenian եւ). In certain cases we do use եվ (Եվրոպա, հնդեվրոպական, հոգեվարք, etc.), and this we mark by <ev> (Evropa, hndevropakan, hogevark‘, etc.). 
 2) In ModEArm. we usually cite verbs by their infinitives (unlike in Classical Armenian, where we cite 1sg.pres.ind.) (Martirosyan, p.c.).",,Armenian,Armenian,800080,ArmenianEastern,false,false,16
 82,Tocharian B,,42.2300000000,85.6400000000,tokh1243,txb,24,,,,,Tocharian,Tocharian,F4A488,TocharianB,true,false,4
-253,Macedonian: Visoka,,40.8200000000,22.3600000000,mace1250,mkd,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,MacedonianVisoka,false,false,76
-238,Old Polish,,51.8400000000,18.6300000000,poli1260,pol,11,,,,,Balto-Slavic;Slavic;Slavic West,Balto-Slavic,FFAD33,OldPolish,true,false,81
+253,Macedonian: Visoka,,40.8200000000,22.3600000000,mace1250,mkd,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,MacedonianVisoka,false,false,76
+238,Old Polish,,51.8400000000,18.6300000000,poli1260,pol,11,,,,,Balto-Slavic;Slavic;Slavic West,Slavic,FFAD33,OldPolish,true,false,81
 157,Old Swedish,,60.5000000000,15.5000000000,swed1254,swe,7,,,,,Germanic;North-West;North,Germanic,4169E1,OldSwedish,true,false,101
 296,Sarikoli,,37.7700000000,75.2300000000,sari1246,srh,84;85,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,Sarikoli,false,false,48
 207,Dalmatian,,42.7100000000,18.0200000000,dalm1243,dlm,86,,,,,Italic;Roman;Romance,Italic,76EE00,Dalmatian,true,false,119
@@ -112,7 +112,7 @@ their medium of communication and information-sharing (Alok et al 2011).",,Indo-
 51,Nepali,,27.5900000000,87.6200000000,east1436,nep,15,,,,,Indo-Iranic;Indic,Indic,B0171F,Nepali,false,false,30
 213,Kâta-vari: Ktivi,,35.4100000000,70.9800000000,west2372,bsh,27,,,,,Indo-Iranic;Nuristani,Nuristani,DC143C,KataVariKtivi,false,false,39
 124,Ossetic: Iron,,41.7900000000,43.2700000000,osse1243,oss,21,,,The Iron dialect of Ossetic.,,Indo-Iranic;Iranic,Iranic,FF3E96,OsseticIron,false,false,66
-46,Lithuanian,,55.1400000000,23.9600000000,lith1251,lit,10,,,,,Balto-Slavic;Baltic,Balto-Slavic,FFBB00,Lithuanian,false,false,70
+46,Lithuanian,,55.1400000000,23.9600000000,lith1251,lit,10,,,,,Balto-Slavic;Baltic,Baltic,FFBB00,Lithuanian,false,false,70
 274,Balochi: Sistani,,30.8900000000,61.6800000000,west2368,bgn,91;89,,,,Sistani Balochi,Indo-Iranic;Iranic,Iranic,FF3E96,BalochiSistani,false,false,60
 36,Icelandic,,63.4800000000,-19.0200000000,icel1247,isl,7,,,,,Germanic;North-West;North,Germanic,4169E1,Icelandic,false,false,97
 23,Faroese,,62.0700000000,-6.8800000000,faro1244,fao,7,,,,,Germanic;North-West;North,Germanic,4169E1,Faroese,false,false,98
@@ -124,14 +124,14 @@ their medium of communication and information-sharing (Alok et al 2011).",,Indo-
 300,Middle Dutch,,51.4500000000,5.0000000000,midd1321,dum,83,,,,,Germanic;North-West;West,Germanic,6495ED,MiddleDutch,true,false,110
 141,Kâta-vari: Eastern,,35.4100000000,70.9800000000,east2308,bsh,27,,,Eastern Kativiri dialect. Kati is also called Bashgali or Kamkata-vari.,,Indo-Iranic;Nuristani,Nuristani,DC143C,KataVariEastern,false,false,38
 222,Bhojpuri,,26.4600000000,84.8200000000,bhoj1244,bho,61,,,,,Indo-Iranic;Indic,Indic,B0171F,Bhojpuri,false,false,27
-44,Latvian,,56.8300000000,24.3100000000,latv1249,lav,10,,,,,Balto-Slavic;Baltic,Balto-Slavic,FFBB00,Latvian,false,false,68
-16,Belarusian,,53.2300000000,25.6000000000,bela1254,bel,11,,,,,Balto-Slavic;Slavic;Slavic East,Balto-Slavic,FFCC80,Belarusian,false,false,92
-15,Bulgarian,,43.3600000000,25.0500000000,bulg1262,bul,11,,,Sophia dialect,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,Bulgarian,false,false,73
-100,Old Church Slavonic,,41.0500000000,23.5700000000,chur1257,chu,11,,,,,Balto-Slavic;Slavic;Slavic South,Balto-Slavic,E68A00,OldChurchSlavonic,true,false,72
+44,Latvian,,56.8300000000,24.3100000000,latv1249,lav,10,,,,,Balto-Slavic;Baltic,Baltic,FFBB00,Latvian,false,false,68
+16,Belarusian,,53.2300000000,25.6000000000,bela1254,bel,11,,,,,Balto-Slavic;Slavic;Slavic East,Slavic,FFCC80,Belarusian,false,false,92
+15,Bulgarian,,43.3600000000,25.0500000000,bulg1262,bul,11,,,Sophia dialect,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,Bulgarian,false,false,73
+100,Old Church Slavonic,,41.0500000000,23.5700000000,chur1257,chu,11,,,,,Balto-Slavic;Slavic;Slavic South,Slavic,E68A00,OldChurchSlavonic,true,false,72
 59,Romanian,,46.3900000000,24.2300000000,roma1327,ron,19,,,,,Italic;Roman;Romance,Italic,76EE00,Romanian,false,false,117
 58,Norwegian: Bokmål,,59.8700000000,10.6700000000,norw1259,nob,92,,,"Originally ""Riksmål"", better called ""bokmål""",,Germanic;North-West;North,Germanic,4169E1,NorwegianBokmal,false,false,99
 112,Latin,,42.0700000000,12.4000000000,lati1261,lat,4,,,"Classical Latin (Literary Standard of the Roman Late Republic/Early Imperial Period, ca. 50 BC – 100 AD)
-Verb forms listed in the present infinitive otherwise specified.  Nouns listed in nominative singular unless otherwise specified.  NB: In this list consonantal /j/ and /w/ are notated with <i> and <u> in the source forms, conforming to the orthographic practice of P.G.W. Glare (ed.) Oxford Latin Dictionary (Oxford, 1982).  Some lexical resources (notably Lewis & Short's Latin-English Dictionary) will notate these with <j> and <v> respectively.",,Italic;Roman,,76EE00,Latin,true,false,116
+Verb forms listed in the present infinitive otherwise specified.  Nouns listed in nominative singular unless otherwise specified.  NB: In this list consonantal /j/ and /w/ are notated with <i> and <u> in the source forms, conforming to the orthographic practice of P.G.W. Glare (ed.) Oxford Latin Dictionary (Oxford, 1982).  Some lexical resources (notably Lewis & Short's Latin-English Dictionary) will notate these with <j> and <v> respectively.",,Italic;Roman,Italic,76EE00,Latin,true,false,116
 115,Gaelic: Scottish,,56.7600000000,-5.2400000000,scot1245,gla,17,,,,,Celtic;Goidelic,Celtic,008B00,GaelicScottish,false,false,149
 147,Gaelic: Manx,,54.2600000000,-4.4500000000,manx1243,glv,18,,,,,Celtic;Goidelic,Celtic,008B00,GaelicManx,true,false,150
 54,Persian: Tehran,,35.7000000000,51.4000000000,west2369,pes,66,,,"Persian standard language in modern Iran (not other varieties like Classical New Persian, Dari, Tajik)",,Indo-Iranic;Iranic,Iranic,FF3E96,PersianTehran,false,false,53

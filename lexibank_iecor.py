@@ -315,7 +315,8 @@ class Dataset(BaseDataset):
         for lc in sorted(lcdict,
                 key=lambda d: d['cladesOrder'], reverse=True):
             llid = lc['language_id']
-            l2clade[llid]['clade_name'] = clades[lc['clade_id']]['level0Name']
+            if clades[lc['clade_id']]['shortName'] and not 'clade_name' in l2clade[llid]:
+                l2clade[llid]['clade_name'] = clades[lc['clade_id']]['cladeName']
             if not 'cladeNames' in l2clade[llid]:
                 l2clade[llid]['cladeNames'] = []
             l2clade[llid]['cladeNames'].append(clades[lc['clade_id']]['cladeName'])
