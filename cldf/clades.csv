@@ -1,36 +1,36 @@
-ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,at_most,at_least,distribution
-22,Anatolian,,,,Anatolian,Atl,#8B4513,5000,3750,O
-32,Tocharian,,,,Tocharian,Tch,#F4A488,3000,1600,N
-21,Hellenic,,,,Hellenic,Grk,#00BFFF,4500,3500,O
-43,Hellenic,Ancient Hellenic,,,Ancient Hellenic,,#00BFFF,,,_
-42,Hellenic,Modern Hellenic,,,Modern Hellenic,,#00BFFF,2100,1700,N
-31,Armenian,,,,Armenian,Arm,#800080,1800,1500,N
-30,Albanian,,,,Albanian,Alb,#999999,,,_
-33,Indo-Iranic,,,,Indo-Iranic,,#EE0000,6000,4000,O
-24,Indic,,,,Indic,Ind,#B0171F,5000,3750,O
-27,Nuristani,,,,Nuristani,Nur,#DC143C,,,_
-23,Iranic,,,,Iranic,Irc,#FF3E96,5000,3500,O
-11,Balto-Slavic,,,,Balto-Slavic,,#EE7600,6500,2500,O
-29,Balto-Slavic,Baltic,,,Baltic,Blt,#FFBB00,5000,2000,O
-38,Balto-Slavic,Baltic,Baltic East,,Baltic East,,#FFCC88,3000,1000,O
-12,Balto-Slavic,Slavic,,,Slavic,Svc,#FF6000,2700,1500,O
-45,Balto-Slavic,Slavic,Slavic South,,Slavic South,,#E68A00,,,_
-46,Balto-Slavic,Slavic,Slavic West,,Slavic West,,#FFAD33,,,_
-47,Balto-Slavic,Slavic,Slavic East,,Slavic East,,#FFCC80,,,_
-1,Germanic,,,,Germanic,Gmc,#191970,3000,2000,O
-36,Germanic,East Germanic,,,East Germanic,,#27408B,,,_
-37,Germanic,North-West,,,North-West,,#0000CD,,,_
-3,Germanic,North-West,North Germanic,,North,,#4169E1,,,_
-2,Germanic,North-West,West Germanic,,West,,#6495ED,2500,1600,N
-40,Germanic,North-West,West Germanic,Anglic,Anglic,,#6495ED,1600,1400,N
-5,Italic,,,,Italic,Itc,#00EE00,4500,2500,_
-51,,Roman,,,Roman,,#76EE00,,,_
-34,Italic,Roman,Romance,,Romance,,#76EE00,2200,1900,N
-35,Italic,Sabellic,,,Sabellic,,#ADFF24,,,_
-15,Celtic,,,,Celtic,Celt,#006400,4500,2500,N
-39,Celtic,Continental,,,Continental,,#006400,,,_
-17,Celtic,Brythonic,,,Brythonic,,#2E8B57,,,_
-49,Celtic,Brythonic,Welsh,,Welsh,,#2E8B57,,,_
-50,Celtic,Brythonic,Cornish,,Cornish,,#2E8B57,,,_
-48,Celtic,Brythonic,Breton,,Breton,,#2E8B57,1620,1400,U
-16,Celtic,Goidelic,,,Goidelic,,#008B00,1700,1200,N
+ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,clade_level0,clade_level1,clade_level2,clade_level3,at_most,at_least,distribution
+22,Anatolian,,,,Anatolian,Atl,#8B4513,1,0,0,0,5000,3750,O
+32,Tocharian,,,,Tocharian,Tch,#F4A488,2,0,0,0,3000,1600,N
+21,Hellenic,,,,Hellenic,Grk,#00BFFF,3,0,0,0,4500,3500,O
+43,Hellenic,Ancient Hellenic,,,Ancient Hellenic,,#00BFFF,3,1,0,0,,,_
+42,Hellenic,Modern Hellenic,,,Modern Hellenic,,#00BFFF,3,2,0,0,2100,1700,N
+31,Armenian,,,,Armenian,Arm,#800080,4,0,0,0,1800,1500,N
+30,Albanian,,,,Albanian,Alb,#999999,5,0,0,0,,,_
+33,Indo-Iranic,,,,Indo-Iranic,,#EE0000,6,0,0,0,6000,4000,O
+24,Indic,,,,Indic,Ind,#B0171F,6,1,0,0,5000,3750,O
+27,Nuristani,,,,Nuristani,Nur,#DC143C,6,2,0,0,,,_
+23,Iranic,,,,Iranic,Irc,#FF3E96,6,3,0,0,5000,3500,O
+11,Balto-Slavic,,,,Balto-Slavic,,#EE7600,7,0,0,0,6500,2500,O
+29,Balto-Slavic,Baltic,,,Baltic,Blt,#FFBB00,7,1,0,0,5000,2000,O
+38,Balto-Slavic,Baltic,Baltic East,,Baltic East,,#FFCC88,7,1,1,0,3000,1000,O
+12,Balto-Slavic,Slavic,,,Slavic,Svc,#FF6000,7,2,0,0,2700,1500,O
+45,Balto-Slavic,Slavic,Slavic South,,Slavic South,,#E68A00,7,2,1,0,,,_
+46,Balto-Slavic,Slavic,Slavic West,,Slavic West,,#FFAD33,7,2,2,0,,,_
+47,Balto-Slavic,Slavic,Slavic East,,Slavic East,,#FFCC80,7,2,3,0,,,_
+1,Germanic,,,,Germanic,Gmc,#191970,8,0,0,0,3000,2000,O
+36,Germanic,East Germanic,,,East Germanic,,#27408B,8,1,0,0,,,_
+37,Germanic,North-West,,,North-West,,#0000CD,8,2,0,0,,,_
+3,Germanic,North-West,North Germanic,,North,,#4169E1,8,2,1,0,,,_
+2,Germanic,North-West,West Germanic,,West,,#6495ED,8,2,2,0,2500,1600,N
+40,Germanic,North-West,West Germanic,Anglic,Anglic,,#6495ED,8,2,2,1,1600,1400,N
+5,Italic,,,,Italic,Itc,#00EE00,9,0,0,0,4500,2500,_
+51,,Roman,,,Roman,,#76EE00,9,1,0,0,,,_
+34,Italic,Roman,Romance,,Romance,,#76EE00,9,1,1,0,2200,1900,N
+35,Italic,Sabellic,,,Sabellic,,#ADFF24,9,2,0,0,,,_
+15,Celtic,,,,Celtic,Celt,#006400,10,0,0,0,4500,2500,N
+39,Celtic,Continental,,,Continental,,#006400,10,1,0,0,,,_
+17,Celtic,Brythonic,,,Brythonic,,#2E8B57,10,2,0,0,,,_
+49,Celtic,Brythonic,Welsh,,Welsh,,#2E8B57,10,2,1,0,,,_
+50,Celtic,Brythonic,Cornish,,Cornish,,#2E8B57,10,2,2,0,,,_
+48,Celtic,Brythonic,Breton,,Breton,,#2E8B57,10,2,3,0,1620,1400,U
+16,Celtic,Goidelic,,,Goidelic,,#008B00,10,3,0,0,1700,1200,N

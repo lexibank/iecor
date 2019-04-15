@@ -293,6 +293,10 @@ class Dataset(BaseDataset):
             'clade_name',
             'short_name',
             'color',
+            {'name': 'clade_level0','datatype': {'base': 'integer'}},
+            {'name': 'clade_level1','datatype': {'base': 'integer'}},
+            {'name': 'clade_level2','datatype': {'base': 'integer'}},
+            {'name': 'clade_level3','datatype': {'base': 'integer'}},
             {'name': 'at_most','datatype': {'base': 'integer'}},
             {'name': 'at_least','datatype': {'base': 'integer'}},
             'distribution'
