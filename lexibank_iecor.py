@@ -283,6 +283,30 @@ class Dataset(BaseDataset):
             'Source_form',
             {'name': 'Parallel_loan_event', 'datatype': 'boolean'},
         )
+        ds.add_table(
+            'clades.csv',
+            'ID',
+            'level0_name',
+            'level1_name',
+            'level2_name',
+            'level3_name',
+            'clade_name',
+            'short_name',
+            'color',
+            {'name': 'at_most','datatype': {'base': 'integer'}},
+            {'name': 'at_least','datatype': {'base': 'integer'}},
+            'distribution'
+        )
+
+        clade_table = sorted(dicts('clade', to_cldf=True),
+                            key=lambda x: (
+                                int(x['clade_level0']),
+                                int(x['clade_level1']),
+                                int(x['clade_level2']),
+                                int(x['clade_level3']),
+                                ))
+        for i, c in enumerate(clade_table):
+            c['color'] = '#%s' % (c['color'])
 
         clades = {d['id']: d for d in dicts('clade')}
         cladesObj = dicts('clade')
@@ -576,4 +600,6 @@ class Dataset(BaseDataset):
             # BorrowingTable=[],
             **{'loans.csv': loans,
                'authors.csv': sorted(authors.values(),
-                                     key=lambda d: d['Last_Name'])})
+                                     key=lambda d: d['Last_Name']),
+               'clades.csv': clade_table,
+                                 })

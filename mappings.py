@@ -210,6 +210,25 @@ FIELD_MAP = {
             "ideophonic": "Ideophonic",
             # proposedAsCognateTo_id:    110 not-NULL
             # proposedAsCognateToScale
+        },
+    'clade': # -> clades.csv
+        {
+            "id": "ID",
+            "cladeName": "clade_name",
+            "hexColor": "color",
+            "shortName": "short_name",
+            "taxonsetName": "",
+            "atMost": "at_most",
+            "atLeast": "at_least",
+            "distribution": "distribution",
+            "cladeLevel0": "clade_level0",
+            "cladeLevel1": "clade_level1",
+            "cladeLevel2": "clade_level2",
+            "cladeLevel3": "clade_level3",
+            "level0Name": "level0_name",
+            "level1Name": "level1_name",
+            "level2Name": "level2_name",
+            "level3Name": "level3_name"
         }
 }
 
