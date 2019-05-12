@@ -98,7 +98,7 @@ FIELD_MAP = {
             "firstNames": "First_Name",
             "email": "",
             "website": "URL",
-            "initials": "",
+            "initials": "initials",
             "user_id": "",
         },
     'lexeme':  # -> forms.csv
@@ -205,7 +205,7 @@ FIELD_MAP = {
             # notProtoIndoEuropean
             # dubiousSet:                 always True
             # parallelDerivation:         13 True
-            # revisedBy
+            "revisedBy": "revised_by",
             # revisedYet
             "ideophonic": "Ideophonic",
             # proposedAsCognateTo_id:    110 not-NULL
