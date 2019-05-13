@@ -319,6 +319,10 @@
                         "name": "Justification"
                     },
                     {
+                        "separator": ";",
+                        "name": "revised_by"
+                    },
+                    {
                         "datatype": "boolean",
                         "name": "Ideophonic"
                     },

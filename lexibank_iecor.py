@@ -192,6 +192,7 @@ class Dataset(BaseDataset):
             return 'lexeme %s' % (lex_ref)
 
         authors_dict = dicts('author', to_cldf=True)
+        initials_author_id = {a['initials']: a['ID'] for a in authors_dict}
         # add programmers
         last_author_id = max(int(a['ID']) for a in authors_dict)
         authors_dict.extend([
@@ -253,6 +254,7 @@ class Dataset(BaseDataset):
             'Root_Language',
             'Comment',
             'Justification',
+            {'name': 'revised_by', 'separator': ";"},
             {'name': 'Ideophonic', 'datatype': 'boolean'},
             {'name': 'Dyen', 'separator': ";"},
             'Root_Form_calc',
@@ -570,6 +572,7 @@ class Dataset(BaseDataset):
                 cset['Ideophonic'] = cset['Ideophonic'] == 'True'
                 cset['Comment'] = parse_links_to_markdown(cset['Comment'])
                 cset['Justification'] = parse_links_to_markdown(cset['Justification'])
+                cset['revised_by'] = [initials_author_id[a] for a in cset['revised_by'].split(', ')] if cset['revised_by'] else []
                 css.append(cset)
 
                 if cset['loanword'] == 'True':
