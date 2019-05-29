@@ -331,6 +331,14 @@
                         "name": "Dyen"
                     },
                     {
+                        "datatype": "integer",
+                        "name": "proposedAsCognateTo_pk"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "proposedAsCognateToScale"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Root_Form_calc"
                     },
@@ -451,6 +459,10 @@
                     {
                         "datatype": "string",
                         "name": "ascii_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "loc_justification"
                     },
                     {
                         "datatype": "boolean",

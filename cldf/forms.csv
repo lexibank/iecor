@@ -598,7 +598,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 14151,62,14,nieddu,,,,nieddu,,,,,
 3942,17,14,negre,,,,negre,,ˈnɛɣɾə,,,
 6314,26,13,bite,,,124[107],bite,,'bitə,,,
-9439,42,14,neigher,,split from DKB,,neigher,,,ˈnei̯gεr,,
+9439,42,14,neigher,,,,neigher,,,ˈnei̯gεr,,
 5125,22,13,bite,,Old English bītan,357;93[160-1],bite,,baɪt,,,http://www.oed.com/view/Entry/19532?
 5719,25,13,mordre,,,91[527],mordre,,mɔʁdʁ,ˈmɔʁdʁ,,http://www.cnrtl.fr/etymologie/mordre
 5720,25,14,noir,,,91[543],noir,,nwaʀ,nwaʀ,,http://www.cnrtl.fr/etymologie/noir
@@ -1084,7 +1084,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 63733,128,132,nǝmaδkā,,"The Geldner edition displays nǝmǝδka, which is rejected by Bartholomae (1904: 1068). The context is about offerings which are brought to the fire by Daēva worshippers. It is a kind of firewood „which is called nǝmaδka“. It could be a kind of halophyte. These were probably considered unfitting for a proper ceremony.",,nǝmaδkā,N.f,,nǝmaðkaː,𐬥𐬆𐬨𐬀𐬜𐬐𐬁,
 23339,82,76,kärnaṣṣäṃ*,,"Cf. Toch. A kärn- 'id.' Toch. B /pyak-/ has a similar but more specific meaning 'strike (down), beat (a drum)'.",345[173-174],kärnaṣṣäṃ*,"hits, strikes (an instrument)",kɨrˈnəʂʂɨ̃,kərn-ə́ṣṣ-ə-n,,
 17873,76,29,tchaboter,,,,tchaboter,,t͡ʃabɔ'te,t͡ʃabɔ'te,,
-16137,69,30,smutsig,,split from DKB,,smutsig,,ˈsmɵ̀tsɪ(ɡ),,,http://www.saob.se/artikel/?seek=smutsig
+16137,69,30,smutsig,,,,smutsig,,ˈsmɵ̀tsɪ(ɡ),,,http://www.saob.se/artikel/?seek=smutsig
 12386,55,30,brudny,,,142,brudny,,ˈbrudnɘ̟,'brudnɨ,,http://sjp.pwn.pl/szukaj/brudny
 10641,48,30,mazany,,,,mazany,,ˈmɑ̈zɑ̈nɘ̟,ˈmazanɘ̟,,
 5141,22,30,dirty,,"From Middle English, from Old Norse drit 'excrement, mud, filth'",93[447],dirty,,dɜ:tɪ,,,http://www.oed.com/view/Entry/53367?
@@ -1655,7 +1655,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 21893,108,45,biātwei,,inf,33;532,biātwei,,,,,
 21144,100,60,(po-/sŭ-)mrŭznǫti,,There is no form without a prefix attested in the Canon.,,(po-/sŭ-)mrŭznǫti,,(pɔ-/sʊ̆-)mr̩znɔ̃ti,(po-/sʊ-)mr̩znoti,(по-/съ-)мръзнѫти,
 31985,147,68,folt,,folt,193,folt,,folt,folt,,
-10260,46,41,(nu)krìsti,,split from DKB,530,(nu)krìsti,,,,,http://etimologija.baltnexus.lt/?w=kristi
+10260,46,41,(nu)krìsti,,,530,(nu)krìsti,,,,,http://etimologija.baltnexus.lt/?w=kristi
 36430,176,29,voirĕt,,voi-: prefix <= *vy-. A form without prefix is also attested: 'råjĕ' 3 sg.,354,voirĕt,,ˈvɔirɘt,ˈvoirɘt,,
 67227,296,64,charj,,,,charj,,,t͡ɕaɾd͡ʑ,,
 67228,296,7,zhit,,,,zhit,,,ʑit,,
@@ -2037,7 +2037,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67507,295,217,suuozi,,,,suuozi,,ˈswyø̯s̻i,ˈswuo̯s̻i,,
 28483,129,40,akn,,pl. (< dual) աչք ač‘-k‘,28;79[22],akn,,ˈɑkən,ɑk-ɑn-,ակն,
 832,3,50,zjarr,,"< IE *gheres, cf. Skt haras 'flame, heat'. Etymologically identical also with Gk θερμος, Arm jerm.",105[524];130[18],zjarr,,,,,
-6348,26,50,fjoer,,split from DKB. Changed from FJUR.,,fjoer,,fjuər,,,
+6348,26,50,fjoer,,Changed from FJUR.,,fjoer,,fjuər,,,
 67509,295,23,kalt,,,,kalt,,kalt,kalt,,
 67510,295,97,lang,,,,lang,,laŋɡ,lanɡ,,
 67511,295,141,kurz,,,,kurz,,kurts,kurts,,
@@ -3770,7 +3770,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24363,119,167,dum,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],dum,,d̪ʊm,,دُم,
 45067,219,111,róot,,,,róot,,ɾoːt̪,róot,روت,
 20403,112,57,nebula,,G.sg. nebulae.,206,nebula,"mist, fog",ˈnebuɫa,ˈnebula,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dnebula
-8914,39,74,pesante,,split from DKB,90[306],pesante,,pe'sante,peˈsante,,
+8914,39,74,pesante,,,90[306],pesante,,pe'sante,peˈsante,,
 30899,144,80,sikār karanā,,,169,sikār karanā,,sikɑr kərnɑ,,सिकार करना,
 20404,112,58,pēs,,gen. pedis,206,pēs,foot,peːs,peːs,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dpes
 19395,111,78,siṅdh,,,29,siṅdh,,sɪ̃gʱ,,सिंघ,
@@ -3828,9 +3828,9 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17916,76,74,loûrd,,,,loûrd,,luːʁ,luːʁ,,
 16180,69,76,slå,,,121[395],slå,,slo:,,,http://www.saob.se/artikel/?seek=slå
 15198,66,76,udrieť,,,,udrieť,,ˈudriɛc,ˈudriec,,http://slovnik.azet.sk/pravopis/?q=udrieť
-11459,51,74,gahruṅgo,,split from DKB,,gahruṅgo,,gʌruŋgo,,गह्रुँगो,
+11459,51,74,gahruṅgo,,,,gahruṅgo,,gʌruŋgo,,गह्रुँगो,
 30666,143,145,qiell,,Also 'heaven'. Borrowed < Lat caelum 'id'.,105[360];129,qiell,,,,,
-6564,27,76,schlagen,,split from DKB,96[1101],schlagen,,'ʃla:gŋ̩,,,
+6564,27,76,schlagen,,,96[1101],schlagen,,'ʃla:gŋ̩,,,
 39997,195,19,anasanískō,,Standard Modern Greek αναπνέω is also very frequent.,,anasanískō,,ɐnɐsɐˈniskɔ,ɐnɐsɐˈniskɔ,ανασανίσκω,
 65488,179,165,āδmāsēd,,,,āδmāsēd,PRS.IND.3SG,,aːðmaːseːd,ʾdmʾsyd,
 45080,219,127,zeelái,,,,zeelái,,zeːˈlej,zeeláj,زیلئیۡ,
@@ -4592,7 +4592,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5794,25,93,jambe,,,91[446],jambe,,ʒɑ̃b,ʒɑ̃b,,http://www.cnrtl.fr/etymologie/jambe
 23928,115,40,sùil,,,193,sùil,,suːl,suːl,,
 26249,122,87,zenoli,,Deriv. zenoglon.,182,zenoli,,ʤe'noli,ʤe'noli,,http://claap.org/definizion/?diz=fur-it&leme=zenoli
-5001,21,93,been,,split from DKB,95[37],been,,ben,,,http://www.etymologiebank.nl/trefwoord/been
+5001,21,93,been,,,95[37],been,,ben,,,http://www.etymologiebank.nl/trefwoord/been
 49865,111,226,paṅjā,,,,paṅjā,,pə̃ʤɑ,,पंजा,
 4015,17,92,esquerre,,,116[111],esquerre,,əs'kɛrə,,,
 17932,76,92,gôche,,,,gôche,,,,,
@@ -5291,7 +5291,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 10333,46,119,tráukti,,,530,tráukti,,,,,http://etimologija.baltnexus.lt/?w=traukti
 9538,42,120,sburlé,,,,sburlé,,,ʃburˈle,,
 16021,68,119,tirar,,Also 'to throw'.,,tirar,,ti'ɾaɾ,tiˈɾaɾ,,http://dle.rae.es/?w=tirar
-16221,69,120,skjuta,,split from DKB. Also 'to shoot'.,121[382],skjuta,,ˈɧʉ̀:ta,,,http://www.saob.se/artikel/?seek=skjuta
+16221,69,120,skjuta,,Also 'to shoot'.,121[382],skjuta,,ˈɧʉ̀:ta,,,http://www.saob.se/artikel/?seek=skjuta
 12470,55,119,ciągnąć,,,142,ciągnąć,,ˈtɕɔŋɡnɔɲtɕ,ˈtɕoŋɡnoɲtɕ,,http://sjp.pwn.pl/szukaj/ciągnąć
 37682,152,6,íša,,/ˈiʃkia/ NPT,,íša,,ˈiʃa,ˈiʃa,ίσ̌α,
 36775,175,101,miãso,,,249,miãso,,ˈm(ʲ)j(ɔ/ɒ)sɔ,ˈmjaŋsɔ,,
@@ -5630,7 +5630,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5835,25,136,mer,,,91[507],mer,,mɛʀ,mɛʀ,,http://www.cnrtl.fr/etymologie/mer
 8973,39,137,vedere,,,90[467-8],vedere,,ve'dere,veˈde:ɾe,,
 36523,176,111,nüc,,,354,nüc,,nyts,nyts,,
-16236,69,136,hav,,split from DKB,,hav,,hɑːv,,,http://www.saob.se/artikel/?seek=hav
+16236,69,136,hav,,,,hav,,hɑːv,,,http://www.saob.se/artikel/?seek=hav
 12486,55,136,morze,,,,morze,,ˈmɔʐɛ,ˈmoʐe,,http://sjp.pwn.pl/szukaj/morze
 10740,48,139,šić,,,,šić,,ʃitʃ,ʃitʃ,,
 5241,22,136,sea,,,93[1394-5],sea,,si:,,,http://www.oed.com/view/Entry/174071?
@@ -5926,7 +5926,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4852,20,146,sove,,,97[http://ordnet.dk/ddo/ordbog?query=sove&search=S%C3%B8g],sove,,ˈsɒwə,,,http://ordnet.dk/ddo/ordbog?query=sove
 8983,39,147,piccolo,,,90[309-10],piccolo,,'pikkolo,ˈpikkolo,,
 12300,54,149,dūd,,,326,dūd,,du:d,dud,دود,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2K%2fZiNiv
-8984,39,148,sentire,,split from DKB,90[396],sentire,,sen'tire,senˈtiɾe,,
+8984,39,148,sentire,,,90[396],sentire,,sen'tire,senˈtiɾe,,
 5846,25,147,petit,,,91[598],petit,,pəti,pəˈti,,http://www.cnrtl.fr/etymologie/petit
 26302,122,140,uçât,,,,uçât,,u'ʧaːt,u'ʧaːt,,http://claap.org/definizion/?diz=fur-it&leme=uçât
 6632,27,148,riechen,,,96[1050],riechen,,'ri:çn̩,,,
@@ -6001,7 +6001,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24218,120,25,zielen,,,"448[4, 504{Volume 4}]",zielen,,,,,
 12500,55,150,gładki,,,142,gładki,,ˈɡwɑ̈tkʲi,ˈɡwadci,,http://sjp.pwn.pl/szukaj/gładki
 15268,66,150,hladký,,,,hladký,,ˈɦlɑ̈tkiː,ˈɦladkiː,,http://slovnik.azet.sk/pravopis/?q=hladký
-16250,69,150,slät,,split from DKB,,slät,,slɛːt,,,http://www.saob.se/artikel/?seek=slät
+16250,69,150,slät,,,,slät,,slɛːt,,,http://www.saob.se/artikel/?seek=slät
 5255,22,150,smooth,,"Middle English smothe, Old English smōth",357;93[1460],smooth,,smu:ð,,,http://www.oed.com/view/Entry/182757?
 5849,25,150,lisse,,,91[473],lisse,,lis,lis,,http://www.cnrtl.fr/etymologie/lisse
 12892,56,150,liso,,,,liso,,ˈlizu,'lizu,,
@@ -6302,7 +6302,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35310,172,137,"guelet, gouelet",,,280[1106];283,"guelet, gouelet",to see,ˈgueːlet,,,
 14494,63,166,natare,,,,natare,,,,,
 4086,17,167,cua,,,116[69],cua,,'kua,,,
-9582,42,165,se enflé,,split from DKB,,se enflé,,,se əŋˈfle,,
+9582,42,165,se enflé,,,,se enflé,,,se əŋˈfle,,
 16065,68,164,sol,,,,sol,,sol,sol,,http://dle.rae.es/?w=sol
 15283,66,165,puchnúť,,"3. He hurt is arm, then it started to swell.",,puchnúť,,ˈpuxnuːc,ˈpuxnuːc,,http://slovnik.azet.sk/pravopis/?q=puchnúť
 27572,125,142,zarun,,Past stem: zard-.,122,zarun,,zɑrun,zar-un,зарун,
@@ -6415,7 +6415,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20496,112,140,acūtus,,"G.sg. acūtī; acūtus, acūta, acūtum","206[{lit. 'sharpened' (past-passive-participle of acuō 'to sharpen, whet'). }]",acūtus,"sharpened, pointed, tapering",aˈkuːtus,aˈkuːtus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dacutus
 27836,128,179,hizū,,"further attested stems: hizβah (n.), hizβā (f.)",28;184,hizū,N.m,,hizuː,𐬵𐬌𐬰𐬏,
 60388,282,8,qałwāx,,possible cognate to [cognate set 9118](cog-9118),,qałwāx,,,,,
-6464,26,179,tonge,,split from DKB,124[1062],tonge,,'toŋə,,,
+6464,26,179,tonge,,,124[1062],tonge,,'toŋə,,,
 6655,27,171,dick,,,96[317],dick,,dɪk,,,
 10775,48,176,tři,,,,tři,,tsʲi,tsi,,
 14897,95,176,tri,,,,tri,,tɾîː,trîː,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f19kUBF%2B
@@ -6481,7 +6481,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12915,56,173,pensar,,,,pensar,,pẽˈsaɾ,pẽˈsaɾ,,
 18011,76,173,pinser,,,,pinser,,pẽ'se,pẽ'se,,
 26328,122,166,nadâ,,,182,nadâ,,na'da,na'daː,,http://claap.org/definizion/?diz=fur-it&leme=nadâ
-6467,26,182,draaie,,split from DKB. Replaced DRAEIJE.,124[193],draaie,,'dra:jə,,,
+6467,26,182,draaie,,Replaced DRAEIJE.,124[193],draaie,,'dra:jə,,,
 16074,68,173,pensar,,,,pensar,,pen'saɾ,penˈsaɾ,,http://dle.rae.es/?w=pensar
 10778,48,179,jazyk,,,,jazyk,,ˈjɑ̈zɘ̟k,ˈjazɘ̟k,,
 15882,97,179,jezik,,,,jezik,,ˈjɛ̀ːzik,ˈjɛ̀ːzik,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4287158/jezik
@@ -6565,7 +6565,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23324,82,59,śtwer,,,345[703],śtwer,four,ɕtwer,śətwérə,,
 36830,175,152,sniég,,,249,sniég,,sɲ(i/ɘ̟)k,sɲɘɡ,,
 8819,38,181,crann,,,193,crann,,,,,http://www.teanglann.ie/ga/fgb/crann
-16277,69,177,kasta,,split from DKB,121[203],kasta,,ˈkàsta,,,http://www.saob.se/artikel/?seek=kasta
+16277,69,177,kasta,,,121[203],kasta,,ˈkàsta,,,http://www.saob.se/artikel/?seek=kasta
 12526,55,176,trzy,,,,trzy,,t(ʂ).ʂɘ̟,t.ʂɨ,,http://sjp.pwn.pl/szukaj/trzy
 4294,18,178,vázat,,,,vázat,,ˈvɑ̈ːzɑ̈t,ˈvaːzat,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=vázati
 30788,143,114,vjetër,,Borrowed < Lat veterem 'id'.,129;105[512],vjetër,,,,,
@@ -6630,7 +6630,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 18015,76,177,djèter,,,,djèter,,,,,
 18016,76,178,noukî,,,,noukî,,,,,
 8426,36,181,tré,,,,tré,,tʰrjɛː,,,
-5084,21,178,binden,,split from DKB,95[54],binden,,'bɪndə(n),,,http://www.etymologiebank.nl/trefwoord/binden
+5084,21,178,binden,,,95[54],binden,,'bɪndə(n),,,http://www.etymologiebank.nl/trefwoord/binden
 5877,25,178,attacher,,,91[471],attacher,,ataʃe,ataˈʃe,,http://www.cnrtl.fr/etymologie/attacher
 9595,42,179,lenga,,,,lenga,,,ˈleŋga,,
 10783,48,184,bluwać,,An alternative lexeme is 'jokać' which is expressive.,,bluwać,,ˈblu.ɑ̈tʃ,ˈblu.atʃ,,
@@ -6749,7 +6749,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8277,36,22,ský,,,218,ský,,skiː,skiː,,
 14907,95,186,topao,,,,topao,,ˈtɔ̂pɑ̈.ɔ,ˈtôpa.o,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f19kWRF1
 15889,97,186,topel,,,,topel,,"ˈtɔ̀ːpəw, ˈtòːpəw","ˈtɔ̀ːpəv, ˈtòːpəv",,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4292997/topel
-9598,42,182,ouje,,split from DKB,,ouje,,,ˈou̯ʒε,,
+9598,42,182,ouje,,,,ouje,,,ˈou̯ʒε,,
 11169,92,186,topol,,,,topol,,ˈto̞pɔɫ,ˈtopol,топол,http://makedonski.info/search/#топол
 8823,38,186,"te, té",,,193,"te, té",,,,,http://www.teanglann.ie/ga/fgb/te
 16281,69,181,träd,,,121[462],träd,,trɛ:(d),,,http://www.saob.se/artikel/?seek=träd
@@ -6808,7 +6808,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5881,25,182,tourner,,,91[820],tourner,,tuʀne,tuʀˈne,,http://www.cnrtl.fr/etymologie/tourner
 34715,162,28,marati,,,246[524],marati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=marati
 8284,36,29,grafa,,,,grafa,,ˈɡ̊raːva,,,
-5538,24,30,vies,,split from DKB,,vies,,,,,
+5538,24,30,vies,,,,vies,,,,,
 24250,120,20,brennen,,,"448[1, 152{Volume 1}]",brennen,,bʀænən,,,
 14511,63,183,dúos,,,,dúos,,,,,
 12923,56,181,árvore,,,,árvore,,ˈaɾvuɾɨ,ˈaɾvuɾɨ,,
@@ -6887,7 +6887,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23298,82,31,ku,,Acc. kweṃ (cf. Ved. śvā́naṃ).,345[190],ku,dog,ku,kəw,,
 4749,20,37,jord,,,97[http://ordnet.dk/ddo/ordbog?query=jord&search=S%C3%B8g],jord,,joˀɐ̯,,,http://ordnet.dk/ddo/ordbog?query=jord
 18022,76,184,vômi,,,,vômi,,,,,
-5348,23,37,mold,,split from DKB,,mold,,mɔld̥,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=mold
+5348,23,37,mold,,,,mold,,mɔld̥,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=mold
 16284,69,184,kräkas,,"""imitative"" (Buck 1949: 266)",121[227],kräkas,,ˈkrɛ̀:kas,,,http://www.saob.se/artikel/?seek=kräkas
 13523,59,184,vomita,,,,vomita,,vomiˈta,vomiˈta,,https://dexonline.ro/definitie/a vomita
 34724,162,36,kaṇṇa,,,246[180],kaṇṇa,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=kaṇṇa
@@ -6913,7 +6913,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36013,174,183,duva,,"Var. dva, duta; fem. dvī",320[162-3],duva,NUM,dʊwɐ,duu̯a,,
 30796,143,140,mprehtë,,,129,mprehtë,,,,,
 35767,174,99,dahä,,,321[162f.];320,dahä,NOM.SG.m,dɐhə,dahə,,
-5352,23,41,falla,,"split from DKB. Changed from FALLA. 'To fell', also 'snare'. Changed from fella 'to fell'",213,falla,,ˈfad̥la,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=falla
+5352,23,41,falla,,"Changed from FALLA. 'To fell', also 'snare'. Changed from fella 'to fell'",213,falla,,ˈfad̥la,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=falla
 5549,24,42,ver,,,,ver,,,,,
 28307,127,160,slatt,,,28,slatt,,slat,,,http://dil.ie/37852
 4753,20,41,falde,,,97[http://ordnet.dk/ddo/ordbog?query=falde&search=S%C3%B8g],falde,,ˈfalə,,,http://ordnet.dk/ddo/ordbog?query=falde
@@ -6923,7 +6923,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23304,82,37,keṃ,,Original initial consonant cluster preserved in Toch. A tkaṃ.,345[205],keṃ,earth,kẽ,kenə,,
 33703,157,31,hunder,,,209,hunder,,ˈhunder,ˈhunder,,
 34730,162,41,patati,,,246[405],patati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=patati
-8300,36,45,hræðast,,split from DKB; true synonyms TKD,218,hræðast,,ˈr̥aiːðast,,,
+8300,36,45,hræðast,,true synonyms TKD,218,hræðast,,ˈr̥aiːðast,,,
 23306,82,40,ek,,"Du. eśane; older eś in yn-eś 'evident', eś lmau 'blinded', lit. 'sat (on) the eyes'.",345[78-79],ek,eye,ek,ekə,,
 33705,157,32,drikka,,,209,drikka,,ˈdrikːa,drikːa,,
 31471,145,177,kasta,,,177,kasta,,ˈkɑ̀stɑ,ˈkɑ̀stɑ,,
@@ -7205,7 +7205,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4798,20,90,le,,,97[http://ordnet.dk/ddo/ordbog?query=le&search=S%C3%B8g],le,,leˀ,,,http://ordnet.dk/ddo/ordbog?query=le
 13280,58,140,skarp,,,,skarp,,skaɾp,,,
 33746,157,62,fulder,,,209,fulder,,ˈfulder,fulder,,
-5398,23,93,bein,,split from DKB,,bein,,b̥aiːn,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=bein
+5398,23,93,bein,,,,bein,,b̥aiːn,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=bein
 36845,175,167,ògón,,"There is an alternative lexeme 'tëpa' which means 'a short tail (like by the rabbit, hare, doe)'.",249,ògón,,ˈ(wɛ/wɘ̟/wɔ/ɔ)ɡun,ˈoɡun,,
 12932,56,190,molhado,,,,molhado,,mu'ʎaðu,mu'ʎaðu,,
 28313,127,164,grían,,,28,grían,,gʹrʹiːən,,,http://dil.ie/26628
@@ -7429,7 +7429,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 10800,48,202,žona,,,,žona,,ˈʒɔnɑ̈,ˈʒɔna,,
 34813,162,125,nadī,,,246[346],nadī,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=nadī
 4839,20,133,sand,,,97[http://ordnet.dk/ddo/ordbog?query=sand&search=S%C3%B8g],sand,,sanˀ,,,http://ordnet.dk/ddo/ordbog?query=sand
-5438,23,136,sjógvur,,split from DKB,,sjógvur,'large body of salt water',ˈʃɛɡvʊr,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=sjógvur
+5438,23,136,sjógvur,,,,sjógvur,'large body of salt water',ˈʃɛɡvʊr,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=sjógvur
 37265,178,219,dawēd,,"ZP dwb-, past dwyt- (attested dwynd PRS.IND.3PL)",359,dawēd,PRS.IND.3SG,daw-,dau̯eːd,dwyd,
 33787,157,96,liver,,,209,liver,,ˈliver,liver,,
 23216,81,151,ārṣal,,,345[26-27],ārṣal,snake,arʂəl,ārṣal,,
@@ -7515,7 +7515,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 9615,42,199,ala,,,,ala,,,ˈala,,
 6491,26,206,jier,,,124[457],jier,,i.ər,,,
 5698,24,199,vleugel,,,,vleugel,,,,,
-16298,69,198,vind,,split from DKB,,vind,,vɪnd,,,
+16298,69,198,vind,,,,vind,,vɪnd,,,
 4315,18,199,křídlo,,,,křídlo,,ˈkr̝̊iːdlɔ,ˈkr̝iːdlo,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=křídlo
 37280,178,145,āsmān,,"""sky, heaven"", AF ʾsmʾʾn, ʾsmn; ZP ʾsmʾn",359,āsmān,N,ɑ:smɑ:n,aːsmaːn,ʾsmʾn,
 5646,24,147,klein,,,,klein,,,,,
@@ -7675,11 +7675,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23423,82,160,śakāto*,,Attested only in acc. śakātai.,345[675],śakāto*,"stick, club",ɕəˈkato*,śakáto,,
 36584,176,164,vedrü,,Also 'weather'.,354,vedrü,,vɛˈdry,vɛˈdry,,
 12353,54,203,ǧangal,,,326,ǧangal,,dʒænɡæl,d͜ʒæŋgæl,جنگل,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2KzZhtqv2YQ%3d
-9618,42,202,ela,,split from DKB,,ela,,,ˈela,,
+9618,42,202,ela,,,,ela,,,ˈela,,
 35367,97,151,kača,,,,kača,,kɑ̈̀ːtʃɑ̀,kàːtʃa,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4287212/kača
 35010,47,7,špatny,,,249,špatny,,ˈʂpɑ̈tnɘ̟,ʂpatnɘ̟,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/špatny
 35374,97,171,debel,,,,debel,,ˈdɛ̀ːbɛw,ˈdɛ̀ːbɛv,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4285654/debel
-16302,69,202,kvinna,,split from DKB,,kvinna,,ˈkvɪ̀nːa,,,http://www.saob.se/artikel/?seek=kvinna
+16302,69,202,kvinna,,,,kvinna,,ˈkvɪ̀nːa,,,http://www.saob.se/artikel/?seek=kvinna
 4318,18,202,žena,,,,žena,,ˈʒɛnɑ̈,ˈʒena,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=žena
 1958,8,204,ord,,,170,ord,,vɔrd,ɔrd,որդ,
 20527,112,166,nāre,,"nō, nāre, nāuī",206,nāre,to swim,ˈnaːre,ˈnaːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dno1
@@ -7728,7 +7728,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5676,24,177,werpen,,,,werpen,,,,,
 36585,176,217,slåtťă,,"Neuter. The word is translated in the Polabian corpus as equivalent of German 'unsalted' (it is common to divide food in 'sweet' and 'salted'). By the way, Slavic words for 'sweet' and 'salted' have a common root (the semantic development of 'sweet' is 'salted'>'tasty'>'sweet').",354,slåtťă,,ˈslɒtcɜ,ˈslɒtcɜ,,
 35031,47,105,guba,,,249,guba,,ˈɡubɑ̈,ˈɡuba,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/guba
-9619,42,203,bosch,,split from DKB,,bosch,,,ˈbɔʃk,,
+9619,42,203,bosch,,,,bosch,,,ˈbɔʃk,,
 5108,21,202,vrouw,,,95[427],vrouw,,vrɑu,,,http://www.etymologiebank.nl/trefwoord/vrouw
 8844,38,207,buí,,,193;226,buí,,,,,http://www.teanglann.ie/ga/fgb/buí
 16303,69,203,skog,,,,skog,,skuːg,,,http://www.saob.se/artikel/?seek=skog
@@ -7736,7 +7736,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17290,73,202,žìnka,,,,žìnka,,ˈʒinkɐ,ˈʐinka,жінка,http://sum.in.ua/s/zhinka
 12552,55,202,kobieta,,,,kobieta,,kɔˈbʲjɛtɑ̈,koˈbjeta,,http://sjp.pwn.pl/szukaj/kobieta
 35030,47,102,mjasec,,,249,mjasec,,ˈm(ʲ)jɑ̈sɛts,ˈmjasets,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/mjasec
-25101,26,28,stjerre,,split from DKB,,stjerre,,'stjɛ(:)rə,,,
+25101,26,28,stjerre,,,,stjerre,,'stjɛ(:)rə,,,
 37604,179,198,wād,,"AF wʾʾd, wʾδ",359,wād,N,wād,u̯aːd,wʾd,
 37607,179,202,žan,,,359,žan,N,žan,ʒan,jn,
 31489,145,196,waiðum,,,177,waiðum,,ˈwɑ̀ɪðʉm,ˈwɑ̀ɪðʉm,,
@@ -7793,7 +7793,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 6688,27,204,Wurm,,,96[1448],Wurm,,vʊrm,,,
 24271,120,162,riicht,,,446[{s.v. riicht}],riicht,,,,,
 5902,25,203,bois,,,91[93],bois,,bwa,bwa,,http://www.cnrtl.fr/etymologie/bois
-5488,23,186,heitur,,split from DKB,213,heitur,,ˈhaiːtʰʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=heitur
+5488,23,186,heitur,,,213,heitur,,ˈhaiːtʰʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=heitur
 8432,36,188,vatn,,Also 'lake'.,,vatn,,vaʰtn̥,,,
 31006,144,187,dhonā,,,169,dhonā,,d̪ʰonɑ,,धोना,
 36586,176,166,plajĕ,,3 sg.,354,plajĕ,,ˈplajɘ,ˈplajɘ,,
@@ -7877,7 +7877,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 34878,162,178,bandhati,,,246[481],bandhati,"to tie on, bind or put on to",,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=bandhati
 5701,24,202,vrouw,,,,vrouw,,,,,
 4905,20,199,vinge,,,97[http://ordnet.dk/ddo/ordbog?query=vinge&search=S%C3%B8g],vinge,,ˈveŋə,,,http://ordnet.dk/ddo/ordbog?query=vinge
-5506,23,204,maðkur,,split from DKB,,maðkur,,ˈmaʰkːʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=maðkur
+5506,23,204,maðkur,,,,maðkur,,ˈmaʰkːʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=maðkur
 13344,58,204,mark,,,219,mark,"'maggot, worm'",maɾk,,,
 33857,157,141,skamber,,,209,skamber,,ˈskamber,skamber,,
 24273,120,140,schaarf,,,"448[4, 97{Volume 4.}]",schaarf,,,,,
@@ -7896,11 +7896,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12556,55,206,rok,,,,rok,,ɾɔk,rok,,http://sjp.pwn.pl/szukaj/rok
 36860,175,178,wiązac,,,249,wiązac,,ˈv(ʲ)juzɑ̈ts,ˈvjuzats,,
 24533,23,48,sláast,,,213,sláast,,ˈslo̜ːast,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=sláast
-25127,24,50,brand,,split from DKB; Appears to be more basic. TKD,,brand,,,,,
+25127,24,50,brand,,Appears to be more basic. TKD,,brand,,,,,
 26981,58,62,full,,"From Old Norse fullr, from Proto-Germanic *fullaz, from Proto-Indo-European *pl̥h₁nós.",219,full,,fʉlː,,,
 24040,115,14,dubh,,,193,dubh,,d̪̊u,duh,,
 50568,162,140,tikkha,,,,tikkha,,,tikkʰa,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=tikkha
-25356,36,45,vera hræddur,,split from DKB; true synonyms TKD,,vera hræddur,,,,,
+25356,36,45,vera hræddur,,true synonyms TKD,,vera hræddur,,,,,
 31676,128,39,aēm,,"acc. sg. (but nom. sg. would be identical), stem probably āiia-",183[120],aēm,,,ai̯m,𐬀𐬉𐬨,
 6691,27,207,gelb,,,96[528],gelb,,gɛlp,,,
 25003,20,130,rund,,,47[904-905];97[http://ordnet.dk/ddo/ordbog?query=rund&search=S%C3%B8g],rund,,ʁɔnˀ,,,http://ordnet.dk/ddo/ordbog?query=rund
@@ -7939,7 +7939,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26972,36,78,horn,,,,horn,,hɔrd̥n,,,
 33318,20,76,slå,,,216,slå,,slɔˀ,,,http://ordnet.dk/ddo/ordbog?query=slå
 26974,36,101,kjöt,,,,kjöt,,kʰjœːt,,,
-25929,23,162,beinur,,split from DKB; more basic TKD,213,beinur,,ˈb̥aiːnʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=beinur
+25929,23,162,beinur,,more basic TKD,213,beinur,,ˈb̥aiːnʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=beinur
 33967,58,49,negl,,,219,negl,,næɪl,,,
 10419,46,206,metaĩ,,,530,metaĩ,,,,,http://etimologija.baltnexus.lt/?w=metas
 13546,59,207,galben,,,,galben,,ˈɡalben,ˈɡalben,,https://dexonline.ro/definitie/galben
@@ -7972,14 +7972,14 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33893,157,166,simma,,,209,simma,,ˈsimːa,simːa,,
 37396,118,151,mar,,,363,mar,,mɑ:ɾ,,,
 16108,68,207,amarillo,,,,amarillo,,ama'ɾiʎo,amaˈɾiʎo,,http://dle.rae.es/?id=2F6Yopy
-23485,69,4,aska,,,48[Split from DKB1992];121[28],aska,,ˈàska,,,http://www.saob.se/artikel/?seek=aska
+23485,69,4,aska,,,48;121[28],aska,,ˈàska,,,http://www.saob.se/artikel/?seek=aska
 12557,55,207,żółty,,,,żółty,,ˈʐuwtɘ̟,ˈʐuwtɨ,,http://sjp.pwn.pl/szukaj/żółty
 26955,23,57,mjørki,,more basic TKD,,mjørki,,ˈmjœɹ̥tʃɪ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=mjørki
 50203,24,214,huis,,,,huis,,,,,
 54253,162,107,sambādha,,,,sambādha,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=sambādha
 50204,24,87,knie,,,,knie,,,,,
 50205,24,102,maan,,,,maan,,,,,
-25266,26,29,grave,,split from DKB,124[350],grave,,'gra:və,,,
+25266,26,29,grave,,,124[350],grave,,'gra:və,,,
 54255,162,219,dhāvati,,,,dhāvati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=dhāvati
 25023,38,87,glúin,,prob. cogn. with 'cloud' in [lexeme 5133](lex-5133),47[243];193,glúin,,ɡˠɫuːɲ,,,http://www.teanglann.ie/ga/fgb/glúin
 49914,82,213,skiyo,,,,skiyo,,ˈskijo,skəyo,,
@@ -8027,7 +8027,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33917,157,181,trä,,,209,trä,,træː,træː,,
 34492,20,182,dreje,,,97,dreje,,ˈdʁɑjə,,,http://ordnet.dk/ddo/ordbog?query=dreje
 33921,157,183,tver,,,209,tver,,tveːr,tveːr,,
-24756,42,161,sas,,"split from DKB, Lat. saxum 'large stone, rock', It. sasso (Buck 1949: 51)",,sas,,,ˈsas,,
+24756,42,161,sas,,"Lat. saxum 'large stone, rock', It. sasso (Buck 1949: 51)",,sas,,,ˈsas,,
 24774,59,86,a ucide,,,,a ucide,,a uˈtʃide,a uˈtʃide,,https://dexonline.ro/definitie/a ucide
 34992,48,177,ćisnyć,,'wrjesnyć' is expressive.,249,ćisnyć,,"ˈtʃisnɘ̟tʃ, tʃisn̩tʃ",ˈtʃisnɘ̟tʃ,,
 36864,175,182,òbracac,,,249,òbracac,,ˈ(wɛ/wɘ̟/wɔ/ɔ)bˈɾɑ̈tsɑ̈t,obˈratsats,,
@@ -8044,7 +8044,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33629,36,130,kringlóttur,,,218,kringlóttur,,ˈkʰriŋglouʰtːʏr,,,
 25413,54,49,nāxun,,,326,nāxun,"fingernail, claw",nɒ:χon,nɒχun,ناخن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2YbYp9iu2YY%3d
 37398,118,152,befr,,,363,befr,,bæɾf,,,
-25649,36,107,mjór,,split from DKB,,mjór,,mjouːr,,,
+25649,36,107,mjór,,,,mjór,,mjouːr,,,
 50167,20,220,bære,,,,bære,,,,,http://ordnet.dk/ddo/ordbog?query=bære
 33929,157,188,vatn,,,209,vatn,,vatn,vatn,,
 50169,20,226,klo,,,,klo,,,,,http://ordnet.dk/ddo/ordbog?query=klo
@@ -8124,7 +8124,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 34555,157,129,mör,,,209,mör,,mør,mør,,
 50313,58,223,gråte,,,,gråte,,,,,
 50315,58,224,gjøre,,,,gjøre,,,,,
-25710,26,118,spylje,,split from DKB,124[952],spylje,,'spiljə,,,
+25710,26,118,spylje,,,124[952],spylje,,'spiljə,,,
 34503,36,129,morkinn,,,218,morkinn,,ˈmɔr̥kʰɪnː,,,
 37400,118,162,rast,,,363,rast,,rɑ:st,,,
 50316,58,211,flue,,,,flue,,,,,
@@ -8184,8 +8184,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 50289,36,216,harður,,,,harður,,,,,
 33591,23,95,búgva,,,214,búgva,,ˈb̥ɪɡ̊va,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=búgva
 50290,36,222,fela,,,,fela,,,,,
-25726,26,120,triuwe,,split from DKB,124[1075],triuwe,,'trjo.uwə,,,
-24946,42,207,ghel,,split from DKB,,ghel,,,ˈgel,,
+25726,26,120,triuwe,,,124[1075],triuwe,,'trjo.uwə,,,
+24946,42,207,ghel,,,,ghel,,,ˈgel,,
 25158,18,88,vědět,,,,vědět,,ˈvjɛɟɛt,ˈvjeɟet,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=věděti
 34504,23,129,morkin,,,213,morkin,,ˈmɔɹ̥tʃɪn,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=morkin
 24769,40,73,waenaǰ,,,,waenaǰ,,ʋɨnidʒ,ʋɨnidʒ,وانج,
@@ -8223,7 +8223,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35056,47,49,nokś,,,249,nokś,,nɔkɕ,nokɕ,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/nokś
 26136,55,62,pełny,,,47[931];142,pełny,,ˈpɛwnɘ̟,ˈpewnɨ,,http://sjp.pwn.pl/szukaj/pełny
 25000,59,130,rotund,,,47[904-905],rotund,,ɾoˈtund,roˈtund,,https://dexonline.ro/definitie/rotund
-25515,76,76,bouhî,,split from DKB,,bouhî,,bu'hiː,bu'hiː,,
+25515,76,76,bouhî,,,,bouhî,,bu'hiː,bu'hiː,,
 34999,48,62,połny,,,249,połny,,ˈponɘ̟,ˈponɘ̟,,
 20541,112,176,trēs,,G.sg. trium,206,trēs,three,treːs,treːs,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dtres
 50305,23,222,fjala,,,,fjala,,,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=fjala
@@ -8266,7 +8266,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 53996,212,109,minig,,,,minig,,minig,minig,,
 25407,21,49,nagel,,,47[245];95[240],nagel,,'naɣəl,,,http://www.etymologiebank.nl/trefwoord/nagel1
 43492,212,119,-kṣ-,,,,-kṣ-,pull,-kʂ-,-kʂ-,,
-25996,26,177,smite,,split from DKB,124[1175],smite,,'smitə,,,
+25996,26,177,smite,,,124[1175],smite,,'smitə,,,
 35401,97,162,raven,,,,raven,,rɑ̈̀ːʋən,ràːvən,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4291168/raven
 24711,69,57,dimma,,,,dimma,,ˈdɪ̀mːa,,,http://www.saob.se/artikel/?seek=dimma
 43569,212,122,p′üṭ,,via Kâta-vari,,p′üṭ,red,pˈyʈ,pˈyʈ,,
@@ -8287,7 +8287,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24534,46,49,nãgas,,,530,nãgas,,,,,http://etimologija.baltnexus.lt/?w=naga
 24238,120,35,Stëbs,,,"448[4, 267{Volume 4}]",Stëbs,,,,,
 25408,27,49,Nagel,,,47[245];96[919],Nagel,,'na:gl̩,,,
-25077,42,14,fosch,,split from DKB,,fosch,,,ˈfoʃk,,
+25077,42,14,fosch,,,,fosch,,,ˈfoʃk,,
 20542,112,177,iacere,,"iaciō, iacere, iēcī, iactum",206,iacere,"to propel through the air, throw, cast",ˈjakere,ˈjakere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Djaceo
 35001,48,87,koleno,,,249,koleno,,ˈkɔlɛnɔ,ˈkɔlɛnɔ,,
 25058,59,78,corn,,,47[208f],corn,,koɾn,korn,,https://dexonline.ro/definitie/corn
@@ -8324,7 +8324,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35408,97,203,gozd,,,,gozd,,"gɔ́st, ɡóːst","gɔzd, ɡóːzd",,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4286581/gozd
 37407,118,171,stir,,,363,stir,,,,,
 27142,95,78,rog,,,,rog,,rô̞ːɡ,rôːɡ,,http://hjp.znanje.hr/index.php?show=search_by_id&id=dlhmXRk
-25355,23,45,vera ræddur,,split from DKB,213,vera ræddur,,ˈveːɹa ˈɹadːʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=ræddur
+25355,23,45,vera ræddur,,,213,vera ræddur,,ˈveːɹa ˈɹadːʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=ræddur
 61377,285,72,žawē,,"The equivalent terms ežnawē and ešnawē are used by some other speakers. (It looks as if the onset žn is simplified to ž. However, one would rather expect the emergence of an anaptyctic vowel.)",,žawē,,,ʒaweː,,
 25397,39,49,unghia,,,47[245];90[462],unghia,,'ungja,ˈungja,,
 28341,127,184,sceïd,,,28,sceïd,,sʹkʹe.iðʹ,,,http://dil.ie/36353
@@ -8335,12 +8335,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25862,3,151,gjarpën,,,,gjarpën,,,,,
 25738,38,120,brúigh,,,226;225,brúigh,,,,,http://www.teanglann.ie/ga/fgb/brúigh
 35005,48,162,runy,,,249,runy,,ˈʁunɘ̟,ˈʀunɘ̟,,
-25695,10,114,purono,,split from DKB,,purono,,purono,,পুরোনো,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=পুরোনো
+25695,10,114,purono,,,,purono,,purono,,পুরোনো,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=পুরোনো
 26147,60,102,luna,,,47[54];56[{Broad IPA transcription}],luna,,ɫʊ'nɑ̈,lu'na,луна,http://gramota.ru/slovari/dic/?all=x&word=луна
 36644,22,208,ant,,"Middle English amte, Old English ǣmete.",269,ant,,,,,http://www.oed.com/view/Entry/8159
 63048,292,119,rakhkal,,"cf. Morgenstierne (2003: 38) kx̌- present stem of „to draw, pull (off); write“ < *krͅšna-? and p.71 rāx̌kˈo „wire-drawing machine“ < *rā-kx̌o (with prefix rā „hither“)",,rakhkal,,ˈrax.kəl,raxkəl,راخکل,
 36969,97,209,stegno,,,249,stegno,,ˈstɛ̀ːɡnɔ,ˈstɛ̀ːɡnɔ,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4292188/stegno
-25596,27,136,Meer,,split from DKB,96[877],Meer,,me:ɐ̯,,,
+25596,27,136,Meer,,,96[877],Meer,,me:ɐ̯,,,
 36645,22,209,thigh,,,269,thigh,,,,,http://www.oed.com/view/Entry/200759?
 24831,40,105,aes,,,,aes,,əːs,əːs,اءس,
 20546,112,181,arbor,,G.sg. arboris,"206[{Most general word for 'tree', not species specific.}]",arbor,tree,ˈarbor,ˈarbor,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Darbor1
@@ -8386,7 +8386,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26158,27,62,voll,,,48;96[1394-5],voll,,fɔl,,,
 26675,122,124,diestri,,"Msg., fsg. diestre, mpl.=fpl. diestris.",,diestri,,'djestri,'djestri,,http://claap.org/definizion/?diz=fur-it&leme=diestri
 28346,127,188,uisce,,,28[{Added brackets to original lexeme entry.}];151[418];208[{Also spelt usce and in Ml. and Wb. uisque.}],uisce,,usʹkʹe,,,http://dil.ie/43063
-25518,39,76,colpire,,split from DKB,90[85],colpire,,kol'pire,kolˈpiɾe,,
+25518,39,76,colpire,,,90[85],colpire,,kol'pire,kolˈpiɾe,,
 35410,172,188,dour,,,280[644-45];283,dour,water,ˈduːr,,,
 25812,38,140,géar,,,225,géar,,ɟeːɾˠ,,,http://www.teanglann.ie/ga/fgb/géar
 25031,46,87,kẽlis,,,530,kẽlis,,ˈkælɪs,,,http://etimologija.baltnexus.lt/?w=kelis
@@ -8401,7 +8401,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26763,55,76,uderzyć,,,142,uderzyć,,uˈdɛʐɘ̟ʨ,uˈdeʐɨʨ,,http://sjp.pwn.pl/szukaj/uderzyć
 27148,95,18,grudi,,,,grudi,,ˈɡɾûːdi,ˈɡrûːdi,,http://hjp.znanje.hr/index.php?show=search_by_id&id=fV9hXBU
 35613,18,20,hořet,,,318,hořet,,ˈɦɔr̝ɛt,ˈɦor̝et,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=hořeti
-25519,59,76,a lovi,,from DKB,,a lovi,,a loˈvi,a loˈvi,,https://dexonline.ro/definitie/a lovi
+25519,59,76,a lovi,,,,a lovi,,a loˈvi,a loˈvi,,https://dexonline.ro/definitie/a lovi
 35633,47,95,labowaś,,,258,labowaś,,ˈl(ʲ)ɑ̈bowɑ̈ɕ,ˈlabowaɕ,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/labowaś
 36649,22,214,house,,,269,house,,,,,http://www.oed.com/view/Entry/88886?
 29235,3,102,hanë,,"From PAlb *ksandā further compared with Skt cándati '(he) shines, is bright', candrá- 'shining; moon'. Regarding word formation, the word is also particularly close to Celt *kando-, Welsh cann 'white' and MBret cann 'full moon'.",105[146-147],hanë,,,,,
@@ -8416,12 +8416,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26970,36,18,brjóst,,,,brjóst,,ˈb̥rjoust,,,
 20594,44,18,krūškurvis,,,28;535,krūškurvis,,krùškur̃vis,,,
 59407,279,57,mazba,,"in comparison with Kurdish mǝž, one could assume a Vorform *miǰ, which would give Lari *miz or *mez; °ba could come from bād “wind”. The vocalism remains problematic.",,mazba,,,mazba,,
-25725,21,120,duwen,,split from DKB. Removed VOORT- as not in dictionary.,95[102],duwen,,'dywə(n),,,http://www.etymologiebank.nl/trefwoord/duwen
+25725,21,120,duwen,,Removed VOORT- as not in dictionary.,95[102],duwen,,'dywə(n),,,http://www.etymologiebank.nl/trefwoord/duwen
 36608,176,181,dǫb,,Etymologically 'oak'.,354,dǫb,,dumb,dumb,,
 28979,27,102,Mond,,,47[54-55],Mond,,,,,
 36881,175,199,skrzidło,,,249,skrzidło,,ˈskʂ(ɘ̟/i)dwɔ,ˈskʐidwɔ,,
 36609,176,182,vortăt,,,354,vortăt,,ˈvɔrtɜt,ˈvortɜt,,
-26126,42,20,brujé,,split from DKB,,brujé,,,bruˈʒe,,
+26126,42,20,brujé,,,,brujé,,,bruˈʒe,,
 26133,68,62,lleno,,,47[931],lleno,,'ʎeno,ˈʎeno,,http://dle.rae.es/?id=NVOli5X
 37414,118,178,gɨrē det,,,363,gɨrē det,,,,,
 26765,55,88,wiedzieć,,,142,wiedzieć,,ˈvʲjedʑetɕ,ˈvjedʑetɕ,,http://sjp.pwn.pl/szukaj/wiedzieć
@@ -8447,7 +8447,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36611,176,184,bľåvă,,3 sg.,354,bľåvă,,ˈbʎɒvɜ,ˈbʎɒvɜ,,
 28986,27,18,Brust,,,47[248-249],Brust,,,,,
 36610,176,183,dåvo,,,354,dåvo,,dɒˈvɔ,dɒˈvo,,
-25838,39,150,liscio,,split from DKB,90[237],liscio,,ˈliʃʃo,ˈliʃʃo,,
+25838,39,150,liscio,,,90[237],liscio,,ˈliʃʃo,ˈliʃʃo,,
 35109,66,62,plný,,,264,plný,,ˈpl̩niː,ˈplniː,,http://slovnik.azet.sk/pravopis/?q=plný
 25689,59,114,vechi,,,,vechi,,vekç,vekʲ,,https://dexonline.ro/definitie/vechi
 34943,55,182,obracać,,,249,obracać,,ɔbˈɾɑ̈tsɑ̈tɕ,obˈratsatɕ,,http://sjp.pwn.pl/szukaj/obracać
@@ -8484,7 +8484,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24062,115,33,tioram,,,193,tioram,,,tʲirəm,,
 27670,26,98,lûs,,,124[590],lûs,,lu:s,,,
 26698,42,190,mol,,,,mol,,,ˈmɔl,,
-25282,46,30,pur̃vinas,,split from DKB,530,pur̃vinas,,,,,
+25282,46,30,pur̃vinas,,,530,pur̃vinas,,,,,
 36891,47,45,měś tšach,,Literally 'to have fear'.,249,měś tšach,,m(ʲ)ɪɕ tʂɑ̈x,mɪɕ tʂax,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/tšach
 36951,48,211,mucha,,,249,mucha,,ˈmuxɑ̈,ˈmuxa,,
 36950,48,210,pupk,,,249,pupk,,pupk,pupk,,
@@ -8539,7 +8539,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36615,176,188,vådă,,,354,vådă,,ˈvɒdɜ,ˈvɒdɜ,,
 36657,22,222,hide,,,269;141[358{Old English hȳdan denominative from hȳd 'skin' (Szemerényi 1980). Cf. also OED s.v. hide.}],hide,,,,,http://www.oed.com/view/Entry/86721?
 28354,127,194,bán,,< IE *bhā-no-/*bhō-no-; root *bhā-/*bhō-/*bhə- ‘to shine’.,"151[433];28;208[{Meaning 'white, bright', also 'blank' (of a page).}]",bán,,baːn,,,http://dil.ie/5318
-26142,39,68,capelli,,split from DKB,90[64],capelli,,ka'pello,kaˈpello,,
+26142,39,68,capelli,,,90[64],capelli,,ka'pello,kaˈpello,,
 36912,55,210,pępek,,,249,pępek,,ˈpɛmpɛk,ˈpempek,,http://sjp.pwn.pl/szukaj/pępek
 36954,48,214,dom,,,249,dom,,dɔm,dɔm,,
 36989,18,210,pupík,,,249,pupík,,ˈpupiːk,ˈpupiːk,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=pupík
@@ -8607,8 +8607,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37423,118,198,ba,,,363,ba,,,,,
 37424,118,199,čang,,,363,čang,,,,,
 37620,39,6,schiena,,,228,schiena,,,,,
-25648,69,107,smal,,split from DKB. Also 'thin'.,121[397],smal,,smɑ:l,,,http://www.saob.se/artikel/?seek=smal
-25712,69,118,leka,,split from DKB,121[243],leka,,ˈlè:ka,,,http://www.saob.se/artikel/?seek=leka
+25648,69,107,smal,,Also 'thin'.,121[397],smal,,smɑ:l,,,http://www.saob.se/artikel/?seek=smal
+25712,69,118,leka,,,121[243],leka,,ˈlè:ka,,,http://www.saob.se/artikel/?seek=leka
 36916,55,214,dom,,,249,dom,,dɔm,dom,,http://sjp.pwn.pl/szukaj/dom
 27160,95,177,baciti,,There are some alternative lexemes. 'Hititi' is regional. 'Vrgnuti/vrći' has additional meanings 'to throw strongly without specific target'.,,baciti,,ˈbɑ̈̌ːtsiti,ˈbǎːtsiti,,http://hjp.znanje.hr/index.php?show=search_by_id&id=e1dmXA
 36993,18,214,dům,,,249,dům,,duːm,duːm,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=dům
@@ -8636,7 +8636,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36936,47,215,góŕki,,,249,góŕki,,ˈɡ(ɘ̟/ɛ)ɾʲkʲi,ˈɡorʲki,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/górki_1
 36958,48,217,słódki,,,249,słódki,,ˈswʊtkʲi,ˈswʊdki,,
 35494,95,109,vrat,,'Šija' is 'back of neck'.,292,vrat,,vɾɑ̈̂ːt,vrâːt,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f19vUBV6
-25317,51,35,dhūlo,,split from DKB,,dhūlo,,dʱulo,,धूलो,
+25317,51,35,dhūlo,,,,dhūlo,,dʱulo,,धूलो,
 37621,39,10,pancia,,,228,pancia,,,,,
 37696,27,216,hart,,,385,hart,hard,,,,
 36918,55,216,twardy,,,249,twardy,,ˈtfɑ̈ɾdɘ̟,ˈtfardɨ,,http://sjp.pwn.pl/szukaj/twardy
@@ -8666,7 +8666,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37698,27,214,Haus,,,385,Haus,house,,,,
 20565,112,199,āla,,G.sg. ālae,206,āla,wing (of a bird or insect),ˈaːɫa,ˈaːla,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dala
 35431,172,202,"gurec, greuc, grec, grouec, groec",,"The original meaning seems to be 'woman', but the attestations meaning 'wife' are more frequent.",280[1152];283,"gurec, greuc, grec, grouec, groec","wife, married woman, woman",ˈgurec,,,
-26118,46,204,kirmėlė̃,,split from DKB,530,kirmėlė̃,,,,,http://etimologija.baltnexus.lt/?w=kirmele
+26118,46,204,kirmėlė̃,,,530,kirmėlė̃,,,,,http://etimologija.baltnexus.lt/?w=kirmele
 23107,81,19,wräṣ,,"Root /wrs-/; cf. derivative wrasom 'living being', lit. 'breathing one'; from PIE *u̯er- 'perceive'.",28,wräṣ,breathes,wrɨʂ,wr-ṣ-ṣ,,
 26134,46,62,pìlnas,,,530,pìlnas,,ˈpʲɪɫnɐs,,,http://etimologija.baltnexus.lt/?w=pìlnas
 36939,47,218,hyś,,,249,hyś,,ˈ(h/ʔ/0)ɘ̟ɕ,ɘ̟ɕ,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/hyś
@@ -9352,7 +9352,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13368,59,22,nor,,,,nor,,noɾ,nor,,https://dexonline.ro/definitie/nor
 13374,59,28,muri,,,,muri,,a muˈɾi,a muˈri,,https://dexonline.ro/definitie/muri
 13381,59,36,ureche,,,,ureche,,uˈɾekçe,urˈekʲe,,https://dexonline.ro/definitie/ureche
-13382,59,37,pământ,,"split from DKB, fr. Lat. PAVIMENTUM  'floor, pavement' (Buck). Replaced PAMINT.",,pământ,,pəˈmɨnt,pəˈmɨnt,,https://dexonline.ro/definitie/pământ
+13382,59,37,pământ,,"fr. Lat. PAVIMENTUM  'floor, pavement' (Buck). Replaced PAMINT.",,pământ,,pəˈmɨnt,pəˈmɨnt,,https://dexonline.ro/definitie/pământ
 13385,59,40,ochi,,,,ochi,,okç,okʲ,,https://dexonline.ro/definitie/ochi
 13366,59,20,arde,,,,arde,,'aɾde,ˈarde,,https://dexonline.ro/definitie/a arde
 39930,195,71,kkellé,,,,kkellé,,cːʰɛˈlːɛ,kkɛˈllɛ,κκελλέ,
@@ -9528,15 +9528,15 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8220,35,171,moṭā,,,,moṭā,,moʈɑ,moʈɑ,मोटा,
 8232,35,183,do,,,,do,,d̪o,d̪o,दो,
 8239,35,190,bhīgā,,,,bhīgā,,bʱigɑ,bʱigɑ,भीगा,
-8251,35,202,aurata,,split from DKB,,aurata,,ɔɾət̪,ɔɾət̪,औरत,
-8255,35,206,sāla,,split from DKB,,sāla,,sɑl,sɑl,साल,
+8251,35,202,aurata,,,,aurata,,ɔɾət̪,ɔɾət̪,औरत,
+8255,35,206,sāla,,,,sāla,,sɑl,sɑl,साल,
 8256,35,207,pīlā,,,,pīlā,,pila,pila,पीला,
 31989,147,73,cree,,croidhe,193,cree,,kɹiː,kriː,,
 31981,147,64,mie,,maith,193,mie,,mai,mai,,
 8207,35,158,khaṛā honā,,,,khaṛā honā,,kʰəɽɑ ɦonɑ,kʰəɽɑ ɦonɑ,खड़ा होना,
 8237,35,188,pānī,,,,pānī,,pɑni,pɑni,पानी,
 32025,147,127,fraue,,fréamh,193,fraue,,freu,freu,,
-26092,35,198,havā,,split from DKB,,havā,,ɦəʋɑ,ɦəʋɑ,हवा,
+26092,35,198,havā,,,,havā,,ɦəʋɑ,ɦəʋɑ,हवा,
 31976,147,56,etlagh,,eiteallach,193,etlagh,,ˈetlax,ˈetlax,,
 31980,147,63,"cur, coyrt",,cur; coyrt = hybrid of cur and tabhairt. Cur and coyrt entirely interchangeable,193,"cur, coyrt",,kuɹ koːɹt,kur koːrt,,
 40022,195,55,loylloýdin,,Alternative form: λουλλούιν.,,loylloýdin,,luˈlːuðin,luˈlluðin,λουλλούδιν,
@@ -11246,7 +11246,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 38881,189,6,rine,,,,rine,,ˈɾiːnə,ˈrinə,,
 38699,189,48,luttà,,,,luttà,,lutˈta,lutˈta,,
 47708,115,218,rach,,,,rach,,,Rax,,
-5537,24,29,graven,,split from DKB,,graven,,,,,
+5537,24,29,graven,,,,graven,,,,,
 38705,189,55,sciore,,,,sciore,,ˈʃoːɾə,ˈʃorə,,
 38706,189,56,vulà,,,,vulà,,vuˈla,vuˈla,,
 38707,189,57,neglia,,,,neglia,,ˈneʎʎə,ˈneʎʎə,,
@@ -12435,8 +12435,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49942,133,224,ā- / āi̯a-,,,377[3-4],ā- / āi̯a-,,,,a-ti (CL),
 9515,42,96,fié,,,,fié,,,ˈfje,,
 9567,42,150,lize,,related to NHG GLEICH 'the same'?,,lize,,,ˈlitsε,,
-9578,42,161,pera,,split from DKB,,pera,,,ˈpera,,
-9623,42,207,sal,,split from DKB,,sal,,,ˈzal,,
+9578,42,161,pera,,,,pera,,,ˈpera,,
+9623,42,207,sal,,,,sal,,,ˈzal,,
 27332,125,52,fonʒ,,,122,fonʒ,,fondz,fonʒ,фондз,
 50102,190,223,rauduot,,,536,rauduot,,,,,
 50103,44,223,raudāt,,,535,raudāt,,raûdât,,,
@@ -12501,7 +12501,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 50238,26,210,nâle,,,,nâle,,nɔ:lə,,,
 50240,26,130,rûn,,,,rûn,,run,,,
 50241,26,219,drave,,,,drave,,dra:və,,,
-25133,40,58,khɔr,,"split from DKB, 'hoof, heel'",69[124],khɔr,,kʰɔr,kʰɔr,کھُور,
+25133,40,58,khɔr,,"'hoof, heel'",69[124],khɔr,,kʰɔr,kʰɔr,کھُور,
 30688,143,48,luftoj,,"Borrowed from Balkan Romance with the typical treatment of -ct-, cf. Romanian a luptă 'to fight', < Lat. luctārī  'wrestle.'.",105[233];129,luftoj,,,,,
 45278,143,225,bluaj,,"Orel treats it a as loan from Lat. molere, but Schumacher/Matzinger discuss a native origin and remain skeptical in connecting it with PIE *melh₂- since the stem formation remains dubious (note Old Geg blo-).",80[980],bluaj,,,,,
 30800,143,150,lëmuar,,"Participle of lëmoj 'to file, to polish', a loan from Latin līmāre 'id'.",129,lëmuar,,,,,
@@ -12621,7 +12621,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 42317,207,147,pedlo; pel,,,,pedlo; pel,,,pedlo; pel,,
 42320,207,152,nai̯,,,,nai̯,,,naj,,
 42322,207,158,stuọr in pins,,,,stuọr in pins,,,"stuor, stur in pins",,
-11540,51,160,lauro,,split from DKB,,lauro,,lʌuro,,लौरो,
+11540,51,160,lauro,,,,lauro,,lʌuro,,लौरो,
 42323,207,159,stala,,,,stala,,,'stala,,
 42324,207,160,bastáu̯ṅ,,,,bastáu̯ṅ,,,bas'tawn,,
 42325,207,161,pitra,,,,pitra,,,'pitra,,
@@ -12708,7 +12708,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 11245,50,59,cāra,,,98[597],cāra,,ʦar,,चार,
 11246,50,60,goṭhṇe,,,98[597],goṭhṇe,,goʈʰɳe,,गोठणे,
 11248,50,63,deṇe,,,98[597],deṇe,,d̪eɳe,,देणे,
-11250,50,65,gavata,,split from DKB,98[598],gavata,,gəʋət̪,,गवत,
+11250,50,65,gavata,,,98[598],gavata,,gəʋət̪,,गवत,
 11253,50,68,kesa,,,98[598],kesa,,kes,,केस,
 11256,50,71,ḍokaṁ,,,98[598],ḍokaṁ,,ɖok,,डोकं,
 11244,50,58,pāya,,Removed PAUL.,98[597],pāya,,paj,,पाय,
@@ -12759,7 +12759,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 50234,26,87,knibbel,,,,knibbel,,'knɪbəl,,,
 6383,26,92,links,,,124[576],links,,lɪŋks,,,
 27215,26,74,swier,,,124[1018-9],swier,,'sʋi.ər,,,
-25607,26,90,laitsje,,split from DKB. Removed AF LAEITSJE.,124[552],laitsje,,'laitçə,,,
+25607,26,90,laitsje,,Removed AF LAEITSJE.,124[552],laitsje,,'laitçə,,,
 6385,26,95,leve,,,,leve,,'le:və,,,
 6394,26,105,mûle,,"Replaced HAPPERT, MULWIRK, SNAPPERT. Delinked from cognate class F.",,mûle,,'mulə,,,
 26630,50,150,maū,,,98[600],maū,,mə͜u:,,मऊ,
@@ -13253,7 +13253,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 9562,42,145,ciel,,,,ciel,,,ˈtʃie̯l,,
 9563,42,146,dormì,,,,dormì,,,dorˈmi,,
 49735,236,202,dynes,,,,dynes,,,ˈdənas,,
-9444,42,20,erde,,split from DKB,,erde,,,ˈεrdε,,
+9444,42,20,erde,,,,erde,,,ˈεrdε,,
 9447,42,23,freit,,,,freit,,,ˈfrei̯t,,
 9547,42,129,fret,,,,fret,,,ˈfret,,
 9566,42,149,fum,,,,fum,,,ˈfum,,
@@ -13345,7 +13345,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45878,46,220,nèšti,,,530,nèšti,,,,,http://etimologija.baltnexus.lt/?w=nèšti
 45879,46,226,nãgas,,,530,nãgas,,,,,http://etimologija.baltnexus.lt/?w=nãgas
 45892,46,212,vãkar,,,530,vãkar,,,,,http://etimologija.baltnexus.lt/?w=vãkar
-10249,46,30,nesvarùs,,"split from DKB, lit. 'not-clean', origin of second element dub. (Buck)",530,nesvarùs,,,,,http://etimologija.baltnexus.lt/?w=svarus
+10249,46,30,nesvarùs,,"lit. 'not-clean', origin of second element dub. (Buck)",530,nesvarùs,,,,,http://etimologija.baltnexus.lt/?w=svarus
 45884,46,222,slė̃pti,,,530,slė̃pti,,,,,http://etimologija.baltnexus.lt/?w=slepti
 10313,46,98,utėlė̃,,,530,utėlė̃,,,,,
 45888,46,213,šešė́lis,,,530,šešė́lis,,,,,http://etimologija.baltnexus.lt/?w=seselis
@@ -13457,7 +13457,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 52069,242,130,lakaša,,looks like a borrowing from Arabic,,lakaša,,lɐkɐʃɐ,lɐkɐʃɐ,,
 14988,65,65,taṇakoḷa,,,,taṇakoḷa,,,,තණකොළ,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=තණකොළ
 11062,92,72,čue,,"An alternative lexeme is 'слуша' [ˈsluʃa]. However, its main meaning is 'to listen'.",,čue,,ˈtʃu.ɛ,ˈtʃu.e,чуе,http://makedonski.info/search/#чуе
-14973,65,48,saṭan karanavā,,split from DKB,,saṭan karanavā,,,,සටන් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සටන්
+14973,65,48,saṭan karanavā,,,,saṭan karanavā,,,,සටන් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සටන්
 52337,65,226,niya,,,,niya,,,,නිය,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=නිය
 52348,65,213,hevaṇælla,,,,hevaṇælla,,,,භෙවණැල්ල,
 52362,65,214,geya,,,,geya,,geja,,ගෙය,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ගෙය
@@ -13960,7 +13960,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 54245,162,218,yāti,,,,yāti,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=yāti
 13489,59,150,neted,,"< Lat. NITIDUS 'bright, shining' (Buck 1949: 1068)",,neted,,ˈneted,ˈneted,,https://dexonline.ro/definitie/neted
 8060,35,4,rākha,,,,rākha,,ɾɑkʰ,ɾɑkʰ,राख,
-13401,59,57,ceață,,split from DKB,"85[166{< Lat. CAECUS 'blind, dark, invisible'}]",ceață,,ˈʧe̯aʦə,ˈʧe̯aʦə,,https://dexonline.ro/definitie/ceață
+13401,59,57,ceață,,,"85[166{< Lat. CAECUS 'blind, dark, invisible'}]",ceață,,ˈʧe̯aʦə,ˈʧe̯aʦə,,https://dexonline.ro/definitie/ceață
 13512,59,173,a gândi,,Replaced A (SE) GINDI (LA).,"47[1202{> Hung. GOND 'care, worry'}]",a gândi,,a ɡɨnˈdi,a ɡɨnˈdi,,https://dexonline.ro/definitie/a gândi
 26155,59,134,a spune,,,85[739{< Lat. EXPONERE}],a spune,,a 'spune,a ˈspune,,https://dexonline.ro/definitie/a spune
 10415,46,202,móteris,,"'mother' > 'woman', cf. cognate set 79.",530,móteris,,ˈmo:tʲɛrʲɪs,,,http://etimologija.baltnexus.lt/?w=móteris
@@ -13985,7 +13985,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8129,35,76,ṭakarānā,,Same as 'kill'.,,ṭakarānā,,ʈəkɾɑnɑ,ʈəkrɑnɑ,टकराना,
 8155,35,105,mum̐ha,,Also 'face'.,,mum̐ha,,mʊ̃ɦ,mʊ̃ɦ,मुँह,
 8171,35,121,bāriś,,Removed BERESNA and +HONA.,,bāriś,,bɑrɪʃ,bɑrɪʃ,बारिश,
-8185,35,136,samudra,,split from DKB,,samudra,,səmʊd̪ɾ,səmʊd̪r,समुद्र,
+8185,35,136,samudra,,,,samudra,,səmʊd̪ɾ,səmʊd̪r,समुद्र,
 51033,35,202,mahilā,,,,mahilā,,məɦɪlɑ,məɦɪlɑ,महिला,
 12761,56,12,ave,,"Large bird, though technically it can refer to any kind of bird.",,ave,,ˈavɨ,ˈavɨ,,
 15920,68,12,ave,,"arge bird in normal language use, though technically it also refers tosmall birds",,ave,,'aβe,'abe,,http://dle.rae.es/?w=ave
@@ -14996,7 +14996,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17113,73,19,dihati,,,,dihati,,dɪ̽ˈxɑ̈tɪ̽,dɪˈxatɪ,дихати,http://sum.in.ua/s/dykhaty
 43183,211,22,néfä,,,,néfä,clouds (plural),ˈne̞fæ,ˈne̞fia,νέφα̈,
 3164,15,20,gorâ,,,,gorâ,,ɡuˈɾʲɤ,ɡoˈrjɤ,горя,https://rechnik.chitanka.info/w/горя
-14944,65,19,husma gannavā,,split from DKB,,husma gannavā,,,,හුස්ම ගන්නවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=හුස්ම
+14944,65,19,husma gannavā,,,,husma gannavā,,,,හුස්ම ගන්නවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=හුස්ම
 27295,124,23,wazal,,,122,wazal,,ˈwɑʒɑl,wažal,уазал,
 44993,219,22,áabru,,,,áabru,,ˈaːbɾu,áabru,آبروۡ,
 22341,105,17,ásthi,,abl.-gen. asthnás AV,28,ásthi,n.,*'ɐstʰi,ástʰi,अस्थि,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=122
@@ -15097,7 +15097,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 43189,211,30,lerós,,,,lerós,,le̞ˈro̞s,le̞ˈro̞s,λερός,
 27307,124,35,ryg,,,122,ryg,,rɘg,rəg,рыг,
 23112,81,24,kumnäṣ,,"Root kum- (kʷm-), pres. stem /kum-nṣ/nsa-/ (/kʷm-nṣ/nsa-/).",345[170-171];147[131-132],kumnäṣ,comes,kumnɨʂ,kum-nṣ-ṣ (kʷm-nṣ-ṣ),,
-14950,65,25,gaṇan karanavā,,split from DKB,,gaṇan karanavā,,,,ගණන් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ගණන්
+14950,65,25,gaṇan karanavā,,,,gaṇan karanavā,,,,ගණන් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ගණන්
 44999,219,30,axsaá,,,,axsaá,,axˈsaː,axsaá,اخسا,
 38405,188,40,(e)psilé,,,,(e)psilé,,(e̞)psiˈle̞,(e̞)psiˈle̞,(ε)ψιλέ,
 39917,195,40,mmátin,,Alternative form: αμμάτιν.,,mmátin,,ˈmːɐtin,ˈmmɐtin,μμάτιν,
@@ -15206,7 +15206,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 39921,195,51,psárin,,,,psárin,,ˈpsɐrin,ˈpsɐrin,ψάριν,
 2184,10,30,moẏlā,,,,moẏlā,,moe̯la,,ময়লা,
 11216,50,29,khoḍaṇe,,,98[597],khoḍaṇe,,kʰodɳe,,खोदणे,
-5339,23,28,doyggja,,split from DKB,213,doyggja,,ˈd̥ɔd̥ʒːa,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=doyggja
+5339,23,28,doyggja,,,213,doyggja,,ˈd̥ɔd̥ʒːa,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=doyggja
 14954,65,29,hāranavā,,,,hāranavā,,,,හාරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=හාරනවා
 45993,222,39,aṇḍā,,n.,,aṇḍā,,ə̃ɖɑ,,अंडा,
 12188,54,30,kaṯīf,,,,kaṯīf,,kʰæsif,kæsif,كثيف,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2YPYq9mK2YE%3d
@@ -15271,7 +15271,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 43196,211,37,chṓma(n),,,,chṓma(n),,ˈxo̞ma(n),ˈxo̞ma(n),χώμα(ν),
 42970,210,37,chṓma,,,,chṓma,,ˈxoma,ˈxoma,χώμα,
 23119,81,31,ku,,Acc. koṃ (cf. Ved. śvā́naṃ).,147[146-147],ku,dog,ku,ku,,
-11419,51,32,piunu,,split from DKB,,piunu,,piunu,,पिउनु,
+11419,51,32,piunu,,,,piunu,,piunu,,पिउनु,
 4743,20,31,hund,,,97[http://ordnet.dk/ddo/ordbog?query=hund&search=S%C3%B8g],hund,,hunˀ,,,http://ordnet.dk/ddo/ordbog?query=hund
 20175,80,32,eku- / aku-,,"akuttara- 'drinker, toaster'",28,eku- / aku-,"drink, drink to (+dat.), to toast (+acc.)",,,e-ku-zi,
 38412,188,62,giomáte,,,,giomáte,,ʝo̞ˈmate̞,ɣio̞ˈmate̞,γιομάτε,
@@ -15359,7 +15359,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13580,60,35,pyl',,,92;56[{Broad IPA transcription}],pyl',,pɨlʲ,pilʲ,пыль,http://gramota.ru/slovari/dic/?all=x&word=пыль
 3571,16,35,pyl,,,,pyl,,pɨɫ,pil,пыл,http://www.slounik.org/search?search=пыл
 14960,65,35,dūvili,,,,dūvili,,,,දූවිලි,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=දූවිලි
-9077,40,35,mits,,split from DKB,,mits,,mits,mits,مِژ,
+9077,40,35,mits,,,,mits,,mits,mits,مِژ,
 1799,8,36,akanǰ,,,170,akanǰ,,ɑˈkɑndʒ,ɑkɑndʒ,ականջ,
 42974,210,41,péfto,,also /ˈpefno/,,péfto,fall (asleep),ˈpefto,ˈpefto,πέφτω,
 3572,16,36,vuha,,,,vuha,,ˈvuxa,ˈvuxo,вуха,http://www.slounik.org/search?search=вуха
@@ -15480,7 +15480,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 27711,128,32,xʷaraiti,,"general term for ""to consume""",28;184,xʷaraiti,IPFV.PRS.IND.A.3SG,,xʷarati,𐬓𐬀𐬭𐬀𐬌𐬙𐬌,
 40742,201,32,pínnō,,It.,,pínnō,,ˈpinno̞,ˈpinno̞,πίννω,
 1804,8,41,ənknel,,cf. Goth. SIGQAN 'sink',79[280];170,ənknel,,ənkˈnɛl,ənk-n-ɛ-l,ընկնել,
-9082,40,40,aečh,,split from DKB,,aečh,,ɨtʃʰ,ɨtʃʰ,اءچھ,
+9082,40,40,aečh,,,,aečh,,ɨtʃʰ,ɨtʃʰ,اءچھ,
 27712,128,33,huška,,,28;184,huška,ADJ,,huʃka,𐬵𐬎𐬱𐬐𐬀,
 12199,54,41,oftādan,,Present uft- /oft-/,326,oftādan,,oftɒdæn,oftɒdæn,افتادن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2KfZgdiq2KfYr9mG
 11227,50,40,ḍoḷā,,,98[597],ḍoḷā,,ɖoɭa,,डोळा,
@@ -15505,7 +15505,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 27340,125,59,cuppar,,,122,cuppar,,tsʰupːɑr,cupːar,цуппар,
 27339,124,59,cyppar,,,122,cyppar,,sɘˈpːɑr,səpːar,цыппар,
 17136,73,42,daleko,,,,daleko,,dɐˈɫɛkɔ,daˈleko,далеко,http://sum.in.ua/s/daleko
-11428,51,41,girnu,,split from DKB,,girnu,,girnu,,गिर्नु,
+11428,51,41,girnu,,,,girnu,,girnu,,गिर्नु,
 33700,157,30,oren,,,209,oren,,ˈoːreːn,oːreːn,,
 9083,40,41,pyon,,,,pyon,,pʲon,pjon,پیون,
 13586,60,41,upast',,,92;56[{Broad IPA transcription}],upast',,ʊˈpɑ̈sʲtsʲ,uˈpastʲ,упасть,http://gramota.ru/slovari/dic/?all=x&word=упасть
@@ -15815,7 +15815,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8111,35,57,koharā,,,,koharā,,koɦɾɑ,koɦɾɑ,कोहरा,
 13601,60,57,tuman,,,92;56[{Broad IPA transcription}],tuman,,tʊ'mɑ̈n,tu'man,туман,http://gramota.ru/slovari/dic/?all=x&word=туман
 36281,173,93,ke-re-a₂,,"A.pl. neut. in PY Ta 641.1, describing the 'legs' of a tripod.",302[347],ke-re-a₂,legs,skéleha,skéleha,𐀐𐀩𐁀,
-11443,51,57,kuiro,,split from DKB,,kuiro,,kuiro,,कुइरो,
+11443,51,57,kuiro,,,,kuiro,,kuiro,,कुइरो,
 32580,152,97,makžoú,,/maˈkrie̞/ NPT,,makžoú,,maˈkʒu,maˈkʒu,μακζ̌ού,
 24350,119,91,pattā,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],pattā,,pətːɑ,,پَتّا,
 30865,144,49,noh,,,169,noh,,noh,,नोह,
@@ -16247,7 +16247,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 43014,210,91,fýllo,,,,fýllo,,ˈfilo,ˈfilo,φύλλο,
 46040,222,105,mum̐h,,,,mum̐h,,mʊ̃ɦ,,मुँह,
 23336,82,73,arañce,,"Toch. B pl. käryāñ (IOL Toch 1 a4) continues PIE *k̂erd-, cf. Toch. A kri 'will'.",345[23],arañce,heart,əˈrəɲʨe,arə́nce,,
-11463,51,80,śikāra khelnu,,split from DKB,,śikāra khelnu,,ʃikar kʰelnu,,शिकार खेल्नु,
+11463,51,80,śikāra khelnu,,,,śikāra khelnu,,ʃikar kʰelnu,,शिकार खेल्नु,
 43240,211,91,fýllo(n),,,,fýllo(n),,ˈfilo̞(n),ˈfilo̞(n),φύλλο(ν),
 18711,110,40,ophthalmós,,G.sg. ὀφθαλμοῦ.,160,ophthalmós,eye,o̞pʰtʰalmó̞s,o̞pʰtʰalmó̞s,ὀφθαλμός,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=o)fqalmo/s
 24367,119,36,kān,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],kān,,kɑn,,کان,
@@ -16456,7 +16456,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8341,36,92,vinstri,,,218,vinstri,,ˈvɪnstrɪ,,,
 15011,65,90,sināsenavā,,,,sināsenavā,,,,සිනාසෙනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සිනාසෙනවා
 32611,152,158,stékou,,,,stékou,,ˈste̞ku,ˈste̞ku,στέκου,
-24378,119,199,par,,split from DKB,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],par,,pəɾ,,پر,
+24378,119,199,par,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],par,,pəɾ,,پر,
 24379,119,10,peṭ,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],peṭ,,peʈ,,پیٹ,
 13631,60,90,smeât'sâ,,,92;56[{Broad IPA transcription}],smeât'sâ,,smʲɪ'jɑ̈tsːɐ,smʲe'jatʲsʲa,смеяться,http://gramota.ru/slovari/dic/?all=x&word=смеяться
 9128,40,90,ason,,,,ason,,ɑson,ɑson,اسُن,
@@ -16911,7 +16911,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28544,129,96,leard,,,28,leard,,ljɑɾd,liɑɾd-i-,լեարդ,
 37544,179,115,ēw,,,359,ēw,NUM,ēw,eːu̯,ʿyw,
 35870,174,74,ggarkhä,,,320[80],ggarkhä,ADJ,ɡɐɾkʰə,ɡarkʰə,,
-5418,23,114,gamal,,split from DKB; more basic TKD,213,gamal,,ˈɡ̊ɛaːmal,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=gamal
+5418,23,114,gamal,,more basic TKD,213,gamal,,ˈɡ̊ɛaːmal,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=gamal
 27780,128,110,nauua,,,28;184,nauua,ADJ,,nau̯a,𐬥𐬀𐬎𐬎𐬀,
 43272,211,129,sapeménos,,,,sapeménos,,sape̞ˈme̞no̞s,sape̞ˈme̞no̞s,σαπεμένος,
 8362,36,114,gamall,,,,gamall,,ˈɡ̊aːmad̥l,,,
@@ -16929,7 +16929,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24400,119,45,ḍarnā,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],ḍarnā,,ɖəɾnɑ,,ڈرنا,
 13256,58,115,en,,,219,en,,ɛnː,,,
 27781,128,111,xšap,,Stems xšap- and xšapan-/xšafn-,28;184,xšap,N.f,,χʃap,𐬑𐬱𐬀𐬞,
-24402,119,95,jīnā,,split from DKB,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],jīnā,,ʤinɑ,,جینا,
+24402,119,95,jīnā,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],jīnā,,ʤinɑ,,جینا,
 7589,32,114,paliós,,,"271;269[{'old' used in its most general sense, but never used to describe the age of living beings.}]",paliós,old,paˈʎo̞s,paliˈo̞s,παλιός,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=παλιός
 15034,65,114,nāki,,,,nāki,,,,නාකි,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=නාකි
 5419,23,115,ein,,,213,ein,,aiːn,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=ein
@@ -16990,7 +16990,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17207,73,118,grati,,"Meaning: 'to play an instrument, to play a game'. In the meaning 'to play like children' a reflexive form 'гратися' from the same root is mainly used.",,grati,,ˈʕɾɑ̈tɪ̽,ˈɦratɪ,грати,http://sum.in.ua/s/ghraty
 2267,10,118,khelā karā,,"Literally: ""to do play/game""",,khelā karā,,kʰæla kɔra,,খেলা করা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=খেলা
 40005,195,27,méra,,Alternative form: ημέρα.,,méra,,ˈmɛrɐ,ˈmɛrɐ,μέρα,
-5423,23,119,draga,,split from DKB; most basic TKD,213,draga,,ˈd̥ɹɛaːɡa,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=draga
+5423,23,119,draga,,most basic TKD,213,draga,,ˈd̥ɹɛaːɡa,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=draga
 3649,16,118,gulâc′,,,,gulâc′,,ɣuˈlʲatsʲ,ɣuˈlʲatsʲ,гуляць,http://www.slounik.org/search?search=гуляць
 8168,35,118,khelnā,,,,khelnā,,kʰelnɑ,kʰelnɑ,खेलना,
 17208,73,119,tâgnuti,,"An alternative morphological form: 'тягти'. An alternative lexeme is 'волочити', but it is less often used and has a less general meaning ('to pull something that is lying upon a surface, e.g. ground').",,tâgnuti,,tʲɐxˈtɪ,tʲaɦˈtɪ,тягнути,http://sum.in.ua/s/tjaghty
@@ -17028,7 +17028,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 40007,195,30,ksīmarisménos,,,,ksīmarisménos,,ksimɐriˈzmɛnɔs,ksimɐriˈsmɛnɔs,ξημαρισμένος,
 23201,81,132,sāle,,,28,sāle,salt,sale,sāle,,
 1686,7,122,karmir,,,,karmir,,gɑɾˈmiɾ,gɑɾmiɾ,կարմիր,
-11501,51,120,ghaceḍnu,,split from DKB,,ghaceḍnu,,gʱʌʧeɾnu,,घचेड्नु,
+11501,51,120,ghaceḍnu,,,,ghaceḍnu,,gʱʌʧeɾnu,,घचेड्नु,
 9156,40,120,dabawon,,,,dabawon,,d̪ɑbɑʋon,d̪ɑbɑʋon,دباوُن,
 36068,177,132,háls,,,329,háls,salt; brine,als,als,ἅλς,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a(/ls1
 8169,35,119,khīňcanā,,,,khīňcanā,,kʰĩʧnɑ,kʰĩʧnɑ,खींचना,
@@ -17053,7 +17053,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33774,157,86,dödha,,,209,dödha,,ˈdøːða,døːða,,
 11502,51,121,pānī,,,,pānī,,pani,,पानी,
 2270,10,121,br̥ṣṭi,,,,br̥ṣṭi,,briʃʈi,,বৃষ্টি,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=বৃষ্টি
-15040,65,120,tallu karanavā,,split from DKB,,tallu karanavā,,,,තල්ලු කරනවා,
+15040,65,120,tallu karanavā,,,,tallu karanavā,,,,තල්ලු කරනවා,
 36069,177,133,ámmos,,,329,ámmos,sand,ˈamo̞s,ˈamo̞s,ἄμμος,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=a)/mmos1
 40817,201,96,sykṓti,,It.,,sykṓti,,siˈko̞ti,siˈko̞ti,συκώτι,
 43279,211,138,sporá,,,,sporá,,spo̞ˈra,spo̞ˈra,σπορά,
@@ -17257,7 +17257,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 3661,16,132,sol′,,,,sol′,,sɔlʲ,solʲ,соль,http://www.slounik.org/search?search=соль
 8379,36,132,salt,,,,salt,,sal̥t,,,
 43289,211,149,kapnós,,,,kapnós,,kaˈpno̞s,kaˈpno̞s,καπνός,
-2280,10,132,nun,,split from DKB,,nun,,nun,,নুন,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=নুন
+2280,10,132,nun,,,,nun,,nun,,নুন,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=নুন
 12283,54,132,namak,,,326,namak,,næˈmækʰ,næmæk,نمک,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2YbZhdmD
 45098,219,147,lhoóku,,,,lhoóku,,ˈlo̤ːko,lhoóku,لھوکوۡ,
 45099,219,149,dhuumíi,,,,dhuumíi,,dṳːˈmiː,dhuumíi,دُھومی,
@@ -17274,7 +17274,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13671,60,132,sol',,,92;56[{Broad IPA transcription}],sol',,sɔlʲ,solʲ,соль,http://gramota.ru/slovari/dic/?all=x&word=соль
 18760,110,69,cheír,,G.sg. χειρός,"160;269[{Properly means 'hand', but can also mean generally 'arm'.  Cf. ποῦς 'foot' [lexeme 18740](lex-18740), which particularly means 'foot' from the ankle downwards, but can also mean generally 'leg along with the foot'.  These senses have been generalised later on in the language as in Modern Greek πόδι 'foot' [lexeme 7537](lex-7537), 'leg' [lexeme 7569](lex-7569), and χερί [lexeme 7547](lex-7547) 'hand| arm'.}]",cheír,"hand, arm",kʰéːr,kʰéːr,χείρ,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=xei/r
 17221,73,133,pìsok,,,,pìsok,,p(ʲ)iˈsɔk,piˈsok,пісок,http://sum.in.ua/s/pisok
-11313,50,132,mīṭha,,split from DKB,98[599],mīṭha,,mi:ʈʰ,,मीठ,
+11313,50,132,mīṭha,,,98[599],mīṭha,,mi:ʈʰ,,मीठ,
 27509,124,19,ulæfyn,,Past stem: ulɜf-əd-. Participle: ulɜft.,122,ulæfyn,,ˈulɜfɘn,ulɜf-ən,улӕфын,
 5436,23,133,sandur,,,213,sandur,,ˈsand̥ʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=sandur
 27510,125,19,wolæfun,,Past stem: wolɜft-.,122,wolæfun,,wolɜfun,wolɜf-un,уолӕфун,
@@ -17322,9 +17322,9 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24420,119,182,muṛnā,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],muṛnā,,mʊɽnɑ,,مڑنا,
 40830,201,108,kontá,,Cal.; /ko̞ˈnta/ Ap.,,kontá,,ko̞ˈnda,ko̞ˈNDa,κοντά,
 23215,81,148,wräṣ,,Root /wr-/. Intransitive; no transitive pres. forms attested.,345[647-648];341[886-888],wräṣ,smells,wrɨʂ,wr-ṣ,,
-2283,10,136,samudra,,split from DKB,,samudra,,ʃomud̪ro,,সমুদ্র,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=সমুদ্র
+2283,10,136,samudra,,,,samudra,,ʃomud̪ro,,সমুদ্র,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=সমুদ্র
 27514,125,24,ærbacæun,,Past stem: ɜrba-cud-.,122,ærbacæun,,ɜrbɑtsʰɜwun,ɜrba-cɜw-un,ӕрбацӕун,
-9170,40,136,somondar,,split from DKB,,somondar,,somund̪ɑr,somond̪ɑr,سمندر,
+9170,40,136,somondar,,,,somondar,,somund̪ɑr,somond̪ɑr,سمندر,
 24422,119,63,denā,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],denā,,d̪enɑ,,دینا,
 46092,222,179,jībh,,,,jībh,,dʒibʱ,,जीभ,
 27800,128,130,skarəna,,Gen. sg. f. skarɛnaiiå,28;184,skarəna,ADJ,,skarna,𐬯𐬐𐬀𐬭𐬆𐬥𐬀,
@@ -17357,7 +17357,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23389,82,127,witsako,,"Early Iranian loan, cf. Ossetic (Iron) widag, (Digor) jedagæ.",345[657-658],witsako,root,wiˈʦəko,wəyʦəko,,
 11516,51,136,samudra,,,,samudra,,sʌmudrʌ,,समुद्र,
 22452,105,101,māṃsám,,~ mā́ḥ,28,māṃsám,n.,*mɐ͂:'sɐm,māNsám,मांसम्,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=805
-12287,54,136,daryā,,split from DKB,326,daryā,"sea, lake",dærˈjɒ:,dæri̯ɒ,دريا,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2K%2fYsdmK2Kc%3d
+12287,54,136,daryā,,,326,daryā,"sea, lake",dærˈjɒ:,dæri̯ɒ,دريا,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2K%2fYsdmK2Kc%3d
 35959,174,112,haysge,,"""nose, sg. nostril"", Pl., stem haysgā-",320[466],haysge,NOM.PL.f,hɐzɡɛ,hazɡe,,
 12288,54,137,dīdan,,Present bīn- /bin-/,326,dīdan,,di:ˈdæn,didæn,دیدن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2K%2fZitiv2YY%3d
 46094,222,181,peṛ,,,,peṛ,,peɽ,,पेड़,
@@ -17533,7 +17533,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17231,73,143,sidìti,,,,sidìti,,sɪ̽ˈd(ʲ)itɪ̽,sɪˈditɪ,сидіти,http://sum.in.ua/s/sydity
 30944,144,124,dahīnā taraf,,,169,dahīnā taraf,,d̪əhinɑ t̪ərəpʰ,,दहीना तरफ,
 27530,125,45,tærsun,,Past stem: tarst-.,122,tærsun,,tʰɜrsun,tɜrs-un,тӕрсун,
-2292,10,145,ākāś,,split from DKB,,ākāś,,akaʃ,,আকাশ,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=আকাশ
+2292,10,145,ākāś,,,,ākāś,,akaʃ,,আকাশ,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=আকাশ
 9179,40,145,nab,,please revise!,,nab,,ɑsmɑːn,ɑsmɑːn,اسمان,
 11130,92,145,nebo,,,,nebo,,ˈne̞bɔ,ˈnebo,небо,http://makedonski.info/search/#небо
 5447,23,145,himmal,,"Replaced HIMIN, (HIMNAL).",,himmal,,ˈhɪmːal,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=himmal
@@ -17598,11 +17598,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 27811,128,145,asman,,,28;184,asman,N.m,,asman,𐬀𐬯𐬨𐬀𐬥,
 36101,177,167,ourá,,,329,ourá,tail,uˈra,uˈra,οὐρά,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=ou)ra/
 4850,20,144,hud,,,97[http://ordnet.dk/ddo/ordbog?query=hud&search=S%C3%B8g],hud,,huðˀ,,,http://ordnet.dk/ddo/ordbog?query=hud
-5449,23,147,lítil,,split from DKB; more basic TKD,213,lítil,,ˈlʊiːtʰɪl,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=lítil
+5449,23,147,lítil,,more basic TKD,213,lítil,,ˈlʊiːtʰɪl,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=lítil
 24432,119,139,sīnā,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],sīnā,,sinɑ,,سِینا,
 15064,65,145,ahasa,,,,ahasa,,,,අහස,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=අහස
 7619,32,145,oyranós,,,271,oyranós,sky,uraˈno̞s,uraˈno̞s,ουρανός,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=ουρανός
-8194,35,145,ākāśa,,split from DKB,,ākāśa,,ɑkɑʃ,ɑkɑʃ,आकाश,
+8194,35,145,ākāśa,,,,ākāśa,,ɑkɑʃ,ɑkɑʃ,आकाश,
 13684,60,145,nebo,,,92;56[{Broad IPA transcription}],nebo,,ˈnʲɛbɐ,'nʲebɔ,небо,http://gramota.ru/slovari/dic/?all=x&word=небо
 30947,144,127,jarī,,,169,jarī,,ʤeri,,जरी,
 28575,129,124,aǰ,,,28,aǰ,,ɑdʒ,ɑdʒ-ɔ/u-,աջ,
@@ -17663,7 +17663,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 11529,51,149,dhuvā,,,,dhuvā,,dʱuwã,,धुवाँ,
 24435,119,142,gānā,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],gānā,,ɡɑnɑ,,گانا,
 15067,65,148,im̆binavā,,,,im̆binavā,,,,ඉඹිනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ඉඹිනවා
-5649,24,150,glad,,split from DKB,,glad,,,,,
+5649,24,150,glad,,,,glad,,,,,
 2297,10,150,masr̥ṇa,,,,masr̥ṇa,,mosrin,,মসৃণ,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=মসৃণ
 9184,40,150,sotor,,,,sotor,,sot̪tʊr,sot̪or,سُتر,
 37283,178,149,dūd,,ZP dwt,359,dūd,N,du:ð,duːd,dwd,
@@ -17901,7 +17901,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 7635,32,161,pétra,,,271,pétra,"stone, rock",ˈpe̞tra,ˈpe̞tra,πέτρα,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=πέτρα
 3300,15,162,prav,,,,prav,,pɾɑ̈f,prav,прав,https://rechnik.chitanka.info/w/прав
 17250,73,162,prâmij,,,,prâmij,,pɾʲɐˈmɪj,prʲaˈmɪj,прямий,http://sum.in.ua/s/prjamyj
-9197,40,165,hanon,,split from DKB,,hanon,,hɨnon,hɨnon,ہنُن,
+9197,40,165,hanon,,,,hanon,,hɨnon,hɨnon,ہنُن,
 27827,128,173,mańiiete,,,28,mańiiete,IPFV.PRS.IND.M.3SG,,mani̯ete,𐬨𐬀𐬦𐬌𐬌𐬈𐬙𐬈,
 35989,174,144,tcārma,,Stem tcārman-,320[140],tcārma,NOM.SG.n,tsɑ:ɾmɐ,t͜saːrma,,
 23243,81,188,wär,,"Ultimately cognate with PIE *u̯ód-r̥, but details unclear.",345[627-628],wär,water,wɨr,wr,,
@@ -18321,11 +18321,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 1748,7,190,tʿacʿ,,,306[225],tʿacʿ,,tʰɑʦʰ,tʰɑʦʰ,թաց,
 40878,201,149,kannó,,It.,,kannó,,kanˈno̞,kanˈno̞,καννό,
 3712,16,183,dva,,,,dva,,dvɑ̈,dva,два,http://www.slounik.org/search?search=два
-9218,40,187,čhalon,,"split from DKB, comp. CHĀL 'jump', Nep. 'wave, ripple' (Turner 1931: 195)",,čhalon,,tʃʰɑlon,tʃʰɑlon,چھلُن,
+9218,40,187,čhalon,,"comp. CHĀL 'jump', Nep. 'wave, ripple' (Turner 1931: 195)",,čhalon,,tʃʰɑlon,tʃʰɑlon,چھلُن,
 15101,65,182,hærenavā,,,,hærenavā,,,,හැරෙනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=හැරෙනවා
 8431,36,187,þvo,,more basic,218,þvo,,θvɔː,,,
 3321,15,183,dva,,,,dva,,dvɑ̈,dva,два,https://rechnik.chitanka.info/w/два
-11564,51,184,bāntā garnu,,"split from DKB,",,bāntā garnu,,bant̪a gʌrnu,,बान्ता गर्नु,
+11564,51,184,bāntā garnu,,,,bāntā garnu,,bant̪a gʌrnu,,बान्ता गर्नु,
 3322,15,184,povr″štam,,'бълвам' is colloquial.,,povr″štam,,puˈvɾɤʃtəm,poˈvrɤʃtam,повръщам,https://rechnik.chitanka.info/w/повръщам
 3713,16,184,vanìtavac′,,An alternative lexeme is 'рваць/ірваць'.,,vanìtavac′,,vɑ̈nʲitɑ̈ˈvɑ̈tsʲ,vanʲitoˈvatsʲ,ванітаваць,http://www.slounik.org/search?search=ванітаваць
 17272,73,184,blûvati,,"There are alternative lexemes: 'ригати' (vulgar), 'викидати' (colloquial), and 'вертати' (seems to be less used).",,blûvati,,blʲʊˈβɑ̈tɪ̽,blʲuˈvatɪ,блювати,http://sum.in.ua/s/bljuvaty
@@ -18390,7 +18390,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24472,119,27,din,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],din,,d̪ɪn,,دِن,
 24471,119,111,rāt,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],rāt,,ɾɑt̪,,رات,
 37320,178,198,wād,,ZP wʾt,359,wād,N,wɑ:d,u̯aːd,wʾd,
-11367,50,186,garama,,split from DKB,98[601],garama,,gəɾəm,,गरम,
+11367,50,186,garama,,,98[601],garama,,gəɾəm,,गरम,
 2335,10,188,jal,,,,jal,,dʒɔl,,জল,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=জল
 8434,36,190,votur,,more basic,218,votur,,ˈvɔːtʰʏr,,,
 27851,128,190,napta,,,28,napta,ADJ,,napta,𐬥𐬀𐬞𐬙𐬀,
@@ -18495,7 +18495,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33845,157,134,sighia,,,209,sighia,,ˈsiɣja,sigja,,
 46149,222,209,jāṅgh,,,,jāṅgh,,ʤɑ̃gʱ,,जाँघ,
 1950,8,196,layn,,,170,layn,,lɑjn,lɑin,լայն,
-8440,36,196,víður,,split from DKB,218,víður,,ˑviːðʏr,,,
+8440,36,196,víður,,,218,víður,,ˑviːðʏr,,,
 3723,16,194,bely,,,,bely,,ˈbʲɛɫɨ,ˈbʲeli,белы,http://www.slounik.org/search?search=белы
 3332,15,194,bâl,,,,bâl,,bʲɑ̈ɫ,bjal,бял,https://rechnik.chitanka.info/w/бял
 5695,24,196,wyd,,,,wyd,,,,,
@@ -18513,7 +18513,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 15113,65,194,sudu,,,,sudu,,sudu,sudu,සුදු,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සුදු
 46152,222,212,kal,,,,kal,,kəl,,कल,
 49984,81,220,pärtär,,"Root /kāmā-/, suppletive pres. /pr(a)-/.",,pärtär,"carries, bears",pɨrtɨr,pr-tr,pärtär ≠ kāmā-/,
-5498,23,196,víður,,split from DKB,213,víður,,ˈvʊiːjʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=víður
+5498,23,196,víður,,,213,víður,,ˈvʊiːjʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=víður
 43352,211,171,chontrós,,,,chontrós,,xo̞ˈndro̞s,xo̞ˈntro̞s,χοντρός,
 36365,177,19,pnéō,,,329,pnéō,breathe,ˈpno̞,ˈpne̞o̞,πνέω,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=pne/w
 34874,162,182,vaṭṭati,,,246[594],vaṭṭati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=vaṭṭati
@@ -18546,7 +18546,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 46154,222,214,ghar,,,,ghar,,gʱəɾ,,घर,
 22511,105,139,sī́vya-,,pres. stem,28,sī́vya-,verb,*'si:ʋjɐ-,sī́vya-,सीव्य-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=1218
 12348,54,198,bād,,,,bād,,bɒ:d,bɒd,باد,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2KjYrw%3d%3d
-11576,51,196,cauḍā,,split from DKB,,cauḍā,,ʧʌuɾ̠a,,चौडा,
+11576,51,196,cauḍā,,,,cauḍā,,ʧʌuɾ̠a,,चौडा,
 3334,15,196,širok,,,,širok,,ʃiˈɾok,ʃiˈrok,широк,https://rechnik.chitanka.info/w/широк
 3725,16,196,šyrokì,,,,šyrokì,,ʂɨˈɾɔkʲi,ʂiˈroki,шырокі,http://www.slounik.org/search?search=шырокі
 17284,73,196,širokij,,,,širokij,,ʂɪ̽ˈɾɔkɪ̽j,ʂɪˈrokɪj,широкий,http://sum.in.ua/s/shyrokyj
@@ -18644,7 +18644,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 9237,40,206,wahri,,,,wahri,,ʋəhri,ʋɑhri,وہری,
 27648,125,202,wosæ,,,122,wosæ,,wosɜ,wosɜ,уосӕ,
 27647,124,202,us,,,122,us,,uʃ,uš,ус,
-23523,40,7,yečh,,,48[Split from DKB1992],yečh,"m., Pali yakkha- m. 'supernatural being', cf. Mayrhofer KEWA III, p. 1f.",jɛtʃʰ,jɛtʃʰ,یچھ,
+23523,40,7,yečh,,,48,yečh,"m., Pali yakkha- m. 'supernatural being', cf. Mayrhofer KEWA III, p. 1f.",jɛtʃʰ,jɛtʃʰ,یچھ,
 35548,92,23,studen,,An alternative lexeme is 'ладен' [ˈladɛn] but it is more like 'cool'.,313,studen,,ˈstudɛn,ˈstuden,студен,http://makedonski.info/search/#студен
 1960,8,206,tari,,,170,tari,,tɑˈɾi,tɑɾi,տարի,
 8451,36,207,gulur,,Replaced GULR.,,gulur,,ˈɡ̊ʏːlʏr,,,
@@ -18657,7 +18657,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 38576,188,152,chióni,,,,chióni,,ˈço̞ɲi,ˈxio̞ɲi,χιόνι,
 7676,32,202,gynaíka,,a-stem noun adapted from accusative case form of Ancient Greek γυνή,271,gynaíka,,ʝiˈne̞ka,ɣiˈne̞ka,γυναίκα,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=γυναίκα
 31005,144,186,garam,,,169,garam,,ɡərəm,,गरम,
-15121,65,202,gǣni,,split from DKB,,gǣni,,,,ගෑනි,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ගෑනී
+15121,65,202,gǣni,,,,gǣni,,,,ගෑනි,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=ගෑනී
 40898,201,220,férrō,,Cal.; /ˈfe̞ro̞/ Ap.,,férrō,,ˈfe̞rro̞,ˈfe̞rro̞,φέρρω,
 35546,92,18,gradi,,,313,gradi,,ˈɡɾɑ̈di,ˈɡradi,гради,http://makedonski.info/search/#гради
 40088,195,152,šiónin,,,,šiónin,,ˈʃɔnin,ˈʃɔnin,σ̆ιόνιν,
@@ -18707,12 +18707,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13743,60,204,červâk,,,92;56[{Broad IPA transcription}],červâk,,tʃɪɾˈvʲɑ̈k,tʃerˈvʲak,червяк,http://gramota.ru/slovari/dic/?all=x&word=червяк
 43362,211,49,onýši(n),,,,onýši(n),,o̞ˈniʃi(n),o̞ˈniʃi(n),ονύσ̌ι(ν),
 46163,222,223,ronā,,,,ronā,,ɾonɑ,,रोना,
-24491,119,108,qarīb,,split from DKB,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],qarīb,,qəɾib,,قریب,
+24491,119,108,qarīb,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],qarīb,,qəɾib,,قریب,
 27656,125,207,bor,,,122,bor,,bor,bor,бор,
 17294,73,206,rìk,,,,rìk,,ɾ(ʲ)ik,rik,рік,http://sum.in.ua/s/rik
 37840,152,151,oú(i)thi,,,,oú(i)thi,,ˈu(j)θi,ˈuθi,ού(ι)θι,
 31007,144,188,pānī,,,169,pānī,,pɑni,,पानी,
-11586,51,206,varṣa,,split from DKB,,varṣa,,varʃ,,वर्ष,
+11586,51,206,varṣa,,,,varṣa,,varʃ,,वर्ष,
 27655,124,207,bur,,,122,bur,,bur,bur,бур,
 3735,16,206,god,,,,god,,ɣɔt,ɣod,год,http://www.slounik.org/search?search=год
 3344,15,206,godina,,,,godina,,ɡuˈdʲinə,ɡoˈdina,година,https://rechnik.chitanka.info/w/година
@@ -18741,7 +18741,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37842,152,152,chióna,,,,chióna,,ˈço̞na,ˈxio̞na,χιόνα,
 51005,177,65,chórtos,,"Used of green grass Mt 6:30, 14:19, Lk 12:28, Jn 6:10, Jas 1:10, 1Pet 1:24, Rev. 9:4.",,chórtos,"grass, herbage, hay",ˈkʰo̞rto̞s,ˈkʰo̞rto̞s,χόρτος,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=xo/rtos
 11388,50,207,pivaḷā,,,98[601],pivaḷā,,piʋɭa,,पिवळा,
-23500,73,6,spina,,,48[Split from DKB1992],spina,,ˈspɪnɐ,ˈspɪna,спина,http://sum.in.ua/s/spyna
+23500,73,6,spina,,,48,spina,,ˈspɪnɐ,ˈspɪna,спина,http://sum.in.ua/s/spyna
 40903,201,216,ššeró,,Cal.; /tseˈro/ Ap.,,ššeró,,ʃʃe̞ˈro̞,ʃe̞ˈro̞,σ̌σ̌ερό,
 19503,111,160,chaṛī,,,29,chaṛī,,ʧʰəɽi,,छड़ी,
 15126,65,207,kaha,,,,kaha,,,,කහ,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=කහ
@@ -18754,8 +18754,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35168,7,18,kowrckʿ,,Cf. non-Swadesh ծիծ [dzidz] specifically 'tit; boob' and  ծոց [dzotsʰ] specifically 'embrace; gulf' (esp. ծովածոց [dzov-ɑ-dzotsʰ] 'sea bay').,306[375],kowrckʿ,"""chest"" in both its general as well as specialized senses",ɡurdzkʰ,ɡuɾdz-kʰ,կուրծք,
 35561,92,130,trkalezen,,Alternative lexemes are 'кружен' and 'кругол' but they seem to be less frequently used.,313,trkalezen,,təɾˈkɑ̈lɛzɛn,trˈkalezen,тркалезен,http://makedonski.info/search/#тркалезен
 43366,211,78,kérato(n),,,,kérato(n),,ˈce̞rato̞(n),ˈke̞rato̞(n),κέρατο(ν),
-23522,35,7,k̲h̲arāba,,,48[Split from DKB1992],k̲h̲arāba,,kʰəɾɑb,xəɾɑb,ख़राब,
-25203,36,7,vondur,,split from DKB,,vondur,,ˈvɔnd̥ʏr,,,
+23522,35,7,k̲h̲arāba,,,48,k̲h̲arāba,,kʰəɾɑb,xəɾɑb,ख़राब,
+25203,36,7,vondur,,,,vondur,,ˈvɔnd̥ʏr,,,
 24754,65,68,koṇḍaya,,,,koṇḍaya,,,,කොණ්ඩය,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=කොණ්ඩය
 23605,32,18,stī́thos,,,47;271,stī́thos,"chest, breast",ˈstiθo̞s,ˈstiθo̞s,στήθος,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=στήθος
 33860,157,142,siunga,,,209,siunga,,ˈsjuŋɡa,sjuŋɡa,,
@@ -18792,7 +18792,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35752,124,37,syǵyt,,,324,syǵyt,earth (material),ʃɘˈdʒɘtʰ,šəǯət,сыджыт,
 22525,105,151,áhiḥ,,"mythical snake, dragon",28,áhiḥ,m.,*'ɐɦih,áhis,अहिः,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=125
 19507,111,164,suraj,,,29,suraj,,suɾəʤ,,सूरज,
-24773,54,164,xuršīd,,"split from DKB, related to Avestan huuarə",326,xuršīd,sun,χorˈʃi:d,χorʃid,خورشيد,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2K7ZiNix2LTZitiv
+24773,54,164,xuršīd,,related to Avestan huuarə,326,xuršīd,sun,χorˈʃi:d,χorʃid,خورشيد,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2K7ZiNix2LTZitiv
 35572,92,184,povraḱa,,An alternative lexeme 'блуе' is colloquial. 'рига' is primarily 'to burp'.,313,povraḱa,,ˈpo̞vɾɑ̈cɑ̈,ˈpovraca,повраќа,http://makedonski.info/search/#повраќа
 24509,16,10,žyvot,,,,žyvot,,ʐɨˈvɔt,ʐiˈvot,жывот,http://www.slounik.org/search?search=жывот
 49930,125,33,sor,,,,sor,,sor,sor,сор,
@@ -18825,7 +18825,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45178,219,102,yúun,,,,yúun,,juːn̪,júun,یُون,
 35575,92,62,poln,,,313,poln,,po̞ɫn,poln,полн,http://makedonski.info/search/#полн
 25017,60,130,kruglyj,,,47[904-905];56,kruglyj,,'kɾugɫɘj,'kruglij,круглый,http://gramota.ru/slovari/dic/?all=x&word=круглый
-26052,54,196,pahn,,split from DKB,326,pahn,,pʰæhn,pahn,پهن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2b7Zh9mG
+26052,54,196,pahn,,,326,pahn,,pʰæhn,pahn,پهن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2b7Zh9mG
 28642,129,178,kapem,,,"28[{Changed original ending from -ê, following Martirosyan.}]",kapem,,kɑˈpɛm,kɑp-ɛ-m,կապեմ,
 35754,124,22,ævraǧ,,,324,ævraǧ,,ɜvˈrɑʁ,ɜvraʁ,ӕврагъ,
 24963,65,138,biju,,,,biju,,,,බිජු,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=බිජු
@@ -18860,9 +18860,9 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37849,152,160,šámnta,,,,šámnta,,ˈʃamda,ˈʃamnta,σ̌άμντα,
 35602,15,165,podpuhvam,,,318,podpuhvam,,putˈpuxvəm,podˈpuxvam,подпухвам,https://rechnik.chitanka.info/w/подпухвам
 24979,32,144,dérma,,,271,dérma,skin (of humans or animals),ˈðe̞rma,ˈðe̞rma,δέρμα,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=δέρμα
-25152,8,32,xmel,,split from DKB,170,xmel,,χəˈmɛl,χ(ə)m-ɛ-l,խմել,
+25152,8,32,xmel,,,170,xmel,,χəˈmɛl,χ(ə)m-ɛ-l,խմել,
 24723,51,62,pūrā,,,69[386],pūrā,,pura,,पूरा,
-24770,40,161,kane,,split from DKB,,kane,,kɨɲ,kɨnj,کنہ,
+24770,40,161,kane,,,,kane,,kɨɲ,kɨnj,کنہ,
 25039,60,78,rog,,,47[208f];56[{Broad IPA transcription}],rog,,'ɾɔk,'rog,рог,http://gramota.ru/slovari/dic/?all=x&word=рог
 49970,125,102,mæj,,,,mæj,,mɜj,mɜj,мӕй,
 38588,188,221,paírō,,,,paírō,,ˈpe̞ro̞,ˈpe̞ro̞,παίρω,
@@ -18874,7 +18874,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35578,92,49,nokot,,,313,nokot,,ˈno̞kɔt,ˈnokot,нокот,http://makedonski.info/search/#нокот
 37850,152,162,íse,,,,íse,"straight, right",ˈise̞,ˈise̞,ίσε,
 24797,40,96,krehnmaaz,,,,krehnmaaz,,krihn mɑːz,krihnə mɑːz,کرہنَ ماز,
-25508,24,76,treffen,,split from DKB; appears to be most basic TKD,,treffen,,,,,
+25508,24,76,treffen,,appears to be most basic TKD,,treffen,,,,,
 24708,73,57,tuman,,,,tuman,,tʊˈmɑ̈n,tuˈman,туман,http://sum.in.ua/s/tuman
 43373,211,203,ormáni(n),,Turkish loanword,,ormáni(n),,o̞rˈmani(n),o̞rˈmani(n),ορμάνι(ν),
 34895,162,167,langula,,,246[579],langula,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=langula
@@ -18930,7 +18930,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 43376,211,210,ofalós,,also /(n)ifaˈlo̞s/,,ofalós,,o̞faˈlo̞s,o̞faˈlo̞s,οφαλός,
 25062,32,78,kérato,,,47[208f];271,kérato,horn (of an animal),ˈce̞rato̞,ˈke̞rato̞,κέρατο,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=κέρατο
 49947,125,138,muggag,,,,muggag,,mukːɑg,mukːag,муггаг,
-25731,10,120,ṭhelā,,split from DKB,,ṭhelā,,ʈʰæla,,ঠেলা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=ঠেলা
+25731,10,120,ṭhelā,,,,ṭhelā,,ʈʰæla,,ঠেলা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=ঠেলা
 34899,162,171,bahala,,,246[484],bahala,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=bahala
 49945,125,121,k'ævda,,,,k'ævda,,kʼɜvdɑ,kʼɜvda,къӕвда,
 35759,124,104,k'æʒæx,,,324,k'æʒæx,"cliff, mountain",kʼɜˈzɜχ,kʼɜzɜχ,къӕдзӕх,
@@ -18938,7 +18938,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35616,60,48,borot'sâ,,,318,borot'sâ,,bɐˈrɔtsːɐ,boˈrotʲsʲa,бороться,http://gramota.ru/slovari/dic/?all=x&word=бороться
 43377,211,211,myía,,also /(mi)ˈmiɣia/,,myía,,ˈmia,ˈmia,μυία,
 34939,16,78,rog,,,249,rog,,ɾɔx,roɣ,рог,http://www.slounik.org/search?search=рог
-25506,50,76,mārane,,split from DKB,98[598],mārane,,maɾɳe,,मारणे,
+25506,50,76,mārane,,,98[598],mārane,,maɾɳe,,मारणे,
 33306,20,30,snavset,,,216,snavset,,ˈsnɑwsəð,,,http://ordnet.dk/ddo/ordbog?query=snavset
 33872,157,151,ormber,,,209,ormber,,ˈormber,ormber,,
 27027,54,78,šāx,,< Proto-Indo-European *ḱak- (“branch”). Cognate with Sanskrit śā́khā.,326,šāx,"branch; horn, antlers; forehead",ʃɒ:χ,ʃɒχ,شاخ,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2LTYp9iu
@@ -18962,7 +18962,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28650,129,186,ǰerm,,ǰerm,28;277[621],ǰerm,,dʒɛɾm,dʒɛɾm-ɔ-,ջերմ,
 35677,7,210,port,,,306[689],port,,bɔrd,bɔɾd,պորտ,
 35762,124,138,myggag,,,324,myggag,seed; sperm; clan,mɘˈkːɑg,məkːag,мыггаг,
-25454,65,60,midenavā,,split from DKB,,midenavā,,,,මිදෙනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=මිදෙනවා
+25454,65,60,midenavā,,,,midenavā,,,,මිදෙනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=මිදෙනවා
 43378,211,212,ochté(s),,,,ochté(s),,o̞ˈxte̞(s),o̞ˈxte̞(s),οχτέ(ς),
 37855,152,221,ažíkhou,,,,ažíkhou,,aˈʒikʰu,aˈʒikʰu,αζ̌ίκ̔ου,
 33308,20,38,æde,,appear to be true synonyms TKD,216,æde,,ˈɛːðə,,,http://ordnet.dk/ddo/ordbog?query=æde
@@ -18990,12 +18990,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 40107,195,176,treis,,"Masc. and fem.: τρεις, neut.: τρία.",,treis,,ˈtris,ˈtris,τρεις,
 40917,201,161,lithári,,Cal.; /liˈsari/ Ap.,,lithári,,liˈθari,liˈθari,λιθάρι,
 43153,210,213,skiad,,"also /ˈskiav(os)/, /skiet/",,skiad,,scaθ,skiað,σκιαδ,
-25610,119,92,bāyān,,split from DKB,,bāyān,,bɑjɑ̃,,بایاں,
+25610,119,92,bāyān,,,,bāyān,,bɑjɑ̃,,بایاں,
 49891,82,220,paräṃ,,"Root /kama-/, suppletive pres. /pər-ə/e-/.",,paräṃ,"carries, bears; takes up; wears",ˈpərɨ̃,pər-ə́-n,paräṃ ≠ kama-,
 37065,60,210,pupok,,,249,pupok,,pʊˈpɔk,puˈpok,пупок,http://gramota.ru/slovari/dic/?all=x&word=пупок
 34916,73,62,novnij,,,250,novnij,,ˈpɔwnɪ̽j,ˈpovnɪj,повний,http://sum.in.ua/s/povnyj
 35841,128,224,kərənaoiti,,"Present stem kərənu-, aorist car-/kər-, perfect cakar-",320[52];184,kərənaoiti,IPFV.PRS.IND.A.3SG,,kərnau̯ti,𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌,
-24957,40,202,zayn,,split from DKB,,zayn,,zɑnj,zɑnj,زاین,
+24957,40,202,zayn,,,,zayn,,zɑnj,zɑnj,زاین,
 28652,129,188,ǰowr,,,28,ǰowr,,dʒuɾ,dʒuɾ-ɔ-,ջուր,
 35610,15,87,kolâno,,,318,kolâno,,kuˈlʲɑ̈nu,koˈljano,коляно,https://rechnik.chitanka.info/w/коляно
 34942,16,130,krugly,,,249,krugly,,ˈkɾuɡɫɨ,ˈkruɡli,круглы,http://www.slounik.org/search?search=круглы
@@ -19015,7 +19015,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28651,129,187,lowanam,,,"28[{Replaced original lexeme entry lowanay, following Martirosyan.}]",lowanam,,lu-ɑn-ɑ-m,lu-ɑn-ɑ-m,լուանամ,
 22540,105,164,sū́ryaḥ,,~ sū́ria- ~ sū́ra- m. ~ svàr n.,28,sū́ryaḥ,m.,*su:ɾjɐh,sū́ryas,सूर्यः,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=1243
 35611,15,102,luna,,"'месец', 'месечина' are obsolete/dialectal.",318,luna,,ɫuˈnɑ̈,luˈna,луна,https://rechnik.chitanka.info/w/луна
-25831,10,148,śom̐kā,,split from DKB,,śom̐kā,,ʃõka,,শোঁকা,
+25831,10,148,śom̐kā,,,,śom̐kā,,ʃõka,,শোঁকা,
 45191,219,215,triṣṭu,,,,triṣṭu,,ˈt̪ɾiʂʈo,tríʂʈu,ترِݜٹوۡ,
 38597,188,177,rívgō,,,,rívgō,,ˈrivɣo̞,ˈrivɣo̞,ρίβγω,
 45190,219,214,ɡhoóṣṭ,,,,ɡhoóṣṭ,,ɡo̤ːʂʈ,ɡhoóʂʈ,گھوݜٹ,
@@ -19024,11 +19024,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24819,51,99,logne,,,,logne,,logne,,लोग्ने,
 25646,8,104,leṙ,,,"170[{In ClArm., sar mainly means 'summit of a mountain', and later it developed towards a general meaning 'mountain'}]",leṙ,,lɛr,lɛr-n,լեռ,
 56619,265,176,se,,,,se,,,se,,
-25663,35,107,taṅga,,split from DKB,,taṅga,,t̪ə̃g,t̪ə̃g,तंग,
+25663,35,107,taṅga,,,,taṅga,,t̪ə̃g,t̪ə̃g,तंग,
 37066,60,211,muha,,,249,muha,,ˈmuxɐ,ˈmuxa,муха,http://gramota.ru/slovari/dic/?all=x&word=муха
-25697,119,114,purānā,,split from DKB,,purānā,,pʊɾɑnɑ,,پرانا,
+25697,119,114,purānā,,,,purānā,,pʊɾɑnɑ,,پرانا,
 43155,210,215,pikró,,,,pikró,,piˈkro,piˈkro,πικρό,
-25670,119,108,nazdīk,,split from DKB,,nazdīk,,nəzd̪ik,,نزدیک,
+25670,119,108,nazdīk,,,,nazdīk,,nəzd̪ik,,نزدیک,
 38598,188,178,(d/z)ínō,,,,(d/z)ínō,,ˈ(ð/z)ino̞,ˈ(ð/z)ino̞,(δ/ζ)ίνω,
 43156,210,216,sert,,Turkish loanward,,sert,,sert,sert,σερτ,
 21285,100,176,trije,,,,trije,,"trɪ̆jɛ, trije",trije,триѥ,
@@ -19037,18 +19037,18 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49955,125,220,xæssun,,Past stem: χast-.,,xæssun,,χɜsːun,χɜss-un,хӕссун,
 24820,51,99,puruṣa,,,,puruṣa,,puruʃ,,पुरुष,
 35655,15,208,mravka,,,267,mravka,,ˈmɾɑ̈fkə,ˈmravka,мравка,https://rechnik.chitanka.info/w/мравка
-25696,35,114,purānā,,split from DKB. Inanimate.,,purānā,,pʊrɑnɑ,pʊrɑnɑ,पुराना,
+25696,35,114,purānā,,Inanimate.,,purānā,,pʊrɑnɑ,pʊrɑnɑ,पुराना,
 45205,7,215,lełi,,,276;306[265],lełi,,lɛˈʁi,lɛʁ-i,լեղի,
 37067,60,212,včera,,,249,včera,,ftʃɪˈrɑ̈,ftʃiˈra,вчера,http://gramota.ru/slovari/dic/?all=x&word=вчера
 49892,82,226,kolyi,,Meaning uncertain,345[219],kolyi,"hoof, claw, paw",ˈkolʲi,kolʲəy,,
 22541,105,165,pī- (pínva-),,root (pres. stem),28,pī- (pínva-),verb,*pi:-,pī- (pínva-),पी- (पिन्व-),http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=629
-26104,24,203,woud,,split from DKB; more basic TKD,,woud,,,,,
+26104,24,203,woud,,more basic TKD,,woud,,,,,
 37859,152,209,meré,,,,meré,,me̞ˈre̞,me̞ˈre̞,μερέ,
 36311,54,13,gāz gereftan,,,326,gāz gereftan,bite,,gɒz gereftæn,گاز گرفتن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2q%2fYstmK2K%2fZhg%3d%3d
 43382,211,216,sértis,,also /ˈsiartis/; Turkish loanword,,sértis,,ˈse̞rtis,ˈse̞rtis,σέρτης,
 45192,219,216,ḍanɡ,,,,ḍanɡ,,ɖaŋg,ɖang,ڈنگ,
 26584,50,13,cāvaṇe,,,98[596],cāvaṇe,,ʦaʋɳe,,चावणे,
-25707,65,118,sellam karanavā,,"split from DKB, see 'push' lexeme 25732",,sellam karanavā,,,,සෙල්ලම් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සෙල්ලම්
+25707,65,118,sellam karanavā,,see 'push' lexeme 25732,,sellam karanavā,,,,සෙල්ලම් කරනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=සෙල්ලම්
 43383,211,217,glykýs,,,,glykýs,,ɣliˈcis,ɣliˈkis,γλυκύς,
 37068,60,213,ten',,,249,ten',,tsʲenʲ,tʲenʲ,тень,http://gramota.ru/slovari/dic/?all=x&word=тень
 40921,201,165,fysaínomai,,Cal.;  but non-cognate /ˈprisko̞me̞/ Ap.,,fysaínomai,,fiˈse̞no̞me̞,fiˈse̞no̞me̞,φυσαίνομαι,
@@ -19071,7 +19071,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36312,54,18,sīneh,,,326,sīneh,"breast, chest",siˈne,sine,سينه,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2LPZitmG2Yc%3d
 40922,201,166,kouloumpṓnnomai,,Cal.,,kouloumpṓnnomai,,kuluˈmbo̞nno̞me̞,kuluˈMBo̞nno̞me̞,κουλουμπώννομαι,
 37861,152,173,stseggoúmene,,,,stseggoúmene,,stse̞ˈŋgume̞ne̞,stse̞ˈnkume̞ne̞,στσεγγούμενε,
-24952,51,202,āimāī,,split from DKB,"69[30{M. āīmāī f. 'mother, motherly woman' - cmpd. āī and māī - For āī cf. A. āi mother| B. āi 'mother's mother' or 'aunt'| O. āi 'mother's mother'| S. āī f. 'mother, aunt'| G. āī f. 'mother, grandmother'| M. āī f. 'mother' - for māi mother, v.s.v.}]",āimāī,,aimai,,आइमाई,
+24952,51,202,āimāī,,,"69[30{M. āīmāī f. 'mother, motherly woman' - cmpd. āī and māī - For āī cf. A. āi mother| B. āi 'mother's mother' or 'aunt'| O. āi 'mother's mother'| S. āī f. 'mother, aunt'| G. āī f. 'mother, grandmother'| M. āī f. 'mother' - for māi mother, v.s.v.}]",āimāī,,aimai,,आइमाई,
 50018,81,140,pśär,,,,pśär,"sharp, raw",pɕɨr,pśr,,
 33316,20,62,fuld,,,214,fuld,,fulˀ,,,http://ordnet.dk/ddo/ordbog?query=fuld
 49957,125,226,nix,,,,nix,"claw, nail",niχ,niχ,них,
@@ -19083,10 +19083,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36650,22,215,bitter,,,269,bitter,,,,,http://www.oed.com/view/Entry/19564?
 22542,105,166,plu-,,root,28,plu-,verb,*plu-,plu-,प्लु-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=715
 22543,105,167,púccha-,,"stem AV+ ~ śépaḥ m. 'tail, penis'",28,púccha-,m. n.,*'puʨɐ-,púcʰa-,पुच्छ-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=631
-25808,23,140,hvassur,,split from DKB,,hvassur,,ˈkʰvasːʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=hvassur
+25808,23,140,hvassur,,,,hvassur,,ˈkʰvasːʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=hvassur
 36313,54,29,kandan,,,326,kandan,"dig (up, out))",kʰænˈdæn,kændæn,كندن,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2YPZhtiv2YY%3d
 36213,128,210,nāfa,,navel; family,172;184,nāfa,N.m,,naːfa,𐬥𐬁𐬟𐬀,
-25824,35,145,āsamāna,,split from DKB,,āsamāna,,ɑsmɑn,ɑsmɑn,आसमान,
+25824,35,145,āsamāna,,,,āsamāna,,ɑsmɑn,ɑsmɑn,आसमान,
 37102,15,209,bedro,,"Alternative lexemes are 'кълка, бут, баджак' which are, however, colloquial and/or are used primarily for animals.",249,bedro,,bɘˈdɾɔ,beˈdro,бедро,https://rechnik.chitanka.info/w/бедро
 37046,16,209,scâgno,,,249,scâgno,,sʲtsʲɑ̈ˈɣnɔ,stsʲoˈɣno,сцягно,http://www.slounik.org/search?search=сцягно
 37084,92,211,muva,,,249,muva,,ˈmuvɑ̈,ˈmuva,мува,http://makedonski.info/search/#мува
@@ -19107,7 +19107,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45212,7,218,ertʿal,,,306[178],ertʿal,,jɛrtʰɑl,ɛrtʰ-ɑ-l,երթալ,
 49959,125,223,kæun,,Past stem: kud-.,,kæun,,kʰɜwun,kɜw-un,кӕун,
 45195,219,219,utráapa,,,,utráapa,,uˈt̪ɾaːpa,utráapa,اُتراپہ,
-25095,40,23,taeṛ,,split from DKB,,taeṛ,,t̪ɨːɽ,t̪ɨːɽ,تیئر,
+25095,40,23,taeṛ,,,,taeṛ,,t̪ɨːɽ,t̪ɨːɽ,تیئر,
 36247,124,215,mast,,,156[Vol. 2: 76–77],mast,bitter; bile; grief,mɑʃt,mašt,маст,
 35628,73,95,žiti,,,,žiti,,ˈʐɪtɪ̽,ˈʐɪtɪ,жити,http://sum.in.ua/s/zhyty
 37863,152,176,tšei(r),,,,tšei(r),,tʃʰi(r),tʃʰi(r),τσ̌ει(ρ),
@@ -19134,7 +19134,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37864,152,177,anemoúkhou,,,,anemoúkhou,throw (out),ane̞ˈmukʰu,ane̞ˈmukʰu,ανεμούκ̔ου,
 36248,124,18,riu,,,337,riu,chest,riw,riw,риу,
 50175,24,18,borst,,,,borst,,,,,
-24981,51,176,tīna,,split from DKB,,tīna,,t̪in,,तीन,
+24981,51,176,tīna,,,,tīna,,t̪in,,तीन,
 26869,32,124,dexiós,,Alternative form δεξής,271,dexiós,right-hand side,ðe̞ksiˈo̞s,ðe̞ksiˈo̞s,δεξιός,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=δεξιός
 37049,16,212,učora,,,249,učora,,uˈtʂɔɾɑ̈,uˈtʂora,учора,http://www.slounik.org/search?search=учора
 43161,210,221,paírō,,,,paírō,,ˈpero,ˈpero,παίρω,
@@ -19174,7 +19174,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 19529,111,178,bānhab,,‘to tie’,7,bānhab,,bɑnəhəb,,बानहब,
 37051,16,214,dom,,,249,dom,,dɔm,dom,дом,http://www.slounik.org/search?search=дом
 43163,210,223,klaíou,,,,klaíou,,ˈkleu,ˈkleu,κλαίου,
-26091,8,198,kʿami,,split from DKB,170,kʿami,,kʰɑˈmi,kʰɑmi,քամի,
+26091,8,198,kʿami,,,170,kʿami,,kʰɑˈmi,kʰɑmi,քամի,
 45215,7,216,karcr,,,306[347],karcr,,ˈgɑɾdzəɾ,gɑɾdzɾ,կարծր,
 49379,10,213,chāẏā,,,,chāẏā,,tʃʰaja,,ছায়া,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=ছায়া
 37089,92,216,tvrd,,"'цврст' means 'firm, solid'.",249,tvrd,,tvəɾt,tvrd,тврд,http://makedonski.info/search/#тврд
@@ -19218,7 +19218,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37053,16,216,cvërdy,,,249,cvërdy,,ˈtsʲvʲɔrdɨ,ˈtsʲvʲordi,цвёрды,http://www.slounik.org/search?search=цвёрды
 50194,24,226,klauw,,,,klauw,,,,,
 38607,188,196,fardý,,,,fardý,,farˈði,farˈði,φαρδύ,
-25278,40,30,mokor,,split from DKB,,mokor,,mokʊr,mokor,مُکُر,
+25278,40,30,mokor,,,,mokor,,mokʊr,mokor,مُکُر,
 21294,100,184,bljĭvati,,,,bljĭvati,,bʎɪ̆ʋɑti,bʎɪvati,бл҄ьвати,
 49381,10,220,bahan karā,,,,bahan karā,,bɔhon kɔra,,বহন করা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=বহন
 40930,201,171,chrontó,,Cal; /xro̞ˈnto̞/ Ap.,,chrontó,,xro̞ˈndo̞,xro̞ˈNDo̞,χροντό,
@@ -19303,7 +19303,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36353,54,35,gard,,,326,gard,,gʲærd,gærd,گرد,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2q%2fYsdiv
 37058,16,221,uzâc′,,,249,uzâc′,,uˈzʲatsʲ,uˈzʲatsʲ,узяць,http://www.slounik.org/search?search=узяць
 36893,100,209,stegno,,,249,stegno,,stɛɡnɔ,steɡno,стєгно,
-25380,51,48,laḍnu,,split from DKB,,laḍnu,,lʌɾ̠nu,,लड्नु,
+25380,51,48,laḍnu,,,,laḍnu,,lʌɾ̠nu,,लड्नु,
 49386,10,224,karā,,,,karā,,kɔra,,করা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=করা
 49969,125,87,wærag,,,,wærag,,wɜrɑg,wɜrag,уӕраг,
 33890,157,164,sol,,,209,sol,,soːl,soːl,,
@@ -19380,7 +19380,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37061,16,224,rabìc′,,,249,rabìc′,,ɾɑ̈ˈbʲitsʲ,roˈbʲitsʲ,рабіць,http://www.slounik.org/search?search=рабіць
 36261,124,214,xæʒar,,,156[159–161],xæʒar,,χɜˈzɑr,χɜzar,хӕдзар,
 37099,92,225,mele,,,249,mele,,ˈme̞lɛ,ˈmele,меле,http://makedonski.info/search/#меле
-25482,51,74,bhārī,,split from DKB,,bhārī,,bʱari,,भारी,
+25482,51,74,bhārī,,,,bhārī,,bʱari,,भारी,
 37036,73,218,"ìti, jti",,,249,"ìti, jti",,"iˈtɪ, jtɪ",jtɪ,"іти, йти",http://sum.in.ua/s/ity
 38649,152,145,ourané,,,,ourané,,uraˈne̞,uraˈne̞,ουρανέ,
 45236,119,224,karnā,,,,karnā,,kəɾnɑ,,کرنا,
@@ -19405,7 +19405,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37063,16,226,kìpcûr,,,249,kìpcûr,,kʲipˈtsʲuɾ,kipˈtsʲur,кіпцюр,http://www.slounik.org/search?search=кіпцюр
 54254,162,210,nābhi,,,,nābhi,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=nābhi
 52330,65,211,mæssā,,,,mæssā,,,,මැස්සා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=මැස්සා
-25504,51,76,hānnu,,split from DKB,,hānnu,,ɦan:u,,हान्नु,
+25504,51,76,hānnu,,,,hānnu,,ɦan:u,,हान्नु,
 40939,201,176,treí,,It.,,treí,,tri,tri,τρει,
 49974,125,213,awwon,,,,awwon,,ɑwːon,awwon,аууон,
 38648,188,6,ráchī,,,,ráchī,,ˈraçi,ˈraxi,ράχη,
@@ -19446,7 +19446,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 40941,201,178,dénnō,,Cal.; /ˈde̞nno̞/ Ap.,,dénnō,,ˈðe̞nno̞,ˈðe̞nno̞,δέννω,
 42660,35,215,kaṛavā,,,,kaṛavā,,kəɾɑ,kəɾvɑ,कड़वा,
 28675,129,207,dełin,,Cf. variant դեղբ dełb.,28;79[237],dełin,,dɛˈʁin,dɛʁ(-)in-ɑ-/-i-,դեղին,
-25588,40,89,sar,,split from DKB,,sar,,sɑr,sɑr,سر,
+25588,40,89,sar,,,,sar,,sɑr,sɑr,سر,
 50966,16,61,sadavìna,,,,sadavìna,,sɑ̈dɑ̈vʲiˈnɑ̈,sadavʲiˈna,садавіна,http://www.slounik.org/search?search=садавіна
 37672,54,208,murčeh,,,326,murčeh,,mu:r,murt͜ʃe,مورچه,
 49397,10,219,dauṛāno,,,,dauṛāno,,d̪õuɽano,,দৌড়ানো,
@@ -19479,10 +19479,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 54258,162,141,rassa,,,,rassa,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=rassa
 37882,152,206,chronía,,,,chronía,,xroˈɲia,xroˈɲia,χρονία,
 36267,124,219,zǧoryn,,Past stem: žʁord-.,"156[Vol. 4: 309–310];338[{Check difference with liz- 'run away', waj- 'бегать'.}]",zǧoryn,,ˈʒʁorɘn,žʁor-ən,згъорын,
-25625,40,95,zində rozon,,split from DKB,,zində rozon,,,,زندء روزُن,
+25625,40,95,zində rozon,,,,zində rozon,,,,زندء روزُن,
 31039,129,49,ełowngn,,eɫungnDerived from PIE *h3nogwh- or *h3nogh-u- 'nail'.,79[254],ełowngn,,jɛˈʁuŋɡən,ɛłunɡ-ɑn-,եղունգն,
 19545,111,186,garam,,‘hot’,29,garam,,gərm,,गरम,
-25586,51,89,tāl,,split from DKB,,tāl,,t̪al,,ताल,
+25586,51,89,tāl,,,,tāl,,t̪al,,ताल,
 52335,65,219,duvanavā,,,,duvanavā,,duʋənəʋa,duʋənəʋa,දුවනවා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=දුවනවා
 45906,210,137,(t)ranṓ,,also /draˈno/; aor. /ˈi(ð/d)a/,,(t)ranṓ,,(t)raˈno,(t)raˈno,(τ)ρανώ,
 37883,152,212,ephéži,,,,ephéži,,e̞ˈpʰe̞ʒi,e̞ˈpʰe̞ʒi,επ̔έζ̌ι,
@@ -19497,7 +19497,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 50632,144,210,ḍhoḍī,,,,ḍhoḍī,,ɖʱoɽi,,ढोड़ी,
 50633,144,219,dauranā,,,,dauranā,,d̪əuɾənɑ,,दौड़ना,
 37043,73,225,moloti,,,249,moloti,,mɔˈɫɔtɪ̽,moˈlotɪ,молоти,http://sum.in.ua/s/moloty
-25642,40,104,pahaaṛ,,split from DKB,,pahaaṛ,,pɑhɑːɽ,pɑhɑːɽ,پہاڑ,
+25642,40,104,pahaaṛ,,,,pahaaṛ,,pɑhɑːɽ,pɑhɑːɽ,پہاڑ,
 31040,129,68,maz,,< Syr. mezze 'crines parvi'.,170;180[932{This cognate set is orignally a loan into Classical Armenian}],maz,,mɑz,mɑz-ɔ-,մազ,
 36269,124,217,adǵyn,,Adjectival derivate of ad 'taste'.,338,adǵyn,"tasty, sweet",ˈɑtʃːɘn,ad-ǯən,адджын,
 37044,73,226,kìgot′,,,249,kìgot′,,ˈkʲiʕɔtʲ,ˈkiɦotʲ,кіготь,http://sum.in.ua/s/kighotj
@@ -19521,7 +19521,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49568,40,208,rey,,,,rey,ant,rɛj,rɛj,ریئے,
 49400,10,209,ūru,,,,ūru,,uru,,ঊরু,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=ঊরু
 42665,35,211,makkhī,,,,makkhī,,məkkʰi,məkkʰi,मक्खी,
-25714,51,119,tānnu,,split from DKB,,tānnu,,t̪an:u,,तान्नु,
+25714,51,119,tānnu,,,,tānnu,,t̪an:u,,तान्नु,
 45909,210,177,sérō,,also /seˈriɣu/,,sérō,"drag, throw",ˈserο,ˈserο,σέρω,
 45248,119,209,rān,,,,rān,,ɾɑn,,ران,
 50212,24,221,nemen,,,,nemen,,,,,
@@ -19531,7 +19531,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26619,50,129,saḍakā,,,98[599],saḍakā,,səɖka,,सडका,
 54262,162,209,ūru,,,,ūru,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=Ūru
 40947,201,183,dýo,,Cal.; /ˈdio̞/ Ap.,,dýo,,ˈðio̞,ˈðio̞,δύο,
-25729,51,120,ṭhelnu,,split from DKB,,ṭhelnu,,ʈʰelnu,,ठेल्नु,
+25729,51,120,ṭhelnu,,,,ṭhelnu,,ʈʰelnu,,ठेल्नु,
 40948,201,184,ššeráō,,Cal.; /fse̞ˈrao̞/ Ap.,,ššeráō,,ʃʃe̞ˈrao̞,ʃe̞ˈrao̞,σ̌σ̌εράω,
 42667,35,225,pīsanā,,,,pīsanā,,pisnɑ,pisnɑ,पीसना,
 49570,40,220,tolon,,,,tolon,,tʊlon,tolon,تُلن,
@@ -19651,14 +19651,14 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26743,8,171,hast,,"Linked with the Germanic word for 'hard, steady, strong, firm, dense': OIc. fastr , OHG festi , fasti , Engl. fast , etc.",170;79[390],hast,,hɑst,hɑst,հաստ,
 26636,50,160,kāṭhī,,,98[600],kāṭhī,,kaʈʰi:,,काठी,
 49806,40,210,naːn,,,,naːn,,nɑːn,nɑːn,نان,
-26012,51,178,bām̐dhnu,,split from DKB,,bām̐dhnu,,bãdʱnu,,बाँध्नु,
+26012,51,178,bām̐dhnu,,,,bām̐dhnu,,bãdʱnu,,बाँध्नु,
 45949,105,219,dhāv-,,root (stem),,dhāv-,verb,*dʱa:ʋ-,dʱāv-,धाव्-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=516
 52299,105,204,kŕ̥miḥ,,,,kŕ̥miḥ,m.,kŕmis,'kɾmih,कृमिः,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=305
 50974,105,76,han-,,,,han-,,*ɦɐn-,han-,हन्-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=1287
 47732,54,226,panǧeh,,,,panǧeh,,,pænd͜ʒe,پنجه,
 47734,54,211,magas,,,,magas,,,mægæs,مگس,
 47733,54,224,kardan,,,,kardan,,,kærdæn,کردن,
-26055,51,196,pharākilo,,split from DKB,,pharākilo,,pʰʌrakilo,,फराकिलो,
+26055,51,196,pharākilo,,,,pharākilo,,pʰʌrakilo,,फराकिलो,
 50916,35,220,le jānā,,,,le jānā,,le  jānā,le  jānā,ले जाना,
 45344,211,198,a(g)éra,,also /aˈ(ɣ)e̞ras/,,a(g)éra,"air, wind",aˈ(ɣ)e̞ra,aˈ(ɣ)e̞ra,α(γ)έρα,
 31276,129,97,erkar,,,79[266],erkar,,jɛɾˈkɑɾ,ɛɾkɑɾ-ɑ-,երկար,
@@ -20064,7 +20064,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8174,35,124,dāyām̐,,,,dāyām̐,,d̪ɑyɑ̃,d̪ɑyɑ̃,दायाँ,
 42657,35,219,dauṛanā,,,,dauṛanā,,d̪ɔɽnɑ,d̪ɔɽnɑ,दौड़ना,
 8210,35,161,patthar,,,,patthar,,pət̪t̪ʰəɾ,pət̪t̪ʰəɾ,पत्थर,
-26121,35,206,varṣa,,split from DKB,,varṣa,,ʋəɾʃ,vərʃ,वर्ष,
+26121,35,206,varṣa,,,,varṣa,,ʋəɾʃ,vərʃ,वर्ष,
 56616,35,212,kala,,,,kala,,kəl,kəl,कल,
 52581,245,14,černyi,,,,černyi,,ˈtsʲɛrnʲɛjɪ̆,ˈtsɛrnʲɛjɪ,черныи,
 52583,245,220,nositi,,,,nositi,,nɔˈsʲitʲi,nɔˈsʲitʲi,носити,
@@ -20492,7 +20492,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 15185,66,63,dať,,,,dať,,dɑ̈c,dac,,http://slovnik.azet.sk/pravopis/?q=dať
 57051,266,74,bʰārā,,,,bʰārā,,,,ਭਾਰਾ,
 36309,148,89,lin,,,301[319],lin,,,,,
-25428,51,125,kholā,,split from DKB,,kholā,,kʰola,,खोला,
+25428,51,125,kholā,,,,kholā,,kʰola,,खोला,
 47640,229,88,goûd (goużoud),,"irreg. pres.; reg. stems: gouveż-, goui-, gwoar-",,goûd (goużoud),,"ˈɡuːt; ˈɡuːve-, ˈɡwiː-, ˈɡwaːɹ-",ˈɡuːd; ˈɡuve-; ˈɡwiː-; ˈɡwaːr-,,
 52666,245,159,gvězdka,,Attested in the context '(small) stars as pattern on cloth'.,,gvězdka,,ˈɡʋʲezdkɑ,ˈɡvʲezdka,гвѣздка,
 52667,245,161,kamenĭje,,Collecitve noun.,,kamenĭje,,ˈkɑmʲɛnʲjɛ,ˈkamʲɛnʲjɛ,каменьѥ,
@@ -20581,7 +20581,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 46072,222,147,choṭ,,,,choṭ,,tʃoʈ,,छोट,
 46114,222,206,baras,,,,baras,,bəɾəs,,बरस,
 57188,266,158,"kʰaṛā hoṇā, kʰaṛoṇā",,,,"kʰaṛā hoṇā, kʰaṛoṇā",,,,"ਖੜ੍ਹਾ ਹੋਣਾ, ਖੜੋਣਾ",
-24493,119,124,dāyān,,split from DKB,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],dāyān,,d̪ɑjɑ̃,,دایاں,
+24493,119,124,dāyān,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],dāyān,,d̪ɑjɑ̃,,دایاں,
 24473,119,206,sāl,,,62[http://ialtrust.com/swadeshlanguagelist/swadeshLanguageTable.php?language4=Urdu&language5=Urdu+(IPA)&Submit=Go],sāl,,sɑl,,سال,
 24044,115,186,teth,,,193,teth,,,tʲeh,,
 52871,249,209,steɣnó,,,,steɣnó,,st(ɛ/ɜ)ˈɣnŭɔ,steˈɣno,,
@@ -21903,7 +21903,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 14922,95,202,žena,,,,žena,,ˈʐɛ̌nɑ̈,ˈʐěna,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f15jWRJ8
 45135,219,199,préku,,,,préku,,ˈpɾeko,préku,پریۡکوۡ,
 20799,44,199,spārns,,<à̄> should look like <ḕ>,28;535,spārns,,spā̀rns,,,
-26093,10,198,hāoẏā,,split from DKB,,hāoẏā,,haoa,,হাওয়া,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=হাওয়া
+26093,10,198,hāoẏā,,,,hāoẏā,,haoa,,হাওয়া,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=হাওয়া
 14918,95,198,vjetar,,Ekavian variant: 'vetar' /vêtar/ [ˈvɛ̂tɑ̈ɾ].,,vjetar,,ˈvjɛ̂tɑ̈ɾ,ˈvjêtar,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f19vWhZ9
 15900,97,198,veter,,,,veter,,ˈvéːtəɾ,ˈvéːtər,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4293486/veter
 15897,97,194,bel,,,,bel,,bèːw,bèːv,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4285041/bel
@@ -24255,7 +24255,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 69059,172,125,riuyer,,"Attested in the Catholicon (1499), equivalent of Middle French riuyere, fleuve and Latin rivus. The latter denotes both brooks and streamlet and big rivers leading to the sea (cf. German Strom). The Latin examples translated into French all mention bigger rivers, cf. hic geon 'cest le fleue de paradis terrestre', hic padus 'ung fleuue' (Po), hic remis 'la riuiere de rin' (Rhine), hoc rodanū 'la riuiere de rosne' (Rhône).Quiquer's dictionary 'Nomenclator' (1633) only gives riffier 'river', none of the other Breton words.",,riuyer,,,,,
 69060,172,125,ster,,"The Catholicon does not mention OBr. staer, ModBr. stêr, which is used in Leoneg and the Literary Standard. Quiquer's dirctionary 'Nomenclator' (1633) has both riffier 'fleuve, rivière' and gouaz-dour 'un ruisseau', bot none of the other terms. Maunoir's dictionary from 1659 gives riuier and ster for French rivière in addition to ster in the meaning of lavoir.",,ster,,,,,
 25781,51,129,kuhieko,,,,kuhieko,,kuɦieko,,कुहिएको,
-24956,35,202,strī,,split from DKB,,strī,,st̪ɾi,st̪ɾi,स्त्री,
+24956,35,202,strī,,,,strī,,st̪ɾi,st̪ɾi,स्त्री,
 27390,125,96,igær,,,"122;156[541{No mention of Digor ""egær"" in Abaev, and this is not expected historically. If this really appears in Digor, it can only be a hypercorrection from Iron игæр.}]",igær,,igɜr,igɜr,игӕр,
 56487,141,69,d′ui,,"Derivation from *dušt < *dasta- is impossible, so this cannot be a cognate.",,d′ui,hand; hand and forearm,dˈui̯,dˈui,du′i,
 5230,22,124,right,,,93[1332-3],right,,raɪt,,,http://www.oed.com/view/Entry/165855?
@@ -24266,10 +24266,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68854,302,223,gráta,,,,gráta,,ˈøːpa,ˈøːpa,,
 68763,302,102,tungl,,,,tungl,,ˈmaːni,ˈmaːni,,
 34132,58,120,dytte,,,219,dytte,'shove',ˈdʏ̀tːə,,,
-13290,58,150,glatt,,split from DKB,219,glatt,'slippery',ɡlatː,,,
+13290,58,150,glatt,,,219,glatt,'slippery',ɡlatː,,,
 13300,58,160,stokk,,,219,stokk,'log',stɔkː,,,
 13302,58,162,rett,,,219,rett,,ɾɛtː,,,
-26058,58,196,bred,,split from DKB,219,bred,'broad',bɾeː,,,
+26058,58,196,bred,,,219,bred,'broad',bɾeː,,,
 69243,209,29,fuir,,,,fuir,,,,,
 69244,203,222,repundre,,,,repundre,,,,,
 69245,298,37,molde,,,,molde,,ˈmoɫde,ˈmolde,,

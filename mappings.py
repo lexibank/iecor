@@ -158,6 +158,7 @@ FIELD_MAP = {
             "longitude": "Longitude",  # -> Longitude
             "exampleLanguage": "exampleLanguage",
             "fragmentary": "",
+            "loc_justification": "loc_justification",
         },
     'meaning':  # -> parameters.csv
         {
@@ -208,8 +209,8 @@ FIELD_MAP = {
             "revisedBy": "revised_by",
             # revisedYet
             "ideophonic": "Ideophonic",
-            # proposedAsCognateTo_id:    110 not-NULL
-            # proposedAsCognateToScale
+            "proposedAsCognateTo_id": "proposedAsCognateTo_pk",
+            "proposedAsCognateToScale": "proposedAsCognateToScale",
         },
     'clade': # -> clades.csv
         {
