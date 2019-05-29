@@ -257,6 +257,8 @@ class Dataset(BaseDataset):
             {'name': 'revised_by', 'separator': ";"},
             {'name': 'Ideophonic', 'datatype': 'boolean'},
             {'name': 'Dyen', 'separator': ";"},
+            {'name': 'proposedAsCognateTo_pk', 'datatype': {'base': 'integer'}},
+            {'name': 'proposedAsCognateToScale', 'datatype': {'base': 'integer'}},
             'Root_Form_calc',
             'Root_Language_calc')
         ds.add_component(
@@ -272,6 +274,7 @@ class Dataset(BaseDataset):
             'clade_name',
             'Color',
             'ascii_name',
+            'loc_justification',
             {'name': 'historical', 'datatype': 'boolean'},
             {'name': 'fossil', 'datatype': 'boolean'},
             {'name': 'sort_order', 'datatype': {'base': 'integer'}},
@@ -573,6 +576,9 @@ class Dataset(BaseDataset):
                 cset['Comment'] = parse_links_to_markdown(cset['Comment'])
                 cset['Justification'] = parse_links_to_markdown(cset['Justification'])
                 cset['revised_by'] = [initials_author_id[a] for a in cset['revised_by'].split(', ')] if cset['revised_by'] else []
+                if cset['proposedAsCognateTo_pk'] and not cset['proposedAsCognateTo_pk'] in csids:
+                    cset['proposedAsCognateTo_pk'] = ''
+                    cset['proposedAsCognateToScale'] = 0
                 css.append(cset)
 
                 if cset['loanword'] == 'True':
