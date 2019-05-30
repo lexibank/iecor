@@ -16,7 +16,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Author_ID,Earliest_
 245,Old Novgorod,,58.5500000000,31.2700000000,oldr1238,orv,11,,,,,Balto-Slavic;Slavic;Slavic East,Slavic,FFCC80,OldNovgorod,,true,false,90
 257,Bakhtiari,,32.0200000000,49.7700000000,bakh1245,bqi,74;30,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,Bakhtiari,,false,false,56
 279,Lari,,27.2100000000,53.6600000000,lari1253,lrl,75;30,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,Lari,,false,false,59
-108,Old Prussian,,54.0900000000,19.8900000000,prus1238,prg,10,,,,,Balto-Slavic;Baltic;Baltic East,Baltic,FFCC88,OldPrussian,,true,false,71
+108,Old Prussian,,54.0900000000,19.8900000000,prus1238,prg,10,,,,,Balto-Slavic;Baltic;Baltic West,Baltic,FFCC88,OldPrussian,,true,false,71
 148,Old Breton,,48.2500000000,-3.7900000000,bret1244,bre,16,1200,900,,,Celtic;Brythonic;Breton,Celtic,2E8B57,OldBreton,,true,false,144
 40,Kashmiri,,34.1700000000,74.3300000000,kash1277,kas,54,,,,,Indo-Iranic;Indic,Indic,B0171F,Kashmiri,,false,false,33
 219,Palula,,35.5100000000,71.8400000000,palu1254,phl,56,,,,,Indo-Iranic;Indic,Indic,B0171F,Palula,,false,false,34
@@ -35,7 +35,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Author_ID,Earliest_
 273,Kurdish C.: Jafi,,35.6500000000,45.8100000000,cent1972,ckb,78;29,,,,Jafi dialect of Javanrud,Indo-Iranic;Iranic,Iranic,FF3E96,KurdishJafi,,false,false,63
 22,English,,51.7500000000,-1.2600000000,stan1293,eng,20;2,,,,"British English, in majority usage in England.",Germanic;North-West;West;Anglic,Germanic,6495ED,English,Oxford,false,false,115
 7,Armenian: Western,,39.9100000000,41.2800000000,nucl1235,hye,6,,,,,Armenian,Armenian,800080,ArmenianWestern,"Set in the town of Erzurum, formerly a major dialect area of Western Armenian.",false,false,17
-211,Greek: Pontic,,40.1800000000,27.4200000000,pont1253,pnt,12,,,,,Hellenic;Modern Hellenic,Hellenic,00BFFF,GreekPontic,,false,false,10
+211,Greek: Pontic,,40.8500000000,40.2600000000,pont1253,pnt,12,,,,,Hellenic;Modern Hellenic,Hellenic,00BFFF,GreekPontic,,false,false,10
 291,Raji: Barzoki,,33.7900000000,51.2200000000,cent2264,,50;30,,,,,Indo-Iranic;Iranic,Iranic,FF3E96,RajiBarzoki,,false,false,57
 285,Kurdish S: Elami,,33.6400000000,46.4300000000,sout2640,sdh,79;30,,,,Elami,Indo-Iranic;Iranic,Iranic,FF3E96,KurdishElami,,false,false,64
 212,Vâsi-vari: Paṣki,,35.1700000000,70.8000000000,lowe1390,prn,27,,,,,Indo-Iranic;Nuristani,Nuristani,DC143C,VasiVariPaski,,false,false,42
@@ -84,7 +84,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Author_ID,Earliest_
 133,Luvian,,38.5000000000,35.4000000000,cune1239,xlu,26,,,Composite list of Cuneiform Luvian (xlu) and Hieroglyphic Luvian (hlu). Cuneiform Luvian and Hieroglyphic Luvian data are indicated respectively as (CL) and (HL) in the Native Script data.,,Anatolian,Anatolian,8B4513,Luvian,,true,false,2
 129,Armenian: Classical,,40.1400000000,45.0800000000,clas1249,xcl,6,,,,,Armenian,Armenian,800080,ClassicalArmenian,,true,false,15
 152,Tsakonian: Peloponnese,,37.1400000000,22.7300000000,tsak1248,tsd,12,,,"Last living relic of Doric, spoken in Kastanitsa, Sitena, Prastos, Leonidi, Pramatefti, Sapounakeika, Tyros, and Melana towns, possibly Korakovunio; Peloponnesos east coast.",,Hellenic;Modern Hellenic,Hellenic,00BFFF,TsakonianPeloponnese,,false,false,13
-188,Tsakonian: Propontis,,37.1400000000,22.7300000000,prop1240,tsd,12,,,Extinct variety of Tsakonian formerly spoken in the Propontis region of Asia Minor.,,Hellenic;Modern Hellenic,Hellenic,00BFFF,TsakonianPropontis,"Cf. Tsakonian dialect map in Liosis, Nikos. 2016. ""Tsakonian Studies: The State-of-the-Art"" Μελέτες για την ελληνική γλώσσα [Studies in Greek Linguistics] 36 : 205-17.",true,false,14
+188,Tsakonian: Propontis,,40.1800000000,27.4200000000,prop1240,tsd,12,,,Extinct variety of Tsakonian formerly spoken in the Propontis region of Asia Minor.,,Hellenic;Modern Hellenic,Hellenic,00BFFF,TsakonianPropontis,"Cf. Tsakonian dialect map in Liosis, Nikos. 2016. ""Tsakonian Studies: The State-of-the-Art"" Μελέτες για την ελληνική γλώσσα [Studies in Greek Linguistics] 36 : 205-17.",true,false,14
 179,Parthian,,34.0000000000,50.0000000000,part1239,xpr,5,,,"Middle Northwestern Iranian language, attested parallel to Middle Persian in Manichaean texts. A very restricted  corpus of older inscriptions from Iran also exist. Early Parthian (or related languages) were the main source for Middle Iranian loanwords in Armenian. Phonologization follows Durkin-Meisterernst 2004, except for <c>,<ž> and <j>, whereI have applied the findings of Korn 2010 (Bulletin of SOAS, 73/3, 415–436), i.e. <c>=<z> = /č/, <j> = /ž/ [ʒ ~ dʒ]",,Indo-Iranic;Iranic,Iranic,FF3E96,Parthian,,true,false,50
 145,Elfdalian,,60.0000000000,15.0000000000,elfd1234,ovd,52,,,,,Germanic;North-West;North,Germanic,4169E1,Elfdalian,,false,false,100
 111,Maithili,,26.3800000000,86.2200000000,mait1250,mai,61,,,,,Indo-Iranic;Indic,Indic,B0171F,Maithili,,false,false,25

@@ -12,7 +12,7 @@ ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,c
 23,Iranic,,,,Iranic,Irc,#FF3E96,6,3,0,0,5000,3500,O
 11,Balto-Slavic,,,,Balto-Slavic,,#EE7600,7,0,0,0,6500,2500,O
 29,Balto-Slavic,Baltic,,,Baltic,Blt,#FFBB00,7,1,0,0,5000,2000,O
-38,Balto-Slavic,Baltic,Baltic East,,Baltic East,,#FFCC88,7,1,1,0,3000,1000,O
+38,Balto-Slavic,Baltic,Baltic West,,Baltic West,,#FFCC88,7,1,1,0,3000,1000,O
 12,Balto-Slavic,Slavic,,,Slavic,Svc,#FF6000,7,2,0,0,2700,1500,O
 45,Balto-Slavic,Slavic,Slavic South,,Slavic South,,#E68A00,7,2,1,0,,,_
 46,Balto-Slavic,Slavic,Slavic West,,Slavic West,,#FFAD33,7,2,2,0,,,_
