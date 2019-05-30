@@ -17,7 +17,7 @@ id,cladeName,hexColor,shortName,export,exportDate,taxonsetName,atMost,atLeast,di
 15,Celtic,006400,Celt,False,False,Celtic,4500,2500,N,,,10,0,0,0,Celtic,,,
 24,Indic,B0171F,Ind,False,False,Indic,5000,3750,O,,,6,1,0,0,Indic,,,
 27,Nuristani,DC143C,Nur,False,False,Nuristani,,,_,,,6,2,0,0,Nuristani,,,
-38,Baltic East,FFCC88,,False,False,BalticEast,3000,1000,O,,,7,1,1,0,Balto-Slavic,Baltic,Baltic East,
+38,Baltic West,FFCC88,,False,False,BalticWest,3000,1000,O,,,7,1,1,0,Balto-Slavic,Baltic,Baltic West,
 12,Slavic,FF6000,Svc,False,False,Slavic,2700,1500,O,,,7,2,0,0,Balto-Slavic,Slavic,,
 43,Ancient Hellenic,00BFFF,,False,False,HellenicAncient,,,_,,,3,1,0,0,Hellenic,Ancient Hellenic,,
 42,Modern Hellenic,00BFFF,,False,False,HellenicModern,2100,1700,N,,,3,2,0,0,Hellenic,Modern Hellenic,,
