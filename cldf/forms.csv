@@ -1689,7 +1689,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67245,296,190,khast,,,,khast,,,xast,,
 67246,296,11,lewr,,,,lewr,,,lewɾ,,
 67247,296,147,dzeel,,,,dzeel,,,d͡zɵl,,
-35176,172,33,sech,,"Catholicon (1499): sec, Latin sicus.",280[ 2804];283,sech,,ˈseːx,,,
+35176,172,33,sech,,"Catholicon (1499): sec, Latin sicus.",280[2804];283,sech,,ˈseːx,,,
 67248,296,130,pet,,,,pet,,,pet,,
 67249,296,216,teng,,,,teng,,,tenɡ,,
 6341,26,42,fier,,,124[274],fier,,fi.ər,,,
@@ -4944,7 +4944,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 885,3,109,qafë,,"Borrowed < Turk. kafa 'occupit, head'. Poss. link with Lat. caput? Rum ceafă is an Albanian loanword!",105[353],qafë,,,,,
 35244,172,88,"gouzout, gouzuout",,"Compound of Old Breton guid-, Middle Breton gouz- 'to know' and -but, the verbal noun of 'to be'.",280[1036-1041];283,"gouzout, gouzuout","to know, to be acquainted with, to be able",ˈguːðut,,,
 20433,112,83,glaciēs,,G.sg. glaciēī,206,glaciēs,ice,gɫaˈkieːs,glaˈkieːs,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dglacies
-5212,22,106,name,,,93[ 1035],name,,neɪm,,,http://www.oed.com/view/Entry/124918?
+5212,22,106,name,,,93[1035],name,,neɪm,,,http://www.oed.com/view/Entry/124918?
 4028,17,106,nom,,,,nom,,nɔm,,,
 5806,25,106,nom,,,91[544-5],nom,,nɔ̃,nɔ̃,,http://www.cnrtl.fr/etymologie/nom
 6401,26,112,noas,,,124[655-6],noas,,no.əs,,,
@@ -5009,7 +5009,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8946,39,109,collo,,,90[84],collo,,'kollo,ˈkollo,,
 36492,176,83,led,,,354,led,,lɛd,lɛd,,
 27775,128,105,āh,,OAv. ǝ̄ǝāh,28;184,āh,N.n,,aːh,𐬁𐬵,
-5214,22,108,near,,,93[ 1042],near,,nɪə,,,http://www.oed.com/view/Entry/125544?
+5214,22,108,near,,,93[1042],near,,nɪə,,,http://www.oed.com/view/Entry/125544?
 21955,108,115,ains,,,28;532,ains,,,,,
 6594,27,109,Hals,,,96[600],Hals,,hals,,,
 17947,76,108,près,,,,près,,,,,
@@ -5047,7 +5047,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5809,25,109,cou,,,91[191],cou,,ku,ku,,http://www.cnrtl.fr/etymologie/cou
 8947,39,110,nuovo,,,90[278],nuovo,,'nwɔvo,ˈnwɔvo,,
 20436,112,86,interficere,,"interficiō, interficere, interfēcī, interfectum",206,interficere,"to do away with, put to death, kill",interˈfikere,interˈfikere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dinterficio
-5215,22,109,neck,,"Middle English nekke, Old English hnecca",357;93[ 1043],neck,,nɛk,,,http://www.oed.com/view/Entry/125652?
+5215,22,109,neck,,"Middle English nekke, Old English hnecca",357;93[1043],neck,,nɛk,,,http://www.oed.com/view/Entry/125652?
 5216,22,110,new,,"Middle English newe, Old English nīwe, nēowe",357;93[1050],new,,nju:,,,http://www.oed.com/view/Entry/126504?
 36494,176,86,aibĕt,,,354,aibĕt,,ˈaibɘt,ˈaibɘt,,
 9146,40,110,now,,,,now,,noʋ,noʋ,وکِبس,
@@ -5442,7 +5442,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13467,59,127,rădăcină,,,,rădăcină,,ɾədəˈtʃinə,rədəˈtʃinə,,https://dexonline.ro/definitie/rădăcină
 4048,17,127,arrel,,,116[19],arrel,,əˈrɛl,,,
 21973,108,134,gerdaut,,,28;532,gerdaut,,,,,
-35266,172,107,"hencq, enc, encq",,Ex. pan-æ enc e-n hent M. 1734,280[ 736];283,"hencq, enc, encq","narrow; cramped, tiny; neat, tidy, strict",ˈeŋk,,,
+35266,172,107,"hencq, enc, encq",,Ex. pan-æ enc e-n hent M. 1734,280[736];283,"hencq, enc, encq","narrow; cramped, tiny; neat, tidy, strict",ˈeŋk,,,
 26282,122,120,sburtâ,,,,sburtâ,,zbur'ta,zbur'taː,,http://claap.org/definizion/?diz=fur-it&leme=sburtâ
 28251,127,114,sen,,,28,sen,,sʹen,,,http://dil.ie/37090
 36346,148,219,-ret*,,Only attested in compounds.,"301[73, 299{1) arimrot 3sg. pret. gl. functus est 'to execute, to practice' < *ari-ambi-ret 'to run around'. 2) retemdirot 1sg. pret. 'to try' < ro + (?tu-)ambi-dī-ret }];304[341{arimrot 3sg. pret. < *ari-ambi-ret 'to run around'. 2) rotemdirot 1. sg. pret. < ro + (?tu-)ambi-dī-ret 'to try'.}]",-ret*,to run*,,,,
@@ -5474,7 +5474,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37560,179,137,wēnēd,,Past dyd- /dīd-/,359,wēnēd,PRS.IND.3SG,wēn-,u̯eːneːd,wynyd,
 28252,127,115,óen,,,151[305];28[{Replaced original lexeme entry óen .}];193,óen,,oin,,,http://dil.ie/33512
 26284,122,122,ros,,,182,ros,,'rɔs,'rɔs,,http://claap.org/definizion/?diz=fur-it&leme=ros
-35267,172,107,"striz, stryz",,,280[ 2981];283,"striz, stryz","narrow; strict, severe, rigorous",ˈstriːθ,,,
+35267,172,107,"striz, stryz",,,280[2981];283,"striz, stryz","narrow; strict, severe, rigorous",ˈstriːθ,,,
 31416,145,122,roð,,,"202[405{""roð""}]",roð,,roːð,roːð,,
 21975,108,137,widdai,,3pret.,28;532,widdai,,,,,
 8772,38,132,salann,,,,salann,,,,,http://www.teanglann.ie/ga/fgb/salann

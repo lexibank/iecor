@@ -91,7 +91,7 @@ def iterrefs(type_, refid):
             "{{{0}}}".format(
                 re.sub(r'[\n\r]+', ' ', i['comment'].replace(';', '|'))) if i['comment'] else ''))\
                     for i in items]
-        refs = ['{0}{1}'.format(sid, '[{0}]'.format(p) if p else '') for sid, p
+        refs = ['{0}{1}'.format(sid, '[{0}]'.format(p.strip()) if p else '') for sid, p
                 in refs]
         yield id_, refs
 
@@ -157,8 +157,8 @@ class Dataset(BaseDataset):
         shorthand_sources = {} # shorthand to scr_id map
 
         re_ref = re.compile(r'\{ref\s+([^{]+?)\s*\}', re.IGNORECASE)
-        re_cog = re.compile(r'/cognate/(\d+)/?', re.IGNORECASE)
-        re_lex = re.compile(r'/lexeme/(\d+)/?', re.IGNORECASE)
+        re_cog = re.compile(r'(https?://cobl.info)?/cognate/(\d+)/?', re.IGNORECASE)
+        re_lex = re.compile(r'(https?://cobl.info)?/lexeme/(\d+)/?', re.IGNORECASE)
         def parse_links_to_markdown(s):
             # format: [label](type-id)  supported types: src/cog/lex
             # return text for non-found IDs
@@ -187,14 +187,14 @@ class Dataset(BaseDataset):
                             arr[0], shorthand_sources[arr[0]], arr[1])
             return shorthand_ref
         def make_cognate_link(m):
-            cog_ref = m.groups()[0]
+            cog_ref = m.groups()[1]
             if cog_ref in csids:
                 return "[cognate set %s](cog-%s)" % (
                         cog_ref,
                         cog_ref)
             return 'cognate set %s' % (cog_ref)
         def make_lexeme_link(m):
-            lex_ref = m.groups()[0]
+            lex_ref = m.groups()[1]
             if lex_ref in fids:
                 return "[lexeme %s](lex-%s)" % (
                         lex_ref,
