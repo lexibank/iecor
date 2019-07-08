@@ -91,7 +91,7 @@ def iterrefs(type_, refid):
             "{{{0}}}".format(
                 re.sub(r'[\n\r]+', ' ', i['comment'].replace(';', '|'))) if i['comment'] else ''))\
                     for i in items]
-        refs = ['{0}{1}'.format(sid, '[{0}]'.format(p) if p else '') for sid, p
+        refs = ['{0}{1}'.format(sid, '[{0}]'.format(p.strip()) if p else '') for sid, p
                 in refs]
         yield id_, refs
 
