@@ -5,7 +5,8 @@ from collections import OrderedDict, defaultdict
 from itertools import groupby
 
 from clldutils.dsv import UnicodeWriter, reader
-from clldutils.path import Path, remove
+from clldutils.path import Path, remove, read_text
+
 from nameparser import HumanName
 from pycldf.dataset import Wordlist
 from pycldf.sources import Source
@@ -144,6 +145,15 @@ class Dataset(BaseDataset):
 
     def cmd_install(self, **kw):
 
+
+        def clean_md(t):
+            lines = []
+            for line in t.splitlines():
+                if line.startswith('#'):
+                    line = '##' + line
+                lines.append(line)
+            return '\\n'.join(lines)
+
         shorthand_sources = {} # shorthand to scr_id map
 
         re_ref = re.compile(r'\{ref\s+([^{]+?)\s*\}', re.IGNORECASE)
@@ -245,7 +255,7 @@ class Dataset(BaseDataset):
 
         ds.add_component('ParameterTable', 'Concepticon_ID',
                          'Concepticon_Gloss', 'Concepticon_Definition',
-                         'Example_Context')
+                         'Description_md')
         ds.add_component('CognateTable')
         ds.add_component(
             'CognatesetTable',
@@ -287,6 +297,12 @@ class Dataset(BaseDataset):
             'Source_languoid',
             'Source_form',
             {'name': 'Parallel_loan_event', 'datatype': 'boolean'},
+        )
+        ds.add_table(
+            'policies.csv',
+            'id',
+            'name',
+            'markup_description',
         )
         ds.add_table(
             'clades.csv',
@@ -382,11 +398,21 @@ class Dataset(BaseDataset):
 
         cmapping = {d['ID']: d for d in
                     reader(CONCEPTICON_MAPPING, delimiter='\t', dicts=True)}
+
+        wikidir = Path(__file__).parent.parent / 'CoBL.wiki'
         for m in meanings:
             m['Concepticon_ID'] = cmapping[m['ID']]['CONCEPTICON_ID']
             m['Concepticon_Gloss'] = cmapping[m['ID']]['CONCEPTICON_GLOSS']
             m['Concepticon_Definition'] = cmapping[m['ID']][
                 'CONCEPTICON_DEFINITION']
+
+            wiki_data = ''
+            wiki_page = wikidir / 'Meaning:-{0}.md'.format(m['Name'])
+            if not wiki_page.exists():
+                print('no wiki page for "%s" found' % (m['Name']))
+            else:
+                wiki_data = clean_md(read_text(wiki_page))
+            m['Description_md'] = wiki_data
 
         for lang in langs:
             lang['historical'] = lang['historical'] == 'True'
@@ -432,6 +458,7 @@ class Dataset(BaseDataset):
 
         css = []
         loans = []
+        policies = []
 
         lcdict_sorted = sorted(lcdict, key=lambda x: x['cladesOrder'])
         langs_byRank_sorted = sorted(langs, key=lambda x: x['sortRankInClade'])
@@ -605,6 +632,20 @@ class Dataset(BaseDataset):
         for c in css:
             c['Source'] = parse_links_to_markdown(c['Source'])
 
+
+        for i, p in enumerate([
+                    # names of wiki pages come soon
+                ]):
+            wiki_page = wikidir / '{0}.md'.format(p)
+            if not wiki_page.exists():
+                print('no wiki page for "%s" found' % (p))
+            else:
+                policies.append({
+                    'id': str(i+1),
+                    'name': re.sub(r'^[\d\-]*', '', p).replace('-', ' '),
+                    'markup_description': clean_md(read_text(wiki_page)),
+                })
+
         ds.write(
             FormTable=forms,
             LanguageTable=[l for l in langs if l['ID'] in lids],
@@ -613,6 +654,7 @@ class Dataset(BaseDataset):
             CognatesetTable=css,
             # BorrowingTable=[],
             **{'loans.csv': loans,
+               'policies.csv': policies,
                'authors.csv': sorted(authors.values(),
                                      key=lambda d: d['Last_Name']),
                'clades.csv': clade_table,
