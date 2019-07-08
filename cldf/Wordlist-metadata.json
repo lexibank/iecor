@@ -181,7 +181,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Example_Context"
+                        "name": "Description_md"
                     }
                 ],
                 "primaryKey": [
@@ -514,6 +514,26 @@
                 ]
             },
             "url": "loans.csv"
+        },
+        {
+            "dc:extent": 0,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "id"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "markup_description"
+                    }
+                ]
+            },
+            "url": "policies.csv"
         },
         {
             "dc:extent": 35,
