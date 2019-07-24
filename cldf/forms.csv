@@ -110,7 +110,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68979,303,147,leitils,,,,leitils,,ˈliːtils,ˈliːtils,𐌻𐌴𐌹𐍄𐌹𐌻𐍃,
 12537,55,187,myć,,,142,myć,,mɘ̟tɕ,mɨtɕ,,http://sjp.pwn.pl/szukaj/myć
 68981,303,150,slaihts,,,,slaihts,,slɛhts,slɛhts,𐍃𐌻𐌰𐌹𐌷𐍄𐍃,
-5292,22,187,wash,,,93[1731-2],wash,,wɒʃ,,,http://www.oed.com/view/Entry/225924?
+5292,22,187,wash,,,93[1731-2],wash,,,wɒʃ,,http://www.oed.com/view/Entry/225924?
 37444,179,19,damēd,,"""breathe; blow""; attested dmynd PRS.IND.3PL",359,damēd,PRS.IND.3SG,dam-,dameːd,dmyd,
 37496,179,216,iškift,,Durkin-Meisterernst assumes /iškeft/,359,iškift,ADJ,iškift,iʃkift,ʿškyft,
 31947,147,4,leoie,,luaith,193,leoie,,ləi,ləi,,
@@ -165,7 +165,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32067,148,10,"tar, tor* (?)",,,"193;301[311, 316, 317{tar glosses 'uentrem' (Berne ms 167, fo 47a, Georg. IV v. 122). tor* is only attested in the word toroc gl. 'gurgulio' for 'curculio' 'weevil'| cf. Modern Breton teureug, teurg 'tick', Welsh torogen 'toick, buck'. If toroc is derived from tor, the original meaning would be 'bellied insect'. (Alzernatie etymology for toroc by Ifor Williams). }]","tar, tor* (?)",belly,,,,
 44199,215,158,ut-,,"Buddruss ""sich hinstellen""",,ut-,stand,ut-,ut-,,
 44128,215,69,d′ost,,,,d′ost,hand; hand and forearm,dˈʊst,dˈʊst,,
-5136,22,25,count,,"Middle English counte, from Old French conter, from Latin computāre 'to calculate' (com- + peu-)",93[364],count,,kaʊnt,,,http://www.oed.com/view/Entry/42619?
+5136,22,25,count,,"Middle English counte, from Old French conter, from Latin computāre 'to calculate' (com- + peu-)",93[364],count,,,kaʊnt,,http://www.oed.com/view/Entry/42619?
 45479,220,187,lavâ,,,,lavâ,,laˈvɑ,laˈvɑ,,
 47543,229,89,stank,,,,stank,,ˈstãŋk,ˈstãŋk,,
 69010,303,173,þagkjan,,,,þagkjan,,ˈθaŋkjan,ˈθankjan,𐌸𐌰𐌲𐌺𐌾𐌰𐌽,
@@ -200,7 +200,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68910,303,179,tuggo,,,,tuggo,,ˈtuŋɡoː,ˈtunɡoː,𐍄𐌿𐌲𐌲𐍉,
 51038,238,10,brzuch(o),,"Both outer and inner part of the body. An alternative lexeme could be 'żywot' but in the first line it means 'life, manner of life' then, the meaning 'body, parts of body' and then 'belly, womb' (referring rather to the inner part).",,brzuch(o),,ˈbr̝ʲux(ɔ),ˈbr̝ux(o),,
 52429,243,64,dobrý,,,,dobrý,,ˈdɔbrɨː,ˈdobriː,,
-5116,22,4,ashes,,,93[88],ashes,,æʃɪz,,,http://www.oed.com/view/Entry/11436?
+5116,22,4,ashes,,,93[88],ashes,,,æʃɪz,,http://www.oed.com/view/Entry/11436?
 36394,176,208,morvĕ,,Nominative plural.,354,morvĕ,,ˈmɔrvɘ,ˈmorvɘ,,
 52377,243,11,veliký,,,,veliký,,ˈβɛlikɨː,ˈveljikiː,,
 52530,243,184,bľvati,,It could be more expressive but it does not follow from the consulted texts.,,bľvati,,ˈblβɑ̈ci,ˈbljvatji,,
@@ -324,7 +324,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28762,132,14,atru,,"Native script: <b>atru</b> (acc.pl.n., lb 29). Latin script: adro (acc.pl.n. VIIa 25), adrir (abl.pl.n., VIIa 9, 10, 21), adrer (abl.pl.n., VIIa 18).",279[54-55],atru,,,,,
 62952,292,30,skha,,,,skha,,sxa,sxa,سخه,
 62974,292,158,olaarr,,,,olaarr,,ˈʔo.laɽ,ʔolaɽ,اولاړ,
-5118,22,6,back,,,93[110-11],back,,bæk,,,http://www.oed.com/view/Entry/14332?
+5118,22,6,back,,,93[110-11],back,,,bæk,,http://www.oed.com/view/Entry/14332?
 63062,292,187,eenzal,,,,eenzal,,ˈʔin.zəl,ʔinzəl,اينزل,
 63012,292,184,kooz katal,,,,kooz katal,,kuz.ˈka.t̪əl,kuzkat̪əl,کوزکتل,
 63026,292,25,shmeral,,,,shmeral,,ˈʃmi.rəl,ʃmirəl,شميرل,
@@ -365,7 +365,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35701,174,104,ggarä,,,320[80],ggarä,NOM.SG.m,gɐrə,garə,,
 3935,17,7,mal,,,116[166],mal,,mal,,,
 4920,21,7,slecht,,,95[329],slecht,,slɛχt,,,http://www.etymologiebank.nl/trefwoord/slecht
-5119,22,7,bad,,Middle English badde,93[113],bad,,bæd,,,http://www.oed.com/view/Entry/14540?
+5119,22,7,bad,,Middle English badde,93[113],bad,,,bæd,,http://www.oed.com/view/Entry/14540?
 5713,25,7,mauvais,,,91[501],mauvais,,mɔvɛ,mɔˈvɛ,,http://www.cnrtl.fr/etymologie/mauvais
 6308,26,7,min,,,124[50],min,,mɪn,,,
 6499,27,7,schlecht,,,96[1104],schlecht,,ʃlɛçt,,,
@@ -374,7 +374,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28763,132,24,benust,,"Native script: <b>menes</b> (2.sg.fut., Ib 15), <b>benus</b> (2./3.sg.fut., IIb 16), <b>benurent</b> (3.pl.fut., Va 25, 28, Vb 5).  Latin script: benust (3.sg.fut., VIb 53), benurent (3.pl.fut. VIb 57), benuso (interpetation, VIb 64, 65, VIIa 2).",279[143-145],benust,,,,,
 9432,42,7,sclet,,,,sclet,,,ˈʃklet,,
 28137,127,6,druimm,,,28,druimm,,drumʹ,,,http://dil.ie/18862
-5120,22,8,bark,,,93[125],bark,,bɑ:k,,,http://www.oed.com/view/Entry/15567?
+5120,22,8,bark,,,93[125],bark,,,bɑ:k,,http://www.oed.com/view/Entry/15567?
 21861,108,7,wargan,,"acc., related to lith.: vargas 'miserable', Old Church Slav.: vrag 'enemy'",47;28;532,wargan,,,,,
 38872,189,150,liscio,,,,liscio,,ˈliʃʃə,ˈliʃʃə,,
 12167,54,8,pūst-e deraxt,,,326,pūst-e deraxt,,pʰust,puste deræχt,پوست درخت,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2b7ZiNiz2Ko%3d
@@ -425,7 +425,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 15135,66,10,brucho,,,,brucho,,ˈbɾuxɔ,ˈbruxo,,http://slovnik.azet.sk/pravopis/?q=brucho
 4134,18,10,břicho,,,,břicho,,ˈbr̝ɪxɔ,ˈbr̝ixo,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=břicho&sti=5831
 51252,238,209,ud,,,,ud,,uːd/t,uːd,,
-5301,22,196,wide,,,93[1754],wide,,waɪd,,,http://www.oed.com/view/Entry/228891?
+5301,22,196,wide,,,93[1754],wide,,,waɪd,,http://www.oed.com/view/Entry/228891?
 36399,176,8,sťöră,,s-mobile,354,sťöră,,ˈscœrɜ,ˈscœrɜ,,
 21862,108,8,saxtis,,EV,532,saxtis,,,,,
 8659,38,10,bolg,,,193;225,bolg,,,,,http://www.teanglann.ie/ga/fgb/bolg
@@ -487,7 +487,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 10430,47,10,brjuch,,,,brjuch,,brʲux,brʲux,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/brjuch
 6311,26,10,bûk,,,124[146],bûk,,buk,,,
 4924,21,11,groot,,,95[147],groot,,ɣrot,,,http://www.etymologiebank.nl/trefwoord/groot1
-5123,22,11,big,,,93[153],big,,bɪg,,,http://www.oed.com/view/Entry/18833?
+5123,22,11,big,,,93[153],big,,,bɪg,,http://www.oed.com/view/Entry/18833?
 8855,39,11,grande,,Also means 'great'.,90[187],grande,,ˈgrande,ˈgɾande,,
 5717,25,11,grand,,,91[389-91],grand,,gʁɑ̃,gʁɑ̃,,http://www.cnrtl.fr/etymologie/grand
 17856,76,11,grand,,,,grand,,gʁã,gʁã,,
@@ -546,7 +546,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 6504,27,12,Vogel,,,96[1393],Vogel,,'fo:gl̩,,,
 31957,147,20,lostey,,loscadh,193,lostey,,lostə,lostə,,
 14149,62,12,pizzóne,,,,pizzóne,,,,,
-5124,22,12,bird,,From Old English brid 'young bird'.,357;93[158],bird,,bɜ:d,,,http://www.oed.com/view/Entry/19327?
+5124,22,12,bird,,From Old English brid 'young bird'.,357;93[158],bird,,,bɜ:d,,http://www.oed.com/view/Entry/19327?
 5718,25,12,oiseau,,,91[557],oiseau,,wazo,waˈzo,,http://www.cnrtl.fr/etymologie/oiseau
 10232,46,12,paũkštis,,,530,paũkštis,,ˈpɐukʲʃʲtʲɪs,,,http://etimologija.baltnexus.lt/?w=paũkštis
 13359,59,12,pasăre,,fr. Lat.: passer 'sparrow' (Buck),47,pasăre,,'pasəɾe,'pasəre,,https://dexonline.ro/definitie/pasăre
@@ -599,7 +599,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 3942,17,14,negre,,,,negre,,ˈnɛɣɾə,,,
 6314,26,13,bite,,,124[107],bite,,'bitə,,,
 9439,42,14,neigher,,,,neigher,,,ˈnei̯gεr,,
-5125,22,13,bite,,Old English bītan,357;93[160-1],bite,,baɪt,,,http://www.oed.com/view/Entry/19532?
+5125,22,13,bite,,Old English bītan,357;93[160-1],bite,,,baɪt,,http://www.oed.com/view/Entry/19532?
 5719,25,13,mordre,,,91[527],mordre,,mɔʁdʁ,ˈmɔʁdʁ,,http://www.cnrtl.fr/etymologie/mordre
 5720,25,14,noir,,,91[543],noir,,nwaʀ,nwaʀ,,http://www.cnrtl.fr/etymologie/noir
 15140,66,15,krv,,Old accusative.,,krv,,kr̩w,krv,,http://slovnik.azet.sk/pravopis/?q=krv
@@ -669,7 +669,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32458,222,38,khānā,,,201[74],khānā,,kʰɑnɑ,,खाना,
 52510,243,160,hól,,The lexemes 'kyj' and 'palicě' are attested as objects used as weapons.,,hól,,ɦɔ̝ːl,ˈɣoːlj,,
 36405,176,14,cornĕ,,,354,cornĕ,,ˈtsɔrnɘ,ˈtsornɘ,,
-5127,22,15,blood,,"Middle English blod, Old English blōd",357;93[169],blood,,blʌd,,,http://www.oed.com/view/Entry/20391?
+5127,22,15,blood,,"Middle English blod, Old English blōd",357;93[169],blood,,,blʌd,,http://www.oed.com/view/Entry/20391?
 5721,25,15,sang,,,91[740],sang,,sɑ̃,sɑ̃,,http://www.cnrtl.fr/etymologie/sang
 37579,179,162,rāšt,,"""true, right; straight""",359,rāšt,ADJ,rāšt,raːʃt,rʾšt,
 27688,128,15,vohunī,,"in compositum vohu.gaona- lit. ""colour of the (black) blood"" (Klingenschmitt 1968: 44)",28,vohunī,N.f,,u̯ohuniː,𐬬𐬊𐬵𐬎𐬥𐬍,
@@ -755,7 +755,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24565,118,115,ēk,,,,ēk,,,,,
 12375,55,19,oddychać,,,142,oddychać,,ɔd̚ˈdɘ̟xɑ̈tɕ,odˈdɨxatɕ,,http://sjp.pwn.pl/szukaj/oddychać
 16126,69,19,andas,,,121[21],andas,,ˈàndas,,,http://www.saob.se/artikel/?seek=andas
-5130,22,19,breathe,,"Middle English brethen, derived from Middle English breth 'breath' (Old English brǣth 'odour, exhalation')",357;93[196],breathe,,bri:ð,,,http://www.oed.com/view/Entry/22974?
+5130,22,19,breathe,,"Middle English brethen, derived from Middle English breth 'breath' (Old English brǣth 'odour, exhalation')",357;93[196],breathe,,,bri:ð,,http://www.oed.com/view/Entry/22974?
 3946,17,19,respirar,,,116[9],respirar,,rəspiˈra,,,
 12767,56,19,respirar,,,,respirar,,ʀɨʃpiˈɾaɾ,ʀɨʃpiˈɾaɾ,,
 14155,62,19,respiràre,,,,respiràre,,,,,
@@ -773,7 +773,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35148,172,14,du,,,280[670];283,du,black,ˈdyː,,,
 31964,147,32,iu,,ibhe,193,iu,,juː,juː,,
 31312,145,18,brest,,,"202[267{""brest""}]",brest,,brɛst,brɛst,,
-5131,22,20,burn,,"Middle English burnen, Old English beornan 'to be on fire' and bærnan 'to set on fire'",357;93[216],burn,,bɜ:n,,,http://www.oed.com/view/Entry/25028?
+5131,22,20,burn,,"Middle English burnen, Old English beornan 'to be on fire' and bærnan 'to set on fire'",357;93[216],burn,,,bɜ:n,,http://www.oed.com/view/Entry/25028?
 17864,76,20,broûler,,,,broûler,,bʁuː'le,bʁuː'le,,
 24566,118,183,du,,,363,du,,,,,
 5725,25,20,brûler,,,91[106],brûler,,bʀyle,bʀyˈle,,http://www.cnrtl.fr/etymologie/brûler
@@ -847,7 +847,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32538,152,32,kínou,,/ˈpinu/ NPT,,kínou,,ˈcinu,ˈkinu,κίνου,
 1594,7,22,amp,,,,amp,,ɑmb,ɑmb,ամպ,
 61582,287,159,ǝstārik,,,,ǝstārik,N.m,,ǝstaːrik,ʾstʾryk,
-5134,22,23,cold,,Old English ceald,357;93[316],cold,,kəʊld,,,http://www.oed.com/view/Entry/36101?
+5134,22,23,cold,,Old English ceald,357;93[316],cold,,,kəʊld,,http://www.oed.com/view/Entry/36101?
 61572,287,160,tēγ,,cf. also ˁṣˀy ˁaṣā < Arabic,,tēγ,N.f,,teːɣ,tyγ,
 61578,287,164,ǝxr,,AF ʾxyr,,ǝxr,N.m,,ǝχr,ʾxr,
 35154,172,17,askorn,,"According to Schrijver (1995, 53-55) a compound containing 'horn' as a second member.",280[158];283,askorn,bone,ˈaskorn,,,
@@ -876,7 +876,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12771,56,23,frio,,,,frio,,ˈfɾiu,ˈfɾiu,,
 14359,63,24,bénnere,,,,bénnere,,,,,
 3950,17,23,fred,,,,fred,,fɾɛt,,,
-5135,22,24,come,,"Middle English comen, Old English cuman",357;93[322],come,,kʌm,,,http://www.oed.com/view/Entry/36824?
+5135,22,24,come,,"Middle English comen, Old English cuman",357;93[322],come,,,kʌm,,http://www.oed.com/view/Entry/36824?
 23210,81,144,yats,,,345[549],yats,skin,jəʦ,yaʦ,,
 30234,140,73,crid(io)-,,Attested in proper names.,157[129],crid(io)-,,,,,
 15149,66,25,počítať,,,,počítať,,ˈpɔtʃiːtɑ̈c,ˈpotʃiːtac,,http://slovnik.azet.sk/pravopis/?q=počítať
@@ -992,7 +992,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30344,141,161,v′oṭ,,,,v′oṭ,,vˈo̞ʈ,vˈo̞ʈ,woṭ,
 20170,80,27,šīu̯att-,,,405[494-504],šīu̯att-,day,,,ši-i-u̯a-az,
 36416,176,220,nüsĕt,,,354,nüsĕt,,ˈnysɘt,ˈnysɘt,,
-5138,22,27,day,,"Middle English day, dai, Old English dæg",357;93[405],day,,deɪ,,,http://www.oed.com/view/Entry/47522?
+5138,22,27,day,,"Middle English day, dai, Old English dæg",357;93[405],day,,,deɪ,,http://www.oed.com/view/Entry/47522?
 811,3,28,vdes,,"vdek = infin. Orel and Dyen claim Albanian-internal cognacy only. Holm offers < *dhguhei- 'to pass away, die'. cf. also Att Gk φθι-νω 'to die'.",130[13{ }];105[496],vdes,,,,,
 31971,147,40,sooill,,súil,193,sooill,,suːlʲ,suːlʲ,,
 6518,27,27,Tag,,,96[1249-50],Tag,,ta:k,,,
@@ -1050,7 +1050,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32092,148,86,ladam,,,"193;301[236{ladam, 1sg. indic. pres. gl. caedo 'I slay, I kill'.}]",ladam,"to kill, to slay",,,,
 26193,122,31,cjan,,,182,cjan,,'caŋ,'can,,http://claap.org/definizion/?diz=fur-it&leme=cjan1
 28410,130,108,nessimas,,"superlative form.  Native script <b>nessimas</b> (nom.pl.f., Cp 24), <b>nessimass</b> (acc.pl.f., Cp 31), Latin script: nesimum (gen.pl.n., TB 17, 31), nesimois (abl.pl.n., TB 25).",279[493-494],nessimas,"nearest, most near",,,,
-5139,22,28,die,,"Middle English dien, presumably a borrowing from Old Norse deyja.",93[438],die,,daɪ,,,http://www.oed.com/view/Entry/52392?
+5139,22,28,die,,"Middle English dien, presumably a borrowing from Old Norse deyja.",93[438],die,,,daɪ,,http://www.oed.com/view/Entry/52392?
 23334,82,71,āśce,,,345[61-62],āśce,head,ˈaɕʨe,aśce,,
 23332,82,69,ṣar,,"From PToch. *śəṣə́rə < PIE acc. *g̑ʰés-r-m̥ with contraction. Exact relationship with TA tsar uncertain, though most scholars derive them from the same PIE source.",345[711-712];555[244–249],ṣar,hand,ʂər,ṣərə,,
 36418,176,22,tǫco,,It is not clear if it is 'white cloud' or 'black cloud' (only).,354,tǫco,,tunˈtsɔ,tunˈtso,,
@@ -1072,7 +1072,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8678,38,30,salach,,,,salach,,"ˈsˠal̪ˠəx, sˠəˈl̪ˠax",,,http://www.teanglann.ie/ga/fgb/salach
 20362,112,22,nūbēs,,G.sg. nūbis,206,nūbēs,cloud,ˈnuːbeːs,ˈnuːbeːs,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dnubes
 31973,147,46,fedjag,,iteog,193,fedjag,,ˈfedʒaɡ,ˈfedʒaɡ,,
-5140,22,29,dig,,"Prob < OFr diguer 'to make dyke, hollow out the earth, < Gmc, cf. Du dijk 'dyke'.",93[440],dig,,dɪg,,,http://www.oed.com/view/Entry/52553?
+5140,22,29,dig,,"Prob < OFr diguer 'to make dyke, hollow out the earth, < Gmc, cf. Du dijk 'dyke'.",93[440],dig,,,dɪg,,http://www.oed.com/view/Entry/52553?
 10248,46,29,kàsti,,,530,kàsti,,,,,http://etimologija.baltnexus.lt/?w=kasti
 6520,27,29,graben,,,96[574],graben,,'gra:bn̩,,,
 31322,145,28,däa,,,"202[286{""däa""}]",däa,,ˈdæ̀ːɑ,ˈdæ̀ːɑ,,
@@ -1087,7 +1087,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 16137,69,30,smutsig,,,,smutsig,,ˈsmɵ̀tsɪ(ɡ),,,http://www.saob.se/artikel/?seek=smutsig
 12386,55,30,brudny,,,142,brudny,,ˈbrudnɘ̟,'brudnɨ,,http://sjp.pwn.pl/szukaj/brudny
 10641,48,30,mazany,,,,mazany,,ˈmɑ̈zɑ̈nɘ̟,ˈmazanɘ̟,,
-5141,22,30,dirty,,"From Middle English, from Old Norse drit 'excrement, mud, filth'",93[447],dirty,,dɜ:tɪ,,,http://www.oed.com/view/Entry/53367?
+5141,22,30,dirty,,"From Middle English, from Old Norse drit 'excrement, mud, filth'",93[447],dirty,,,dɜ:tɪ,,http://www.oed.com/view/Entry/53367?
 8873,39,30,sporco,,,90[421],sporco,,ˈspɔrko,ˈspɔɾko,,
 5735,25,30,sale,,,91[738],sale,,sal,sal,,http://www.cnrtl.fr/etymologie/sale
 36689,175,25,lëczëc,,According to (Sychta 1967-1976) the word was rarely used. It is likely that its frequency raised due to Polish influence.,249,lëczëc,,ˈlʌtʃ(ɛ/ʌ)ts,ˈlʌtʃʌts,,
@@ -1123,7 +1123,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5736,25,31,chien,,,91[143],chien,,ʃi ɛ̃,ʃi ɛ̃,,http://www.cnrtl.fr/etymologie/chien
 31975,147,51,eeast,,iasc,193,eeast,,jiəs(t),jiəs(t),,
 17875,76,31,tchin,,,,tchin,,t͡ʃẽ,t͡ʃẽ,,
-5142,22,31,dog,,Middle English dogge. Etymology unknown.,357;93[460],dog,,dɒg,,,http://www.oed.com/view/Entry/56405?
+5142,22,31,dog,,Middle English dogge. Etymology unknown.,357;93[460],dog,,,dɒg,,http://www.oed.com/view/Entry/56405?
 9455,42,31,cian,,,,cian,,,ˈtʃaŋ,,
 1794,8,31,šun,,,170,šun,,ʃun,ʃ-un,շուն,
 13377,59,31,câine,,,,câine,,ˈkɨjne,ˈkɨjne,,https://dexonline.ro/definitie/câine
@@ -1163,7 +1163,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35735,174,87,ysānū,,,320,ysānū,NOM/ACC.SG,zɑ:nu:,zaːnuː,,
 62607,291,217,širin,,,,širin,,ʃiɾĩ,ʃiɾin,,
 23378,82,115,ṣe,,"Suppletive stem ṣem- in rest of masc. paradigm. Fem. sana, acc. somo.",345[721-722{see also references}];546;550,ṣe,one; (pl.) some,"ʂe, ʂeme-","ʂe, ʂeme-",ṣe ≠ ṣem-,
-5143,22,32,drink,,"Middle English drinken, Old English drincan",357;93[476],drink,,drɪŋk,,,http://www.oed.com/view/Entry/57749?
+5143,22,32,drink,,"Middle English drinken, Old English drincan",357;93[476],drink,,,drɪŋk,,http://www.oed.com/view/Entry/57749?
 17876,76,32,beûre,,,,beûre,,bøːʁ,bøːʁ,,
 14168,62,32,bíere,,,,bíere,,,,,
 31325,145,31,rakke,,,"202[400{""rakke""}]",rakke,,rɑ̀kːɛ,rɑ̀kːɛ,,
@@ -1190,7 +1190,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 6524,27,33,trocken,,,96[1292-3],trocken,,'trɔkn̩,,,
 5738,25,33,sec,,,91[747],sec,,sɛk,sɛk,,http://www.cnrtl.fr/etymologie/sec
 52397,243,30,špinavý,,,,špinavý,,ˈʃpʲinɑ̈vɨː,ˈʃpjinaviː,,
-5144,22,33,dry,,"Middle English drie, Old English drȳge",357;93[478],dry,,draɪ,,,http://www.oed.com/view/Entry/58072?
+5144,22,33,dry,,"Middle English drie, Old English drȳge",357;93[478],dry,,,draɪ,,http://www.oed.com/view/Entry/58072?
 52391,243,25,čísti,,,,čísti,,ˈtʃiːsci,ˈtʃiːstji,,
 20365,112,25,numerāre,,"numerō, numerāre, numerāvī, numerātum",206,numerāre,"to add up, count",numeˈraːre,numeˈraːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dnumero1
 23868,115,59,ceithir,,,,ceithir,,,kʲehɪrʲ,,
@@ -1339,7 +1339,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 54995,260,37,zemlja,,,,zemlja,,ˈzɛːmlʲɑ̈,ˈzɛːmʎa,,http://www.fran.si/197/joze-gregoric-kostelski-slovar/4262326/zemlja
 10255,46,36,ausìs,,,530,ausìs,,ɐʊˈsʲɪs,,,http://etimologija.baltnexus.lt/?w=ausis
 54996,260,38,jesti,,,,jesti,,je̝st,je̝st,,http://www.fran.si/197/joze-gregoric-kostelski-slovar/4249476/jesti
-5147,22,36,ear,,"Middle English ere, Old English ēare",357;93[488],ear,,ɪə,,,http://www.oed.com/view/Entry/58949?
+5147,22,36,ear,,"Middle English ere, Old English ēare",357;93[488],ear,,,ɪə,,http://www.oed.com/view/Entry/58949?
 14372,63,37,terra,,,,terra,,,,,
 3963,17,36,orella,,,116[186],orella,,u'rɛʎə,,,
 54998,260,40,oko,,,,oko,,ˈukuː,ˈukuː,,http://www.fran.si/197/joze-gregoric-kostelski-slovar/4253762/oko
@@ -1372,7 +1372,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 55038,260,214,hiša,,,,hiša,,ˈxiːʃɑ̈,ˈxiːʃa,,http://www.fran.si/197/joze-gregoric-kostelski-slovar/4248674/hisa
 6337,26,38,ite,,,124[450],ite,,'itə,,,
 20369,112,28,morī,,"Middle (deponent) verb: morior, morī, mortuum.",206,morī,to die,ˈmoriː,ˈmoriː,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dmorior
-5148,22,37,earth,,"Middle English erthe, Old English eorthe",357;93[489],earth,,ɜ:θ,,,http://www.oed.com/view/Entry/59023?
+5148,22,37,earth,,"Middle English erthe, Old English eorthe",357;93[489],earth,,,ɜ:θ,,http://www.oed.com/view/Entry/59023?
 24110,120,107,schmuel,,narrow/slim,"448[4, 161{Volume 4.}]",schmuel,,,,,
 55042,260,83,led,,,,led,,le̞ːt,leːd,,http://www.fran.si/197/joze-gregoric-kostelski-slovar/4250904/led
 12784,56,36,orelha,,,,orelha,,uˈɾeʎɐ,uˈɾeʎɐ,,
@@ -1431,7 +1431,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32236,150,99,gur,,,193,gur,,,,,
 55097,260,142,kantati,,,,kantati,,ˈkɑ̈ntɑ̈t,ˈkantat,,http://www.fran.si/197/joze-gregoric-kostelski-slovar/4249680/kantati
 31982,147,66,glass,,glas,193,glass,,glas,glas,,
-5149,22,38,eat,,"Middle English eten, Old English etan",357;93[491],eat,,i:t,,,http://www.oed.com/view/Entry/59131?
+5149,22,38,eat,,"Middle English eten, Old English etan",357;93[491],eat,,,i:t,,http://www.oed.com/view/Entry/59131?
 36910,100,226,nogŭtĭ,,,249,nogŭtĭ,,nɔɡʊtɪ̆,noɡʊtɪ,ногъть,
 36697,175,31,pies,,,249,pies,,p(ʲ)jɛs,pjes,,
 3965,17,38,menjar,,,116[172],menjar,,mən'ʒa,,,
@@ -1469,7 +1469,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24113,120,99,Mann,,,"448[3, 87{Volume 3.}]",Mann,,,,,
 24584,118,138,berɨk,,,,berɨk,,,,,
 12197,54,39,toxm,,,326,toxm,,toxm,toχm,تخم,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2KrYrtmF
-5150,22,39,egg,,Middle English egge 'bird's egg' from Old Norse egg,93[497-8],egg,,ɛg,,,http://www.oed.com/view/Entry/59878?
+5150,22,39,egg,,Middle English egge 'bird's egg' from Old Norse egg,93[497-8],egg,,,ɛg,,http://www.oed.com/view/Entry/59878?
 21108,100,28,umrěti,,,,umrěti,,umræti,umræti,ѹмрѣти,
 12786,56,38,comer,,,,comer,,kuˈmeɾ,kuˈmeɾ,,
 21110,100,29,kopati,,"A possible alternative lexeme would be 'рыти' but in the canon it is attested in meaning 'tear, gnaw'.",,kopati,,kɔpɑti,kopati,копати,
@@ -1540,7 +1540,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 27335,124,57,miǧ,,,122,miǧ,,miʁ,miʁ,мигъ,
 30633,143,73,zemër,,Also 'middle'. No reliable explanation for etymology.,129;105[520-521],zemër,,,,,
 67135,296,15,waqhin,,,,waqhin,,,waχin,,
-5151,22,40,eye,,"Middle English from Old English ēge, ēage",357;93[550],eye,,aɪ,,,http://www.oed.com/view/Entry/67296?
+5151,22,40,eye,,"Middle English from Old English ēge, ēage",357;93[550],eye,,,aɪ,,http://www.oed.com/view/Entry/67296?
 67137,296,73,zord,,,,zord,,,zoɾd,,
 67138,296,96,thud,,,,thud,,,θud,,
 36699,175,32,pic,,,249,pic,,p(ʲj)its,pjits,,
@@ -1704,7 +1704,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67230,296,114,keno,,"probably loan, because *k > č elsewhere",,keno,,,keno,,
 67258,296,194,speyd,,Morgenstierne (1974: 74) is undecided whether it is a loanword or not,,speyd,,,spejd,,
 26203,122,41,colâ,,,,colâ,,ko'la,ko'laː,,http://claap.org/definizion/?diz=fur-it&leme=colâ
-5152,22,41,fall,,"Middle English fallen, Old English feallan",357;93[556],fall,,fɔ:l,,,http://www.oed.com/view/Entry/67829?
+5152,22,41,fall,,"Middle English fallen, Old English feallan",357;93[556],fall,,,fɔ:l,,http://www.oed.com/view/Entry/67829?
 67267,296,143,naleest,,"""nalïst < *ni-šasta-"" (Morgenstierne 1974: 50)",,naleest,,,nalɵst,,
 21155,100,69,rǫka,,,,rǫka,,rɔ̃kɑ,rõka,рѫка,
 36900,100,216,tvrĭdŭ,,,249,tvrĭdŭ,,tʋr̩ʲdʊ̆,tvr̩ʲdʊ,тврьдъ,
@@ -1747,7 +1747,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 28797,132,142,kanetu,,"Native script: <b>kanetu</b> (3.sg.imptv., IV 29).  Latin script: procanurent (3.pl.fut. + preverb pro-, VIa 16).",279[366-367],kanetu,,,,,
 3969,17,42,lluny,,,,lluny,,ʎuɲ,,,
 67303,296,184,qey chewg,,,,qey chewg,,,qej t͡ɕewɡ,,
-5153,22,42,far,,Old English feor,357;93[559],far,,fɑ:,,,http://www.oed.com/view/Entry/68130?
+5153,22,42,far,,Old English feor,357;93[559],far,,,fɑ:,,http://www.oed.com/view/Entry/68130?
 67305,296,13,qap chewg,,"The term with qap is basic and general. However, for a dog biting, it is more common to use waðoɾd (identical past and present forms), which literally means ‘grab’.",,qap chewg,,,qap t͡ɕewɡ,,
 30253,140,136,more,,"Attested as such, and in many compound names.",157[229],more,,,,,
 67307,296,38,qheeg,,,,qheeg,,,χɵɡ,,
@@ -1907,7 +1907,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 21243,100,140,ostrŭ,,,,ostrŭ,,ɔstrʊ̆,ostrʊ,остръ,
 21244,100,141,kratŭkŭ,,The word is not attested in the Canon but in younger texts only.,,kratŭkŭ,,krɑtʊkʊ̆,kratʊkʊ,кратъкъ,
 28428,130,180,dunte(d),,Native script: <b>dunte</b>[<b>d</b> (abl.sg. Cp 37),"279[189-190];401[443-446{Attested in a phrase on a curse tablet (CAPVA 34, line 4) <b>akrid eiseis dunte</b>[<b>d</b>, interpreted as 'by his sharp bite'.}]",dunte(d),,,,,
-5156,22,45,fear,,,93[563],fear,,fɪə,,,http://www.oed.com/view/Entry/68773?
+5156,22,45,fear,,,93[563],fear,,,fɪə,,http://www.oed.com/view/Entry/68773?
 28801,132,161,vapeře,,"Native script: <b>vapeře</b> (loc.sg., III 7), <b>vapefem</b> (acc.pl. + postpos. -en, Ib 14). Latin script: uapefe (acc.pl. + postpos. -en, VIa 10, VIb 51), uapersus (abl.pl., VIa 9), uapersusto (abl.pl. + postpos. -to, VIa 12, 13).  Cf. Palaeo-Umbrian (native script) <b>vape</b>[<b>řia</b> (acc.pl.n., Um 5) < *laped-i̯o- 'made of stone'.",279[823-824],vapeře,stone seat,,,,
 35768,174,202,strīya,,,320,strīya,NOM.SG.f,stɾi:jɐ,stɾiːi̯a,,
 61625,287,182,pārwacceda,,"(previously given ""γyr"" is intransitive, but cf. causative γyrȳ)",,pārwacceda,IPRF.3SG,,paːru̯at͜st͜seda,pʾrwc̈yd,
@@ -1939,7 +1939,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24592,118,17,hestik,,,,hestik,,,,,
 62832,292,18,sina,,but it is probably a loan event in Pashto,,sina,,ˈsi:.na,si:na,سينه,
 5751,25,46,plume,,,91[616],plume,,plym,plym,,http://www.cnrtl.fr/etymologie/plume
-5157,22,46,feather,,Middle English fether,357;93[564],feather,,'fɛðə,,,http://www.oed.com/view/Entry/68811?
+5157,22,46,feather,,Middle English fether,357;93[564],feather,,,'fɛðə,,http://www.oed.com/view/Entry/68811?
 23280,82,17,"āy, āyo",,"Suppletive pl. āsta; pace Stalmaszczyk and Witczak (1990:40-1) and Katz (1997:72-7), āy probably not from PIE *h₂ést by a rule of *-s > *-y in monosyllables.",345[48-50],"āy, āyo",bone,"aj, ˈajo","ayə, ayo",,
 4958,21,46,veer,,Changed from VEDER - not in dictionary.,95[388],veer,,ver,,,http://www.etymologiebank.nl/trefwoord/veer1
 23340,82,78,krorīya*,,"Attested in acc. krorīyai; cf. Toch. A kror 'crescent'. Generally taken from the family of *k̂rh₂sn- 'horn', but Hilmarsson (1985) compares Arm. ełǰiwr < PIE *g̑ʰréh₁-u̯r̥.",345[235];551[{compares Arm. ełǰiwr < PIE *g̑ʰréh₁-u̯r̥}],krorīya*,horn,kroˈrijə,krorə́ya,,
@@ -2114,7 +2114,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 9472,42,48,combate,,,,combate,,,komˈbatε,,
 36708,175,41,padnąc,,,249,padnąc,,ˈpɑ̈dnuts,ˈpadnuts,,
 13395,59,51,pește,,,,pește,,ˈpeʃte,ˈpeʃte,,https://dexonline.ro/definitie/pește
-5159,22,48,fight,,"Middle English fighten, Old English feohtan, fihtan",357;93[574],fight,,faɪt,,,http://www.oed.com/view/Entry/70038?
+5159,22,48,fight,,"Middle English fighten, Old English feohtan, fihtan",357;93[574],fight,,,faɪt,,http://www.oed.com/view/Entry/70038?
 17892,76,48,si bate,,,,si bate,,si 'bat,si 'bat,,
 30642,143,96,mëlçi,,"Also 'lung'. They can be distinguished as 'mëlçi e bardhë' = 'lung', 'mëlçi e zezë' = 'liver'. Originally 'spleen', borrowed < Ital milza 'id'.",105[259];129,mëlçi,,,,,
 67560,295,45,forhten,,,,forhten,,ˈforxten,ˈforxten,,
@@ -2138,7 +2138,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30259,140,181,prenne,,,157[252-253],prenne,,,,,
 67580,295,187,uuaskan,,,,uuaskan,,ˈwaskan,ˈwaskan,,
 8892,39,51,pesce,,,90[306],pesce,,'peʃʃe,ˈpeʃʃe,,
-5160,22,50,fire,,"Middle English fir, Old English fȳr",357;93[579],fire,,faɪə,,,http://www.oed.com/view/Entry/70512?
+5160,22,50,fire,,"Middle English fir, Old English fȳr",357;93[579],fire,,,faɪə,,http://www.oed.com/view/Entry/70512?
 14385,63,51,pisce,,,,pisce,,,,,
 20381,112,39,ōuum,,G.sg. ōuī,206,ōuum,egg,ˈoːwũ,ˈoːwum,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dovum
 5753,25,48,se battre,,,91[82],se battre,,sə batʀ,sə batʀ,,http://www.cnrtl.fr/etymologie/battre
@@ -2199,7 +2199,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 53824,253,66,zil′èn,,,,zil′èn,,zʲiˈlʲe̞n,ziˈlen,,
 28179,127,45,ad·ágathar,,,28,ad·ágathar,,að·aːɣəθər,,,http://dil.ie/255
 3977,17,51,peix,,,116[195],peix,,peʃ,,,
-5161,22,51,fish,,Old English fisc,93[581],fish,,fɪʃ,,,http://www.oed.com/view/Entry/70646?
+5161,22,51,fish,,Old English fisc,93[581],fish,,,fɪʃ,,http://www.oed.com/view/Entry/70646?
 5755,25,51,poisson,,,91[623],poisson,,pwasɔ̃,pwaˈsɔ̃,,http://www.cnrtl.fr/etymologie/poisson
 13396,59,52,cinci,,,,cinci,,ʧinʧ,ˈʧinʧ,,https://dexonline.ro/definitie/cinci
 16157,69,52,fem,,,,fem,,fɛmː,,,http://www.saob.se/artikel/?seek=fem
@@ -2220,7 +2220,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 53777,253,18,gr′ènd′ḁ,,,,gr′ènd′ḁ,,ˈɡɾʲe̞ndʲɐ,ˈɡrendæ,,
 4963,21,52,vijf,,,95[411],vijf,,vɛif,,,http://www.etymologiebank.nl/trefwoord/vijf
 53911,253,166,plàw′a,,,,plàw′a,,ˈplɑ̈βʲɐ,ˈplavja,,
-5162,22,52,five,,Old English fīf,357;93[583],five,,faɪv,,,http://www.oed.com/view/Entry/70797?
+5162,22,52,five,,Old English fīf,357;93[583],five,,,faɪv,,http://www.oed.com/view/Entry/70797?
 10270,46,52,penkì,,,530,penkì,,pʲɛŋˈkʲɪ,,,http://etimologija.baltnexus.lt/?w=penki
 52901,249,206,ɣ′ïd,,,,ɣ′ïd,,ɣʲi̞d̥,ɣʲi̞d,,
 52902,249,206,r′ïk,,,,r′ïk,,rʲi̞k,rʲi̞k,,
@@ -2477,7 +2477,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8703,38,58,cos,,,193;226,cos,,kos,,,http://www.teanglann.ie/ga/fgb/cos
 37710,130,99,niir,,"Native script <b>niir</b> (nom.sg., Cm 14), <b>ner(eís)</b> (gen.sg., 2x in Cp 25), <b>ner.</b> (acc.sg. or gen.pl.?, Po 40). Latin script: nerum (gen.pl., TB 29, 31).",279[495-496],niir,man,,,,
 4966,21,55,bloem,,,95[57],bloem,,blum,,,http://www.etymologiebank.nl/trefwoord/bloem
-5165,22,55,flower,,"Loanword from Romance (Buck 1949:526); Middle English flour from Old French flor, from Latin flōs, flōris.",93[593],flower,,flaʊə,,,http://www.oed.com/view/Entry/72003?
+5165,22,55,flower,,"Loanword from Romance (Buck 1949:526); Middle English flour from Old French flor, from Latin flōs, flōris.",93[593],flower,,,flaʊə,,http://www.oed.com/view/Entry/72003?
 8897,39,56,volare,,,90[478],volare,,vo'lare,voˈlare,,
 32117,148,130,cron,,,193,cron,,,,,
 9478,42,56,jolé,,,,jolé,,,ʒoˈle,,
@@ -2532,7 +2532,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 53860,253,49,nòft′,,,,nòft′,,no̞ɸtʲ,noftj,,
 53894,253,143,s′ä̀d′a,,,,s′ä̀d′a,,ˈsʲædʲɐ,ˈsædja,,
 52797,249,99,čọlọv′ík,,,,čọlọv′ík,,tʂoloβʲik,tʂoloˈvʲik,,
-5166,22,56,fly,,"Middle English flien, from Old English flēogan",357;93[595],fly,,flaɪ,,,http://www.oed.com/view/Entry/72266?
+5166,22,56,fly,,"Middle English flien, from Old English flēogan",357;93[595],fly,,,flaɪ,,http://www.oed.com/view/Entry/72266?
 10273,46,55,gėlė̃,,prob. cognate with terms for 'yellow' cognate set 174,530,gėlė̃,,ɡʲe:ˈlʲe:,,,http://etimologija.baltnexus.lt/?w=gele
 13400,59,56,a zbura,,,,a zbura,,a zbuˈɾa,a zbuˈra,,https://dexonline.ro/definitie/a zbura
 4178,18,57,mlha,,,,mlha,,ˈml̩ɦɑ̈,ˈmlɦa,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=mlha
@@ -2640,7 +2640,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13402,59,58,picior,,Also 'leg'.,,picior,,piˈt͡ʃʲor,piˈʧjor,,https://dexonline.ro/definitie/picior
 15181,66,58,noha,,,,noha,,ˈnɔɦɑ̈,ˈnoɦa,,http://slovnik.azet.sk/pravopis/?q=noha
 15771,97,59,štiri,,,,štiri,,ˈʃtìːɾi,ˈʃtìːri,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4292655/stirje
-5167,22,57,fog,,,357;57;93[597],fog,,fɑg,,,http://www.oed.com/view/Entry/72391?
+5167,22,57,fog,,,357;57;93[597],fog,,,fɑg,,http://www.oed.com/view/Entry/72391?
 8310,36,57,þoka,,,,þoka,,ˈθɔːka,,,
 26217,122,55,flôr,,,,flôr,,'floːr,'floːr,,http://claap.org/definizion/?diz=fur-it&leme=flôr1
 67836,298,209,þēoh,,,,þēoh,,θeːo̯x,θeːo̯h,,
@@ -2694,7 +2694,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67881,298,198,wind,,,,wind,,wind,wind,,
 20389,112,45,timēre,,"timeō, timēre, timuī",206[{May be used intransitively in sense of 'be afraid' or transitively take an accusative object of the object feared.}],timēre,"to experience fear, be afraid",tiˈmeːre,tiˈmeːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dtimeo
 67883,298,104,beorh,,,,beorh,,beo̯rx,beo̯rh,,
-5168,22,58,foot,,"Middle English fot, Old English fōt",357;93[599-600],foot,,fʊt,,,http://www.oed.com/view/Entry/72682?
+5168,22,58,foot,,"Middle English fot, Old English fōt",357;93[599-600],foot,,,fʊt,,http://www.oed.com/view/Entry/72682?
 31350,145,56,fliuoga,,,"202[300{""fliuoga""}]",fliuoga,,ˈfljʉ̀əgɑ,ˈfljʉ̀əgɑ,,
 10668,48,60,mjerznyć,,,,mjerznyć,,ˈm(ĕ)ɛɐznɘ̟tʃ,ˈmjɛʀznɘ̟tʃ,,
 24603,118,71,ser,,,363,ser,,,,,
@@ -2789,7 +2789,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67927,298,130,sinhwurfol,,,,sinhwurfol,,ˈsinˌʍurvol,ˈsinˌhwurfol,,
 67928,298,216,heard,,,,heard,,hæɑ̯rd,hæɑ̯rd,,
 67929,298,140,scearp,,,,scearp,,ʃæɑ̯rp,ʃæɑ̯rp,,
-5169,22,59,four,,Old English fēower,357;93[608],four,,fɔ:,,,http://www.oed.com/view/Entry/73969?
+5169,22,59,four,,Old English fēower,357;93[608],four,,,fɔ:,,http://www.oed.com/view/Entry/73969?
 67930,298,150,smēþe,,,,smēþe,,smeːθe,smeːθe,,
 67931,298,162,riht,,,,riht,,riçt,riht,,
 67933,298,66,grēne,,,,grēne,,ˈɡreːne,ˈɡreːne,,
@@ -2905,7 +2905,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 67992,298,222,helan,,,,helan,,ˈhelɑn,ˈhelɑn,,
 67996,298,108,nēah,,,,nēah,,næːɑ̯x,næːɑ̯h,,
 67998,298,42,feorr,,,,feorr,,feo̯rr,feo̯rr,,
-5170,22,60,freeze,,"Middle English fresen, Old English freōsan",357;93[614],freeze,,fri:z,,,http://www.oed.com/view/Entry/74442?
+5170,22,60,freeze,,"Middle English fresen, Old English freōsan",357;93[614],freeze,,,fri:z,,http://www.oed.com/view/Entry/74442?
 17904,76,61,frut,,often pl.,,frut,,fʁy,fʁy,,
 67999,298,124,swīþra,,,,swīþra,,ˈswiːðrɑ,ˈswiːθrɑ,,
 68000,298,92,winestra,,,,winestra,,ˈwinestrɑ,ˈwinestrɑ,,
@@ -2937,7 +2937,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23900,115,151,nathair,,,,nathair,,,Nahɪrʲ,,
 68022,299,112,nase,,,,nase,,ˈnasə,ˈnasə,,
 36449,176,46,perü,,,354,perü,,pɛˈry,pɛˈry,,
-5171,22,61,fruit,,"Middle English, from Old French, from Latin frūctus 'enjoyment, fruit'",93[620],fruit,,fru:t,,,http://www.oed.com/view/Entry/75072?
+5171,22,61,fruit,,"Middle English, from Old French, from Latin frūctus 'enjoyment, fruit'",93[620],fruit,,,fru:t,,http://www.oed.com/view/Entry/75072?
 68023,299,36,ôre,,,,ôre,,ˈoːrə,ˈoːrə,,
 68024,299,105,munt,,,,munt,,munt,munt,,
 68025,299,180,zan,,,,zan,,tsan,tsan,,
@@ -3039,7 +3039,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 53696,254,213,s′ä̀ŋka,,,,s′ä̀ŋka,,ˈsʲæŋkɐ,ˈsænka,,
 53707,254,152,sn′ä̀k,,,,sn′ä̀k,,snʲæk,snæɡ,,
 52697,249,4,pọ́p′ïl,,,,pọ́p′ïl,,ˈpopʲi̞l,ˈpopi̞l,,
-5172,22,63,give,,,93[653],give,,gɪv,,,http://www.oed.com/view/Entry/78553?
+5172,22,63,give,,,93[653],give,,,gɪv,,http://www.oed.com/view/Entry/78553?
 68077,299,27,tac,,,,tac,,tak,tak,,
 68078,299,102,mâne,,,,mâne,,ˈmaːnə,ˈmaːnə,,
 68079,299,111,nacht,,,,nacht,,naxt,naxt,,
@@ -3065,7 +3065,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12418,55,64,dobry,,,142,dobry,,ˈdɔbɾɘ̟,ˈdobrɨ,,http://sjp.pwn.pl/szukaj/dobry
 4974,21,64,goed,,,95[142-3],goed,,ɣut,,,http://www.etymologiebank.nl/trefwoord/goed
 24136,120,55,Blumm,,,"448[1, 125{Volume 1.}]",Blumm,,,,,
-5173,22,64,good,,Old English gōd,357;93[665],good,,gʊd,,,http://www.oed.com/view/Entry/79925?
+5173,22,64,good,,Old English gōd,357;93[665],good,,,gʊd,,http://www.oed.com/view/Entry/79925?
 52771,249,74,t′aškώj,,,,t′aškώj,,(tʲ/c)ɑ̈ʂˈkɤ̟j,tʲaʐˈkɯj,,
 5767,25,64,bon,,,91[94-5],bon,,bɔ̃,bɔ̃,,http://www.cnrtl.fr/etymologie/bon
 17906,76,64,bon,,,,bon,,bõ,bõ,,
@@ -3189,7 +3189,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 31356,145,62,full,,,177,full,,fʉlː,fʉlː,,
 14399,63,66,birde,,,,birde,,,,,
 12811,56,65,erva,,,,erva,,ˈɛɾvɐ,ˈɛɾvɐ,,
-5174,22,65,grass,,"Middle English gras, Old English græs",357;93[675],grass,,grɑ:s,,,http://www.oed.com/view/Entry/80887?
+5174,22,65,grass,,"Middle English gras, Old English græs",357;93[675],grass,,,grɑ:s,,http://www.oed.com/view/Entry/80887?
 5768,25,65,herbe,,,91[405],herbe,,ɛʀb,ɛʀb,,http://www.cnrtl.fr/etymologie/herbe
 4975,21,65,gras,,,95[145],gras,,ɣrɑs,,,http://www.etymologiebank.nl/trefwoord/gras
 15970,68,65,hierba,,,,hierba,,'jeɾβa,ˈjeɾba,,http://dle.rae.es/?id=KMZGtT3
@@ -3219,7 +3219,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30749,144,12,ciṅraī,,,169,ciṅraī,,ciɽəĩ,,चिंरई,
 6364,26,69,hân,,,124[370],hân,,hɔ:n,,,
 32127,148,164,houl,,,193,houl,,,,,
-5175,22,66,green,,,93[678],green,,gri:n,,,http://www.oed.com/view/Entry/81167?
+5175,22,66,green,,,93[678],green,,,gri:n,,http://www.oed.com/view/Entry/81167?
 44985,219,11,gáaḍu,,,,gáaḍu,,ˈgaːɖu,gáaɖu,گاڈوۡ,
 37730,130,224,fakiiad,,"Native script: <b>fakiiad</b> (3.sg.subj.pres., Cp 33).  Latin script: factud (3.sg.imptv., TB 9), fe&lt;f&gt;acid (3.sg.subj.pf., TB 10), fefacust (3.sg.fut., TB 11, 17), facus estud (3.sg.imptv.pass.m., TB 30).  Greek script: ανα:fακετ (3.sg.pf., Lu 18).",279,fakiiad,,,,,
 8713,38,69,lámh,,,193;226,lámh,,"l̪ˠɑːvˠ, l̪ˠæːw",,,http://www.teanglann.ie/ga/fgb/lámh
@@ -3391,7 +3391,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4978,21,68,haar,,,95[149],haar,,har,,,http://www.etymologiebank.nl/trefwoord/haar2
 37207,178,72,ašnawēd,,"""hear, understand""; Past ʾšnwd /ašnūd-/; ZP ʾšnw-(t-); attested ʾšnwynd PRS.IND.3PL",359,ašnawēd,PRS.IND.3SG,aʃnaw-,aʃnau̯eːd,ʾšnwyd,
 68231,300,10,buuc,,,,buuc,,byːk,byːk,,
-5177,22,68,hair,,,93[698],hair,,hɛə,,,http://www.oed.com/view/Entry/83299?
+5177,22,68,hair,,,93[698],hair,,,hɛə,,http://www.oed.com/view/Entry/83299?
 68233,300,210,navele,,,,navele,,ˈnaːvələ,ˈnaːvələ,,
 68234,300,6,rugghe,,,,rugghe,,ˈryɡɡə,ˈryɣɣə,,
 68235,300,93,been,,,,been,,beːn,beːn,,
@@ -3429,7 +3429,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23137,81,55,pyāpi,,Etymology unknown.,345[440],pyāpi,flower,pjapi,pyāpi,,
 28502,129,59,čʿors,,,28,čʿors,,tʃʰɔɾkʰ,tʃʰɔɾ-i-kʰ,չորք,
 4979,21,69,hand,,,95[151],hand,,hɑnt,,,http://www.etymologiebank.nl/trefwoord/hand
-5178,22,69,hand,,,93[704],hand,,hænd,,,http://www.oed.com/view/Entry/83801?
+5178,22,69,hand,,,93[704],hand,,,hænd,,http://www.oed.com/view/Entry/83801?
 17911,76,69,min,,,,min,,mẽ,mẽ,,
 3994,17,69,mà,,,116[165],mà,,ma,,,
 35931,177,176,treĩs,,> 30 attestations in the NT.,330;329,treĩs,three,tris,tris,τρεῖς,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=trei=s
@@ -3622,7 +3622,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 39958,195,134,lalṓ,,,,lalṓ,,lɐˈlɔ,lɐˈlɔ,λαλώ,
 4193,18,73,srdce,,,,srdce,,ˈsɾ̩tsɛ,ˈsrtse,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=srdce&sti=86821
 19370,111,57,dhūn,,,29,dhūn,,dʰun,,धून,
-5180,22,71,head,,,93[715-16],head,,hɛd,,,http://www.oed.com/view/Entry/84896?
+5180,22,71,head,,,93[715-16],head,,,hɛd,,http://www.oed.com/view/Entry/84896?
 37711,132,99,nerf,,"Latin script: nerf (acc.pl., 13x between VIa 30 - VIIa 48), nerus (dat.pl., VIb 62, VIIa 13, 14, 28, 50).",279[495-496],nerf,,,,,
 30662,143,132,kripë,,"< Pr. Alb. *krūpā, connected with ON hrufa 'scab', Lith kraupùs 'rough', kraupis 'scab', Latv kraũpus 'frail, brittle'.",105[197];129,kripë,,,,,
 32479,140,33,tarto-,,"Reconstructed form, based on attestations of male names.",193[26],tarto-,,,,,
@@ -3679,7 +3679,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 7554,32,76,chtypṓ,,Variant form χτυπάω [xtiˈpao̞].,271,chtypṓ,"knock, bang, hit (on)",xtiˈpo̞,xtiˈpo̞,χτυπώ,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=χτυπώ
 4982,21,72,horen,,,95[164],horen,,'horə(n),,,http://www.etymologiebank.nl/trefwoord/horen1
 45049,219,90,háansa,,,,háansa,,ˈɦã̤ːsa,háansa,ہانسہ,
-5181,22,72,hear,,"Middle English hearen, Old English hīeran",357;93[717],hear,,hɪə,,,http://www.oed.com/view/Entry/85048?
+5181,22,72,hear,,"Middle English hearen, Old English hīeran",357;93[717],hear,,,hɪə,,http://www.oed.com/view/Entry/85048?
 31362,145,68,år,,,202[504{år -eð (-ę) = hår}],år,,ɔːr,ɔːr,,
 39969,195,166,kolympṓ,,,,kolympṓ,,kɔliˈmbɔ,kɔliˈmpɔ,κολυμπώ,
 45051,219,92,khúši,,,,khúši,,ˈkʰuɕi,kʰúɕi,کُھشیۡ,
@@ -3740,7 +3740,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 10290,46,73,širdìs,,,530,širdìs,,ʃʲɪrʲˈdʲɪs,,,http://etimologija.baltnexus.lt/?w=širdis
 15195,66,73,srdce,,,,srdce,,ˈsr̩tsɛ,ˈsrtse,,http://slovnik.azet.sk/pravopis/?q=srdce
 7567,32,91,fýllo,,,271,fýllo,leaf,ˈfilo̞,ˈfilo̞,φύλλο,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=φύλλο
-5182,22,73,heart,,"Middle English hert, Old English heorte",357;93[717],heart,,hɑ:t,,,http://www.oed.com/view/Entry/85068?
+5182,22,73,heart,,"Middle English hert, Old English heorte",357;93[717],heart,,,hɑ:t,,http://www.oed.com/view/Entry/85068?
 13416,59,73,inimă,,,,inimă,,ˈinimə,ˈinimə,,https://dexonline.ro/definitie/inimă
 5776,25,73,cœur,,,91[155],cœur,,kœʀ,kœʀ,,http://www.cnrtl.fr/etymologie/cœur
 30387,141,11,′âl,,,565,′âl,,ˈal,ˈal,′al,
@@ -3781,7 +3781,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 19397,111,80,shikār khelanā,,animal context,29;7,shikār khelanā,,ʃɪkɑɾ kʰelnɑ,,शिकार खेलना,
 34780,162,92,vāma,,,246[609],vāma,,,,vāma,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=vāma
 45068,219,112,náas,,,,náas,,n̪aːs,náas,ناس,
-5183,22,74,heavy,,"Middle English hevi, Old English hefig",93[719],heavy,,'hɛvɪ,,,http://www.oed.com/view/Entry/85246?
+5183,22,74,heavy,,"Middle English hevi, Old English hefig",93[719],heavy,,,'hɛvɪ,,http://www.oed.com/view/Entry/85246?
 4984,21,74,zwaar,,,95[459-60],zwaar,,zwar,,,http://www.etymologiebank.nl/trefwoord/zwaar
 10291,46,74,sunkùs,,,530,sunkùs,,,,,http://etimologija.baltnexus.lt/?w=sunkus
 24617,118,109,sto,,,363,sto,,,,,
@@ -3987,7 +3987,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37727,132,220,fertu,,"Native script: <b>fertu</b> (3.sg.imptv., 16x between IIa 17 to IIb 16), <b>fertuta</b> (3.pl.imptv., III 13), <b>ferest</b> (3.sg.fut., IIa 26).  Latin script: f&lt;e&gt;rar (3.sg.subj.pass.?, VIb 50), fertu (3.sg.imptv., 2x in VIb 50).  With preverb am-, Native script: <b>aferum</b> (inf., Ib 10). Latin script: anferener (gerundive, gen.sg.m., VIa 19).  Suppletive perfect stem < *deh₃- Native script: <b>ateřafust</b> (3.sg.fut., Ib 40), Latin script: andersafust (3.sg.fut., VIIb 3), andirsafust (3.sg.fut., VIIa 46).",279[275-278],fertu,,,,,
 23918,115,17,cnàmh,,,193,cnàmh,,,krãːv,,
 20410,112,64,bonus,,"G.sg. bonī; bonus, bona, bonum. Old Latin DUENOS (CIL 1.4).",206,bonus,good,ˈbonus,ˈbonus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dbonus
-5188,22,80,hunt,,"Middle English hunten, Old English huntian",357;93[758],hunt,,hʊnt,,,http://www.oed.com/view/Entry/89514?
+5188,22,80,hunt,,"Middle English hunten, Old English huntian",357;93[758],hunt,,,hʊnt,,http://www.oed.com/view/Entry/89514?
 15984,68,80,cazar,,,,cazar,,ka'θaɾ,kaˈθaɾ,,http://dle.rae.es/?w=cazar
 4202,18,83,led,,,,led,,lɛt,led,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=led
 6356,26,58,foet,,,,foet,,fuət,,,
@@ -4185,7 +4185,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68823,302,218,fara,,,,fara,,ˈfara,ˈfara,,
 24154,120,105,Mond,,,"448[3, 165{Volume 3.}]",Mond,,,,,
 68824,302,24,koma,,,,koma,,ˈkoma,ˈkoma,,
-5191,22,83,ice,,"Middle English ise, Old English īs",357;93[769],ice,,aɪs,,,http://www.oed.com/view/Entry/90765?
+5191,22,83,ice,,"Middle English ise, Old English īs",357;93[769],ice,,,aɪs,,http://www.oed.com/view/Entry/90765?
 68825,302,182,venda,,,,venda,,ˈwenda,ˈwenda,,
 68826,302,158,standa,,,,standa,,ˈstanda,ˈstanda,,
 68827,302,143,sitja,,,,sitja,,ˈsitja,ˈsitja,,
@@ -4360,7 +4360,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68973,303,23,kalds,,,,kalds,,kalds,kalds,𐌺𐌰𐌻𐌳𐍃,
 5789,25,88,savoir,,"To know facts/knowledge, not people.",91[743-4],savoir,,savwaʀ,savˈwaʀ,,http://www.cnrtl.fr/etymologie/savoir
 23923,115,46,ite,,,47[245];193;232,ite,,,içdʲə,,
-5195,22,88,know,,"Middle English knowen, Old English cnāwan",357;93[860],know,,nəʊ,,,http://www.oed.com/view/Entry/104157?
+5195,22,88,know,,"Middle English knowen, Old English cnāwan",357;93[860],know,,,nəʊ,,http://www.oed.com/view/Entry/104157?
 15990,68,86,matar,,,,matar,,ma'taɾ,maˈtaɾ,,http://dle.rae.es/?w=matar
 10502,47,90,smjaś se,,,,smjaś se,,ˈsm(ʲ)jɑ̈ɕ sɛ,ˈsmjaɕ se,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/smjaś se
 4995,21,86,doden,,,95[91],doden,,'dodə(n),,,http://www.etymologiebank.nl/trefwoord/doden
@@ -4380,7 +4380,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 68959,303,50,fon,,,,fon,,foːn,foːn,𐍆𐍉𐌽,
 21255,100,152,sněgŭ,,,,sněgŭ,,snægʊ̆,snægʊ,снѣгъ,
 28213,127,78,adarc,,,28,adarc,,aðərk,,,http://dil.ie/307
-5194,22,86,kill,,,93[853],kill,,kɪl,,,http://www.oed.com/view/Entry/103361?
+5194,22,86,kill,,,93[853],kill,,,kɪl,,http://www.oed.com/view/Entry/103361?
 24630,118,28,dɨmɨrit,,,,dɨmɨrit,,,,,
 45160,219,148,ɡhróoṇ,,,,ɡhróoṇ,,ɡɾo̤ːɳ,ɡrhóoɳ,گھروݨ,
 68966,303,61,akran,,,,akran,,ˈakran,ˈakran,𐌰𐌺𐍂𐌰𐌽,
@@ -4514,7 +4514,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4210,18,92,levý,,,,levý,,ˈlɛviː,ˈleviː,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=levý
 36476,176,216,tjordă,,Neuter.,354,tjordă,,ˈtjɔrdɜ,ˈtjordɜ,,
 16193,69,91,löv,,,121[261],löv,,lø:v,,,http://www.saob.se/artikel/?seek=löv
-5198,22,91,leaf,,,93[885],leaf,,li:f,,,http://www.oed.com/view/Entry/106624?
+5198,22,91,leaf,,,93[885],leaf,,,li:f,,http://www.oed.com/view/Entry/106624?
 35229,172,74,ponnher,,"Further graphic variants: ponher, pounher, ponner, poner, pouner",280[2628];283,ponnher,"heavy; grave, serious",ˈponːer,,,
 41281,195,71,tžefalī́,,,,tžefalī́,,tʃɛfɐˈli,tʃɛfɐˈli,τζ̆εφαλή,
 21297,100,186,toplŭ,,There was possibly a dialectal variant 'тєплъ' (-e- in attested in the Canon in derivatives).,,toplŭ,,tɔplʊ̆,toplʊ,топлъ,
@@ -4537,7 +4537,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 40125,195,204,skoyloýtžin,,Alternative form: σκούλουκος.,,skoyloýtžin,,skuˈlutʃin,skuˈlukin,σκουλούτζ̆ιν,
 36896,100,213,sěnĭ,,Probably a shadow of a thing and not of a person?,249,sěnĭ,,sænɪ̆,sænɪ,сѣнь,
 50626,144,218,jānā,,,,jānā,,ʤɑnɑ,,जाना,
-5197,22,90,laugh,,,93[880],laugh,,lɑ:f,,,http://www.oed.com/view/Entry/106250?
+5197,22,90,laugh,,,93[880],laugh,,,lɑ:f,,http://www.oed.com/view/Entry/106250?
 10305,46,90,júoktis,,,530,júoktis,,,,,http://etimologija.baltnexus.lt/?w=juoktis
 36897,100,213,stěnĭ,,Attested in both meanings 'shadow of a man' and 'shadow of a thing'.,249,stěnĭ,,stænɪ̆,stænɪ,стѣнь,
 50627,144,225,pisanā,,,,pisanā,,pɪsənɑ,,पिसना,
@@ -4598,7 +4598,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17932,76,92,gôche,,,,gôche,,,,,
 12836,56,92,esquerdo,,,,esquerdo,,ɨʃˈkeɾdu,ɨʃˈkeɾdu,,
 49866,111,223,bokaranā,,,,bokaranā,,bokərnɑ,,बोकरना,
-5200,22,93,leg,,"Middle English, borrowed from Old Norse leggr",93[888],leg,,lɛg,,,http://www.oed.com/view/Entry/107003?
+5200,22,93,leg,,"Middle English, borrowed from Old Norse leggr",93[888],leg,,,lɛg,,http://www.oed.com/view/Entry/107003?
 49873,111,69,hāth,,,,hāth,,hɑt̪ʰ,,हाथ,
 49874,111,216,kaṛā,,,,kaṛā,,kəɽɑ,,कड़ा,
 20421,112,73,cor,,G.sg. cordis,206,cor,heart,kor,kor,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dcor
@@ -4683,7 +4683,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8934,39,96,fegato,,,90[159],fegato,,'fegato,ˈfegato,,
 32503,140,130,kurro-,,"Reconstructed form, based on attestations. Related to [cognate set 2444](cog-2444)?",193[29],kurro-,,,,,
 6582,27,96,Leber,,,96[829],Leber,,'le:bɐ,,,
-5202,22,95,live,,,93[910],live,,lɪv,,,http://www.oed.com/view/Entry/109300?
+5202,22,95,live,,,93[910],live,,,lɪv,,http://www.oed.com/view/Entry/109300?
 21159,100,72,slyšati,,,,slyšati,,slɯʃati,slɯʃati,слышати,
 35233,172,78,"corn, cornn",,,280[1597];283,"corn, cornn",horn (of animal); musical instrument,ˈkorn,,,
 21943,108,101,mensā,,"EV menso, Gr mense",28;532,mensā,,,,,
@@ -4698,7 +4698,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4019,17,96,fetge,,,116[123],fetge,,'fedʒə,,,
 36298,148,124,dehou,,,301[251],dehou,,,,,
 14428,63,97,longu,,,,longu,,,,,
-5203,22,96,liver,,,93[911],liver,,'lɪvə,,,http://www.oed.com/view/Entry/109323?
+5203,22,96,liver,,,93[911],liver,,,'lɪvə,,http://www.oed.com/view/Entry/109323?
 5004,21,96,lever,,,95[212],lever,,'levər,,,http://www.etymologiebank.nl/trefwoord/lever1
 36752,175,78,róg,,,249,róg,,ɾuk,ruɡ,,
 21944,108,102,menig,,,28;532,menig,,,,,
@@ -4741,7 +4741,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12449,55,97,długi,,,142,długi,,"ˈdwuɡʲi, ˈduwɡʲi","ˈdwuɟi, ˈduwɟi",,http://sjp.pwn.pl/szukaj/długi
 15218,66,98,voš,,,,voš,,vɔʃ,voʃ,,http://slovnik.azet.sk/pravopis/?q=voš
 6393,26,104,berch,,,124[78],berch,,bɛrx,,,
-5204,22,97,long,,,93[917],long,,lɒŋ,,,http://www.oed.com/view/Entry/109975?
+5204,22,97,long,,,93[917],long,,,lɒŋ,,http://www.oed.com/view/Entry/109975?
 10312,46,97,ìlgas,,,530,ìlgas,,,,,http://etimologija.baltnexus.lt/?w=ilgas
 36299,148,27,"ded, did",,,"301[132, 138]","ded, did",day,,,,
 5005,21,97,lang,,,95[207-8],lang,,lɑŋ,,,http://www.etymologiebank.nl/trefwoord/lang
@@ -4776,7 +4776,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26255,122,93,gjambe,,,,gjambe,,'ɟaŋʷbe,'ɟambe,,http://claap.org/definizion/?diz=fur-it&leme=gjambe
 56270,141,46,pâṭ′a,,,,pâṭ′a,feather; wing,paʈˈɨ,paʈˈɨ,paṭ′ə,
 14827,95,101,meso,,,,meso,,ˈmê̞ːsɔ,ˈmêːso,,http://hjp.znanje.hr/index.php?show=search_by_id&id=e1pmUBU
-5205,22,98,louse,,Old English lūs,93[923],louse,,laʊs,,,http://www.oed.com/view/Entry/110530?
+5205,22,98,louse,,Old English lūs,93[923],louse,,,laʊs,,http://www.oed.com/view/Entry/110530?
 6395,26,106,namme,,,124[641],namme,,'namə,,,
 4021,17,98,poll,,,116[205],poll,,poʎ,,,
 17938,76,98,piou,,,,piou,,,,,
@@ -4793,7 +4793,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12254,54,101,gūšt,,,326,gūšt,,ɡuʃt,ɡuʃt,گوشت,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2q%2fZiNi02Ko%3d
 23936,115,69,làmh,,,193,làmh,,ɫ̪ãːv,Laːv,,
 5800,25,99,homme,,,91[409],homme,,ɔm,ɔm,,http://www.cnrtl.fr/etymologie/homme
-5206,22,99,man,,,93[947],man,,mæn,,,http://www.oed.com/view/Entry/113198?
+5206,22,99,man,,,93[947],man,,,mæn,,http://www.oed.com/view/Entry/113198?
 4022,17,99,home,,,,home,,ˈɔmə,,,
 36301,148,71,"pen, penn",,,301[283],"pen, penn","head, end, extremity",,,,
 4219,18,101,maso,,,,maso,,ˈmɑ̈sɔ,ˈmaso,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=maso&sti=36077
@@ -4837,7 +4837,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12453,55,101,mięso,,,,mięso,,ˈmʲjɛɰ̃sɔ,ˈmjeŋso,,http://sjp.pwn.pl/szukaj/mięso
 8941,39,104,montagna,,,90[266],montagna,,"mon'taɲɲa, 'monte","monˈtaɲɲa, ˈmonte",,
 4221,18,104,hora,,,,hora,,ˈɦɔɾa,ˈɦora,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=hora
-5208,22,101,meat,,,93[969],meat,,mi:t,,,http://www.oed.com/view/Entry/115517?
+5208,22,101,meat,,,93[969],meat,,,mi:t,,http://www.oed.com/view/Entry/115517?
 6398,26,109,hals,,,124[369],hals,,hɔls,,,
 881,3,105,gojë,,"Borrowed < It gola id (?), made obvious by variant golë.",,gojë,,,,,
 56280,141,218,′e-,,,,′e-,,ˈɛ̱-,ˈɛ̱-,e-,
@@ -4885,7 +4885,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 10710,48,107,wuski,,,,wuski,,ˈ(w/h)uskʲi,ˈwuski,,
 14832,95,107,uzak,,,,uzak,,ˈûzɑ̈k,ˈûzak,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f19hWRR0
 12455,55,104,góra,,,,góra,,ˈɡuɾɑ̈,ˈɡura,,http://sjp.pwn.pl/szukaj/góra
-5210,22,104,mountain,,"Middle English mountaine, from Old French montaigne, muntaigne, from Vulgar Latin *montānea from Latin montānus, from mōns, mont- 'mountain'.",357;93[1020],mountain,,'maʊntɪn,,,http://www.oed.com/view/Entry/122893?
+5210,22,104,mountain,,"Middle English mountaine, from Old French montaigne, muntaigne, from Vulgar Latin *montānea from Latin montānus, from mōns, mont- 'mountain'.",357;93[1020],mountain,,,'maʊntɪn,,http://www.oed.com/view/Entry/122893?
 31392,145,98,laus,,,"202[355{""laus""}]",laus,,lɑʉs,lɑʉs,,
 14435,63,105,bucca,,,,bucca,,,,,
 4026,17,104,muntanya,,,116[177],muntanya,,mun'taɲə,,,
@@ -4905,7 +4905,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 15814,97,107,ozek,,,,ozek,,ˈòːzək,ˈòːzək,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4289827/ozek
 21951,108,111,nacktien,,acc.sg.,28;532,nacktien,,,,,
 6591,27,106,Name,,,96[921],Name,,'na:mə,,,
-5211,22,105,mouth,,,93[1021],mouth,,maʊθ,,,http://www.oed.com/view/Entry/122997?
+5211,22,105,mouth,,,93[1021],mouth,,,maʊθ,,http://www.oed.com/view/Entry/122997?
 4027,17,105,boca,,,,boca,,ˈbokə,,,
 36307,148,140,lemm*,,Attested by the verb lemhaam 'to sharpen',301[319],lemm*,,,,,
 24645,118,164,ḥatav,,,,ḥatav,,,,,
@@ -4944,7 +4944,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 885,3,109,qafë,,"Borrowed < Turk. kafa 'occupit, head'. Poss. link with Lat. caput? Rum ceafă is an Albanian loanword!",105[353],qafë,,,,,
 35244,172,88,"gouzout, gouzuout",,"Compound of Old Breton guid-, Middle Breton gouz- 'to know' and -but, the verbal noun of 'to be'.",280[1036-1041];283,"gouzout, gouzuout","to know, to be acquainted with, to be able",ˈguːðut,,,
 20433,112,83,glaciēs,,G.sg. glaciēī,206,glaciēs,ice,gɫaˈkieːs,glaˈkieːs,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dglacies
-5212,22,106,name,,,93[1035],name,,neɪm,,,http://www.oed.com/view/Entry/124918?
+5212,22,106,name,,,93[1035],name,,,neɪm,,http://www.oed.com/view/Entry/124918?
 4028,17,106,nom,,,,nom,,nɔm,,,
 5806,25,106,nom,,,91[544-5],nom,,nɔ̃,nɔ̃,,http://www.cnrtl.fr/etymologie/nom
 6401,26,112,noas,,,124[655-6],noas,,no.əs,,,
@@ -4961,7 +4961,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8751,38,110,nua,,,193;226,nua,,nˠuːə,,,http://www.teanglann.ie/ga/fgb/nua
 8944,39,107,stretto,,,90[429],stretto,,'stretto,ˈstɾetto,,
 36310,148,102,"loir, loer",,,301[319],"loir, loer",,,,,
-5213,22,107,narrow,,"Middle English narwe, Old English nearu",357;93[1037],narrow,,'nærəʊ,,,http://www.oed.com/view/Entry/125152?
+5213,22,107,narrow,,"Middle English narwe, Old English nearu",357;93[1037],narrow,,,'nærəʊ,,http://www.oed.com/view/Entry/125152?
 30695,143,80,gjuaj,,Orel also gives gjuej.,129;105[137],gjuaj,,,,,
 886,3,110,ri,,"Also 'young, recent'. From PAlb *rija < IE *er-, *or- 'to rise, to make move', cf ON orr 'quick', OS aru id, of similar origin.",105[371],ri,,,,,
 14835,95,110,nov,,,,nov,,nɔ̂v,nôv,,http://hjp.znanje.hr/index.php?show=search_by_id&id=eFxnXhQ
@@ -5009,7 +5009,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8946,39,109,collo,,,90[84],collo,,'kollo,ˈkollo,,
 36492,176,83,led,,,354,led,,lɛd,lɛd,,
 27775,128,105,āh,,OAv. ǝ̄ǝāh,28;184,āh,N.n,,aːh,𐬁𐬵,
-5214,22,108,near,,,93[1042],near,,nɪə,,,http://www.oed.com/view/Entry/125544?
+5214,22,108,near,,,93[1042],near,,,nɪə,,http://www.oed.com/view/Entry/125544?
 21955,108,115,ains,,,28;532,ains,,,,,
 6594,27,109,Hals,,,96[600],Hals,,hals,,,
 17947,76,108,près,,,,près,,,,,
@@ -5047,8 +5047,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5809,25,109,cou,,,91[191],cou,,ku,ku,,http://www.cnrtl.fr/etymologie/cou
 8947,39,110,nuovo,,,90[278],nuovo,,'nwɔvo,ˈnwɔvo,,
 20436,112,86,interficere,,"interficiō, interficere, interfēcī, interfectum",206,interficere,"to do away with, put to death, kill",interˈfikere,interˈfikere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dinterficio
-5215,22,109,neck,,"Middle English nekke, Old English hnecca",357;93[1043],neck,,nɛk,,,http://www.oed.com/view/Entry/125652?
-5216,22,110,new,,"Middle English newe, Old English nīwe, nēowe",357;93[1050],new,,nju:,,,http://www.oed.com/view/Entry/126504?
+5215,22,109,neck,,"Middle English nekke, Old English hnecca",357;93[1043],neck,,,nɛk,,http://www.oed.com/view/Entry/125652?
+5216,22,110,new,,"Middle English newe, Old English nīwe, nēowe",357;93[1050],new,,,nju:,,http://www.oed.com/view/Entry/126504?
 36494,176,86,aibĕt,,,354,aibĕt,,ˈaibɘt,ˈaibɘt,,
 9146,40,110,now,,,,now,,noʋ,noʋ,وکِبس,
 13451,59,111,noapte,,,,noapte,,ˈno̯ap.te,ˈno̯apte,,https://dexonline.ro/definitie/noapte
@@ -5092,7 +5092,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 56499,141,88,zâň′e-,,,,zâň′e-,,zãɹ̃ˈɛ̱̃-,zaɹ̃ˈɛ̱-,zä̃ře-,
 28235,127,99,fer,,,28,fer,,ɸʹer,,,http://dil.ie/21665
 5018,21,111,nacht,,,95[239],nacht,,nɑχt,,,http://www.etymologiebank.nl/trefwoord/nacht
-5217,22,111,night,,Old English niht,357;93[1055],night,,naɪt,,,http://www.oed.com/view/Entry/126965?
+5217,22,111,night,,Old English niht,357;93[1055],night,,,naɪt,,http://www.oed.com/view/Entry/126965?
 8949,39,112,naso,,,90[271],naso,,'naso,ˈnaso,,
 20438,112,87,genu,,gen. genūs,206,genu,"knee of a human being, corresponding part in other creatures",ˈɡenu,ˈɡenu,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dgenu
 10325,46,111,naktìs,,,530,naktìs,,nɐkˈtɪs,,,http://etimologija.baltnexus.lt/?w=naktis
@@ -5131,7 +5131,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24181,120,72,héieren,,,"448[2, 144{Volume 2.}]",héieren,,,,,
 10326,46,112,nósis,,,530,nósis,,,,,http://etimologija.baltnexus.lt/?w=nosis
 36323,148,30,mos*,,Attested in a denominal verb,"301[260, 54{Attested in a denominal verb: admosoi, 3sg. subj. pres. 'who would dirty' gl. inrogauerit maculam. Cf. Middel Breton mous 'excrement' (Ivonet Omnes).}]",mos*,dirty,,,,
-5218,22,112,nose,,,93[1067],nose,,nəʊz,,,http://www.oed.com/view/Entry/128408?
+5218,22,112,nose,,,93[1067],nose,,,nəʊz,,http://www.oed.com/view/Entry/128408?
 891,3,115,nji,,"From IE *sem- via Balkan-IE *sm-ijos > Arm mi, Gk μια and PAlb *mja. Orel disagrees, postulating an IE origin of *oi-no > Lat ūnus, Goth and OPrus ains, etc, all with identical meanings.",130[29];105[304-305{Accepting Orel's etymology would require the lexeme to be re-classified as a member of [cognate set 91](cog-91).}],nji,,,,,
 23947,115,13,bìd,,,,bìd,,,biːdʲ,,
 12855,56,112,nariz,,,,nariz,,nɐˈɾiʃ,nɐˈɾiʃ,,
@@ -5172,7 +5172,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20441,112,90,rīdēre,,"rīdeō, rīdēre, rīsī, rīsum",206,rīdēre,to laugh,riːˈdeːre,riːˈdeːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Drideo
 56485,141,225,pš′a-,,,,pš′a-,,pʃˈi-,pʃˈɨ-,pši-,
 8952,39,115,uno,,,90[462],uno,,'uno,ˈuno,,
-5220,22,114,old,,,93[1087],old,,əʊld,,,http://www.oed.com/view/Entry/130955?
+5220,22,114,old,,,93[1087],old,,,əʊld,,http://www.oed.com/view/Entry/130955?
 5021,21,114,oud,,,95[272],oud,,ɑut,,,http://www.etymologiebank.nl/trefwoord/oud
 4036,17,114,vell,,,116[260],vell,,bɛʎ,,,
 12857,56,114,velho,,,,velho,,ˈvɛʎu,ˈvɛʎu,,
@@ -5202,7 +5202,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 31403,145,109,ås,,,"202[504{""ås""}]",ås,,oːs,oːs,,
 17954,76,115,on,,"ON (BEFORE CONSONANT), IN (BEFORE VOWEL)",,on,,,,,
 12858,56,115,um,,,,um,,ũ,ũ,,
-5221,22,115,one,,,93[1091],one,,wʌn,,,http://www.oed.com/view/Entry/131358?
+5221,22,115,one,,,93[1091],one,,,wʌn,,http://www.oed.com/view/Entry/131358?
 36499,176,92,levă,,"Feminine. There is also a half-loanword 'saxi' with meaning 'left', used as interjection for horses or oxen.",354,levă,,ˈlɛvɜ,ˈlɛvɜ,,
 10329,46,115,víenas,,,530,víenas,,,,,http://etimologija.baltnexus.lt/?w=víenas
 8760,38,119,tarraing,,,226,tarraing,,,,,http://www.teanglann.ie/ga/fgb/tarraing
@@ -5250,7 +5250,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13458,59,118,a juca,,,,a juca,,a ʒuˈka,a ʒuˈka,,https://dexonline.ro/definitie/a juca
 17957,76,118,djouwer,,,,djouwer,,d͡ʒu'u̯e,d͡ʒu'u̯e,,
 11499,51,118,khelnu,,,,khelnu,,kʰelnu,,खेल्नु,
-5224,22,118,play,,,93[1193],play,,pleɪ,,,http://www.oed.com/view/Entry/145475?
+5224,22,118,play,,,93[1193],play,,,pleɪ,,http://www.oed.com/view/Entry/145475?
 14249,62,118,jocare,,,,jocare,,,,,
 12861,56,118,jogar,,playing a game,,jogar,,ʒuˈɡaɾ,ʒuˈɡaɾ,,
 28242,127,106,ainm,,,151[284];28[{Additional word-final -m added to original lexeme entry.}];193,ainm,,anʹmʹ,,,http://dil.ie/1471
@@ -5272,7 +5272,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8763,38,122,dearg,,,193;226,dearg,,ˈdʲarəɡ,,,http://www.teanglann.ie/ga/fgb/dearg
 14847,95,122,crven,,,,crven,,ˈtsɾ̩̌vɛn,ˈtsřven,,http://hjp.znanje.hr/index.php?show=search_by_id&id=f1tnXRI
 21965,108,124,tickrōmien,,acc.sg.f.,28;532,tickrōmien,,,,,
-5225,22,119,pull,,etym. dub.,93[1255],pull,,pʊl,,,http://www.oed.com/view/Entry/154317?
+5225,22,119,pull,,etym. dub.,93[1255],pull,,,pʊl,,http://www.oed.com/view/Entry/154317?
 10533,47,122,cerwjeny,,,,cerwjeny,,ˈtsɛɾʲɛnɘ̟,ˈtserʲenɘ̟,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/cerwjeny
 13459,59,119,a trage,,,,a trage,,a ˈtɾadʒe,a ˈtradʒe,,https://dexonline.ro/definitie/a trage
 13460,59,120,a împinge,,,,a împinge,,a ɨmˈpindʒe,a ɨmˈpindʒe,,https://dexonline.ro/definitie/a împinge
@@ -5298,7 +5298,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36504,176,96,jǫtră,,,354,jǫtră,,ˈjuntɾɜ,ˈjuntɾɜ,,
 5820,25,120,pousser,,,91[633-4],pousser,,puse,puse,,http://www.cnrtl.fr/etymologie/pousser
 23955,115,137,faic,,,193,faic,,,fɛçgʲ,,
-5226,22,120,push,,,93[1260],push,,pʊʃ,,,http://www.oed.com/view/Entry/155116?
+5226,22,120,push,,,93[1260],push,,,pʊʃ,,http://www.oed.com/view/Entry/155116?
 17959,76,120,bouter,,,,bouter,,,,,
 12863,56,120,empurrar,,,,empurrar,,ẽpuˈʀaɾ,ẽpuˈʀaɾ,,
 6606,27,121,Regen,,,385,Regen,,,,,
@@ -5311,7 +5311,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20447,112,96,iecur,,gen. iecoris or iecinoris,206,iecur,liver,ˈjekur,ˈjekur,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Djecur
 28244,127,107,cumung,,,28,cumung,,kuṽung,,,http://dil.ie/13923
 5028,21,121,regen,,,223,regen,,'reɣə,,,http://www.etymologiebank.nl/trefwoord/regen
-5227,22,121,rain,,,93[1281],rain,,reɪn,,,http://www.oed.com/view/Entry/157578?
+5227,22,121,rain,,,93[1281],rain,,,reɪn,,http://www.oed.com/view/Entry/157578?
 26277,122,115,un,,,182,un,,'uŋ,'un,,http://claap.org/definizion/?diz=fur-it&leme=un1
 10334,46,120,stùmti,,,530,stùmti,,,,,http://etimologija.baltnexus.lt/?w=stumti
 8958,39,121,pioggia,,,90[311],pioggia,,'pjɔvere,ˈpjɔveɾe,,
@@ -5342,7 +5342,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5822,25,122,rouge,,,91[730-1],rouge,,ʀuʒ,ʀuʒ,,http://www.cnrtl.fr/etymologie/rouge
 23956,115,72,cluinn,,,193,cluinn,,,kLɯiNʲ,,
 5029,21,122,rood,,,95[310],rood,,rot,,,http://www.etymologiebank.nl/trefwoord/rood
-5228,22,122,red,,,93[1297-8],red,,rɛd,,,http://www.oed.com/view/Entry/160134?
+5228,22,122,red,,,93[1297-8],red,,,rɛd,,http://www.oed.com/view/Entry/160134?
 9540,42,122,cuecen,,formerly separate CC (1825),,cuecen,,,ˈkue̯tʃəŋ,,
 13462,59,122,roșu,,,,roșu,,ˈɾoʃu,ˈroʃu,,https://dexonline.ro/definitie/roșu
 14253,62,122,ruiu,,,,ruiu,,,,,
@@ -5402,7 +5402,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5824,25,124,droit,,,91[273],droit,,dʀwɑ,dʀwɑ,,http://www.cnrtl.fr/etymologie/droit
 35264,172,105,bec,,,280[215-16];283,bec,"beak (of bird), mouth; point, end, summit",ˈbeːk,,,
 30713,143,173,mendoj,,"Denominative verb, from mend 'mind', a borrowing < Lat mentem 'id'.",129;105[256],mendoj,,,,,
-5231,22,125,river,,,93[1336-7],river,,'rɪvə,,,http://www.oed.com/view/Entry/166422?
+5231,22,125,river,,,93[1336-7],river,,,'rɪvə,,http://www.oed.com/view/Entry/166422?
 5032,21,125,rivier,,,95[308],rivier,,ri'vir,,,http://www.etymologiebank.nl/trefwoord/rivier
 5825,25,125,rivière,,,91[727],rivière,,ʀivjɛʀ,ʀivˈjɛʀ,,http://www.cnrtl.fr/etymologie/rivière
 32064,147,207,bwee,,buidhe,193,bwee,,bwiː,bwiː,,
@@ -5449,7 +5449,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 6422,26,137,sjen,,,124[873-4],sjen,,sjɛn,,,
 23962,115,95,bi beò,,,,bi beò,,,bi bjɔː,,
 10541,47,132,sol,,,,sol,,sɔl(ʲ),sol,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/sol
-5233,22,127,root,,"Middle English rot, from Old English rōt, from Old Norse",93[1344],root,,ru:t,,,http://www.oed.com/view/Entry/167363?
+5233,22,127,root,,"Middle English rot, from Old English rōt, from Old Norse",93[1344],root,,,ru:t,,http://www.oed.com/view/Entry/167363?
 5827,25,127,racine,,,91[669],racine,,ʀasin,ʀaˈsin,,http://www.cnrtl.fr/etymologie/racine
 12870,56,127,raiz,,,,raiz,,ɾɐˈiʃ,ɾɐˈiʃ,,
 37263,178,127,rēšag,,Only in ZP lyšk.,361,rēšag,N,re:ʃaɣ,reːʃag,*ryšg,
@@ -5485,7 +5485,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8966,39,129,marcio,,comp. [cognate set 403](cog-403),90[250],marcio,,'martʃo,ˈmaɾtʃo,,
 23963,115,28,bàsaich,,,193,bàsaich,,,baːsɪç,,
 30716,143,182,kthej,,"According to Orel, a prefixial (*ek-?) derivative of thyej 'to break, according to him < PIE *ḱeh₃(i̯)- 'sharpen' (LIV 319f.). Not better suggestion available.","129;105[200, 482]",kthej,,,,,
-5235,22,129,rotten,,"Middle English roten, from Old Norse rotinn",93[1347],rotten,,'rɒtən,,,http://www.oed.com/view/Entry/167785?
+5235,22,129,rotten,,"Middle English roten, from Old Norse rotinn",93[1347],rotten,,,'rɒtən,,http://www.oed.com/view/Entry/167785?
 36784,175,108,blëskò,,,249,blëskò,,ˈblʌsk(wɛ/wɘ̟/wɔ/ɔ),ˈblʌzko,,
 12872,56,129,podre,,,,podre,,ˈpodɾɨ,ˈpodɾɨ,,
 21976,108,138,semen,,,28;532,semen,,,,,
@@ -5531,7 +5531,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36515,176,104,ďöră,,,354,ďöră,,ˈɟœrɜ,ˈɟœrɜ,,
 5831,25,132,sel,,,91[749],sel,,sɛl,sɛl,,http://www.cnrtl.fr/etymologie/sel
 6617,27,133,Sand,,,96[1073],Sand,,zant,,,
-5237,22,132,salt,,,93[1367],salt,,sɔ:lt,,,http://www.oed.com/view/Entry/170146?
+5237,22,132,salt,,,93[1367],salt,,,sɔ:lt,,http://www.oed.com/view/Entry/170146?
 10345,46,132,druskà,,,530,druskà,,,,,http://etimologija.baltnexus.lt/?w=druska
 4053,17,133,sorra,,,116[241],sorra,,'sɔrə,,,
 35270,172,110,"neuez, nevez",,,280[2035-36];283,"neuez, nevez","new; recent, novel",ˈneːveð,,,
@@ -5550,7 +5550,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 6427,26,142,sjonge,,,124[876],sjonge,,'sjoŋə,,,
 24201,120,24,kommen,,,"448[2, 423{Volume 2}]",kommen,,,,,
 4054,17,134,dir,,,116[85],dir,,di,,,
-5238,22,133,sand,,,93[1370],sand,,sænd,,,http://www.oed.com/view/Entry/170524?
+5238,22,133,sand,,,93[1370],sand,,,sænd,,http://www.oed.com/view/Entry/170524?
 14262,62,132,sale,,,,sale,,,,,
 14462,63,134,nárrere,,,,nárrere,,,,,
 17971,76,133,såvion,,,,såvion,,,,,
@@ -5594,7 +5594,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36788,175,112,nos,,,249,nos,,nɔs,nos,,
 5040,21,134,zeggen,,,95[453],zeggen,,'zɛɣə(n),,,http://www.etymologiebank.nl/trefwoord/zeggen
 21980,108,144,keuto,,,28;532,keuto,,,,,
-5239,22,134,say,,"Middle English seien, Old English secgan",357;93[1379],say,,seɪ,,,http://www.oed.com/view/Entry/171590?
+5239,22,134,say,,"Middle English seien, Old English secgan",357;93[1379],say,,,seɪ,,http://www.oed.com/view/Entry/171590?
 35272,172,112,"fri, fry",,,280[889-890];283,"fri, fry",nose,ˈfriː,,,
 17972,76,134,dîre,,,,dîre,,,,,
 5833,25,134,dire,,,91[258],dire,,diʀ,diʀ,,http://www.cnrtl.fr/etymologie/dire
@@ -5633,12 +5633,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 16236,69,136,hav,,,,hav,,hɑːv,,,http://www.saob.se/artikel/?seek=hav
 12486,55,136,morze,,,,morze,,ˈmɔʐɛ,ˈmoʐe,,http://sjp.pwn.pl/szukaj/morze
 10740,48,139,šić,,,,šić,,ʃitʃ,ʃitʃ,,
-5241,22,136,sea,,,93[1394-5],sea,,si:,,,http://www.oed.com/view/Entry/174071?
+5241,22,136,sea,,,93[1394-5],sea,,,si:,,http://www.oed.com/view/Entry/174071?
 14266,62,136,mare,,,,mare,,,,,
 17974,76,136,mér,,,,mér,,,,,
 4057,17,137,veure,,,,veure,,ˈbɛwɾə,,,
 6621,27,137,sehen,,,96[1151-2],sehen,,'ze:ən,,,
-5242,22,137,see,,"Middle English see, Old English sǣ",357;93[1401],see,,si:,,,http://www.oed.com/view/Entry/174749?
+5242,22,137,see,,"Middle English see, Old English sǣ",357;93[1401],see,,,si:,,http://www.oed.com/view/Entry/174749?
 24204,120,158,stoen,,,446[{s.v. stoen}],stoen,,,,,
 20462,112,111,nox,,gen. noctis,206,nox,"the time between sunset and sunrise, night",noks,noks,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dnox
 5042,21,136,zee,,,95[452],zee,,ze,,,http://www.etymologiebank.nl/trefwoord/zee
@@ -5692,7 +5692,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30940,144,120,ṭhakelanā,,,169,ṭhakelanā,,d̪ʰəkelnɑ,,ठकेलना,
 57581,271,24,ēst,,pres. and past stems suppletive (MS ˁys- suggests a palatal vowel instead of a diphthong),,ēst,PRS.IND.3SG,,eːst,ʾyst,
 8781,38,142,can,,,226,can,,kan̪ˠ,,,http://www.teanglann.ie/ga/fgb/can
-5243,22,138,seed,,"Old English sǣd, sēd",357;93[1401],seed,,si:d,,,http://www.oed.com/view/Entry/174754?
+5243,22,138,seed,,"Old English sǣd, sēd",357;93[1401],seed,,,si:d,,http://www.oed.com/view/Entry/174754?
 36521,176,109,"vojo, vojă",,'tål' means 'back of neck'.,354,"vojo, vojă",,"vɔˈjɔ, ˈvɔjɜ","voˈjo, ˈvojɜ",,
 5044,21,138,zaad,,,95[451],zaad,,zat,,,http://www.etymologiebank.nl/trefwoord/zaad
 14268,62,138,semen,,,,semen,,,,,
@@ -5717,7 +5717,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12489,55,139,szyć,,,,szyć,,ʂɘ̟tɕ,ʂɨtɕ,,http://sjp.pwn.pl/szukaj/szyć
 10743,48,142,spěwać,,,,spěwać,,ˈsp(ʲ)ɪwɑ̈tʃ,ˈspɪwatʃ,,
 15848,97,143,sedeti,,,,sedeti,,sɛˈdèːti,sɛˈdèːti,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4291626/sedeti
-5244,22,139,sew,,,93[1417],sew,,səʊ,,,http://www.oed.com/view/Entry/176956?
+5244,22,139,sew,,,93[1417],sew,,,səʊ,,http://www.oed.com/view/Entry/176956?
 26294,122,132,sâl,,,,sâl,,'saːl,'saːl,,http://claap.org/definizion/?diz=fur-it&leme=sâl
 36522,176,110,nüvĕ,,,354,nüvĕ,,ˈnyvɘ,ˈnyvɘ,,
 10352,46,139,siū́ti,,,530,siū́ti,,ˈsʲu:tʲɪ,,,http://etimologija.baltnexus.lt/?w=siuti
@@ -5737,7 +5737,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 4060,17,140,afilat,,,,afilat,,əfi'lat,,,
 20466,112,115,ūnus,,gen. ūnius,206,ūnus,"one (in number), a single",ˈuːnus,ˈuːnus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dunus
 6625,27,141,kurz,,,96[809],kurz,,kʊrt͜s,,,
-5245,22,140,sharp,,,93[1422],sharp,,ʃɑ:p,,,http://www.oed.com/view/Entry/177571?
+5245,22,140,sharp,,,93[1422],sharp,,,ʃɑ:p,,http://www.oed.com/view/Entry/177571?
 13281,58,141,kort,,,219,kort,,kɔʈː,,,
 5046,21,140,scherp,,,95[318],scherp,,sχɛrp,,,http://www.etymologiebank.nl/trefwoord/scherp
 8783,38,144,craiceann,,,193;225,craiceann,,ˈkɾˠacən̪ˠ,,,http://www.teanglann.ie/ga/fgb/craiceann
@@ -5770,7 +5770,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 6626,27,142,singen,,,96[1172],singen,,'zɪŋən,,,
 8978,39,142,cantare,,,90[63],cantare,,kan'tare,kanˈtaɾe,,
 26296,122,134,dî,,"Inf. pres., ind. pres. 2sg. disis.",182,dî,,'di,'diː,,http://claap.org/definizion/?diz=fur-it&leme=dî
-5246,22,141,short,,,93[1430-1],short,,ʃɔ:t,,,http://www.oed.com/view/Entry/178579?
+5246,22,141,short,,,93[1430-1],short,,,ʃɔ:t,,http://www.oed.com/view/Entry/178579?
 15260,66,142,spievať,,,,spievať,,ˈspiɛvɑ̈c,ˈspievac,,http://slovnik.azet.sk/pravopis/?q=spievať
 5840,25,141,court,,,91[197],court,,kuʀ,kuʀ,,http://www.cnrtl.fr/etymologie/court/adjectif
 5047,21,141,kort,,,95[198],kort,,kɔrt,,,http://www.etymologiebank.nl/trefwoord/kort1
@@ -5828,7 +5828,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5644,24,145,hemel,,,,hemel,,,,,
 10356,46,143,sėdė́ti,,,530,sėdė́ti,,sʲe:ˈdʲe:tʲɪ,,,http://etimologija.baltnexus.lt/?w=sedeti
 5645,24,146,slapen,,,,slapen,,,,,
-5247,22,142,sing,,"Middle English singen, Old English singan",357;93[1442],sing,,sɪŋ,,,http://www.oed.com/view/Entry/180104?
+5247,22,142,sing,,"Middle English singen, Old English singan",357;93[1442],sing,,,sɪŋ,,http://www.oed.com/view/Entry/180104?
 16043,68,142,cantar,,,,cantar,,kan̪'taɾ,kanˈtaɾ,,http://dle.rae.es/?w=cantar
 13483,59,144,piele,,,,piele,,ˈpjele,ˈpjele,,https://dexonline.ro/definitie/piele
 16244,69,144,hud,,,121[167-8],hud,,hʉ:d,,,http://www.saob.se/artikel/?seek=hud
@@ -5841,7 +5841,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26298,122,136,mâr,,,,mâr,,'maːr,'maːr,,http://claap.org/definizion/?diz=fur-it&leme=mâr1
 5049,21,143,zitten,,,95[456],zitten,,'zɪtə(n),,,http://www.etymologiebank.nl/trefwoord/zitten
 5842,25,143,asseoir,,Removed ETRE ASSIS.,"91[53];275[{Asseoir is transitive 'to seat, to place, to put'. Cf. s'asseoir 'to sit down, to seat oneself', être assis 'to sit' seems to be the correct choice regarding the example ('to sit' intrans.).}]",asseoir,,aswaʀ,asˈwaʀ,,http://www.cnrtl.fr/etymologie/asseoir
-5248,22,143,sit,,"Middle Engliah sitten, Old English sittan",357;93[1445],sit,,sɪt,,,http://www.oed.com/view/Entry/180462?
+5248,22,143,sit,,"Middle Engliah sitten, Old English sittan",357;93[1445],sit,,,sɪt,,http://www.oed.com/view/Entry/180462?
 9561,42,144,pel,,,,pel,,,ˈpel,,
 15262,66,144,koža,,,,koža,,ˈkɔʒɑ̈,ˈkoʒa,,http://slovnik.azet.sk/pravopis/?q=koža
 14870,95,147,malen,,,,malen,,ˈmɑ̈̌ɫɛn,ˈmǎlen,,http://hjp.znanje.hr/index.php?show=search_by_id&id=e1xnWhE
@@ -5866,14 +5866,14 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35282,172,120,poulsaff,,In Early Modern Breton also 'to grow (of plants)' (cf. French pousser).,"280[2628{First attested in the Catholicon (1499 CHECK), Gloss in Quiquer, Nomenclator (1633) French 'poulser'. }];283",poulsaff,"to push, to incite",ˈpulsaṽ,,,
 36527,176,115,jadån,,,354,jadån,,jaˈdɒn,jaˈdɒn,,
 10358,46,145,dangùs,,,530,dangùs,,dɐŋˈɡʊs,,,http://etimologija.baltnexus.lt/?w=dangus
-5250,22,145,sky,,Middle English from Old Norse skȳ 'cloud',357;93[1450],sky,,skaɪ,,,http://www.oed.com/view/Entry/181136?
+5250,22,145,sky,,Middle English from Old Norse skȳ 'cloud',357;93[1450],sky,,,skaɪ,,http://www.oed.com/view/Entry/181136?
 5844,25,145,ciel,,,91[147],ciel,,sjɛl,sjɛl,,http://www.cnrtl.fr/etymologie/ciel
 5050,21,144,huid,,,95[165],huid,,hœyt,,,http://www.etymologiebank.nl/trefwoord/huid
 20471,112,118,lūdere,,"lūdō, lūdere, lūsī, lūsus",206,lūdere,"to play, sport, play a game, have fun, make merry, amuse oneself",ˈɫuːdere,ˈluːdere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dludo
 8982,39,146,dormire,,,90[136-7],dormire,,dor'mire,doɾˈmire,,
 14274,62,144,pedde,,,,pedde,,,,,
 31432,145,138,frie,,,"202[304{""frie""}]",frie,,frɪɛː,frɪɛː,,
-5249,22,144,skin,,,93[1449],skin,,skɪn,,,http://www.oed.com/view/Entry/180922?
+5249,22,144,skin,,,93[1449],skin,,,skɪn,,http://www.oed.com/view/Entry/180922?
 922,3,150,limët,,,,limët,,,,,
 9180,40,146,šoŋɡon,,,,šoŋɡon,,ʃoŋgon,ʃoŋgon,شُنگُن,
 12494,55,144,skóra,,,,skóra,,ˈskuɾɑ̈,ˈskura,,http://sjp.pwn.pl/szukaj/skóra
@@ -5897,7 +5897,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20472,112,119,trahere,,"trahō, trahere, taxī, tractum",206,trahere,"move by pulling, drag",ˈtrahere,ˈtrahere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dtraho
 5845,25,146,dormir,,,91[268-9],dormir,,doʀmiʀ,doʀˈmiʀ,,http://www.cnrtl.fr/etymologie/dormir
 24214,120,120,drécken,,cognate with 'pull' in [cognate set 2834](cog-2834) and 'rub' in cognate set 1167,"448[1, 224{Volume 1.}]",drécken,,,,,
-5251,22,146,sleep,,"Middle English slepe, Old English slæp",357;93[1453],sleep,,sli:p,,,http://www.oed.com/view/Entry/181604?
+5251,22,146,sleep,,"Middle English slepe, Old English slæp",357;93[1453],sleep,,,sli:p,,http://www.oed.com/view/Entry/181604?
 31433,145,139,söma,,,"202[455{""söma""}]",söma,,ˈsœ̀ːmɑ,ˈsœ̀ːmɑ,,
 10558,47,149,dym,,An alternative lexeme is 'kuŕ' but it has also a meaning 'dust'.,,dym,,dɘ̟m,dɘ̟m,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/dym
 12496,55,146,spać,,,,spać,,spɑ̈tɕ,spatɕ,,http://sjp.pwn.pl/szukaj/spać
@@ -5948,7 +5948,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8790,38,152,sneachta,,,,sneachta,,ˈʃnʲãxt̪ˠə,,,http://www.teanglann.ie/ga/fgb/sneachta
 20473,112,120,trūdere,,"trūdō, trūdere, trūsī, trūsum",206,trūdere,"to thrust, push, shove",ˈtruːdere,ˈtruːdere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dtrudo
 27813,128,147,kasu,,Gen. sg. kasə̄uš,28;184,kasu,ADJ,,kasu,𐬐𐬀𐬯𐬎,
-5252,22,147,small,,"Middle English smal, Old English smæl",357;93[1457],small,,smɔ:l,,,http://www.oed.com/view/Entry/182404?
+5252,22,147,small,,"Middle English smal, Old English smæl",357;93[1457],small,,,smɔ:l,,http://www.oed.com/view/Entry/182404?
 30734,143,203,pyll,,Orel gives 'forest'. Borrowed < Balk Rom *padūlem < Lat palūdem 'swamp'.,129;105[353],pyll,,,,,
 31434,145,140,wass,,,"202[489{""wass""}]",wass,,wɑsː,wɑsː,,
 14277,62,147,minore,,,,minore,,,,,
@@ -5982,7 +5982,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23982,115,63,thoir,,,193,thoir,,,hɔrʲ,,
 17987,76,149,foumîre,,,,foumîre,,,,,
 12890,56,148,cheirar,,,,cheirar,,ʃejˈɾaɾ,ʃejˈɾaɾ,,
-5254,22,149,smoke,,Old English smoca,357;93[1459],smoke,,sməʊk,,,http://www.oed.com/view/Entry/182699?
+5254,22,149,smoke,,Old English smoca,357;93[1459],smoke,,,sməʊk,,http://www.oed.com/view/Entry/182699?
 5848,25,149,fumée,,,91[373],fumée,,fyme,fyˈme,,http://www.cnrtl.fr/etymologie/fumée
 16049,68,148,oler,,,,oler,,o'leɾ,oˈleɾ,,http://dle.rae.es/?w=oler
 15267,66,149,dym,,,,dym,,dim,dim,,http://slovnik.azet.sk/pravopis/?q=dym
@@ -6002,7 +6002,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 12500,55,150,gładki,,,142,gładki,,ˈɡwɑ̈tkʲi,ˈɡwadci,,http://sjp.pwn.pl/szukaj/gładki
 15268,66,150,hladký,,,,hladký,,ˈɦlɑ̈tkiː,ˈɦladkiː,,http://slovnik.azet.sk/pravopis/?q=hladký
 16250,69,150,slät,,,,slät,,slɛːt,,,http://www.saob.se/artikel/?seek=slät
-5255,22,150,smooth,,"Middle English smothe, Old English smōth",357;93[1460],smooth,,smu:ð,,,http://www.oed.com/view/Entry/182757?
+5255,22,150,smooth,,"Middle English smothe, Old English smōth",357;93[1460],smooth,,,smu:ð,,http://www.oed.com/view/Entry/182757?
 5849,25,150,lisse,,,91[473],lisse,,lis,lis,,http://www.cnrtl.fr/etymologie/lisse
 12892,56,150,liso,,,,liso,,ˈlizu,'lizu,,
 36533,176,121,dåzd,,,354,dåzd,,dɒzd,dɒzd,,
@@ -6022,7 +6022,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36534,176,122,carvenĕ,,,354,carvenĕ,,tsarˈvɛnɘ,tsarˈvɛnɘ,,
 5057,21,151,slang,,,95[329],slang,,slɑŋ,,,http://www.etymologiebank.nl/trefwoord/slang1
 10363,46,150,lýgus,,,530,lýgus,,,,,http://etimologija.baltnexus.lt/?w=svelnus
-5256,22,151,snake,,Old English snaca,357;93[1461],snake,,sneɪk,,,http://www.oed.com/view/Entry/182961?
+5256,22,151,snake,,Old English snaca,357;93[1461],snake,,,sneɪk,,http://www.oed.com/view/Entry/182961?
 15269,66,151,had,,,,had,,ɦɑ̈t,ɦad,,http://slovnik.azet.sk/pravopis/?q=had
 4268,18,152,sníh,,,,sníh,,sɲiːx,sɲiːɦ,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=sníh
 28274,127,130,cruind,,,28[{Added cruin to original lexeme entry.}];151[330],cruind,,crunʹ(dʹ),,,http://dil.ie/13226
@@ -6052,7 +6052,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26307,122,145,cîl,,,,cîl,,ˈʧiːl,'ʧiːl,,http://claap.org/definizion/?diz=fur-it&leme=cîl
 37286,178,159,istar,,"AF ʿstʾrg /istārag/; ZP stl, stʾlk",359,istar,N,ɪstar,istar,ʿstr,
 6446,26,161,stien,,,124[976],stien,,sti.ən,,,
-5257,22,152,snow,,,93[1463],snow,,snəʊ,,,http://www.oed.com/view/Entry/183487?
+5257,22,152,snow,,,93[1463],snow,,,snəʊ,,http://www.oed.com/view/Entry/183487?
 5851,25,152,neige,,,91[540],neige,,nɛʒ,nɛʒ,,http://www.cnrtl.fr/etymologie/neige
 12501,55,151,wąż,,,,wąż,,vɔɰ̃ʂ,voŋʐ,,http://sjp.pwn.pl/szukaj/wąż
 12502,55,152,śnieg,,,,śnieg,,ɕɲɛɡ,ɕɲeɡ,,http://sjp.pwn.pl/szukaj/śnieg
@@ -6148,7 +6148,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 17996,76,158,èsse so pî,,AF: SO DJAMBE,,èsse so pî,,,,,
 36812,175,134,rzec,,An alternative lexeme is 'pòwiedzec' but it is much less frequently used.,249,rzec,,ʐɛts,ʐets,,
 12508,55,158,stać,,,142,stać,,stɑ̈tɕ,statɕ,,http://sjp.pwn.pl/szukaj/stać
-5263,22,158,stand,,,93[1504],stand,,stænd,,,http://www.oed.com/view/Entry/188960?
+5263,22,158,stand,,,93[1504],stand,,,stænd,,http://www.oed.com/view/Entry/188960?
 12900,56,158,ficar em/de pé,,,,ficar em/de pé,,fiˈkaɾ ɐ̃j/dɨ pɛ,fiˈkaɾ ɐ̃j/dɨ pɛ,,
 8995,39,159,stella,,,90[325],stella,,'stella,ˈstella,,
 35304,172,132,"holen, olen, olèn, hòalen",,,280[1240];283,"holen, olen, olèn, hòalen",salt,"ˈhoːlen, ˈoːlen",,,
@@ -6160,7 +6160,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5065,21,159,ster,,,95[344],ster,,stɛr,,,http://www.etymologiebank.nl/trefwoord/ster1
 35305,172,133,"treez, træz, traez",,,280[3112];283,"treez, træz, traez","sand; shore, beach",ˈtrɛːθ,,,
 20485,112,130,rotundus,,"gen.sg. rotundī; rotundus, rotunda, rotundum",206,rotundus,"shaped like a wheel, round, circular",roˈtundus,roˈtundus,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Drotundus
-5264,22,159,star,,"Middle English sterre, Old English steora",357;93[1506],star,,stɑ:,,,http://www.oed.com/view/Entry/189081?
+5264,22,159,star,,"Middle English sterre, Old English steora",357;93[1506],star,,,stɑ:,,http://www.oed.com/view/Entry/189081?
 5858,25,159,étoile,,,91[322],étoile,,etwal,etˈwal,,http://www.cnrtl.fr/etymologie/étoile
 16059,68,158,estar de pie,,,,estar de pie,,esˌtaɾðeˈpje,esˈtaɾ de pje,,http://dle.rae.es/?id=SwyZKJX
 65852,174,13,drvīdä,,< *drūti ? (cf. Emmerick 1968: 195),,drvīdä,PRS.IND.A.3SG,,dru̯iːdǝ,,
@@ -6193,7 +6193,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 14489,63,161,perda,,,,perda,,,,,
 12901,56,159,estrela,,,,estrela,,ɨʃˈtɾelɐ,ɨʃˈtɾelɐ,,
 28283,127,138,síl,,,28,síl,,sʹiːl,,,http://dil.ie/37503
-5265,22,160,stick,,"Middle English stikke, Old English sticca",357;93[1516],stick,,stɪk,,,http://www.oed.com/view/Entry/190148?
+5265,22,160,stick,,"Middle English stikke, Old English sticca",357;93[1516],stick,,,stɪk,,http://www.oed.com/view/Entry/190148?
 36543,176,130,runtă,,,354,runtă,,ˈruntɜ,ˈruntɜ,,
 36814,175,136,mòrze,,,249,mòrze,,ˈm(wɛ/wɘ̟/wɔ/ɔ)ʐɛ,ˈmoʐe,,
 24228,120,102,Mound,,,"448[3, 174{Volume 3.}]",Mound,,,,,
@@ -6212,7 +6212,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 65909,174,66,gvāysirūna,,"compound: gvā- yellow/green, ysirūna-/ysarūna- yellow, red; cf. ysūna- yellow, green, white; the first part is identified as ""colour"" ggūna- by Emmerick/Skjærvø 1987: 39.",,gvāysirūna,ADJ,,gu̯aːziruːna,,
 36815,175,137,widzec,,,249,widzec,,ˈv(ʲj)idzɛts,ˈvjidzɛts,,
 30773,143,64,mirë,,< PAlb *mira forming a separate isogloss with Slav *mirъ 'peace'.,129,mirë,,,,,
-5266,22,161,stone,,,93[1521],stone,,stəʊn,,,http://www.oed.com/view/Entry/190787?
+5266,22,161,stone,,,93[1521],stone,,,stəʊn,,http://www.oed.com/view/Entry/190787?
 24229,120,159,Stär,,,446[{s.v. Stär}],Stär,,,,,
 13500,59,161,piatră,,,,piatră,,ˈpjatɾə,ˈpjatrə,,https://dexonline.ro/definitie/piatră
 14888,95,166,plivati,,,,plivati,,ˈpɫîvɑ̈ti,ˈplîvati,,http://hjp.znanje.hr/index.php?show=search_by_id&id=eV1uWRM
@@ -6249,7 +6249,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 14292,62,162,derettu,,,,derettu,,,,,
 18000,76,162,dreût,,,,dreût,,,,,
 12904,56,162,direito,,,,direito,,diˈɾɐjtu,diˈɾɐjtu,,
-5267,22,162,straight,,particple of STRECCAN 'stretch',93[1524],straight,,streɪt,,,http://www.oed.com/view/Entry/191142?
+5267,22,162,straight,,particple of STRECCAN 'stretch',93[1524],straight,,,streɪt,,http://www.oed.com/view/Entry/191142?
 24230,120,188,Waasser,,,446[{s.v. Waasser}],Waasser,,,,,
 23996,115,142,seinn,,,,seinn,,,ʃeiNʲ,,
 5861,25,162,droit,,,91[273],droit,,dʀwɑ,dʀwɑ,,http://www.cnrtl.fr/etymologie/droit
@@ -6280,7 +6280,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 13305,58,165,hovne,,,,hovne,,ˈhòːʋnə,,,
 22009,108,178,perrēist,,inf.,28;532,perrēist,,,,,
 6649,27,165,schwellen,,,96[1141],schwellen,,'ʃvɛlən,,,
-5269,22,164,sun,,Old English sunne,93[1544-5],sun,,sʌn,,,http://www.oed.com/view/Entry/194049?
+5269,22,164,sun,,Old English sunne,93[1544-5],sun,,,sʌn,,http://www.oed.com/view/Entry/194049?
 10377,46,164,sáulė,,,530,sáulė,,sɑule:,,,http://etimologija.baltnexus.lt/?w=saule
 30776,143,74,rëndë,,Orel also gives randë.,105[370];129,rëndë,,,,,
 5863,25,164,soleil,,,91[764],soleil,,sɔlɛj,sɔˈlɛj,,http://www.cnrtl.fr/etymologie/soleil
@@ -6324,7 +6324,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30777,143,78,bri,,"nom.def. briri. Related to Swed brind 'deer', Latv briêdis 'elk'.",105[36-37];129,bri,,,,,
 5864,25,165,enfler,,,91[300],enfler,,ɑ̃fle,ɑ̃fˈle,,http://www.cnrtl.fr/etymologie/enfler
 5071,21,165,zwellen,,,95[461],zwellen,,'zwɛlə(n),,,http://www.etymologiebank.nl/trefwoord/zwellen
-5270,22,165,swell,,"Middle English swellen, Old English swellan",357;93[1558],swell,,swɛl,,,http://www.oed.com/view/Entry/195718?
+5270,22,165,swell,,"Middle English swellen, Old English swellan",357;93[1558],swell,,,swɛl,,http://www.oed.com/view/Entry/195718?
 6650,27,166,schwimmen,,,96[1144],schwimmen,,'ʃvɪmən,,,
 36820,175,141,krótczi,,,249,krótczi,,ˈkɾut(ʃ)tʃi,ˈkruttʃi,,
 31452,145,158,standa,,,"202[438{""standa""}]",standa,,ˈstɑ̀ndɑ,ˈstɑ̀ndɑ,,
@@ -6423,7 +6423,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5870,25,171,épais,,,91[311],épais,,epɛ,eˈpɛ,,http://www.cnrtl.fr/etymologie/épais
 28294,127,146,con-tuili,,Cf. OCS toliti 'to be calm'; lit. tyl,151[354];28;193,con-tuili,,konˈtulʹi,,,http://dil.ie/12381
 35317,172,144,"crochenn, crochen, crohen",,,280[1672];283,"crochenn, crochen, crohen",skin,ˈkrohen,,,
-5276,22,171,thick,,"Middle English thicke, Old English thicce",357;93[1601],thick,,θɪk,,,http://www.oed.com/view/Entry/200707?
+5276,22,171,thick,,"Middle English thicke, Old English thicce",357;93[1601],thick,,,θɪk,,http://www.oed.com/view/Entry/200707?
 36554,176,139,sajĕ,,3 sg.,354,sajĕ,,ˈsajɘ,ˈsajɘ,,
 14301,62,171,russu,,,,russu,,,,,
 12913,56,171,grosso,,,,grosso,,gɾosu,gɾosu,,
@@ -6485,7 +6485,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 16074,68,173,pensar,,,,pensar,,pen'saɾ,penˈsaɾ,,http://dle.rae.es/?w=pensar
 10778,48,179,jazyk,,,,jazyk,,ˈjɑ̈zɘ̟k,ˈjazɘ̟k,,
 15882,97,179,jezik,,,,jezik,,ˈjɛ̀ːzik,ˈjɛ̀ːzik,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4287158/jezik
-5278,22,173,think,,"Middle English thenken, Old English thencan",357;93[1602],think,,θɪŋk,,,http://www.oed.com/view/Entry/200798?
+5278,22,173,think,,"Middle English thenken, Old English thencan",357;93[1602],think,,,θɪŋk,,http://www.oed.com/view/Entry/200798?
 10386,46,173,galvóti,,,530,galvóti,,,,,http://etimologija.baltnexus.lt/?w=galvoti
 37361,118,222,vedɨšērit,,,363,vedɨšērit,,,,,
 36557,176,213,püsten,,,354,püsten,,pyˈstɛn,pyˈstɛn,,
@@ -6557,7 +6557,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5082,21,176,drie,,,95[98],drie,,dri,,,http://www.etymologiebank.nl/trefwoord/drie
 6661,27,177,werfen,,,96[1429-30],werfen,,'vɛrfn̩,,,
 28299,127,151,nathair,,,28,nathair,,naθərʹ,,,http://dil.ie/33000
-5281,22,176,three,,,93[1605],three,,θri:,,,http://www.oed.com/view/Entry/201165?
+5281,22,176,three,,,93[1605],three,,,θri:,,http://www.oed.com/view/Entry/201165?
 37363,118,214,xani,,,363,xani,,,,,
 37311,178,186,garm,,ZP glm,359,garm,ADJ,garm,garm,grm,
 23127,81,41,klawatär,,"Root /klāwā-/, contracted to /klā-/ in most nonpres. forms; pres. /klaw-a-/. Wider connections unclear.",147[175-176];341[619-620],klawatär,falls,kləwətɨr,klaw-a-tr,,
@@ -6612,7 +6612,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 20503,112,146,dormīre,,"dormiō, dormīre, dormīuī, dormītum",206,dormīre,"to be or fall asleep, sleep",dorˈmiːre,dorˈmiːre,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Ddormio
 54025,212,184,-kud-,,,,-kud-,,-kud-,-kud-,,
 36560,176,143,sedĕ,,3 sg.,354,sedĕ,,ˈsɛdɘ,ˈsɛdɘ,,
-5282,22,177,throw,,,93[1607],throw,,θrəʊ,,,http://www.oed.com/view/Entry/201413?
+5282,22,177,throw,,,93[1607],throw,,,θrəʊ,,http://www.oed.com/view/Entry/201413?
 10390,46,177,mèsti,,,530,mèsti,,,,,http://etimologija.baltnexus.lt/?w=mesti
 6662,27,178,binden,,,96[250],binden,,'bɪndn̩,,,
 36561,176,144,ťüză,,An alternative derivative is 'ťüskă'.,354,ťüză,,ˈcyzɜ,ˈcyzɜ,,
@@ -6641,7 +6641,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 31465,145,171,diger,,,177,diger,,ˈdɪ́ːgɛr,ˈdɪ́ːgɛr,,
 14508,63,180,(d)ente,,,,(d)ente,,,,,
 4100,17,182,girar,,,116[134],girar,,ʒi'ɾa,,,
-5283,22,178,tie,,,93[1611],tie,,taɪ,,,http://www.oed.com/view/Entry/201844?
+5283,22,178,tie,,,93[1611],tie,,,taɪ,,http://www.oed.com/view/Entry/201844?
 10391,46,178,(pri)rìšti,,,530,(pri)rìšti,,,,,http://etimologija.baltnexus.lt/?w=rišti
 956,3,186,ngrohtë,,"From IE *guher- 'hot, warm' > guuhr-eh1 > PAlb *en-grē-sk.",130[42],ngrohtë,,,,,
 6663,27,179,Zunge,,,96[1482],Zunge,,'t͜sʊŋə,,,
@@ -6678,7 +6678,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 23100,81,11,tsopats,,"Etymology unclear; perhaps ultimately from *dʰóbʰu- ~ *dʰébʰu- 'little piece, bit' > 'large piece, chunk' (cf. Hitt. tēpu- 'little'; R. Kim 2018)? Suppletive pl. śāwe originally 'coarse, rough; made of large pieces', cf.TB aśāwe, TA āśāwe 'coarse, rough, horrible' (R. Kim 2018).",28,tsopats,big,ʦopaʦ,ʦopaʦ,,
 10392,46,179,liežùvis,,,530,liežùvis,,,,,http://etimologija.baltnexus.lt/?w=liežuvis
 4101,17,183,dos,,,,dos,,dos,,,
-5284,22,179,tongue,,,93[1622],tongue,,tʌŋ,,,http://www.oed.com/view/Entry/203173?
+5284,22,179,tongue,,,93[1622],tongue,,,tʌŋ,,http://www.oed.com/view/Entry/203173?
 33667,157,6,baker,,,209,baker,,ˈbaker,baker,,
 12529,55,179,język,,,142,język,,ˈjɛɰ̃zɘ̟k,ˈjeŋzɨk,,http://sjp.pwn.pl/szukaj/język
 15298,66,180,zub,,,,zub,,zup,zub,,http://slovnik.azet.sk/pravopis/?q=zub
@@ -6726,7 +6726,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 18017,76,179,linwe,,,,linwe,,lẽu̯,lẽu̯,,
 8273,36,17,bein,,,,bein,,b̥eiːn,,,
 13166,58,17,ben,,,219,ben,,beːn,,,
-5285,22,180,tooth,,,93[1623],tooth,,tu:θ,,,http://www.oed.com/view/Entry/203292?
+5285,22,180,tooth,,,93[1623],tooth,,,tu:θ,,http://www.oed.com/view/Entry/203292?
 5329,23,17,bein,,,,bein,,b̥aiːn,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=bein
 6665,27,181,Baum,,,96[198],Baum,,baŭm,,,
 37160,178,25,ašmārēd,,Maybe rather /ušmār-/? ZP ʾwšmʾl- /ōšmār-/; past ʾwšmwlt-; attested is ʾšmʾryhyd PRS.IND.PASS.3SG,359,ašmārēd,PRS.IND.3SG,aʃmɑ:r-,aʃmaːreːd,ʾšmʾryd,
@@ -6785,7 +6785,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 16282,69,182,vända,,,121[508],vända,,ˈvɛ̀nda,,,
 8283,36,28,deyja,,,,deyja,,ˈd̥eiːja,,,
 18019,76,181,åbe,,,,åbe,,,,,
-5286,22,181,tree,,,93[1639],tree,,tri:,,,http://www.oed.com/view/Entry/205416?
+5286,22,181,tree,,,93[1639],tree,,,tri:,,http://www.oed.com/view/Entry/205416?
 13176,58,28,dø,,,219,dø,,døː,,,
 5087,21,181,boom,,,95[60],boom,,bom,,,http://www.etymologiebank.nl/trefwoord/boom1
 35730,174,207,ysīḍä,,,320,ysīḍä,ADJ,zi:ɽə,ziːḍǝ,,
@@ -6829,7 +6829,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8824,38,187,nigh,,,,nigh,,"nʲiː, nʲɪɟ",,,http://www.teanglann.ie/ga/fgb/nigh
 8285,36,30,skítugur,,,,skítugur,,ˈsciːtʰʏɣʏr,,,
 5341,23,30,skitin,,,213,skitin,,ˈʃiːtɪn,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=skitin
-5287,22,182,turn,,,93[1658],turn,,tɜ:n,,,http://www.oed.com/view/Entry/207669?
+5287,22,182,turn,,,93[1658],turn,,,tɜ:n,,http://www.oed.com/view/Entry/207669?
 28305,127,158,do·airissedar,,,151[365];28[{Changed from original lexeme entry do·airisethar.}],do·airissedar,,doˈarʹəsʹəðər,,,http://dil.ie/17143
 5540,24,32,drinken,,,,drinken,,,,,
 33690,157,22,sky,,,209,sky,,scyː,scyː,,
@@ -6904,7 +6904,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 14313,62,183,duos,,,,duos,,,,,
 18021,76,183,deûs,,,,deûs,,,,,
 28306,127,159,"rét, rétglu",,,"28;208[{The form rét is infrequent but the byform rétglu seems to be the Swadesh term in Old Irish, with rétlu supplanting it in the Middle Irish period.}]","rét, rétglu",,"rʹeːt, rʹeːtɣlu",,,http://dil.ie/35159
-5288,22,183,two,,,93[1662],two,,tu:,,,http://www.oed.com/view/Entry/208220?
+5288,22,183,two,,,93[1662],two,,,tu:,,http://www.oed.com/view/Entry/208220?
 16084,68,183,dos,,,,dos,,dos,dos,,http://dle.rae.es/?id=EA0Jc84
 8827,38,190,fliuch,,,,fliuch,,fʲlʲʊx,,,http://www.teanglann.ie/ga/fgb/fliuch
 27611,124,179,ævzag,,,122,ævzag,,ɜvˈʒɑg,ɜvžag,ӕвзаг,
@@ -7138,7 +7138,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5094,21,188,water,,,95[434],water,,'watər,,,http://www.etymologiebank.nl/trefwoord/water
 31475,145,181,trai,,,"202[463{""trai""}]",trai,,trɑɪ,trɑɪ,,
 14318,62,188,abba,,,,abba,,,,,
-5293,22,188,water,,,93[1733],water,,'wɔ:tə,,,http://www.oed.com/view/Entry/226109?
+5293,22,188,water,,,93[1733],water,,,'wɔ:tə,,http://www.oed.com/view/Entry/226109?
 26343,122,181,arbul,,,182,arbul,,'arbul,'arbul,,http://claap.org/definizion/?diz=fur-it&leme=arbul
 16088,68,187,lavar,,,,lavar,,laˈβaɾ,laˈbaɾ,,http://dle.rae.es/?w=lavar
 37215,178,214,kadag,,"""house, home"", ZP ktk",359,kadag,N,kaðaɣ,kadag,qdg,
@@ -7221,7 +7221,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 14917,95,196,širok,,,,širok,,ˈʂǐɾɔk,ˈʂǐrok,,http://hjp.znanje.hr/index.php?show=search_by_id&id=d1hhXhM
 5096,21,190,nat,,,95[241],nat,,nɑt,,,http://www.etymologiebank.nl/trefwoord/nat
 35847,174,41,pīttä,,"Stem pat-, past pasta-",320[203],pīttä,PRS.IND.A.3SG,pittə,piːtǝ,,
-5295,22,190,wet,,,93[1745],wet,,wɛt,,,http://www.oed.com/view/Entry/227970?
+5295,22,190,wet,,,93[1745],wet,,,wɛt,,http://www.oed.com/view/Entry/227970?
 12540,55,190,mokry,,,,mokry,,ˈmɔkɾɘ̟,ˈmokrɨ,,http://sjp.pwn.pl/szukaj/mokry
 10795,48,196,šěroki,,,,šěroki,,ˈʃɪʁɔkʲi,ˈʃɪʀɔki,,
 37377,118,118,yari dɨket,,,363,yari dɨket,,,,,
@@ -7397,7 +7397,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5428,23,124,høgri,,,213,høgri,,ˈhøːɡ̊ɹɪ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=høgri
 5429,23,125,á,,,,á,,ɔaː,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=á
 5893,25,194,blanc,,,91[91],blanc,,blɑ̃,blɑ̃,,http://www.cnrtl.fr/etymologie/blanc
-5299,22,194,white,,,93[1750],white,,waɪt,,,http://www.oed.com/view/Entry/228566?
+5299,22,194,white,,,93[1750],white,,,waɪt,,http://www.oed.com/view/Entry/228566?
 4832,20,125,flod,,,97[http://ordnet.dk/ddo/ordbog?query=flod&search=S%C3%B8g],flod,,floˀð,,,http://ordnet.dk/ddo/ordbog?query=flod
 34807,162,119,kaḍḍhati,,,246[178],kaḍḍhati,"to draw out, drag, pull, tug",,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=kaḍḍhati
 9612,42,196,lerch,,,,lerch,,,ˈlεrk,,
@@ -7570,7 +7570,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33808,157,109,hals,,,209,hals,,hals,hals,,
 35980,174,136,vāmu,,"Acc. sg., stem vāma-",320[383],vāmu,ACC.SG.m,wɑ:mʊ,u̯aːmu,,
 36581,176,161,komoi,,,354,komoi,,kɔˈmɔi,koˈmoi,,
-5303,22,198,wind,,,93[1757-8],wind,,wɪnd,,,http://www.oed.com/view/Entry/229181?
+5303,22,198,wind,,,93[1757-8],wind,,,wɪnd,,http://www.oed.com/view/Entry/229181?
 10803,48,206,lěto,,,,lěto,,ˈlʲɪtɔ,ˈlɪtɔ,,
 10611,47,206,lěto,,,,lěto,,ˈlʲɪtɔ,ˈlʲɪto,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/lěto
 23237,81,181,ṣtām,,,345[776-777],ṣtām,tree,ʂtam,ṣtām,,
@@ -7634,7 +7634,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 35355,97,88,vedeti,,,,vedeti,,ˈʋèːdɛti,ˈvèːdɛti,,http://www.fran.si/193/marko-snoj-slovenski-etimoloski-slovar/4293421/vedeti
 30811,143,76,godas,,Also 'to strike'.,129,godas,,,,,
 5468,23,166,svimja,,,213,svimja,,ˈsvɪmja,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=svimja
-5304,22,199,wing,,,93[1759],wing,,wɪŋ,,,http://www.oed.com/view/Entry/229324?
+5304,22,199,wing,,,93[1759],wing,,,wɪŋ,,http://www.oed.com/view/Entry/229324?
 5898,25,199,aile,,,91[21],aile,,ɛl,ɛl,,http://www.cnrtl.fr/etymologie/aile
 5105,21,199,vleugel,,,95[413],vleugel,,'vløɣəl,,,http://www.etymologiebank.nl/trefwoord/vleugel
 18037,76,199,éle,,,,éle,,el,el,,
@@ -7755,7 +7755,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 34858,162,196,uru,,,246[155],uru,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=uru
 9039,39,203,bosco,,,90[53],bosco,,'bɔsko,ˈbosko,,
 8427,36,182,snúa,,,218,snúa,,ˈstnuːa,,,
-5307,22,202,woman,,,93[1764-5],woman,,'wʊmən,,,http://www.oed.com/view/Entry/229884?
+5307,22,202,woman,,,93[1764-5],woman,,,'wʊmən,,http://www.oed.com/view/Entry/229884?
 5901,25,202,femme,,,91[346-7],femme,,fam,fam,,http://www.cnrtl.fr/etymologie/femme
 20528,112,167,cauda,,G.sg. caudae,206,cauda,"tail (of an animal, bird, fish, or other creature)",ˈkau̯da,ˈkau̯da,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dcauda
 13542,59,203,pădure,,,,pădure,,pəˈduɾe,pəˈduɾe,,https://dexonline.ro/definitie/pădure
@@ -7807,7 +7807,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5508,23,206,ár,,,,ár,,ɔaːɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=ár
 5490,23,188,vatn,,,,vatn,,vaʰtn̥,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=vatn
 14334,62,204,berme,,,,berme,,,,,
-5308,22,203,woods,,,93[1766],woods,,wʊdz,,,http://www.oed.com/view/Entry/230005?
+5308,22,203,woods,,,93[1766],woods,,,wʊdz,,http://www.oed.com/view/Entry/230005?
 16104,68,203,bosque,,,,bosque,,'boske,ˈboske,,http://dle.rae.es/?w=bosque
 16304,69,204,mask,,,121[266],mask,,mask,,,http://www.saob.se/artikel/?seek=mask
 12553,55,203,las,,,,las,,lɑ̈s,las,,http://sjp.pwn.pl/szukaj/las
@@ -7827,7 +7827,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24038,115,207,buidhe,,,193,buidhe,,,bujə,,
 23497,17,6,esquena,,,116[111],esquena,,əs'kɛnə,,,
 24272,120,130,ronn,,,"448[4, 60{Volume 4. look up under rond, ronn.}]",ronn,,,,,
-5309,22,204,worm,,,93[1770],worm,,wɜ:m,,,http://www.oed.com/view/Entry/230283?
+5309,22,204,worm,,,93[1770],worm,,,wɜ:m,,http://www.oed.com/view/Entry/230283?
 14534,63,206,annu,,,,annu,,,,,
 35037,47,134,groniś,,,249,groniś,,ˈɡɾɔɲiɕ,ˈɡroɲiɕ,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/groniś
 35040,47,151,wuž,,An alternative lexeme is 'zmija' but it has also a more specified meaning 'viper'.,249,wuž,,(h/ʔ/0)uʂ,uʐ,,http://www.dolnoserbski.de/ndw/pokaz/Starosta/wuž
@@ -7885,7 +7885,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 34885,162,159,tārakā,,,246[299],tārakā,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=tārakā
 34886,162,160,laṭṭhi,,,246[580],laṭṭhi,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=laṭṭhi
 23460,82,198,yente,,"Regular from *h₂u̯ēnt-ó- < *h₂u̯eh₁-nt-ó- (cf. Lat. ventus, Goth. winds), in turn a vrddhi derivative of *h₂u̯éh₁-n̥t- (cf. Hittite ḫuwant-).",345[546],yente,wind,ˈjente,yente,,
-5311,22,206,year,,,93[1779],year,,jɪə,,,http://www.oed.com/view/Entry/231475?
+5311,22,206,year,,,93[1779],year,,,jɪə,,http://www.oed.com/view/Entry/231475?
 4912,20,206,år,,,97[http://ordnet.dk/ddo/ordbog?query=%C3%A5r&search=S%C3%B8g],år,,ɒˀ,,,http://ordnet.dk/ddo/ordbog?query=år
 5112,21,207,geel,,,95[129],geel,,ɣel,,,http://www.etymologiebank.nl/trefwoord/geel1
 9622,42,206,an,,,,an,,,ˈan,,
@@ -7952,7 +7952,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26976,36,160,stafur,,From Old Norse stafr.,,stafur,,ˈstaːvʏr,,,
 50192,24,223,huilen,,,,huilen,,,,,
 33887,157,161,sten,,,209,sten,,steːn,steːn,,
-5312,22,207,yellow,,,93[1779],yellow,,'jɛləʊ,,,http://www.oed.com/view/Entry/231534?
+5312,22,207,yellow,,,93[1779],yellow,,,'jɛləʊ,,http://www.oed.com/view/Entry/231534?
 32256,36,48,slást,,,"200[{Verified through personal communication with Gunnar Hansson (Univ. of British Columbia, Dept. of Linguistics).}];218",slást,,ˈstlaust,,,
 24275,120,150,glat,,,446[{s.v. glat}],glat,,,,,
 33888,157,162,rätter,,,209,rätter,,ˈrætːer,rætːer,,
@@ -8009,7 +8009,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 54264,162,66,harita,,,,harita,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=harita
 54283,162,223,rodati,,,,rodati,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=rodati
 33910,157,177,kasta,,,209,kasta,,ˈkasta,kasta,,
-25005,22,130,round,,"Middle English via Anglo-Norman rounde, variant of Old French rond, ultimately from vulgar Latin retundus, from Latin rotundus",47[904-905];93[1348],round,,raʊnd,,,http://www.oed.com/view/Entry/167938?
+25005,22,130,round,,"Middle English via Anglo-Norman rounde, variant of Old French rond, ultimately from vulgar Latin retundus, from Latin rotundus",47[904-905];93[1348],round,,,raʊnd,,http://www.oed.com/view/Entry/167938?
 35358,172,176,"tri, try m.",,"The corresponding feminine is teir, teyr.","280[3145 (tri), 3042 (teir)];283","tri, try m.",three,ˈtriː,,,
 23495,56,6,costas,,,,costas,,ˈkɔʃtɐʃ,ˈkɔʃtɐʃ,,
 35359,172,177,"teurell, teureul, teuleur",,"The verb has the PPP taolet and is cognate with the noun taol m. 'throw'. In Modern Breton, there is a variant infinitive taoler, taoliñ, not attested in Middle Breton, constituting a regional variety (Favereau, Dict. 722).",280[3064];283,"teurell, teureul, teuleur","to throw, to produce","ˈtøːrel, ˈtøːlør, ˈtøːlør",,,
@@ -8020,7 +8020,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24808,66,99,muž,,,,muž,,muʃ,muʒ,,http://slovnik.azet.sk/pravopis/?q=muž
 33617,36,95,búa,,,218,búa,,ˈb̥uːa,,,
 33185,23,78,horn,,,213,horn,,hɔd̥n,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=horn
-25028,22,87,knee,,Old English cnēo,47[243];93[858],knee,,ni:,,,http://www.oed.com/view/Entry/103957#
+25028,22,87,knee,,Old English cnēo,47[243];93[858],knee,,,ni:,,http://www.oed.com/view/Entry/103957#
 24713,21,57,mist,,,95[233],mist,,mɪst,,,http://www.etymologiebank.nl/trefwoord/mist1
 33350,20,196,vid,,,97,vid,,viðˀ,,,http://ordnet.dk/ddo/ordbog?query=vid
 33916,157,180,tan,,,209,tan,,tanː,tanː,,
@@ -8067,7 +8067,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 33935,157,194,hviter,,,209,hviter,,ˈhwiːter,hwiːter,,
 25020,25,87,genou,,,47[243];91[382],genou,,ʒənu,ʒəˈnu,,http://www.cnrtl.fr/etymologie/genou
 50178,20,214,hus,,,,hus,,,,,http://ordnet.dk/ddo/ordbog?query=hus
-25406,22,49,nail,,"Middle English, from Old English nægl",47[245];357;93[1035],nail,,neɪl,,,http://www.oed.com/view/Entry/124844?
+25406,22,49,nail,,"Middle English, from Old English nægl",47[245];357;93[1035],nail,,,neɪl,,http://www.oed.com/view/Entry/124844?
 24526,56,42,longe,,,,longe,,ˈlõʒɨ,ˈlõʒɨ,,
 30823,143,194,bardhë,,"From PAlb *bardza continuing *bhorəgo-, a derivative of IE *bhereg- 'to shine; white', cf Skt bhrājate '(he) shines, beams, glitters', Goth bairhts 'light, shining' and the word for birch: Lith bérzas, Slv *berza.",129;105[17],bardhë,,,,,
 25060,25,78,corne,,,47[208f];91[187],corne,,kɔʀn,kɔʀn,,http://www.cnrtl.fr/etymologie/corne
@@ -9377,7 +9377,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8148,35,97,lambā,,,,lambā,,ləmbɑ,ləmbɑ,लंबा,
 8149,35,98,jūm̐,,,,jūm̐,,dʒũ,dʒũ,जूँ,
 8066,35,10,peṭ,,,,peṭ,,peʈ,peʈ,पेट,
-5196,22,89,lake,,,93[871],lake,,leɪk,,,http://www.oed.com/view/Entry/105168?
+5196,22,89,lake,,,93[871],lake,,,leɪk,,http://www.oed.com/view/Entry/105168?
 8067,35,11,baṛā,,,,baṛā,,bəɽɑ,bəɽɑ,बड़ा,
 41367,203,95,vivre,,,,vivre,,,,,http://www.anglo-norman.net/D/vivre
 41368,203,96,feie,,,,feie,,,,,http://www.anglo-norman.net/D/feie
@@ -10508,9 +10508,9 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 45865,44,225,malt,,,535,malt,,mal̃t,,,
 45867,44,222,slēpt,,,535,slēpt,,slèpt,,,
 37731,132,224,façia,,"Native script: <b>façia</b> (3.sg.subj.pres., IIa 17), <b>feia</b> (3.sg.subj.pres., Va 23, Vb 3)<b>fetu</b> (3.sg.imptv., 47x between Ia 3 - IIb 29), <b>feitu</b> (3.sg.subj.pres., 20x between Ia 4 - III 32), <b>fakust</b> (3.sg.fut., IV 31), <b>fakurent</b> (3.pl.fut., Ib 34), <b>façiu</b> (inf., IIa 16), <b>façu</b>  (inf. IIb 22), <b>fetu</b> (3.sg.perf.pass.n.?, IIa 4), <b>feta</b> (past pass.part., acc.sg.f., IIb 13).  Latin script: fetu (3.sg.imptv., 53x between VIa 22 - VIIa 54), feitu (3.sg.imptv. VIb 3, 22, 47, VIIa 3, 4), facurent (3.pl.fut. VII 43).  Palaeo-Umbrian <b>face</b> (3.sg.perf., Um 3).",279[256-261],façia,,,,,
-5185,22,76,hit,,"Middle English hitten, Old English hyttan, from Old Norse hitta",357;93[738],hit,,hɪt,,,http://www.oed.com/view/Entry/87336?
+5185,22,76,hit,,"Middle English hitten, Old English hyttan, from Old Norse hitta",357;93[738],hit,,,hɪt,,http://www.oed.com/view/Entry/87336?
 42987,210,58,pîdár,,also /(p)ter/,,pîdár,,pɯˈðar̥,pɯðar,πι̂δάρ,
-5271,22,166,swim,,"Middle English swimmen, Old English swimman",357;93[1558],swim,,swɪm,,,http://www.oed.com/view/Entry/195839?
+5271,22,166,swim,,"Middle English swimmen, Old English swimman",357;93[1558],swim,,,swɪm,,http://www.oed.com/view/Entry/195839?
 39054,190,204,tuorps,,,536,tuorps,,,,,
 26257,122,95,vivi,,,,vivi,,'vivi,'vivi,,http://claap.org/definizion/?diz=fur-it&leme=vivi
 39053,190,202,sīvīte,,,536,sīvīte,,,,,
@@ -12532,7 +12532,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 30807,143,45,kam frikë,,"The verb druaj is slightly less colloquial.Loan from Byzantine Middle φρίκη /friki/ 'shiver(ing), frost, shudder of fear' though expected palatalization is missing; OR idependent derivative of an s-form of PIE *preK- (cf. Tocharian and Germanic words of 'fear').",129,kam frikë,,,,,
 35456,173,50,pu-*,,"Attested in occupational term pu-ka-wo [puːr-káu̯os] 'fireburner' cf. [lexeme 35448](lex-35448) and Classical terms πυρκαεύς 'fire kindler' and πυρίκαος 'fire-burner'.  In PY An 39.1, 424.1, 427.3, 594.1.",303[168],pu-*,fire,pûːr*,pûːr*,𐀢,
 50563,127,24,do·téit,,,,do·téit,,do'teːd,,,http://dil.ie/40447
-5133,22,22,cloud,,"Old English clūd 'rock, hill', in modern sense first appears in 13th century",357;93[307],cloud,,klaʊd,,,http://www.oed.com/view/Entry/34689?
+5133,22,22,cloud,,"Old English clūd 'rock, hill', in modern sense first appears in 13th century",357;93[307],cloud,,,klaʊd,,http://www.oed.com/view/Entry/34689?
 28203,127,69,lám,,"< IE *pl̥H-mā ‘flat Hand’, root: *pelə-/*plā- ‘wide, flat; to spread'. Cf. also Gk παλαμη ‘flat hand’; Lat palma ‘id.'.",151[206];28,lám,,laːṽ,,,http://dil.ie/29507
 39922,195,56,petṓ,,,,petṓ,,pɛˈtɔ,pɛˈtɔ,πετώ,
 11251,50,66,hiravaṁ,,,98[598],hiravaṁ,,ɦirəʋ,,हिरवं,
@@ -13295,10 +13295,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49786,236,221,cym(e)ryd,,,,cym(e)ryd,,ˈkəmɨd̥ & k(ə)ˈmɛrɨd̥,ˈkəmɨd & k(ə)ˈmerɨd,,
 49654,236,91,deilan,,,,deilan,,ˈdɛilan,ˈdeilan,,
 15926,68,19,respirar,,,,respirar,,respiˈɾaɾ,respiˈɾaɾ,,http://dle.rae.es/?w=respirar
-5126,22,14,black,,"Middle English blak, Old English blæc",357;93[161-2],black,,blæk,,,http://www.oed.com/view/Entry/19670?
-5129,22,17,bone,,"Middle English bon, Old English bān",357;93[179],bone,,bəʊn,,,http://www.oed.com/view/Entry/21294?
+5126,22,14,black,,"Middle English blak, Old English blæc",357;93[161-2],black,,,blæk,,http://www.oed.com/view/Entry/19670?
+5129,22,17,bone,,"Middle English bon, Old English bān",357;93[179],bone,,,bəʊn,,http://www.oed.com/view/Entry/21294?
 46432,22,224,do,,,,do,,,,,http://www.oed.com/view/Entry/56228?
-5272,22,167,tail,,,93[1570],tail,,teɪl,,,http://www.oed.com/view/Entry/197067?
+5272,22,167,tail,,,93[1570],tail,,,teɪl,,http://www.oed.com/view/Entry/197067?
 5843,25,144,peau,,,91[588],peau,,po,po,,http://www.cnrtl.fr/etymologie/peau
 5897,25,198,vent,,,91[849-50],vent,,vɑ̃,vɑ̃,,http://www.cnrtl.fr/etymologie/vent
 5889,25,190,mouillé,,,91[530],mouillé,,muje,muˈje,,http://www.cnrtl.fr/etymologie/mouillé/adjectif
@@ -23609,7 +23609,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 22571,105,188,ā́p*,,pl. ā́pas; VEDIC SWADESH TERM! (= clearly more frequent than) ~vā́r ~ váar n.,28,ā́p*,f.,*ˈa:p,á:p,आप्*,
 27676,128,4,ātriia,,"Gen. ātriiehe, stem ātriia- < *ātər-(i)ya-, derived from ātər- 'fire'; Swadesh character not completly assured, since cognate of Vedic ā́sa-, Persian xāk might be missing by accident.",28,ātriia,N.n,,aːtrii̯a,𐬁𐬙𐬭𐬌𐬌𐬀,
 62344,128,66,zairi.gaona,,"compound with gaona- 'colour'; said of plants, so 'green' as well as 'yellow'",,zairi.gaona,ADJ,,zarigau̯na,𐬰𐬀𐬌𐬭𐬌.𐬔𐬀𐬊𐬥𐬀,
-5199,22,92,left,,,93[888],left,,lɛft,,,http://www.oed.com/view/Entry/106982?
+5199,22,92,left,,,93[888],left,,,lɛft,,http://www.oed.com/view/Entry/106982?
 61163,286,222,mbuçarmë,,"Loan < Calabrian (a)mmucciare 'to hide (oneself)', based on the infinitive.(a)mmuččiare (also Neapolitanean, Sicilian) < *ad-mukkiare, cf. Old Italian mucciare, Old French mucier 'id.' < Old Frankish *mukjan, *mukōn 'to hide'.","694[76. 425{ammucciare, mmucciari 'nascondere'}];444[5723{Old Italian, Roman, Umbrian mucciare 'to flee', Old Lombardian, Old Ladin (Engadine) 'escape, slip away'| Old French mucier| < *mūkyāre (Gallish) 'to hide, escape'. South Italian ammuččiare  probably through French.}]",mbuçarmë,,,mbut͜ʃáɾmə,,
 63313,282,132,makī,,,,makī,,,,,
 22386,105,48,yudh-,,root; more frequent in RV than denominative verbs from pr̥t- 'fight',28,yudh-,verb,*judʱ-,yudʱ-,युध्-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=854
@@ -23933,7 +23933,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 61097,286,143,setaru,,"Loan either from sédere, sedire 'to sit' with conversion of the inflectional class towards the more productive one in -are; or denominal from setta 'trunk of tree used for sitting', setariellu 'stool'.","444[7780{Sicilian assittari 'to sit (down)'.}];694[649.{Calabrian sédere, sédiri, sedire etc. 'sedere'| setta 'ceppo di legno che serve da sedile', setariellu 'sgabellino'}]",setaru,,,setá:ɾu,,
 61084,286,219,iknja,,"Extended root PIE *h₁ei̯-k-/h₁i-k-, eventually of the type ""facere"".Likely also attested in the prefixed variant shkoj 'go, walk' and the unextended root *h₁ei̯- in heavily reshaped vete 'go'.Since both, the unextended as well as the extended root variant survive, a split might have occurred in different positions of the paradigm like the -k- evolving in the aorist or imperative.",,iknja,,,íkɲa,,
 63076,292,225,warrawal,,"or causative ""to make s.th. turn"" waṛ-aw- ?",,warrawal,,ˈwə.ɽa.wəl,wəɽawəl,وړول,
-5253,22,148,smell,,,93[1458],smell,,smɛl,,,http://www.oed.com/view/Entry/182542?
+5253,22,148,smell,,,93[1458],smell,,,smɛl,,http://www.oed.com/view/Entry/182542?
 61115,286,165,ujarti,,"Loan < local Calabrian uχχare 'blow up, swell' with loss of intervocalic /χ/ and compensatory glide [j] + usual loan verb integration via suffix -art-.","694[740{uχχare (~ guχχare ) 'gonfiare' [blow up, swell], attested in 19th c. Cental Calabrian.}]",ujarti,,,ujá:ɾti,,
 22418,105,72,śru-,,root,28,śru-,verb,*ɕɾu-,śru-,श्रु-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=1100
 4868,20,162,lige,,slightly more common,97[http://ordnet.dk/ddo/ordbog?query=lige&search=S%C3%B8g],lige,,ˈli:ə,,,http://ordnet.dk/ddo/ordbog?query=lige
@@ -23946,7 +23946,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25396,32,49,nýchi,,From dim. of Anc.Gk. ὄνυξ > ὀνύχιον.,271,nýchi,,ˈniçi,ˈnixi,νύχι,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=νύχι
 806,3,23,ftoft,,"Late derivative of ftoh ~ ftof 'to cool, to make cold' < Pr. Alb. *wi-tāja, whose second element compares with Slav. *tajo, *tajati 'to melt', < PIE *teh₂- 'thaw, melt', here with suffix -f- < -h- < *-sk̑e-. The oppositive meaning derives from the preverb f- < *wi- < *apu- (Schumacher & Matzinger: 974).",364[974],ftoft,,,,,
 61030,286,72,gjegj,,"(Std.)Alb. gjegj trans. 'to listen, consent, heed listen, obey', intrans. 'to answer'.",,gjegj,,,ɟéɟ,,
-5146,22,35,dust,,,93[484],dust,,dʌst,,,http://www.oed.com/view/Entry/58683?
+5146,22,35,dust,,,93[484],dust,,,dʌst,,http://www.oed.com/view/Entry/58683?
 22348,105,22,megháḥ,,VEDIC SWADESH TERM!,28,megháḥ,m.,*mɐj'gʱɐh,maigʱás,मेघः,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=831
 45921,105,224,kr̥-,,root,,kr̥-,verb,*kɾ-,kr-,कृ-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=301
 22367,105,31,śvā́,,,28,śvā́,m.,*'ɕʋa:,śvā́,शवा,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=1105
@@ -24258,7 +24258,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24956,35,202,strī,,,,strī,,st̪ɾi,st̪ɾi,स्त्री,
 27390,125,96,igær,,,"122;156[541{No mention of Digor ""egær"" in Abaev, and this is not expected historically. If this really appears in Digor, it can only be a hypercorrection from Iron игæр.}]",igær,,igɜr,igɜr,игӕр,
 56487,141,69,d′ui,,"Derivation from *dušt < *dasta- is impossible, so this cannot be a cognate.",,d′ui,hand; hand and forearm,dˈui̯,dˈui,du′i,
-5230,22,124,right,,,93[1332-3],right,,raɪt,,,http://www.oed.com/view/Entry/165855?
+5230,22,124,right,,,93[1332-3],right,,,raɪt,,http://www.oed.com/view/Entry/165855?
 69064,60,4,pépel,,"The more basic and general term vs. зола, rather fine and grey",,pépel,"ash, ashes",ˈpʲepʲɪɫ,pʲépʲel,пепел,http://gramota.ru/slovari/dic/?all=x&word=пепел
 6309,26,8,bast,,,124[53],bast,,bɔst,,,
 6397,26,108,tichteby,,Removed brackets around -N.,124[654],tichteby,,'tɪxtəbɛi,,,
