@@ -412,7 +412,9 @@ class Dataset(BaseDataset):
                 print('no wiki page for "%s" found' % (m['Name']))
                 wiki_page = wikidir / 'DO-Meaning:-{0}.md'.format(m['Name'])
                 if wiki_page.exists():
-                    wiki_data = '_the description is currently being revised_'
+                    wiki_data = '##### Illustrative Context\n_' +\
+                        m['exampleContext'] +\
+                        '_\n\n> Full meaning definition being reformatted and restructured for publication.'
             else:
                 wiki_data = clean_md(read_text(wiki_page))
             m['Description_md'] = wiki_data

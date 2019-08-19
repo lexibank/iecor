@@ -172,7 +172,7 @@ FIELD_MAP = {
             "meaningSetIx": "",
             "tooltip": "Description",
             "meaningSetMember": "",
-            "exampleContext": "",
+            "exampleContext": "exampleContext",
             "ixElicitation": "",
             "concepticon_id": "Concepticon_ID",
         },
