@@ -1,859 +1,860 @@
 Cognateset_ID,SourceCognateset_ID,Comment,Source_languoid,Source_form,Parallel_loan_event
-8147,1990,,Persian,,false
-8342,,,Italian,scorza,false
-5669,98,,Persian,سرخ / sorx,false
-7844,3845,salt,Saṇu-viri: Wâmâ,ẓ′oːk,true
-8368,,'to sharpen',Italian,affilare,false
-5556,1957,,Avestan,ātarš,false
-7952,,,Persian,برف / barf,true
-8333,,,Italian: Calabrian,kulirča,false
-5616,1352,,Old Norse,leggr,false
-9234,,,Persian < Arabic,,false
-5490,2224,,Latin,numerāre,false
-2849,,,Middle English,putten,false
-5762,,,Old French,songer,false
-166,342,,New Persian,bād,true
-5571,227,,Latin,frūctus,true
-4772,,"cf. Turkish kuyruk ""tail""",?Turkish,,false
-5497,864,,Old French,conter,false
-5632,1965,,Persian,کوه / kūh,true
-5475,2211,,English,,true
-5768,330,,Middle Low German,dreien,false
-5552,4490,,,,true
-3334,,,Hattic,e/aštan-,false
-292,,,Latin,curtus,false
-4273,,Loan from dialectal Swedish,Swedish,snafsa,false
-5103,,Borrowed from Old French grif (13th century) from Old High German grifân with the development *skrif > skirf and dissimilation.,Old French,grif,false
-3863,,,West Caucasian,,false
-516,,From Lat. viridis 'green',Latin,viridis,false
-970,,,Old French,fel,false
-8374,,,Buddhist Hybrid Sanskrit,samudra-,true
-8567,,,Arabic,استفراق,true
-2230,,,Arabic,اسم / aism,false
-734,,,Turkic,*küčik,true
-5307,399,,Albanian,lule,false
-414,,,Latin,intelligere,false
-389,,,Latin,largus,false
-404,,,Latin,pōmum,false
-9506,,,Iranic,*zërt,false
-454,,,Romance,*cocceus,false
-372,,,Latin,venīre,false
-8355,,"'dusted, sprinkled with dust, dusty'; Latin form given for structural reasons, mre likely a late loan from an Italian dialect",Latin,pulveratus,false
-4362,220,,Latin,piscis,false
-433,,,Italian,milza,false
-8464,573,,Iranic,,false
-5732,2910,,Old French,sentir,false
-5557,1957,Wanderwort,,,false
-608,,,Syriac,ṭarpā,false
-658,,,?Iranian,,false
-3261,,,West Caucasian,,false
-5500,865,,Latin,cavus,false
-402,,,Romance,*camba,false
-8377,,'to smell',Calabrian,"ad(d)urare, -ari",false
-1964,,Cf. Abkhaz ləgaž 'old man' from *ləg 'person',East Caucasian,,false
-5767,1273,,Latin,tornāre,false
-8465,7259,,Kalaṣa-alâ: Nišeigrâm,,false
-562,,,Slavic,*goditi,false
-7981,,,English,savour,false
-2221,,,Balkan Romance,*mula,false
-8357,,'green',Italian,verde,false
-5231,,,Anglo-Norman,carier,false
-8358,6385,'to grind',Italian,macinare,false
-9508,131,,Iranic,,false
-9509,53,,Iranic,,false
-8941,,,Arabic,,false
-3225,,"Cf. Hungarian keszeg 'leuciscus; bream', Khanty kaśeu, Mansi kǟsen 'bream', Georgian kašaqi 'herring'",?,,false
-3268,,,Slavic,,false
-5673,276,,Persian,راست / rāst,true
-5765,151,,Persian,درخت,true
-3549,,,Turkish,čök,false
-5196,5204,,Gothic?,hûs,false
-918,,,Spanish,empujar,false
-1017,,gen.sg. of Lat. pondus 'weight',Latin,ponderis,false
-1565,,,Latin,asper,false
-3231,,"Cf. Kabardian dedī, Svan dadil Lak tuti Tsakhur tet",?,,false
-2005,,Cf. Standard Arabic دِمَاغ 'brain'.,Arabic,,false
-8362,6595,,Italian,destra,false
-1843,,,Arabic,هواء,true
-1042,,,Old Low Franconian,*bōtan,false
-8363,8289,'yellow',Italian,giallo,false
-975,,over Scandinavian krôkr,Old French,croc,false
+4,,from Arabic,Persian,خراب,true
+46,,"Cf. Biblical Hebrew מֶגֶד 'choice produce', Syriac maγδā 'fruit'",?West Semitic,,false
 88,,,Persian,پوزه / pōz(e),true
-5859,3139,,Low German,made,false
-2069,,,Greek: Ancient,κόγχᾱ / kógkhā,false
-1344,,,Old French,diguer,false
-5609,,,,,false
-8475,3747,,Wakhi,,false
-5293,220,Acc. Sg,Latin,piscem,false
-4985,,,Bulgar?,?,false
-5574,2235,,(Low) German,voll,false
-3112,,,Arabic,,true
-2643,,,Livonian,puk'k',false
-5502,1441,,German,schmutzig,false
-1995,,"'feed, fodder'",Arabic,علف / ʿalf,true
+101,,,Persian,daryāb,true
+111,,,Arabic,بحر / baḥr,true
+124,,,Arabic,صاف / ṣāf,false
+143,,,Arabic,fikr,true
+159,,,?Turkic,*hulu-,false
+166,342,,New Persian,bād,true
+215,,"Loaned into Middle English from Old Norse skirra ""to frighten; to shrink from, shun; to prevent, avert""",Old Norse,skirra,false
+292,,,Latin,curtus,false
+347,5795,,Germanic,*bosk,false
+362,,"Borrowed < Lat capessere ~ capissere (inf.) 'to seize, snatch at', or < Rom. *capsare based on Lat capere 'to take'.",Latin,capessere ~ capissere,false
+372,,,Latin,venīre,false
+389,,,Latin,largus,false
+399,,"Uncertain ""Balkan language""/wanderwort",Uncertain,,false
+400,,,Romance,*fluctulare,false
+402,,,Romance,*camba,false
+404,,,Latin,pōmum,false
+408,,,Turkish,yeşil,false
+414,,,Latin,intelligere,false
+430,2071,,Romance,*manctus,false
+433,,,Italian,milza,false
+443,,,Turkish,kafa,false
+454,,,Romance,*cocceus,false
+489,312,,Latin,directum,false
+511,5322,Romance loanword (source?),Romance,*er(a),false
+514,6556,,Balkan Romance,*padūlem,false
+516,,From Lat. viridis 'green',Latin,viridis,false
+562,,,Slavic,*goditi,false
+570,,"'bark; sheet of a book""",Syriac,qəlāfāʼ,false
+596,,,Syriac,Syr. mezzē 'crines parvi' (Olsen 1999: 932),false
+608,,,Syriac,ṭarpā,false
+620,,e.g. Khinalug ḳɨt-ɨ́r 'nose',North Caucasian,,false
+627,95,Cf. Av. karš- 'drag; plow',Iranic,,false
+630,5668,cf. Sogdian krm’yr /lexeme/29363/,Iranic,,false
+639,,Georgian კერვა ḳerva 'to sew',Caucasian,,false
+654,,Cf. Sogdian βrʾwkʾ 'leprous',Iranic,,false
+658,,,?Iranian,,false
+666,338,Loan < Early Parthian spytk' (?).,Middle Iranian,spētaka-,false
+734,,,Turkic,*küčik,true
+750,,"Probable loanword, but of uncertain origin (cf. KEWA I:405-406 for further discussion).",,,false
+756,,"Probable loanword from Dravidian, cf. Burrow & Emeneau 1984:139 for parallels.",?Dravidian,,false
+805,,,Arabic,لَعْل,true
+892,,,Greek: Ancient,κόλαφος / kólaphos,false
+911,,,Gaulish,bocca,false
+918,,,Spanish,empujar,false
+938,1546,,Greek: Ancient,πέτρα / pétra,false
+970,,,Old French,fel,false
+973,,variant of coffre (1175) from Vulgar Latin *cophinum of Greek origin,Old French,*coffe,false
+975,,over Scandinavian krôkr,Old French,croc,false
+981,,,Latin,cumulus,false
+984,864,"Some uncertainty exists whether the Breton verb was borrowed directly from Old French conter, or a denominal formation within Breton based on a loanword from Old French conte (Deshayes 2003:413)",Old French,conte / conter,false
+1017,,gen.sg. of Lat. pondus 'weight',Latin,ponderis,false
+1035,,or younger and < Old French tost?,Latin,tostus,false
+1041,,uncertain whether loan or inherited (or a mix?),Latin,tendere,false
+1042,,,Old Low Franconian,*bōtan,false
+1045,9470,,French,,false
 1058,,,Latin,quiēscō,false
-2323,,one parallel loan or loan into e.g. Persian and parallel loan from there?,Arabic,,true
-3871,,,Romance or Greek,*rombulus or ῥύμβος,false
-2423,,,Arabic,ˁawrāt ?,true
-3284,,,East Caucasian,,false
-5662,271,,Middle Low German,trecken,true
-5736,301,,Middle Low German,glatt,false
-3826,,,Latin,coccum,false
-4672,,"Cf. Arabic milāḥa 'swimming, sailing', mallāḥ 'sailor'.",Arabic,,true
-3092,,,Persian,farāḵẖ,false
-3241,,,South or East Caucasian,,false
-5674,276,,Low German,recht,false
-5542,1312,,Low German,vruchten,false
-5501,1954,,Arabic,,true
-5713,2013,,Persian,تخم / toxm,false
-5856,5224,,Persian/Tajik,xān,true
-5295,,"back, spine",Latin,spīna,false
-5546,999,,Latin,pluma,false
-2518,,,Old Norse,hitta,false
-5618,255,,German,leben,false
-5714,289,,Low German,sât,false
-5472,1114,Slav diminutive *kostъka for 'bone'.,Slavic,*kostъka,false
-5785,5101,,Persian,par,false
-5619,72,,Persian,(زندگى (كردن  / zendegī (kardan),true
-8481,2274,,Iranic,,false
-5645,5034,,Persian,گردن / gardan,true
-5712,2011,,Persian,دريا,false
-2981,,,Livonian,nuja,false
-5862,747,,Persian,سال,true
-5787,1336,,Old Norse,vængr,false
-5485,5081,,Pāli,sītala,false
-2815,,,Arabic,qarīb,false
-5549,700,,Persian,,true
-5627,78,,Persian,گوشت / gūšt,true
-5755,1446,,Middle Low German,swanz,true
-4370,,,Latin,coccum,false
-5720,641,,Germanic,*skurtaz,false
-5722,5866,,Persian,pōst,true
-5648,5064,Source probably Tajik kūhna or Persian kohne,,,true
-5863,1195,,Russian,год,false
-4350,,,Latin,bēstia,false
-5716,115,,Persian,تیز / tīz,true
-5718,2014,,,,true
-9261,,,Lahnda,laṇdā,false
-5620,718,,Persian,جگر / ǰigar,true
-5567,5568,,Scots,,false
-5776,334,,Middle Low German,waschen,true
-5629,2232,,Low German,mân,false
-3855,,,Latin,pōmum,false
-4838,,cf. German 'Stamm',German,stomm,false
-5568,223,,Old French,"flour, flur, flor",false
-5779,338,,Early New Persian,safēd,true
-4599,,,Sanskrit,,false
-5869,,,Italian,lući,false
-3674,,,Arabic,,false
-5621,718,,Sanskrit,yákr̥t,true
-3412,,,Old_Turkic,arqa,true
-8125,,,Romance,*pluverem,false
-5664,1399,,Latin,pulsus,false
-5643,263,,Latin,angustus,false
-4931,885,,Vulgar Latin,*virdis,false
-5677,2652,,Middle Low German,,false
-5638,2004,,Persian,*daf(an),true
-5642,2807,,Latin,strictus,false
-5487,,,Low German,rekenen,false
-5443,,,Tocharian B,oko,false
-6064,,,Italian,petto,false
-6063,1172,,Church Slavonic,нєбо,false
-4889,2190,,Iranic,,false
-5884,,,Turkish,toz,true
-5511,24,,Persian,گرد / gard,true
-5301,227,,Italian,frutto,false
-6088,1117,,Church Slavonic,облакъ,true
-6084,,,Turkish,avla-,false
-5660,270,,Middle Low German,,true
-5216,,,Turkish,kanca,false
+1096,,,Latin,aēr,true
+1171,,,Turkic,,false
+1264,,Borrowed into Latin from Ancient Greek as a terminus technicus; acquired specialised meaning 'leg' only later in Romance.,Greek: Ancient,καμπή / kampḗ,false
 1273,,,Greek: Ancient,τόρνος / tórnos,false
+1278,,,Greek: Ancient,κρόκος / krókos,false
+1311,,Loans from Middle Low German in turn from Medieval Latin spesa from Latin expensa (pecunia),Middle Low German,spīsen,false
+1313,,,,campus,false
+1327,,,Early Low German,lucht,false
+1344,,,Old French,diguer,false
+1394,,,Germanic,*brod-,false
+1396,,,Old Low Franconian,*wenkjan,false
+1403,,,Old Low Franconian,*bōtan,false
+1455,9579,,Latin,pullus,false
+1531,,,Unknown Pre-Greek substratum language,?*gʷlep⁽ʰ⁾-,false
+1565,,,Latin,asper,false
+1608,,"Cf. Telugu eḍama 'left, left-hand, left-hand side', Tamil iṭai, iṭam 'left side'",Dravidian,,false
+1634,,,,,true
+1679,,Cf. Tamil cikku 'to stay hanging',?Dravidian,,false
+1809,,,Dravidian,,true
+1815,,Loan status uncertain.,,,false
+1843,,,Arabic,هواء,true
+1886,,,Old Belarusian,blagij,false
+1906,,"German loanword (cf. Prussian dialect jōk), ultimately from Lat. iocus 'joke'",German,,false
+1954,,,,,false
+1964,,Cf. Abkhaz ləgaž 'old man' from *ləg 'person',East Caucasian,,false
+1981,,generally believed to be of Median origin,Central Iranic (aka. NWIr.),,false
+1984,,,Arabic,نفس / nafs,true
+1995,,"'feed, fodder'",Arabic,علف / ʿalf,true
+2005,,Cf. Standard Arabic دِمَاغ 'brain'.,Arabic,,false
+2033,,Most probably the source was a folk form wonitować. The Polish source form is itself a loan from Latin. Polish wymiotować can not be the source of the Belarusian lexeme from phonetic reasons (it can be supposed that the Polish wymiotować is a folk etymology).,Polish,won/mitować,false
+2069,,,Greek: Ancient,κόγχᾱ / kógkhā,false
+2073,,Generally considered from an Celtic borrowing in Latin (cf. Welsh peth).,Celtic,,false
+2162,2877,,Latin,putris,false
+2186,,,Greek: Ancient,σπάθη / spáthē,false
+2221,,,Balkan Romance,*mula,false
+2230,,,Arabic,اسم / aism,false
+2277,,,Turkic,"tuman, duman",true
+2323,,one parallel loan or loan into e.g. Persian and parallel loan from there?,Arabic,,true
+2324,,,Sanskrit,puruṣa-,true
+2423,,,Arabic,ˁawrāt ?,true
+2518,,,Old Norse,hitta,false
+2551,,"Cf. OHG scina 'thin strip, shin'",Germanic,*skĭna-,false
+2599,,Perhaps specifically from Oscan?,Sabellic,,false
+2643,,,Livonian,puk'k',false
+2782,,,Basque,esker(r),false
+2792,,,Dravidian,,true
+2815,,,Arabic,qarīb,false
+2849,,,Middle English,putten,false
+2981,,,Livonian,nuja,false
+3030,,Acc. Sg.,Latin,mentem,false
+3032,,m.,Sanskrit,vicāra-,true
+3049,,"Latin lancea is certainly a loanword in origin, but it's precise origins are unclear (cf. Ernout & Meillet 1985:339-340).",Celtic?,,false
+3063,,,Greek: Ancient,γῦρος / gũros,false
+3072,,,Sanskrit,vānta-,false
+3092,,,Persian,farāḵẖ,false
+3112,,,Arabic,,true
+3168,6681,,Sanskrit,pṛthivī-,false
+3175,,,Middle High German,,false
+3182,,,Greek: Ancient,βαλανεῖον / balaneĩon,false
+3217,,,East Caucasian,,false
+3225,,"Cf. Hungarian keszeg 'leuciscus; bream', Khanty kaśeu, Mansi kǟsen 'bream', Georgian kašaqi 'herring'",?,,false
+3229,,"Cf. Turk. dengiz 'sea'. To judge from the distance between the Pamirs and the Caucasus, probably an independent loan event from Sarikoli in /cognate/9655/",Turkic,,true
+3231,,"Cf. Kabardian dedī, Svan dadil Lak tuti Tsakhur tet",?,,false
+3236,,,East Caucasian,,false
+3241,,,South or East Caucasian,,false
+3261,,,West Caucasian,,false
+3268,,,Slavic,,false
+3273,,,East Caucasian,,false
+3277,,"Cf. Lezgian rug 'dust', Tabasaran rug 'earth'",East Caucasian,,false
+3284,,,East Caucasian,,false
+3286,,,East Caucasian,,false
+3296,,,Germanic,*kuninga-,false
+3334,,,Hattic,e/aštan-,false
+3338,,,Syriac,"Syriac ḥəšīḇ, “considered, calculated”",false
+3340,,,Iranic,*gavāzan-,false
+3365,,e.g. Georg. mc̣uxri 'dusk'; c̣uxva 'sadness',?Caucasian,,false
+3408,,,Arabic,قلب / qalb,true
+3412,,,Old_Turkic,arqa,true
+3548,,,Lahnda,*poh-,false
+3549,,,Turkish,čök,false
+3674,,,Arabic,,false
+3825,,,Latin,floccus,false
+3826,,,Latin,coccum,false
+3855,,,Latin,pōmum,false
+3857,,,Latin,"cūpa, cuppa",false
+3863,,,West Caucasian,,false
+3866,,,Sanskrit or Pali,naraka-,false
+3871,,,Romance or Greek,*rombulus or ῥύμβος,false
+3923,,Cf. Malayalam muṭṭa.,Dravidian,,false
+3925,,"Cf. Mayrhofer, KEWA for further discussion.",Austroasiatic?,,false
+3959,7532,,Sanskrit,mahilā,true
+4185,,Loan status uncertain.,?Middle Low German,,false
 4195,,,Low German,brav,true
-5725,5086,,Polish,skóra,true
-6085,,,Turkish,deniz,false
-6520,,,Old Spanish,chifle,false
-6092,,,German,rech(n)en,false
-6240,,,Latin,cella,false
+4273,,Loan from dialectal Swedish,Swedish,snafsa,false
+4323,,,Middle Low German,,false
+4350,,,Latin,bēstia,false
+4358,867,,Latin,siccus,false
+4362,220,,Latin,piscis,false
+4364,227,,Latin,frūctus,false
+4370,,,Latin,coccum,false
+4387,958,,Late Latin,*ascella,false
+4389,,,Latin,*pēsum (pēnsum),false
 4472,,,Pāli,(ag)gini-,false
-6106,6092,,Polish,rachować,false
-6213,,,French,jambe,false
+4485,,,Persian,برف / barf,false
+4599,,,Sanskrit,,false
+4672,,"Cf. Arabic milāḥa 'swimming, sailing', mallāḥ 'sailor'.",Arabic,,true
+4725,8785,,,,false
+4772,,"cf. Turkish kuyruk ""tail""",?Turkish,,false
+4806,,It is hard to determine precisely how and when the root arose in Ukrainian (it can be an old Common Slavic loanword but it also could pass to Ukrainian through Church Slavonic etc.).,Latin,pāgānus,false
+4823,,,?German,"?Spat, ?Spott",false
+4838,,cf. German 'Stamm',German,stomm,false
+4889,2190,,Iranic,,false
+4891,,"Cf. MParth. sy'w, Av. siiāuua- 'black'",Iranic,,false
+4931,885,,Vulgar Latin,*virdis,false
+4937,894,denominative verb from the Old French noun chace 'hunt' (12th cent.),Old French,chace,false
+4967,,,Old French,brume,false
+4985,,,Bulgar?,?,false
+4994,,,Old Czech,válčit,false
+5103,,Borrowed from Old French grif (13th century) from Old High German grifân with the development *skrif > skirf and dissimilation.,Old French,grif,false
+5155,,,(Low) German,"Klotz, kloz",true
+5170,,"From Latin hospitium: late antique or earlier medieval borrowing, not attested in Classical texts but borrowed before the procope of unstressed vowels",Latin,hospitium,false
+5183,,,Polish (<German),budynek (<būding),false
+5196,5204,,Gothic?,hûs,false
+5202,,,(Bavarian) German,"Krampel, Krämpel",false
+5216,,,Turkish,kanca,false
+5218,,It is sometimes claimed (cf. ESSJ) that the word is native (PS *but-).,Turkish,but,false
+5231,,,Anglo-Norman,carier,false
+5293,220,Acc. Sg,Latin,piscem,false
+5295,,"back, spine",Latin,spīna,false
+5296,,,Middle Low German,slichts,false
+5301,227,,Italian,frutto,false
+5307,399,Generally considered a loanword from either Albanian lule 'flower' or Latin līlium 'lily'.,Albanian or Latin,,false
+5309,182,,Old French,escorce,false
+5322,3111,"Early loanword event in Latin (already attested Ennius, late 3rd - early 2nd c. BCE).",Ancient Greek,"ἄηρ, ἀέρος",false
+5328,1305,,Old Norse,bǫrkr,false
+5329,,,English,"bit, bite",false
+5342,5341,,Old Norse,taka,false
+5346,,noun 'cleanliness',Middle/Modern Greek,πάστρα,false
+5348,,cf. Persian kūra 'fireplace; furnace',?Iranic,,false
+5443,,,Tocharian B,oko,false
+5467,687,"Turner has ""Persian loanword"" > Hindi (1931: 124)",Persian,,true
+5471,11,,Indic,,true
+5472,1114,Slav diminutive *kostъka for 'bone'.,Slavic,*kostъka,false
+5474,2211,,Low German,Borst,false
+5475,2211,,English,,true
+5477,,"‘burns’  T. 11097.1.  Loan because of ṣ, rather than s, after u.",Indic,*lūṣati,true
+5485,5081,,Pāli,sītala,false
+5487,,,Low German,rekenen,false
+5490,2224,,Latin,numerāre,false
+5497,864,,Old French,conter,false
+5499,201,,Old Norse,deyja,false
+5500,865,,Latin,cavus,false
+5501,1954,,Arabic,,true
+5502,1441,,German,schmutzig,false
+5505,21,"Relatively late loanword from Lat (acc.sg.) canem or, rather, from its Balkan continuations, reflected in the lack of rhotacism in Tosk.",,canem,false
+5506,21,,Iranic,*sabāka-,false
+5511,24,,Persian,گرد / gard,true
+5526,28,,Old Norse,egg,false
+5542,1312,,Low German,vruchten,false
+5546,999,,Latin,pluma,false
+5549,700,,Persian,,true
+5552,4490,,,,true
+5555,2268,,Persian,ناخن / nāxun,true
+5556,1957,,Avestan,ātarš,false
+5557,1957,Wanderwort,,,false
+5567,5568,,Scots,,false
+5568,223,,Old French,"flour, flur, flor",false
+5570,42,,Greek: Ancient,ὀμίχλη / omíchlē,false
+5571,227,,Latin,frūctus,true
+5572,46,,Persian,میوه / mīwah,true
+5573,227,,Latin,frūctus,false
+5574,2235,,(Low) German,voll,false
+5576,705,,Persian,sæbz,true
 5577,231,,Low German,grö̂ne,false
-6167,6505,,Italian,largo,false
-6162,,Italian meaning 'hip',Italian,anca,false
-6264,5697,,Low German,runt,false
-6518,,,Greek: Ancient,χηλή,false
-6191,,,Persian (< Arabic),مکان / makān,true
-8061,,,Occitan,tenalha,false
+5590,238,,Low German,swâr,false
+5596,60,,Persian,(شكار (كردن / šekār (kardan),true
 5597,243,,Middle Low German,,true
+5598,243,,German,Jagd,false
+5609,,,,,false
+5612,8246,"Either a direct borrowing from Old French lac, or a semantic borrowing from Old French lac, reinterpreting inherited material (cf. OE lacu 'small stream of running water' < Proto-Germanic *lak-, cf. OED, EWAhd)",Old French,,false
+5616,1352,,Old Norse,leggr,false
+5617,1264,,Romance,*camba,false
+5618,255,,German,leben,false
+5619,72,,Persian,(زندگى (كردن  / zendegī (kardan),true
+5620,718,,Persian,جگر / ǰigar,true
+5621,718,,Sanskrit,yákr̥t,true
+5624,2322,,Persian,مرد / mard,true
+5625,2318,,Low German,kerl,false
+5627,78,,Persian,گوشت / gūšt,true
+5628,,,,,true
+5629,2232,,Low German,mân,false
+5632,1965,,Persian,کوه / kūh,true
+5633,910,,Old French,montaigne,false
+5636,,,Italian,gola,false
+5638,2004,,Persian,*daf(an),true
+5640,83,,Persian,تنگ / tang,true
+5642,2807,,Latin,strictus,false
+5643,263,,Latin,angustus,false
+5644,84,,,nazdīk,true
+5645,5034,,Persian,گردن / gardan,true
+5648,5064,Source probably Tajik kūhna or Persian kohne,,,true
+5649,913,Acc. Sg.,Latin,veterem,false
+5658,3828,,Latin,lūdere,false
+5660,270,,Middle Low German,,true
+5662,271,,Middle Low German,trecken,true
+5663,1399,,Old French,pousser,false
+5664,1399,,Latin,pulsus,false
+5665,1042,"Borrowed from Old French boute < bot 'blow, ' (1160), bouter 'to collide, to clash, to push' (1190).",Old French,boute,false
+5669,98,,Persian,سرخ / sorx,false
+5673,276,,Persian,راست / rāst,true
+5674,276,,Low German,recht,false
+5677,2652,,Middle Low German,,false
+5684,3264,,Iranian,*wīδikā-,false
+5696,281,,Old Norse,rotinn,false
+5697,,,Middle Low German,rund,true
+5698,2443,from Old French roont (1155) < Latin rotundum,Old French,roont,false
+5706,2009,,Persian,نمک / namak,true
+5712,2011,,Persian,دريا,false
+5713,2013,,Persian,تخم / toxm,false
+5714,289,,Low German,sât,false
+5716,115,,Persian,تیز / tīz,true
+5717,291,,Low German,"scharp, scherp",false
+5718,2014,,,,true
+5719,292,,Middle Low German,kort,false
+5720,641,,Germanic,*skurtaz,false
+5721,565,,Latin,cantāre,false
+5722,5866,,Persian,pōst,true
+5724,2424,,Old Norse,skinn,false
+5725,5086,,Polish,skóra,true
+5726,,,Old Norse,skȳ,false
+5728,,,Latin or Norman French,sphaera / spere,false
+5730,930,,Latin,caelum,false
+5732,2910,,Old French,sentir,false
+5735,,,Persian,هموار / hamwār,true
+5736,301,,Middle Low German,glatt,false
+5737,302,,Middle Low German,slange,true
+5738,126,,Persian,برف / barf,true
+5743,,,Middle English,batte,false
+5755,1446,,Middle Low German,swanz,true
+5762,,,Old French,songer,false
+5763,322,,Low German,denken,true
+5765,151,,Persian,درخت,true
+5767,1273,,Latin,tornāre,false
+5768,330,,Middle Low German,dreien,false
+5775,333,,Persian/Tajik,گرم  / garm,true
+5776,334,,Middle Low German,waschen,true
+5779,338,,Early New Persian,safēd,true
+5785,5101,,Persian,par,false
+5787,1336,,Old Norse,vængr,false
+5789,2422,,Sanskrit,strī,true
+5794,171,,Sanskrit?,,true
+5813,2877,,Middle Iranian,*hampu-,false
+5848,2190,"In Pashto, the loan event must have taken place after inherited short *a was reduced and inherited OIr. *d > l.",Persian,بد bad,true
+5855,754,,,,true
+5856,5224,,Persian/Tajik,xān,true
+5857,5157,,Church Slavonic,сладъкъ,false
+5858,5276,,Greek: Ancient,ὑγρός,false
+5859,3139,,Low German,made,false
+5862,747,,Persian,سال,true
+5863,1195,,Russian,год,false
+5868,6505,,Italian,largo,false
+5869,,,Italian,lući,false
+5878,,,Italian,,false
+5884,,,Turkish,toz,true
+5903,,,Turkish,sert,false
+5905,,,Turkish,göğüs,false
+5906,,,Turkish,dövüş,false
+5907,,,Turkish,puslu,false
+5908,,,Turkish,meyve,false
+5910,,,Turkish,göl,false
+5913,,,Turkish,yuvarlak,false
+5914,,,Turkish,keskin,false
+5915,940,"Cf. Standard Italian coda 'queue, tail'",Italian,,false
+5917,,,Turkish,but,false
+5918,,,Turkish,kanat,false
+5919,,,Turkish,kötü,false
+5925,,acc.sg.,Latin,canem,false
+5941,,cf. German Baum,German,"bom, boum",false
+5953,,,Iranian,,false
+5958,,,Caucasian Languages,e.g. Mingrelian č̣anǯi,false
+5960,,,Tungusic Languages,e.g. Tunguz tokum (cf. HAB 437).,false
+5961,579,May also be a loan from Proto-Germanic. Goidelic forms may be borrowed themselves from Brythonic.,Vulgar Latin,,false
+5967,2877,,Iranic,E.g. Av. pūiti- 'rottenness',false
+5969,6778,"Cf. Parthian wz- 'to move swiftly, fly; travel'; cf. Ved.váhati, etc.",Iranic,,false
+5988,,,Iranian,,false
+5994,,,Iranian,,false
+6001,,,Persian,پست / past,false
+6023,,,Latin,numerus,false
+6026,869,,Old French,poldre,false
+6031,146,,Persian,,true
+6058,46,Cf. Sogd. mγδʾk,Iranic,,false
+6063,1172,,Church Slavonic,нєбо,false
+6064,,,Italian,petto,false
+6065,,,Latin,gula,false
+6082,,,Italian,manco,false
+6084,,,Turkish,avla-,false
+6085,,,Turkish,deniz,false
+6088,1117,,Church Slavonic,облакъ,true
+6092,,,German,rech(n)en,false
+6101,,e.g. Urartian ṣârə 'orchard'; Hurrian sarme 'wood'.,Hurro-Urartian,,false
+6106,6092,,Polish,rachować,false
+6118,,"Cf. Tamil mālai 'wreath, garland'",Dravidian,,false
+6132,1831,loan from Persian پرنده pʰæɾænˈde 'bird',Persian,pʰæɾænˈde,false
+6147,,,?,,false
+6148,1345,,Old Norse,drit,false
+6162,,Italian meaning 'hip',Italian,anca,false
+6167,6505,,Italian,largo,false
+6169,,,Latin,asper,false
+6173,,"Cf. Hittite kuu̯anna(n)- '(blue as) copper, ornamental stone'",?Anatolian,,false
+6182,211,Definite article analysed as part of the stem in the borrowed form.,Italian,(l')occhio,false
+6190,,,Greek: Medieval,κατσηφ-άρα,false
+6191,,,Persian (< Arabic),مکان / makān,true
+6198,9470,,Old French,rivere,true
+6213,,,French,jambe,false
+6218,,,Arabic,,false
+6223,,,Turkish,kelle,false
+6224,,,Venetian,rozza,false
+6226,,,Turkish,orman,true
+6231,,,Slavic,log(ŭ),false
+6233,,,Turkish,pus,false
+6236,,,Turkish,çayır,false
+6240,,,Latin,cella,false
+6247,,"A verbal derivative from Greek γούλα 'throat, neck', a loanword from Latin gula 'throat, gullet'",Latin,gula,false
 6256,,,Latin,virga,false
 6263,1172,,Tocharian A,iprer,false
-6182,211,Definite article analysed as part of the stem in the borrowed form.,Italian,(l')occhio,false
+6264,5697,,Low German,runt,false
 6266,,,Middle English,battle,false
-6224,,,Venetian,rozza,false
-6306,,,Latin,fortis,false
-6223,,,Turkish,kelle,false
-6308,,,Latin,coxa,false
-6412,5497,,English,count,false
-6307,,,Latin,līmāre,false
-6303,2637,Cf. Rom. luptă,Balkan Romance,,false
-8163,,,Persian,,true
 6267,,"Unclear etymology, probably from Latin",Latin,squāma,false
+6303,2637,Cf. Rom. luptă,Balkan Romance,,false
+6306,,,Latin,fortis,false
+6307,,,Latin,līmāre,false
+6308,,,Latin,coxa,false
+6309,6087,,Latin,arēna,false
 6312,,,Latin,hospitium,false
-6389,,,North Italian,,false
-6433,,,Middle Greek,φρίκη,false
-6386,,,,,false
+6313,,+ Alb. suffix(es),Latin,crux,false
+6316,,,Persian,rān,false
+6334,,Cf. Germanic Rauch 'smoke' words.,?Germanic,,false
+6336,6209,,Greek,,false
 6381,5231,,English,carry,false
-6391,,,North Italian,,false
-6398,,,Middle High German,schrī(e)n,false
-6428,,"Cf. Proto-Slavic *glъtatь 'to swallow, devour' (ESSJa 6:157-158, Derksen 2008:168)",Slavic,,false
-6395,,,North Italian,,false
-6418,,Cf. Serbo-Croatian njušiti 'to smell',Slavic,,false
-6446,,Loan status uncertain.,?Latin,?cista,false
+6385,,"Latin machināre is denominal to machina 'engine, mechanical device', a loanword from (Doric) Greek",Greek: Ancient,μᾱχανᾱ́ / māchanā́,false
+6386,,,,,false
+6387,,Cf. Tamil kaṭṭu 'hardness',Dravidian,,false
 6388,,,Middle High German,,false
-6449,,,Slavic,zapadati,false
-6402,2638,,Italian or Latin,combatt(u)ere,false
-8224,2001,,Persian,برگ / barg,true
+6389,,,North Italian,,false
 6390,,,Old High German,grīfan,false
+6391,,,North Italian,,false
+6395,,,North Italian,,false
+6396,,,Old High German,,false
+6397,,Cf. Tamil kaṭṭu 'hardness',Dravidian,,false
+6398,,,Middle High German,schrī(e)n,false
+6400,207,,Middle High German,stoup,false
+6401,6629,,Persian,saxt,true
+6402,2638,,Italian or Latin,combatt(u)ere,false
+6412,5497,,English,count,false
+6417,,,Welsh,cwyn,false
+6418,,Cf. Serbo-Croatian njušiti 'to smell',Slavic,,false
+6422,6452,,Middle English,crye,false
+6428,,"Cf. Proto-Slavic *glъtatь 'to swallow, devour' (ESSJa 6:157-158, Derksen 2008:168)",Slavic,,false
+6433,,,Middle Greek,φρίκη,false
 6443,,,,,false
-5903,,,Turkish,sert,false
-8379,,"'to draw lines, make lines'",Italian,rigare,false
-6519,4368,,Continental Celtic,,false
-6517,,,Andalusian Arabic,ġárfa,false
-6577,,"насип 'bank, embankment'",Bulgarian,nasip,false
-5857,5157,,Church Slavonic,сладъкъ,false
-6579,,,German,schwach,false
+6446,,Loan status uncertain.,?Latin,?cista,false
+6449,,,Slavic,zapadati,false
+6452,6542,,Old French,crier,false
+6462,6458,,Persian,dil,true
+6468,,,Germanic,*stakka,false
+6482,,,Old Occitan,artelh,false
+6490,,,Pashto,,false
+6498,,,Greek: Ancient,κίρκος / kírkos,false
+6501,,Borrowed into Latin from Ancient Greek as a terminus technicus; acquired specialised meaning 'leg' only later in Romance.,Greek: Ancient,καμπή / kampḗ,false
+6502,,,Occitan (Gascon),barrique,true
+6508,,,English,to cuff,false
 6509,,,?Scots English,debate,false
-6605,,,Pashto,,false
-111,,,Arabic,بحر / baḥr,true
-6555,131,,Persian,ستاره	/ setāreh,false
-6699,,,Greek,φρίκη / phríkē,false
-6687,,,Slavic,umoriti,false
-5467,687,"Turner has ""Persian loanword"" > Hindi (1931: 124)",Persian,,true
+6511,1313,,Modern Standard German,,false
+6514,808,,Sanskrit,nadī-,true
+6517,,,Andalusian Arabic,ġárfa,false
+6518,,,Greek: Ancient,χηλή,false
+6519,4368,,Continental Celtic,,false
+6520,,,Old Spanish,chifle,false
+6525,730,,Sanskrit,samudrá-,true
+6527,,,Germanic,,false
+6528,,,Arabic,سكر / sukkar,false
+6539,5058,,Persian,سایه / sāyeh,false
+6540,,,Sanskrit,chāyā-,true
+6544,,,Turkish,murdar,false
 6545,,,Slavic,prachŭ,false
+6555,131,,Persian,ستاره	/ setāreh,false
+6557,,,Germanic,*brekan-,false
+6569,,,Slavic,,false
+6577,,"насип 'bank, embankment'",Bulgarian,nasip,false
+6579,,,German,schwach,false
+6585,,,Slavic,,false
+6605,,,Pashto,,false
+6624,6458,,Sanskrit,hr̥dayam,true
 6635,1409,,Latin,galbinus,false
-6705,,,South Slavic,mirosati,false
-6689,,,Hungarian,gond,false
-6190,,,Greek: Medieval,κατσηφ-άρα,false
-6735,,,Latin,baptisma,false
 6636,,"Derived adjective to Ancient Greek ῥόδος 'rose', a loanword probably from Iranic.",?Old Iranic,,false
-6726,6725,,Persian,پنجه,true
+6649,,,?Dravidian,,false
+6687,,,Slavic,umoriti,false
+6689,,,Hungarian,gond,false
+6691,,"A Balkan Wanderwort, cf. Albanian kopaç, Hungarian kopács.",Thraco-Dacian or Albanian,,false
+6699,,,Greek,φρίκη / phríkē,false
 6701,,,Slavic,loviti,false
-6849,,,Finnic,,false
+6705,,,South Slavic,mirosati,false
+6710,,,Greek: Ancient,βορέας / boréas,false
 6723,760,,Sanskrit,megha-,true
-9543,2464,,English,dust,false
-9544,,Loanword presumably via English or French,?,,false
+6726,6725,,Persian,پنجه,true
+6735,,,Latin,baptisma,false
+6744,,‘copper vessel’; Turner 3157,Old Indic,kiṭṭâla-,true
 6756,,,,,false
-124,,,Arabic,صاف / ṣāf,false
+6767,,,English,savour,false
+6815,,"A denominal verb based on a noun of Celtic origin, cf. von Wartburg, FEW 6/3:197 for further discussion.",Gaulish,,false
 6822,,,Germanic,*handjan,false
-6882,999,,Latin,plūma,false
-6936,,,?Caucasian,,false
-6828,,,Germanic,,false
 6823,,,Old Low Franconian,sûr,false
 6827,,,Germanic,*sunni-,false
+6828,,,Germanic,,false
 6847,,,Germanic,harpa,false
+6849,,,Finnic,,false
 6873,,,Russian?,,false
-8504,7466,,Persian and other Iranic languages,dum(b),true
-7182,,,West Caucasian,,false
-8226,3381,,Persian,بلند / buland,true
-9547,,,English,serpent,false
-9546,2927,,Middle English,smọ̄th(e),false
-8060,,"A loanword of uncertain origin, cf. Breton sebon, German Seife.",,,false
-5658,3828,,Latin,lūdere,false
-7091,,,Hurrian,,false
-7008,,cf. Gruz. kʼad-va 'flow',?South Caucasian,,false
+6882,999,,Latin,plūma,false
+6936,,,?Caucasian,,false
 6953,,,Arabic,جلد,false
-7166,,,Turkic,,false
-7173,,,East Caucasian,,false
+6967,115,,Sanskrit,tīkṣṇa-,false
+7008,,cf. Gruz. kʼad-va 'flow',?South Caucasian,,false
+7017,,‘quarrel; fight’  T. 2922,,kalaha-,false
+7043,5870,,Sanskrit,tvác-,false
+7046,7787,,Sanskrit,ākāśa-,true
+7091,,,Hurrian,,false
+7099,227,,Latin,frūctus,true
 7130,8990,Cf. نخجیر 'hunt',Persian,,true
-5684,3264,,Iranian,*wīδikā-,false
-7159,,,Russian,лытка / lytka,false
-7178,,,South Caucasian,,false
-3408,,,Arabic,قلب / qalb,true
-7200,9416,,Persian,sine,true
-7275,,,English,hit,false
 7147,,"Cf. Turkic čika 'hair', Ubykh šequ 'hair of the head'.",Turkic or West Caucasian,,false
-596,,,Syriac,Syr. mezzē 'crines parvi' (Olsen 1999: 932),false
-143,,,Arabic,fikr,true
+7159,,,Russian,лытка / lytka,false
+7163,,,Russian,думать / dumat',false
+7165,,,East Caucasian,,false
+7166,,,Turkic,,false
+7170,,Loanword or independent nursery word formation?,?Caucasian,,false
+7173,,,East Caucasian,,false
+7178,,,South Caucasian,,false
+7182,,,West Caucasian,,false
+7200,9416,,Persian,sine,true
+7241,,,English,fly,false
+7274,,,Middle English,botoun,false
+7275,,,English,hit,false
+7281,5055,,Old French,dous,false
+7282,6528,,French,sucré,false
+7285,,,Old French,estanc,false
 7286,,,Old French,,false
 7298,,,Old French,flor,false
 7328,,,Arabic,اخسأ,false
 7337,6526,,French,cacher,false
-7410,5026,,Persian,ناف / nāf,true
-7285,,,Old French,estanc,false
-9553,5231,,English,carry,false
-1278,,,Greek: Ancient,κρόκος / krókos,false
-3825,,,Latin,floccus,false
-8729,,,Persian,,false
-6624,6458,,Sanskrit,hr̥dayam,true
-5555,2268,,Persian,ناخن / nāxun,true
-7375,7058,,Persian,آسمان / āsmān,true
-2324,,,Sanskrit,puruṣa-,true
-8228,720,,Sanskrit,párvata-,true
 7347,930,,French,ciel,false
-7457,,,Tajik,oftob,true
-2792,,,Dravidian,,true
+7359,,,Middle German,komen,false
+7375,7058,,Persian,آسمان / āsmān,true
+7398,,,,,false
+7400,,,Greek?,στομάχι,false
+7407,,Cf. Kannada gaṇṭ(a)lu- etc. 'throat' (Burrow & Emeneau 1984:127).,?Dravidian,,false
 7409,,,Sanskrit,nābhi-,true
+7410,5026,,Persian,ناف / nāf,true
+7430,,,?Dravidian,,false
 7434,,,Persian,بارش / bārish,true
-7519,,,Germanic,*blanka-,false
-5155,,,(Low) German,"Klotz, kloz",true
 7435,,,Sanskrit,vr̥ṣṭi-,false
 7436,,,Persian,رود / rūd,false
-6218,,,Arabic,,false
-6236,,,Turkish,çayır,false
-8172,,,Persian,,true
-7282,6528,,French,sucré,false
-8173,,,Arabic,,false
-3072,,,Sanskrit,vānta-,false
-7710,,,?Arabic,,false
-2162,2877,,Latin,putris,false
-5296,,,Middle Low German,slichts,false
-5572,46,,Persian,میوه / mīwah,true
-6400,207,,Middle High German,stoup,false
-1679,,Cf. Tamil cikku 'to stay hanging',?Dravidian,,false
-3217,,,East Caucasian,,false
-5573,227,,Latin,frūctus,false
-4937,894,denominative verb from the Old French noun chace 'hunt' (12th cent.),Old French,chace,false
-9561,,,,,false
-7748,,,Turkish<Persian,bed,false
-4364,227,,Latin,frūctus,false
-5576,705,,Persian,sæbz,true
-5738,126,,Persian,برف / barf,true
-7832,7819,'white',Kâmviri,kâšʹara,false
-6396,,,Old High German,,false
-7764,,,Turkish,kuyruk,false
-4387,958,,Late Latin,*ascella,false
-9563,,,,,false
-8739,2741,,Nuristani (Waigali),"yū̆z, yoz",false
-8174,,,Arabic,فاكهة / fākiha,false
-5644,84,,,nazdīk,true
-7559,,,Persian,زمین,true
-5735,,,Persian,هموار / hamwār,true
-7671,,,Arabic,,false
-7606,,,Arabic (variety),,false
-7676,,cf. Modern Arabic šadara 'tree',Arabic,,false
-8176,1994,,Persian,خوب / xūb,false
-7833,3113,'wind',Kâmviri,dâmʹu,false
-5328,1305,,Old Norse,bǫrkr,false
-7990,,,Latin,sonus,false
-7610,,probably borrowed before *rd > l (i.e. Old Persian),Persian,dil,true
-7976,,,English,fight,false
-7627,,,Greek: Ancient,πλατύς / platús,false
-7709,,,Arabic,,false
-7708,,Cf. Standard Arabic رقبة / raqaba 'neck',Arabic,,false
-7612,,looks like PIE pter,Arabic,,true
-5737,302,,Middle Low German,slange,true
-9568,,,Greek: Ancient,βορέας / boréas,false
-7691,,,Arabic,,false
-5649,913,Acc. Sg.,Latin,veterem,false
-6767,,,English,savour,false
-7670,,cf. Modern Arabic šajara 'tree',Arabic,,false
-7664,5223,,Iranic,*kata-,false
-7663,,,(?Polish<)German,(?ważki<)wāga,false
-8179,705,,Persian,سبز / sabz,true
-7667,,,Arabic,قرن / qarn,false
-7703,,,Arabic,,false
-7687,,,Arabic,,false
-7641,,,Hattic,,false
-7634,,,Slovenian,modrak,false
-7701,,cf. Arabic wād 'dry riverbed',local Arabic,,false
-7828,1735,'river (in a steep-sided valley),Kâta-vari: Ktivi,gulʹava,false
-7719,,,Old Iranian (via Arabic),,false
-7795,6470,,,,true
-7995,6447,,English,cloud,false
-7718,,,Arabic,ركبة / rakba,false
-7730,,,Arabic,,false
-5941,,cf. German Baum,German,"bom, boum",false
-7751,1459,,Greek,κόκκαλο(ν) / kókkalo(n),false
-7704,,,Arabic,,false
-5994,,,Iranian,,false
-7669,,cf. Modern Arabic ثلج / thalj,Arabic,,false
-8268,5419,,Luvian,u̯aru̯alan-,false
-7761,1534,,Greek,κούντουρος,false
-7757,,,Turkish,göl,false
-7763,,,Turkish,çomak,false
-7768,7535,,Low German,gel(e),false
-666,338,Loan < Early Parthian spytk' (?).,Middle Iranian,spētaka-,false
-6001,,,Persian,پست / past,false
-7825,2497,'earth',Kâta-vari: Ktivi,büm,false
-5721,565,,Latin,cantāre,false
-489,312,,Latin,directum,false
-9572,,,South Slavic,,false
-7819,,‘bright’  T. 3116,Indic,*kāśira-,true
-8500,,"noun 'turn, turning'",Italian,girata,false
-5958,,,Caucasian Languages,e.g. Mingrelian č̣anǯi,false
-7850,565,,Italian,cantare,false
-9574,1145,"Cf. Macedonian лови, Serbo-Croatian loviti",South Slavic,,false
-7807,,,Sanskrit,bī́ja-,true
-7855,7535,,(Middle) German,gël,false
-7849,270,,German,spielen,false
-4823,,,?German,"?Spat, ?Spott",false
-5988,,,Iranian,,false
-5919,,,Turkish,kötü,false
-7802,2571,,French,respirer,false
-9575,,Cf. /cognate/7754/,Turkish (via Macedonian?),,false
-1906,,"German loanword (cf. Prussian dialect jōk), ultimately from Lat. iocus 'joke'",German,,false
-7837,7387,,Kâta-vari,kuṣ′a,false
-7852,,,German,Forst,false
-8448,5794,,Persian,,false
-3866,,,Sanskrit or Pali,naraka-,false
-5743,,,Middle English,batte,false
-7935,7243,,Kâta-vari,*kâru,false
-2782,,,Basque,esker(r),false
-1634,,,,,true
-5917,,,Turkish,but,false
-5967,2877,,Iranic,E.g. Av. pūiti- 'rottenness',false
-5960,,,Tungusic Languages,e.g. Tunguz tokum (cf. HAB 437).,false
-6132,1831,loan from Persian پرنده pʰæɾænˈde 'bird',Persian,pʰæɾænˈde,false
-6417,,,Welsh,cwyn,false
-5905,,,Turkish,göğüs,false
-3273,,,East Caucasian,,false
-5633,910,,Old French,montaigne,false
-5878,,,Italian,,false
-8289,1409,,Old French,jalne,false
-5730,930,,Latin,caelum,false
-6336,6209,,Greek,,false
-5728,,,Latin or Norman French,sphaera / spere,false
-5908,,,Turkish,meyve,false
-6514,808,,Sanskrit,nadī-,true
-8438,270,,Low German,spel(e),false
-8186,5015,,Persian,,false
-5789,2422,,Sanskrit,strī,true
-3959,7532,,Sanskrit,mahilā,true
-5913,,,Turkish,yuvarlak,false
-6462,6458,,Persian,dil,true
-3032,,m.,Sanskrit,vicāra-,true
-7163,,,Russian,думать / dumat',false
-5953,,,Iranian,,false
-8187,7535,,Persian,zard,false
-5918,,,Turkish,kanat,false
-7931,6770,,Kâta-vati,kk′ař,false
-9580,,"Cf. Macedonian дише, Bulgarian дишам 'breathe'.",South Slavic,,false
-8159,703,,Persian,ماهى / māhī,true
-6401,6629,,Persian,saxt,true
-8307,8233,,Old Norse,,false
-9581,,,South Slavic,,false
-8353,,"'hollow out, excavate'",Latin,excavāre,false
-5910,,,Turkish,göl,false
-5907,,,Turkish,puslu,false
-3175,,,Middle High German,,false
-8190,,,Arabic (via Persian),,true
+7457,,,Tajik,oftob,true
 7458,,Cf. Malay gula 'sugar',?Austroasiatic,,false
-5969,6778,"Cf. Parthian wz- 'to move swiftly, fly; travel'; cf. Ved.váhati, etc.",Iranic,,false
-9270,,,"Indo-Aryan (e.g. Gawri, Gawarbati)",sōč kärūɡ (Gawri); soč kerik (Gawarbati),false
-7882,,,Kâta- vari,pařasa,false
-8309,,,Turkish,toz,true
-1035,,or younger and < Old French tost?,Latin,tostus,false
-8361,,'lake',Italian,lago,false
-5915,940,"Cf. Standard Italian coda 'queue, tail'",Italian,,false
-7843,690,'count',Kâmkata-vari,gaṇá-,false
-5726,,,Old Norse,skȳ,false
-7836,,'Go on!',Kâta-vari,pʹeć,false
-5342,5341,,Old Norse,taka,false
-5477,,"‘burns’  T. 11097.1.  Loan because of ṣ, rather than s, after u.",Indic,*lūṣati,true
-8310,,,Arabic,حشار,true
-5794,171,,Sanskrit?,,true
-7824,3853,'bad',Kâta-vari: Ktivi,ḍag′ara,false
-8336,,"'tail; stern, rear' (but dubious connection)",Italian,coda,false
-9584,,Cf. Macedonian корен 'root',South Slavic,,false
-8006,,,Dutch,,false
-6316,,,Persian,rān,false
-7930,7563,,Kâta-vari,pâṭ-,false
-9585,,Cf. Macedonian песок 'sand',South Slavic,,false
-7398,,,,,false
-750,,"Probable loanword, but of uncertain origin (cf. KEWA I:405-406 for further discussion).",,,false
-9586,1941,Cf. Macedonian мазен 'smooth',South Slavic,,false
-9587,1184,Cf. Macedonian мисли 'to think',South Slavic,,false
-5706,2009,,Persian,نمک / namak,true
-7933,1599,,Kâta-vati,*kuṭa-,false
-5624,2322,,Persian,مرد / mard,true
-7986,6198,,English,river,false
-9588,,Cf. Slavic koža 'skin',Slavic,,false
-7818,,‘wishes; wills’  T. 11431,Old Indo-Aryan,vašati,false
-3286,,,East Caucasian,,false
-7968,,,English,round,false
-8313,,,Arabic,حلو / ḥulw,true
-8397,,"''smoking, a smoke''",Italian,fumata,false
-6031,146,,Persian,,true
-7841,6878,'think',Kalaṣa-alâ: Nišeigrâm,bata-,false
-7942,,'ladybug',Romanian,buburuză,false
-7938,,,Latin,penna,false
-8098,,,Germanic,,false
-9589,1171,Cf. Slavic koža 'skin',Slavic,,false
-8196,3114,,Persian,,false
-6023,,,Latin,numerus,false
-8156,,,Arabic,šarr,false
-5698,2443,from Old French roont (1155) < Latin rotundum,Old French,roont,false
-159,,,?Turkic,*hulu-,false
-4485,,,Persian,برف / barf,false
-1041,,uncertain whether loan or inherited (or a mix?),Latin,tendere,false
-5775,333,,Persian/Tajik,گرم  / garm,true
-7043,5870,,Sanskrit,tvác-,false
-7046,7787,,Sanskrit,ākāśa-,true
-6544,,,Turkish,murdar,false
-4358,867,,Latin,siccus,false
-5855,754,,,,true
-5322,3111,"Early loanword event in Latin (already attested Ennius, late 3rd - early 2nd c. BCE).",Ancient Greek,"ἄηρ, ἀέρος",false
-408,,,Turkish,yeşil,false
-5813,2877,,Middle Iranian,*hampu-,false
-6387,,Cf. Tamil kaṭṭu 'hardness',Dravidian,,false
-8834,6629,"The donor language surely is Persian, although this word is a loanword in Persian as well.",Middle or New Persian,saxt,true
-101,,,Persian,daryāb,true
-3182,,,Greek: Ancient,βαλανεῖον / balaneĩon,false
-6397,,Cf. Tamil kaṭṭu 'hardness',Dravidian,,false
-8394,,,Southern Italian dialects,,false
-6525,730,,Sanskrit,samudrá-,true
-8520,,'to hide (oneself)',Calabrian,(a)mmucciare,false
-5598,243,,German,Jagd,false
-9311,,,Persian,zan,false
-5858,5276,,Greek: Ancient,ὑγρός,false
-8522,,"'throw, push, introduce'",Calabrian,mbuttare,false
-3548,,,Lahnda,*poh-,false
-6082,,,Italian,manco,false
-9290,,,New Persian,āsiyāb kardan,false
+7519,,,Germanic,*blanka-,false
+7559,,,Persian,زمین,true
+7595,,,,,false
+7597,,,Dravidian,,true
+7606,,,Arabic (variety),,false
+7610,,probably borrowed before *rd > l (i.e. Old Persian),Persian,dil,true
+7612,,looks like PIE pter,Arabic,,true
+7627,,,Greek: Ancient,πλατύς / platús,false
+7634,,,Slovenian,modrak,false
+7641,,,Hattic,,false
+7663,,,(?Polish<)German,(?ważki<)wāga,false
+7664,5223,,Iranic,*kata-,false
+7667,,,Arabic,قرن / qarn,false
+7669,,cf. Modern Arabic ثلج / thalj,Arabic,,false
+7670,,cf. Modern Arabic šajara 'tree',Arabic,,false
+7671,,,Arabic,,false
+7676,,cf. Modern Arabic šadara 'tree',Arabic,,false
+7687,,,Arabic,,false
+7691,,,Arabic,,false
+7701,,cf. Arabic wād 'dry riverbed',local Arabic,,false
+7703,,,Arabic,,false
+7704,,,Arabic,,false
+7708,,Cf. Standard Arabic رقبة / raqaba 'neck',Arabic,,false
+7709,,,Arabic,,false
+7710,,,?Arabic,,false
+7718,,,Arabic,ركبة / rakba,false
+7719,,,Old Iranian (via Arabic),,false
+7730,,,Arabic,,false
+7733,,,Arabic (dial.),,false
+7748,,,Turkish<Persian,bed,false
+7751,1459,,Greek,κόκκαλο(ν) / kókkalo(n),false
+7754,,,Turkish,yemiş,false
+7755,,,Turkish<Persian,χob<hūb,false
+7757,,,Turkish,göl,false
+7761,1534,,Greek,κούντουρος,false
+7763,,,Turkish,çomak,false
+7764,,,Turkish,kuyruk,false
+7768,7535,,Low German,gel(e),false
+7769,,,Turkish,meyve,false
+7795,6470,,,,true
+7802,2571,,French,respirer,false
 7806,,Possibly borrowed into Albanian from the Latin root 'crem' (burn) with prefix 'ex-'. with vowel change in Albanian.,Albanian,shkrumb,false
-9447,9424,,West Germanic,,false
-8523,,'to sit' / 'stool',Calabrian,sédere OR setta,false
-4891,,"Cf. MParth. sy'w, Av. siiāuua- 'black'",Iranic,,false
-6508,,,English,to cuff,false
-7274,,,Middle English,botoun,false
-6385,,"Latin machināre is denominal to machina 'engine, mechanical device', a loanword from (Doric) Greek",Greek: Ancient,μᾱχανᾱ́ / māchanā́,false
-627,95,Cf. Av. karš- 'drag; plow',Iranic,,false
-6169,,,Latin,asper,false
-8696,,,Latin,,false
-630,5668,cf. Sogdian krm’yr /lexeme/29363/,Iranic,,false
-5348,,cf. Persian kūra 'fireplace; furnace',?Iranic,,false
-6815,,"A denominal verb based on a noun of Celtic origin, cf. von Wartburg, FEW 6/3:197 for further discussion.",Gaulish,,false
-8606,3436,,Persian,باد / bād,false
-3030,,Acc. Sg.,Latin,mentem,false
-8531,,"'small piece of paper, slip, leaflet'",Italian,foglietto,false
-9602,1181,Cf. Macedonian плива,South Slavic,,false
-1171,,,Turkic,,false
-8685,68,,Persian,xandīdan,false
-9293,,,Central Iranic (aka. NW Iranic),*spiš-,false
-9117,,,,,false
+7807,,,Sanskrit,bī́ja-,true
+7813,53,,Old Indic,šrâyaḥ,true
+7818,,‘wishes; wills’  T. 11431,Old Indo-Aryan,vašati,false
+7819,,‘bright’  T. 3116,Indic,*kāśira-,true
+7823,,rump,Saṇu-viri,gutʹu,false
+7824,3853,'bad',Kâta-vari: Ktivi,ḍag′ara,false
+7825,2497,'earth',Kâta-vari: Ktivi,büm,false
+7827,6773,'markhor hunt,Kâta-vari: Ktivi,šartʹoř,false
+7828,1735,'river (in a steep-sided valley),Kâta-vari: Ktivi,gulʹava,false
+7829,5086,'skin; hide',Kâta-vari: Ktivi,čʹum,false
+7830,,'steam; gas; power',Kâta-vari: Ktivi,bʹos,false
+7831,3057,'tie',Kâmviri,giṭʹa-,false
+7832,7819,'white',Kâmviri,kâšʹara,false
+7833,3113,'wind',Kâmviri,dâmʹu,false
+7836,,'Go on!',Kâta-vari,pʹeć,false
+7837,7387,,Kâta-vari,kuṣ′a,false
+7841,6878,'think',Kalaṣa-alâ: Nišeigrâm,bata-,false
+7843,690,'count',Kâmkata-vari,gaṇá-,false
+7844,3845,salt,Saṇu-viri: Wâmâ,ẓ′oːk,true
+7847,5285,,German,wamp,false
+7849,270,,German,spielen,false
+7850,565,,Italian,cantare,false
+7852,,,German,Forst,false
+7855,7535,,(Middle) German,gël,false
+7882,,,Kâta- vari,pařasa,false
+7908,,'dust',Kâta-vari,pařʹas,false
+7927,3135,,Middle Indic,bána-,true
+7930,7563,,Kâta-vari,pâṭ-,false
+7931,6770,,Kâta-vati,kk′ař,false
+7933,1599,,Kâta-vati,*kuṭa-,false
+7935,7243,,Kâta-vari,*kâru,false
+7938,,,Latin,penna,false
+7942,,'ladybug',Romanian,buburuză,false
+7952,,,Persian,برف / barf,true
+7958,1399,,French,,false
+7960,,,English,,false
+7968,,,English,round,false
+7976,,,English,fight,false
+7977,,,French,foie,false
+7979,,,English,sharp,false
+7981,,,English,savour,false
+7982,,,Turkish,sarı,false
+7984,,,"aestuarium 'lagoon, bay, estuary'",,false
+7986,6198,,English,river,false
+7988,4015,,French,poitrine,false
+7990,,,Latin,sonus,false
+7993,,,French,poussin,false
+7995,6447,,English,cloud,false
+8004,260,,Dutch,vlees,false
+8006,,,Dutch,,false
+8053,6595,,Italian,destra,false
+8059,,,,,false
+8060,,"A loanword of uncertain origin, cf. Breton sebon, German Seife.",,,false
+8061,,,Occitan,tenalha,false
+8098,,,Germanic,,false
+8125,,,Romance,*pluverem,false
+8147,1990,,Persian,,false
+8156,,,Arabic,šarr,false
+8157,,,Arabic,,true
+8159,703,,Persian,ماهى / māhī,true
+8163,,,Persian,,true
+8169,,,Turkish,,false
+8172,,,Persian,,true
+8173,,,Arabic,,false
+8174,,,Arabic,فاكهة / fākiha,false
+8176,1994,,Persian,خوب / xūb,false
+8179,705,,Persian,سبز / sabz,true
+8186,5015,,Persian,,false
+8187,7535,,Persian,zard,false
+8188,,,Arabic (via Persian),,false
+8190,,,Arabic (via Persian),,true
+8196,3114,,Persian,,false
+8224,2001,,Persian,برگ / barg,true
+8226,3381,,Persian,بلند / buland,true
+8228,720,,Sanskrit,párvata-,true
+8268,5419,,Luvian,u̯aru̯alan-,false
+8289,1409,,Old French,jalne,false
+8295,,,Greek: Ancient,κόλαφος / kólaphos,false
+8307,8233,,Old Norse,,false
+8309,,,Turkish,toz,true
+8310,,,Arabic,حشار,true
+8313,,,Arabic,حلو / ḥulw,true
+8333,,,Italian: Calabrian,kulirča,false
+8336,,"'tail; stern, rear' (but dubious connection)",Italian,coda,false
+8342,,,Italian,scorza,false
+8344,,"'dirty, filthy'",Italian,lordo,false
+8345,,'count',Italian,contare,false
+8353,,"'hollow out, excavate'",Latin,excavāre,false
+8354,,'body',Slavic,*trupъ,false
+8355,,"'dusted, sprinkled with dust, dusty'; Latin form given for structural reasons, mre likely a late loan from an Italian dialect",Latin,pulveratus,false
+8356,,'fly',Italian,volare,false
+8357,,'green',Italian,verde,false
+8358,6385,'to grind',Italian,macinare,false
+8360,,'hunt',Italian,caccia,false
+8361,,'lake',Italian,lago,false
+8362,6595,,Italian,destra,false
+8363,8289,'yellow',Italian,giallo,false
+8368,,'to sharpen',Italian,affilare,false
+8371,,'to breath',Calabrian,χatari,false
+8374,,,Buddhist Hybrid Sanskrit,samudra-,true
+8377,,'to smell',Calabrian,"ad(d)urare, -ari",false
+8379,,"'to draw lines, make lines'",Italian,rigare,false
+8394,,,Southern Italian dialects,,false
+8397,,"''smoking, a smoke''",Italian,fumata,false
+8430,905,'id.',Calabrian,ficatu,false
+8438,270,,Low German,spel(e),false
+8448,5794,,Persian,,false
+8449,171,,Pashto,,false
+8457,1980,presumed Iranic loan,Iranic,,false
+8464,573,,Iranic,,false
+8465,7259,,Kalaṣa-alâ: Nišeigrâm,,false
+8475,3747,,Wakhi,,false
+8481,2274,,Iranic,,false
+8495,,,Italian (dialectal),(*)gelicidium,false
+8500,,"noun 'turn, turning'",Italian,girata,false
+8504,7466,,Persian and other Iranic languages,dum(b),true
 8517,2071,,Calabrian,manca,false
-511,5322,Romance loanword (source?),Romance,*er(a),false
-5717,291,,Low German,"scharp, scherp",false
-9294,,,SW Iranic,*siš-,false
-5617,1264,,Romance,*camba,false
-430,2071,,Romance,*manctus,false
-5914,,,Turkish,keskin,false
+8519,840,,Calabrian,vombicare,false
+8520,,'to hide (oneself)',Calabrian,(a)mmucciare,false
+8522,,"'throw, push, introduce'",Calabrian,mbuttare,false
+8523,,'to sit' / 'stool',Calabrian,sédere OR setta,false
+8526,,,Low German,denken,false
+8528,8263,"'grit, (coarse) sand; sand ballast'",Latin,saburra,false
+8529,,"blow up, swell",Calabrian,uχχare,false
+8531,,"'small piece of paper, slip, leaflet'",Italian,foglietto,false
+8535,,"'seat, saddle'",Latin,sella,false
+8536,,"'seat, saddle'",Latin,sella,false
+8538,,,South Slavic,,false
+8542,,'to think',Calabrian,penzara,false
+8543,532,"'smooth, sleek, polished'",Italian,liscio [ˈliʃʃo],false
+8567,,,Arabic,استفراق,true
+8606,3436,,Persian,باد / bād,false
 8614,6098,"A loanword from neighbouring Dardic languages, cf. Turner 1962–1966:637 s.v. 10991  *laṣṭi- 'stick'",Dardic,,false
 8616,,,Arabic,,false
-8543,532,"'smooth, sleek, polished'",Italian,liscio [ˈliʃʃo],false
-8519,840,,Calabrian,vombicare,false
-9295,7535,,Central Iranic (aka. NW Iranic),*zarita-,true
-9395,,,Arabic,bayt,true
-8535,,"'seat, saddle'",Latin,sella,false
-9298,,,Central Iranic (aka. NW Iranic),*spai̯ta-,true
-8526,,,Low German,denken,false
-1954,,,,,false
-9296,,,Central Iranic (aka. NW Iranic),*zam-,true
-9371,,,,,false
-8536,,"'seat, saddle'",Latin,sella,false
-8792,,,Arabic,خراب / kharāb,true
-9390,,"original meaning ""brightly coloured""",Persian,rušt,false
-9126,,,Aramaic,,false
-9372,8164,,Persian (Tajik),paša,false
-8538,,,South Slavic,,false
-9297,,,Central Iranic (aka. NW Iranic),*zānūka-,true
-9313,,,Venetian,zenere,false
-8687,,,Turkish,pis,true
-9391,,"original meaning ""destroyed, devastated""",Tajik,vayron,false
-6540,,,Sanskrit,chāyā-,true
-6313,,+ Alb. suffix(es),Latin,crux,false
-8528,8263,"'grit, (coarse) sand; sand ballast'",Latin,saburra,false
-443,,,Turkish,kafa,false
-9394,,,,,false
-9392,,Loan status uncertain (cf. Morgenstierne 1974:62).,?Indic,,false
-6539,5058,,Persian,سایه / sāyeh,false
-1981,,generally believed to be of Median origin,Central Iranic (aka. NWIr.),,false
-9299,,,Central Iranic (aka. NW Iranic),*asan-,true
-9316,1261,,Italian,mangiare,false
-9315,,,Italian,,false
 8619,124,,Persian,صاف / sāf,true
+8655,,,Arabic,قديم / qadim,true
+8656,,,Arabic,قرمز / qirmiz,true
+8685,68,,Persian,xandīdan,false
+8687,,,Turkish,pis,true
+8691,,,Arabic,ǰamad,false
+8694,,,Arabic,رمل / raml,false
+8696,,,Latin,,false
+8729,,,Persian,,false
+8739,2741,,Nuristani (Waigali),"yū̆z, yoz",false
+8792,,,Arabic,خراب / kharāb,true
 8799,1617,,,,false
-8529,,"blow up, swell",Calabrian,uχχare,false
-9300,,,Central Iranic (aka. NW Iranic),*hizbān-,true
-3049,,"Latin lancea is certainly a loanword in origin, but it's precise origins are unclear (cf. Ernout & Meillet 1985:339-340).",Celtic?,,false
-9325,641,,Venetian,,false
-7829,5086,'skin; hide',Kâta-vari: Ktivi,čʹum,false
-9317,5031,,Italian,,false
+8822,5226,,,شیرین / širin,true
+8825,2456,,Iranic,,false
+8831,4150,,Dardic,,false
+8832,46,,Early New Persian,,false
+8834,6629,"The donor language surely is Persian, although this word is a loanword in Persian as well.",Middle or New Persian,saxt,true
+8941,,,Arabic,,false
+9049,2268,,Wakhi,"diγ̌ə́r, digə́r",false
+9053,1186,,Wakhi,,false
+9054,28,,Iranic,,false
+9117,,,,,false
+9126,,,Aramaic,,false
 9131,,,,,false
-9329,946,,Venetian,,false
-9331,953,,Italian,,false
-9330,3063,,Venetian,,false
+9136,,,Arabic,ﺣﺴﺐ / ḥasiba,true
+9144,,,New Persian,mordār,false
+9155,,,Arabic,,false
+9157,,,Arabic,ورد / warad,false
+9164,1993,,Persian,parvāz kardan,true
+9171,,,Arabic,,false
+9177,,lit. meaning 'hiding',Arabic,غایب,true
+9187,,,,,false
+9190,,,Arabic,,false
+9221,,,Persian < Arabic,,false
+9232,2393,,Indic,,false
+9234,,,Persian < Arabic,,false
+9241,,,,,false
+9254,,,Persian,"gōpāl, kōbāl",false
+9261,,,Lahnda,laṇdā,false
+9270,,,"Indo-Aryan (e.g. Gawri, Gawarbati)",sōč kärūɡ (Gawri); soč kerik (Gawarbati),false
+9278,,,Persian,bāl,false
+9290,,,New Persian,āsiyāb kardan,false
+9293,,,Central Iranic (aka. NW Iranic),*spiš-,false
+9294,,,SW Iranic,*siš-,false
+9295,7535,,Central Iranic (aka. NW Iranic),*zarita-,true
+9296,,,Central Iranic (aka. NW Iranic),*zam-,true
+9297,,,Central Iranic (aka. NW Iranic),*zānūka-,true
+9298,,,Central Iranic (aka. NW Iranic),*spai̯ta-,true
+9299,,,Central Iranic (aka. NW Iranic),*asan-,true
+9300,,,Central Iranic (aka. NW Iranic),*hizbān-,true
+9308,6332,,Central Iranic (aka. NW Iranic),*zari-gauna-,false
+9311,,,Persian,zan,false
+9313,,,Venetian,zenere,false
+9315,,,Italian,,false
+9316,1261,,Italian,mangiare,false
+9317,5031,,Italian,,false
 9318,44,,Venetian,,false
-8542,,'to think',Calabrian,penzara,false
-6468,,,Germanic,*stakka,false
+9320,782,,Italian,,false
 9321,894,,,,false
 9322,6592,,Venetian,,false
 9323,283,,Venetian,,false
 9324,815,,Venetian,,false
-3365,,e.g. Georg. mc̣uxri 'dusk'; c̣uxva 'sadness',?Caucasian,,false
+9325,641,,Venetian,,false
 9326,825,,Italian,serpente,false
 9327,7772,,Venetian,,false
 9328,535,,Italian,nuotare,false
+9329,946,,Venetian,,false
+9330,3063,,Venetian,,false
+9331,953,,Italian,,false
 9332,6505,,Venetian,,false
-9136,,,Arabic,ﺣﺴﺐ / ḥasiba,true
 9333,7563,,Italian,penna,false
 9334,223,,Venetian,,false
-9457,,,,,false
-9396,,,"West Iranic language, probably Persian/Tajik",,false
-892,,,Greek: Ancient,κόλαφος / kólaphos,false
 9335,1274,,Venetian,caldo,false
-8694,,,Arabic,رمل / raml,false
-6691,,"A Balkan Wanderwort, cf. Albanian kopaç, Hungarian kopács.",Thraco-Dacian or Albanian,,false
-6585,,,Slavic,,false
-7359,,,Middle German,komen,false
-8295,,,Greek: Ancient,κόλαφος / kólaphos,false
-6452,6542,,Old French,crier,false
 9338,5163,,Slavic,,false
-6148,1345,,Old Norse,drit,false
-570,,"'bark; sheet of a book""",Syriac,qəlāfāʼ,false
-5202,,,(Bavarian) German,"Krampel, Krämpel",false
-1403,,,Old Low Franconian,*bōtan,false
-5218,,It is sometimes claimed (cf. ESSJ) that the word is native (PS *but-).,Turkish,but,false
-620,,e.g. Khinalug ḳɨt-ɨ́r 'nose',North Caucasian,,false
-6309,6087,,Latin,arēna,false
 9339,6226,,Greek,,true
-6557,,,Germanic,*brekan-,false
-654,,Cf. Sogdian βrʾwkʾ 'leprous',Iranic,,false
-938,1546,,Greek: Ancient,πέτρα / pétra,false
-400,,,Romance,*fluctulare,false
-9144,,,New Persian,mordār,false
-6173,,"Cf. Hittite kuu̯anna(n)- '(blue as) copper, ornamental stone'",?Anatolian,,false
-8354,,'body',Slavic,*trupъ,false
-1264,,Borrowed into Latin from Ancient Greek as a terminus technicus; acquired specialised meaning 'leg' only later in Romance.,Greek: Ancient,καμπή / kampḗ,false
-3340,,,Iranic,*gavāzan-,false
-7281,5055,,Old French,dous,false
-9382,,,Persian (Tajik),zad,false
-8822,5226,,,شیرین / širin,true
-6501,,Borrowed into Latin from Ancient Greek as a terminus technicus; acquired specialised meaning 'leg' only later in Romance.,Greek: Ancient,καμπή / kampḗ,false
-6528,,,Arabic,سكر / sukkar,false
-984,864,"Some uncertainty exists whether the Breton verb was borrowed directly from Old French conter, or a denominal formation within Breton based on a loanword from Old French conte (Deshayes 2003:413)",Old French,conte / conter,false
-9383,,,"Turkic, possibly Kyrgyz or Uzbek?",,false
-8188,,,Arabic (via Persian),,false
-9385,,,Persian (Tajik),,true
-8825,2456,,Iranic,,false
-7988,4015,,French,poitrine,false
-9403,6360,"probably from Tajik son ""thigh""",,,false
-514,6556,,Balkan Romance,*padūlem,false
-9155,,,Arabic,,false
-4806,,It is hard to determine precisely how and when the root arose in Ukrainian (it can be an old Common Slavic loanword but it also could pass to Ukrainian through Church Slavonic etc.).,Latin,pāgānus,false
-6226,,,Turkish,orman,true
-9157,,,Arabic,ورد / warad,false
-8655,,,Arabic,قديم / qadim,true
-4185,,Loan status uncertain.,?Middle Low German,,false
-9409,,,,,false
-8656,,,Arabic,قرمز / qirmiz,true
-1313,,,,campus,false
-2033,,Most probably the source was a folk form wonitować. The Polish source form is itself a loan from Latin. Polish wymiotować can not be the source of the Belarusian lexeme from phonetic reasons (it can be supposed that the Polish wymiotować is a folk etymology).,Polish,won/mitować,false
-639,,Georgian კერვა ḳerva 'to sew',Caucasian,,false
-5719,292,,Middle Low German,kort,false
-756,,"Probable loanword from Dravidian, cf. Burrow & Emeneau 1984:139 for parallels.",?Dravidian,,false
-3296,,,Germanic,*kuninga-,false
-9414,,,Turkic,,false
-5625,2318,,Low German,kerl,false
-6101,,e.g. Urartian ṣârə 'orchard'; Hurrian sarme 'wood'.,Hurro-Urartian,,false
-1886,,,Old Belarusian,blagij,false
-6026,869,,Old French,poldre,false
-3338,,,Syriac,"Syriac ḥəšīḇ, “considered, calculated”",false
-9171,,,Arabic,,false
-6527,,,Germanic,,false
-5590,238,,Low German,swâr,false
-1396,,,Old Low Franconian,*wenkjan,false
-5183,,,Polish (<German),budynek (<būding),false
-7017,,‘quarrel; fight’  T. 2922,,kalaha-,false
-9177,,lit. meaning 'hiding',Arabic,غایب,true
-6569,,,Slavic,,false
-1311,,Loans from Middle Low German in turn from Medieval Latin spesa from Latin expensa (pecunia),Middle Low German,spīsen,false
-9554,6452,,English,cry,false
-9049,2268,,Wakhi,"diγ̌ə́r, digə́r",false
-399,,"Uncertain ""Balkan language""/wanderwort",Uncertain,,false
-9187,,,,,false
-7755,,,Turkish<Persian,χob<hūb,false
-9053,1186,,Wakhi,,false
-6498,,,Greek: Ancient,κίρκος / kírkos,false
-9190,,,Arabic,,false
-3063,,,Greek: Ancient,γῦρος / gũros,false
-5471,11,,Indic,,true
-9054,28,,Iranic,,false
-3923,,Cf. Malayalam muṭṭa.,Dravidian,,false
-4994,,,Old Czech,válčit,false
-9308,6332,,Central Iranic (aka. NW Iranic),*zari-gauna-,false
 9350,,,Persian (Tajik),čang,false
-9416,,,Central Iranic (aka. NW Iranic),sēnag,true
-6247,,"A verbal derivative from Greek γούλα 'throat, neck', a loanword from Latin gula 'throat, gullet'",Latin,gula,false
 9351,,,,,false
-8831,4150,,Dardic,,false
 9352,,,Turkic,,false
-5309,182,,Old French,escorce,false
-9221,,,Persian < Arabic,,false
 9365,,,Persian,kāvīdan,false
-5724,2424,,Old Norse,skinn,false
-2599,,Perhaps specifically from Oscan?,Sabellic,,false
-6490,,,Pashto,,false
-5868,6505,,Italian,largo,false
-7993,,,French,poussin,false
-7977,,,French,foie,false
-7982,,,Turkish,sarı,false
-4323,,,Middle Low German,,false
-5665,1042,"Borrowed from Old French boute < bot 'blow, ' (1160), bouter 'to collide, to clash, to push' (1190).",Old French,boute,false
-7813,53,,Old Indic,šrâyaḥ,true
-8345,,'count',Italian,contare,false
-8344,,"'dirty, filthy'",Italian,lordo,false
-347,5795,,Germanic,*bosk,false
-7908,,'dust',Kâta-vari,pařʹas,false
-5763,322,,Low German,denken,true
-8059,,,,,false
-8371,,'to breath',Calabrian,χatari,false
-7830,,'steam; gas; power',Kâta-vari: Ktivi,bʹos,false
-8430,905,'id.',Calabrian,ficatu,false
-7827,6773,'markhor hunt,Kâta-vari: Ktivi,šartʹoř,false
-7831,3057,'tie',Kâmviri,giṭʹa-,false
-6065,,,Latin,gula,false
-6231,,,Slavic,log(ŭ),false
-7769,,,Turkish,meyve,false
-5636,,,Italian,gola,false
-5663,1399,,Old French,pousser,false
-8053,6595,,Italian,destra,false
-9232,2393,,Indic,,false
-7979,,,English,sharp,false
-8449,171,,Pashto,,false
-5346,,noun 'cleanliness',Middle/Modern Greek,πάστρα,false
-5848,2190,"In Pashto, the loan event must have taken place after inherited short *a was reduced and inherited OIr. *d > l.",Persian,بد bad,true
-8157,,,Arabic,,true
-7958,1399,,French,,false
-7960,,,English,,false
-7430,,,?Dravidian,,false
-8004,260,,Dutch,vlees,false
-4,,from Arabic,Persian,خراب,true
-1984,,,Arabic,نفس / nafs,true
-6744,,‘copper vessel’; Turner 3157,Old Indic,kiṭṭâla-,true
+9371,,,,,false
+9372,8164,,Persian (Tajik),paša,false
+9382,,,Persian (Tajik),zad,false
+9383,,,"Turkic, possibly Kyrgyz or Uzbek?",,false
+9385,,,Persian (Tajik),,true
+9390,,"original meaning ""brightly coloured""",Persian,rušt,false
+9391,,"original meaning ""destroyed, devastated""",Tajik,vayron,false
+9392,,Loan status uncertain (cf. Morgenstierne 1974:62).,?Indic,,false
+9394,,,,,false
+9395,,,Arabic,bayt,true
+9396,,,"West Iranic language, probably Persian/Tajik",,false
+9403,6360,"probably from Tajik son ""thigh""",,,false
+9409,,,,,false
+9414,,,Turkic,,false
+9416,,,Central Iranic (aka. NW Iranic),sēnag,true
+9447,9424,,West Germanic,,false
+9457,,,,,false
+9506,,,Iranic,*zërt,false
+9508,131,,Iranic,,false
+9509,53,,Iranic,,false
+9543,2464,,English,dust,false
+9544,,Loanword presumably via English or French,?,,false
+9546,2927,,Middle English,smọ̄th(e),false
+9547,,,English,serpent,false
+9553,5231,,English,carry,false
+9554,6452,,English,cry,false
+9561,,,,,false
 9562,,,,,false
-9254,,,Persian,"gōpāl, kōbāl",false
-973,,variant of coffre (1175) from Vulgar Latin *cophinum of Greek origin,Old French,*coffe,false
-7847,5285,,German,wamp,false
-8457,1980,presumed Iranic loan,Iranic,,false
-6502,,,Occitan (Gascon),barrique,true
-7400,,,Greek?,στομάχι,false
-4967,,,Old French,brume,false
-7241,,,English,fly,false
-9278,,,Persian,bāl,false
-1394,,,Germanic,*brod-,false
-8356,,'fly',Italian,volare,false
-9164,1993,,Persian,parvāz kardan,true
-2277,,,Turkic,"tuman, duman",true
-7927,3135,,Middle Indic,bána-,true
-6710,,,Greek: Ancient,βορέας / boréas,false
-5570,42,,Greek: Ancient,ὀμίχλη / omíchlē,false
-7733,,,Arabic (dial.),,false
-8169,,,Turkish,,false
-6334,,Cf. Germanic Rauch 'smoke' words.,?Germanic,,false
-6233,,,Turkish,pus,false
-9626,,,Latin,nūbilus,false
-8495,,,Italian (dialectal),(*)gelicidium,false
-2073,,Generally considered from an Celtic borrowing in Latin (cf. Welsh peth).,Celtic,,false
-8691,,,Arabic,ǰamad,false
-5640,83,,Persian,تنگ / tang,true
-1809,,,Dravidian,,true
-362,,"Borrowed < Lat capessere ~ capissere (inf.) 'to seize, snatch at', or < Rom. *capsare based on Lat capere 'to take'.",Latin,capessere ~ capissere,false
-5329,,,English,"bit, bite",false
-7597,,,Dravidian,,true
-9629,,,Dravidian,,true
-981,,,Latin,cumulus,false
-9630,,,Dravidian,,true
-2551,,"Cf. OHG scina 'thin strip, shin'",Germanic,*skĭna-,false
-2186,,,Greek: Ancient,σπάθη / spáthē,false
-7823,,rump,Saṇu-viri,gutʹu,false
-6422,6452,,Middle English,crye,false
-5499,201,,Old Norse,deyja,false
-9632,,,Arabic,اخسأ,false
-5506,21,,Iranic,*sabāka-,false
-3168,6681,,Sanskrit,pṛthivī-,false
-5526,28,,Old Norse,egg,false
-3925,,"Cf. Mayrhofer, KEWA for further discussion.",Austroasiatic?,,false
-3277,,"Cf. Lezgian rug 'dust', Tabasaran rug 'earth'",East Caucasian,,false
-3236,,,East Caucasian,,false
-9637,773,,Hindi,लड़ना / laṛnā,true
-5906,,,Turkish,dövüş,false
-6511,1313,,Modern Standard German,,false
-9640,9639,,Dardic,,false
-9642,41,,Persian,گل / gol,true
-9641,,,Latin,piscātus,false
-6118,,"Cf. Tamil mālai 'wreath, garland'",Dravidian,,false
-9576,42,Cf. Macedonian магла 'fog',South Slavic,,false
-9643,347,,Catalan or Occitan,bǫsc,false
-46,,"Cf. Biblical Hebrew מֶגֶד 'choice produce', Syriac maγδā 'fruit'",?West Semitic,,false
-7099,227,,Latin,frūctus,true
-8832,46,,Early New Persian,,false
-6058,46,Cf. Sogd. mγδʾk,Iranic,,false
-7754,,,Turkish,yemiş,false
-7165,,,East Caucasian,,false
-5961,579,May also be a loan from Proto-Germanic. Goidelic forms may be borrowed themselves from Brythonic.,Vulgar Latin,,false
-4389,,,Latin,*pēsum (pēnsum),false
-9320,782,,Italian,,false
-5170,,"From Latin hospitium: late antique or earlier medieval borrowing, not attested in Classical texts but borrowed before the procope of unstressed vowels",Latin,hospitium,false
-8360,,'hunt',Italian,caccia,false
-5596,60,,Persian,(شكار (كردن / šekār (kardan),true
-9648,2011,,Persian,,true
-1608,,"Cf. Telugu eḍama 'left, left-hand, left-hand side', Tamil iṭai, iṭam 'left side'",Dravidian,,false
-9573,,"Cf. Macedonian блато 'marsh, swamp, bog', cf. also Albanian baltë",South Slavic,,false
+9563,,,,,false
+9568,,,Greek: Ancient,βορέας / boréas,false
 9570,,"Cf. Macedonian црн дроб, Bulgarian черен дроб 'liver'.",South Slavic,дроб,false
-7170,,Loanword or independent nursery word formation?,?Caucasian,,false
-5628,,,,,true
+9572,,,South Slavic,,false
+9573,,"Cf. Macedonian блато 'marsh, swamp, bog', cf. also Albanian baltë",South Slavic,,false
+9574,1145,"Cf. Macedonian лови, Serbo-Croatian loviti",South Slavic,,false
+9575,,Cf. /cognate/7754/,Turkish (via Macedonian?),,false
+9576,42,Cf. Macedonian магла 'fog',South Slavic,,false
+9580,,"Cf. Macedonian дише, Bulgarian дишам 'breathe'.",South Slavic,,false
+9581,,,South Slavic,,false
 9583,,,?Gaulish,,false
-911,,,Gaulish,bocca,false
-7407,,Cf. Kannada gaṇṭ(a)lu- etc. 'throat' (Burrow & Emeneau 1984:127).,?Dravidian,,false
-7595,,,,,false
-6649,,,?Dravidian,,false
-805,,,Arabic,لَعْل,true
-5696,281,,Old Norse,rotinn,false
-1531,,,Unknown Pre-Greek substratum language,?*gʷlep⁽ʰ⁾-,false
-6482,,,Old Occitan,artelh,false
+9584,,Cf. Macedonian корен 'root',South Slavic,,false
+9585,,Cf. Macedonian песок 'sand',South Slavic,,false
+9586,1941,Cf. Macedonian мазен 'smooth',South Slavic,,false
+9587,1184,Cf. Macedonian мисли 'to think',South Slavic,,false
+9588,,Cf. Slavic koža 'skin',Slavic,,false
+9589,1171,Cf. Slavic koža 'skin',Slavic,,false
+9602,1181,Cf. Macedonian плива,South Slavic,,false
+9626,,,Latin,nūbilus,false
+9629,,,Dravidian,,true
+9630,,,Dravidian,,true
+9632,,,Arabic,اخسأ,false
+9637,773,,Hindi,लड़ना / laṛnā,true
+9640,9639,,Dardic,,false
+9641,,,Latin,piscātus,false
+9642,41,,Persian,گل / gol,true
+9643,347,,Catalan or Occitan,bǫsc,false
+9648,2011,,Persian,,true
+9655,,"Cf. Turk. dengiz 'sea'. To judge from the distance between the Pamirs and the Caucasus, probably separate loan events from Ossetic lexemes in /cognate/3229/.",Turkic,,false
 9656,6611,,Sanskrit,rakta-,true
-6967,115,,Sanskrit,tīkṣṇa-,false
-9669,2771,,Persian,,true
-1096,,,Latin,aēr,true
+9657,314,,Sanskrit,sū́rya-,true
 9659,,,Arabic,جلد,false
-6147,,,?,,false
-9672,3379,,Persian,,false
 9664,21,,Persian,,true
-5505,21,"Relatively late loanword from Lat (acc.sg.) canem or, rather, from its Balkan continuations, reflected in the lack of rhotacism in Tosk.",,canem,false
-5925,,acc.sg.,Latin,canem,false
 9666,6684,,Persian,,true
 9667,249,,Persian,,false
-9657,314,,Sanskrit,sū́rya-,true
-3229,,"Cf. Turk. dengiz 'sea'. To judge from the distance between the Pamirs and the Caucasus, probably an independent loan event from Sarikoli in /cognate/9655/",Turkic,,true
-9655,,"Cf. Turk. dengiz 'sea'. To judge from the distance between the Pamirs and the Caucasus, probably separate loan events from Ossetic lexemes in /cognate/3229/.",Turkic,,false
 9668,314,,Persian,,true
-9241,,,,,false
-5612,8246,"Either a direct borrowing from Old French lac, or a semantic borrowing from Old French lac, reinterpreting inherited material (cf. OE lacu 'small stream of running water' < Proto-Germanic *lak-, cf. OED, EWAhd)",Old French,,false
+9669,2771,,Persian,,true
 9670,2647,,Persian,,false
-1455,9579,,Latin,pullus,false
-7984,,,"aestuarium 'lagoon, bay, estuary'",,false
-1045,9470,,French,,false
-1815,,Loan status uncertain.,,,false
-4725,8785,,,,false
-9689,2443,,Old French,"ront, reond, rond",false
+9672,3379,,Persian,,false
 9687,207,,Low German,stof,false
-3857,,,Latin,"cūpa, cuppa",false
 9688,2443,,Old French,"ront, reond, rond",false
-5697,,,Middle Low German,rund,true
-1327,,,Early Low German,lucht,false
+9689,2443,,Old French,"ront, reond, rond",false
 9691,9470,,Old French,rivere,false
-6198,9470,,Old French,rivere,true
-5474,2211,,Low German,Borst,false
 9692,193,,Dutch,,false
-9703,253,,Dutch,links,false
 9702,2211,,Dutch,borst,false
-9705,256,,Dutch,lever,false
+9703,253,,Dutch,links,false
 9704,255,,Dutch,leven,false
+9705,256,,Dutch,lever,false
+9706,290,,Dutch,naaien,false
 9707,320,,Dutch,dik,false
 9708,330,,Dutch,draaien,false
 9709,346,,Middle Dutch,,false
-9706,290,,Dutch,naaien,false
 9714,5281,,German,Ameis,false
 9715,2213,,Slavic,,true
 9716,913,,Italian,,false

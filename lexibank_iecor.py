@@ -16,8 +16,8 @@ import re
 
 from mappings import FIELD_MAP, AUTHOR_MAP
 
-LANGUAGE_LIST = "Current"
-MEANING_LIST = "JenaFinal170"
+LANGUAGE_LIST = "default"
+MEANING_LIST = "default"
 CONCEPTICON_MAPPING = "raw/Heggarty-2017-200.tsv"
 
 
@@ -133,7 +133,7 @@ class Dataset(BaseDataset):
                 for c in h:
                     print('    {0}'.format(c))
                 w.writerow(h)
-                for row in rows:
+                for row in sorted(rows):
                     d = OrderedDict(zip(header, row))
                     for k in exclude:
                         if k in d:
@@ -410,6 +410,11 @@ class Dataset(BaseDataset):
             wiki_page = wikidir / 'Meaning:-{0}.md'.format(m['Name'])
             if not wiki_page.exists():
                 print('no wiki page for "%s" found' % (m['Name']))
+                wiki_page = wikidir / 'DO-Meaning:-{0}.md'.format(m['Name'])
+                if wiki_page.exists():
+                    wiki_data = '##### Illustrative Context\n_' +\
+                        m['exampleContext'] +\
+                        '_\n\n> Full meaning definition being reformatted and restructured for publication.'
             else:
                 wiki_data = clean_md(read_text(wiki_page))
             m['Description_md'] = wiki_data
