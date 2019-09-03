@@ -391,7 +391,8 @@ class Dataset(BaseDataset):
                     f['url'] = lang_urls[f['Language_ID']] + f['url']
                 else:
                     raise ValueError(f['Language_ID'])
-            f['Source'] = lrefs.get(f['ID'], [])
+            f['Source'] = []
+            # f['Source'] = lrefs.get(f['ID'], [])
         mids = set(f['Parameter_ID'] for f in forms)
         meanings = [d for d in dicts('meaning', to_cldf=True) if
                     d['ID'] in mids]
