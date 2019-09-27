@@ -21,8 +21,6 @@ Cite the source dataset as
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Palula [palu1254](http://glottolog.org/resource/languoid/id/palu1254)
 
 
 - Entries missing sources: 24300/24300 (100.00%)

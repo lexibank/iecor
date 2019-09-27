@@ -6,7 +6,7 @@ ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,c
 42,Hellenic,Modern Hellenic,,,Modern Hellenic,,#00BFFF,3,2,0,0,2100,1700,N
 31,Armenian,,,,Armenian,Arm,#800080,4,0,0,0,1800,1500,N
 30,Albanian,,,,Albanian,Alb,#999999,5,0,0,0,,,_
-33,Indo-Iranic,,,,Indo-Iranic,,#EE0000,6,0,0,0,6000,4000,O
+33,Indo-Iranic,,,,Indo-Iranic,,#EE0000,6,0,0,0,6000,4000,U
 24,Indic,,,,Indic,Ind,#B0171F,6,1,0,0,5000,3750,O
 27,Nuristani,,,,Nuristani,Nur,#DC143C,6,2,0,0,,,_
 23,Iranic,,,,Iranic,Irc,#FF3E96,6,3,0,0,5000,3500,O

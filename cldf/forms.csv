@@ -1702,150 +1702,150 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 5703,24,204,worm,,,,worm,,,,,
 5705,24,206,jaer,,,,jaer,,,,,
 5706,24,207,geel,,,,geel,,,,,
-5710,25,4,cendre,,,,cendre,,,,,http://www.cnrtl.fr/etymologie/cendre
-5712,25,6,dos,,,,dos,,do,do,,http://www.cnrtl.fr/etymologie/dos
-5713,25,7,mauvais,,,,mauvais,,mɔvɛ,mɔˈvɛ,,http://www.cnrtl.fr/etymologie/mauvais
-5714,25,8,écorce,,,,écorce,,ekɔʁs,eˈkɔʁs,,http://www.cnrtl.fr/etymologie/écorce
-5716,25,10,ventre,,,,ventre,,vɑ̃tʁ,ˈvɑ̃tʁ,,http://www.cnrtl.fr/etymologie/ventre
-5717,25,11,grand,,,,grand,,gʁɑ̃,gʁɑ̃,,http://www.cnrtl.fr/etymologie/grand
-5718,25,12,oiseau,,,,oiseau,,wazo,waˈzo,,http://www.cnrtl.fr/etymologie/oiseau
-5719,25,13,mordre,,,,mordre,,mɔʁdʁ,ˈmɔʁdʁ,,http://www.cnrtl.fr/etymologie/mordre
-5720,25,14,noir,,,,noir,,nwaʀ,nwaʀ,,http://www.cnrtl.fr/etymologie/noir
-5721,25,15,sang,,,,sang,,sɑ̃,sɑ̃,,http://www.cnrtl.fr/etymologie/sang
-5723,25,17,os,,,,os,,ɔs,ɔs,,http://www.cnrtl.fr/etymologie/os
-5724,25,19,respirer,,,,respirer,,ʀɛspiʀe,ʀɛspiˈʀe,,http://www.cnrtl.fr/etymologie/respirer
-5725,25,20,brûler,,,,brûler,,bʀyle,bʀyˈle,,http://www.cnrtl.fr/etymologie/brûler
-5727,25,22,nuage,,,,nuage,,nyaʒ,nyaʒ,,http://www.cnrtl.fr/etymologie/nuage
-5728,25,23,froid,,,,froid,,fʀwɑ,fʀwɑ,,http://www.cnrtl.fr/etymologie/froid
-5729,25,24,venir,,,,venir,,vəniʀ,vəˈniʀ,,http://www.cnrtl.fr/etymologie/venir
-5730,25,25,compter,,,,compter,,kɔ̃te,kɔ̃ˈte,,http://www.cnrtl.fr/etymologie/compter
-5732,25,27,jour,,,,jour,,ʒuʀ,ʒuʀ,,http://www.cnrtl.fr/etymologie/jour
-5733,25,28,mourir,,,,mourir,,muʀiʀ,muˈʀiʀ,,http://www.cnrtl.fr/etymologie/mourir
-5734,25,29,creuser,,< CREUX 'hollow' (Buck),,creuser,,kʀøze,kʀøˈze,,http://www.cnrtl.fr/etymologie/creuser
-5735,25,30,sale,,,,sale,,sal,sal,,http://www.cnrtl.fr/etymologie/sale
-5736,25,31,chien,,,,chien,,ʃi ɛ̃,ʃi ɛ̃,,http://www.cnrtl.fr/etymologie/chien
-5737,25,32,boire,,,,boire,,bwaʀ,bwaʀ,,http://www.cnrtl.fr/etymologie/boire
-5738,25,33,sec,,,,sec,,sɛk,sɛk,,http://www.cnrtl.fr/etymologie/sec
-5740,25,35,poussière,,,,poussière,,pusjɛʀ,pusˈjɛʀ,,http://www.cnrtl.fr/etymologie/poussière
-5741,25,36,oreille,,,,oreille,,ɔʀɛj,ɔˈʀɛj,,http://www.cnrtl.fr/etymologie/oreille
-5742,25,37,terre,,,,terre,,tɛʀ,tɛʀ,,http://www.cnrtl.fr/etymologie/terre
-5743,25,38,manger,,,,manger,,mɑ̃ʒe,mɑ̃ˈʒe,,http://www.cnrtl.fr/etymologie/manger
-5744,25,39,oeuf,,,,oeuf,,œf,œf,,http://www.cnrtl.fr/etymologie/oeuf
-5745,25,40,oeil,,,,oeil,,œj,œj,,http://www.cnrtl.fr/etymologie/oeil
-5746,25,41,tomber,,,,tomber,,tɔ̃be,tɔ̃ˈbe,,http://www.cnrtl.fr/etymologie/tomber
-5747,25,42,loin,,,,loin,,lwɛ̃,lwɛ̃,,http://www.cnrtl.fr/etymologie/loin
-5750,25,45,avoir peur,,,,avoir peur,,,,,http://www.cnrtl.fr/etymologie/peur
-5751,25,46,plume,,,,plume,,plym,plym,,http://www.cnrtl.fr/etymologie/plume
-5753,25,48,se battre,,,,se battre,,sə batʀ,sə batʀ,,http://www.cnrtl.fr/etymologie/battre
-5754,25,50,feu,,,,feu,,fø,fø,,http://www.cnrtl.fr/etymologie/feu
-5755,25,51,poisson,,,,poisson,,pwasɔ̃,pwaˈsɔ̃,,http://www.cnrtl.fr/etymologie/poisson
-5756,25,52,cinq,,,,cinq,,s ɛ̃k,s ɛ̃k,,http://www.cnrtl.fr/etymologie/cinq
-5759,25,55,fleur,,,,fleur,,flœʀ,flœʀ,,http://www.cnrtl.fr/etymologie/fleur
-5760,25,56,voler,,Removed (OISEAU) as it is not restricted to birds. Second meaning: 'to steal'.,,voler,,vɔle,vɔˈle,,http://www.cnrtl.fr/etymologie/voler
-5761,25,57,brouillard,,,,brouillard,,bʀujaʀ,bʀuˈjaʀ,,http://www.cnrtl.fr/etymologie/brouillard
-5762,25,58,pied,,,,pied,,pje,pje,,http://www.cnrtl.fr/etymologie/pied
-5763,25,59,quatre,,,,quatre,,katʀ,katʀ,,http://www.cnrtl.fr/etymologie/quatre
-5764,25,60,geler,,,,geler,,ʒəle,ʒəˈle,,http://www.cnrtl.fr/etymologie/geler
-5765,25,61,fruit,,,,fruit,,fʀɥi,fʀɥˈi,,http://www.cnrtl.fr/etymologie/fruit
-5766,25,63,donner,,,,donner,,dɔne,dɔˈne,,http://www.cnrtl.fr/etymologie/donner
-5767,25,64,bon,,,,bon,,bɔ̃,bɔ̃,,http://www.cnrtl.fr/etymologie/bon
-5768,25,65,herbe,,,,herbe,,ɛʀb,ɛʀb,,http://www.cnrtl.fr/etymologie/herbe
-5769,25,66,vert,,,,vert,,vɛʀ,vɛʀ,,http://www.cnrtl.fr/etymologie/vert
-5771,25,68,cheveu,,,,cheveu,,ʃəvø,ʃəˈvø,,http://www.cnrtl.fr/etymologie/cheveu
-5772,25,69,main,,,,main,,mɛ̃,mɛ̃,,http://www.cnrtl.fr/etymologie/main
-5774,25,71,tête,,,,tête,,tɛt,tɛt,,http://www.cnrtl.fr/etymologie/tête
-5775,25,72,entendre,,,,entendre,,ɑ̃tɑ̃dʀ,ɑ̃ˈtɑ̃dʀ,,http://www.cnrtl.fr/etymologie/entendre
-5776,25,73,cœur,,,,cœur,,kœʀ,kœʀ,,http://www.cnrtl.fr/etymologie/cœur
-5777,25,74,lourd,,,,lourd,,luʀ,luʀ,,http://www.cnrtl.fr/etymologie/lourd
-5779,25,76,frapper,,"prob. ""of imitative origin"" (Buck 1949: 553)",,frapper,,fʀape,fʀaˈpe,,http://www.cnrtl.fr/etymologie/frapper
-5782,25,80,chasser,,,,chasser,,ʃase,ʃaˈse,,http://www.cnrtl.fr/etymologie/chasser
-5785,25,83,glace,,,,glace,,glas,glas,,http://www.cnrtl.fr/etymologie/glace
-5788,25,86,tuer,,,,tuer,,tɥe,tɥe,,http://www.cnrtl.fr/etymologie/tuer
-5789,25,88,savoir,,"To know facts/knowledge, not people.",,savoir,,savwaʀ,savˈwaʀ,,http://www.cnrtl.fr/etymologie/savoir
-5790,25,89,lac,,,,lac,,lak,lak,,http://www.cnrtl.fr/etymologie/lac
-5791,25,90,rire,,,,rire,,ʀiʀ,ʀiʀ,,http://www.cnrtl.fr/etymologie/rire
-5792,25,91,feuille,,,,feuille,,fœj,fœj,,http://www.cnrtl.fr/etymologie/feuille
-5793,25,92,gauche,,,,gauche,,goʃ,goʃ,,http://www.cnrtl.fr/etymologie/gauche
-5794,25,93,jambe,,,,jambe,,ʒɑ̃b,ʒɑ̃b,,http://www.cnrtl.fr/etymologie/jambe
-5796,25,95,vivre,,,,vivre,,vivʀ,vivʀ,,http://www.cnrtl.fr/etymologie/vivre
-5797,25,96,foie,,,,foie,,fwa,fwa,,http://www.cnrtl.fr/etymologie/foie
-5798,25,97,long,,,,long,,lɔ̃,lɔ̃,,http://www.cnrtl.fr/etymologie/long
-5799,25,98,pou,,,,pou,,pu,pu,,http://www.cnrtl.fr/etymologie/pou
-5800,25,99,homme,,,,homme,,ɔm,ɔm,,http://www.cnrtl.fr/etymologie/homme
-5802,25,101,viande,,derived from Lat.: vivenda < vivere? - originally CC 909,,viande,,vjɑ̃d,vjɑ̃d,,http://www.cnrtl.fr/etymologie/viande
-5804,25,104,montagne,,,,montagne,,mɔ̃taɲ,mɔ̃ˈtaɲ,,http://www.cnrtl.fr/etymologie/montagne
-5805,25,105,bouche,,,,bouche,,buʃ,buʃ,,http://www.cnrtl.fr/etymologie/bouche
-5806,25,106,nom,,,,nom,,nɔ̃,nɔ̃,,http://www.cnrtl.fr/etymologie/nom
-5807,25,107,étroit,,,,étroit,,etʀwa,eˈtʀwa,,http://www.cnrtl.fr/etymologie/étroit
-5808,25,108,près,,,,près,,pʀɛ,pʀɛ,,http://www.cnrtl.fr/etymologie/près
-5809,25,109,cou,,,,cou,,ku,ku,,http://www.cnrtl.fr/etymologie/cou
-5810,25,110,nouveau,,,,nouveau,,nuvo,nuˈvo,,http://www.cnrtl.fr/etymologie/nouveau
-5811,25,111,nuit,,,,nuit,,nɥi,nɥi,,http://www.cnrtl.fr/etymologie/nuit/substantif
-5812,25,112,nez,,,,nez,,nɛ,nɛ,,http://www.cnrtl.fr/etymologie/nez
-5814,25,114,vieux,,,,vieux,,vjø,vjø,,http://www.cnrtl.fr/etymologie/vieux
-5815,25,115,un,,,,un,,œ̃,œ̃,,http://www.cnrtl.fr/etymologie/un
-5818,25,118,jouer,,,,jouer,,ʒwe,ʒwe,,http://www.cnrtl.fr/etymologie/jouer
-5819,25,119,tirer,,,,tirer,,tiʀe,tiʀe,,http://www.cnrtl.fr/etymologie/tirer
-5820,25,120,pousser,,,,pousser,,puse,puse,,http://www.cnrtl.fr/etymologie/pousser
-5821,25,121,pluie,,,,pluie,,plɥi,plɥi,,http://www.cnrtl.fr/etymologie/pleuvoir
-5822,25,122,rouge,,,,rouge,,ʀuʒ,ʀuʒ,,http://www.cnrtl.fr/etymologie/rouge
-5824,25,124,droit,,,,droit,,dʀwɑ,dʀwɑ,,http://www.cnrtl.fr/etymologie/droit
-5825,25,125,rivière,,,,rivière,,ʀivjɛʀ,ʀivˈjɛʀ,,http://www.cnrtl.fr/etymologie/rivière
-5827,25,127,racine,,,,racine,,ʀasin,ʀaˈsin,,http://www.cnrtl.fr/etymologie/racine
-5829,25,129,pourri,,,,pourri,,puʀi,puˈʀi,,http://www.cnrtl.fr/etymologie/pourri/adjectif
-5831,25,132,sel,,,,sel,,sɛl,sɛl,,http://www.cnrtl.fr/etymologie/sel
-5832,25,133,sable,,,,sable,,sɑbl,sɑbl,,http://www.cnrtl.fr/etymologie/sable
-5833,25,134,dire,,,,dire,,diʀ,diʀ,,http://www.cnrtl.fr/etymologie/dire
-5835,25,136,mer,,,,mer,,mɛʀ,mɛʀ,,http://www.cnrtl.fr/etymologie/mer
-5836,25,137,voir,,,,voir,,vwaʀ,vwaʀ,,http://www.cnrtl.fr/etymologie/voir
-5837,25,138,graine,,,,graine,,grɛn,grɛn,,http://www.cnrtl.fr/etymologie/graine
-5838,25,139,coudre,,,,coudre,,kudʀ,kudʀ,,http://www.cnrtl.fr/etymologie/coudre
-5839,25,140,coupant,,"Other close candidate lexemes include 'trenchant', which prescriptively might be preferred, but is in practice less commonly used term, more restricted in register than 'coupant'.  'Trenchant' is also frequently figurative (e.g. of a gaze or comment), not the literal sense targeted in CoBL.",,coupant,,kupɑ̃,kupɑ̃,,http://www.cnrtl.fr/etymologie/coupant
-5840,25,141,court,,,,court,,kuʀ,kuʀ,,http://www.cnrtl.fr/etymologie/court/adjectif
-5841,25,142,chanter,,,,chanter,,ʃɑ̃te,ʃɑ̃ˈte,,http://www.cnrtl.fr/etymologie/chanter
-5842,25,143,asseoir,,Removed ETRE ASSIS.,,asseoir,,aswaʀ,asˈwaʀ,,http://www.cnrtl.fr/etymologie/asseoir
-5843,25,144,peau,,,,peau,,po,po,,http://www.cnrtl.fr/etymologie/peau
-5844,25,145,ciel,,,,ciel,,sjɛl,sjɛl,,http://www.cnrtl.fr/etymologie/ciel
-5845,25,146,dormir,,,,dormir,,doʀmiʀ,doʀˈmiʀ,,http://www.cnrtl.fr/etymologie/dormir
-5846,25,147,petit,,,,petit,,pəti,pəˈti,,http://www.cnrtl.fr/etymologie/petit
-5847,25,148,sentir,,,,sentir,,sɑ̃tiʀ,sɑ̃ˈtiʀ,,http://www.cnrtl.fr/etymologie/sentir
-5848,25,149,fumée,,,,fumée,,fyme,fyˈme,,http://www.cnrtl.fr/etymologie/fumée
-5849,25,150,lisse,,,,lisse,,lis,lis,,http://www.cnrtl.fr/etymologie/lisse
-5850,25,151,serpent,,,,serpent,,sɛʀpɑ̃,sɛʀˈpɑ̃,,http://www.cnrtl.fr/etymologie/serpent
-5851,25,152,neige,,,,neige,,nɛʒ,nɛʒ,,http://www.cnrtl.fr/etymologie/neige
-5857,25,158,être debout,,'be standing',,être debout,,ɛtʀ dəbu,ɛtʀ dəˈbu,,http://www.cnrtl.fr/etymologie/debout
-5858,25,159,étoile,,,,étoile,,etwal,etˈwal,,http://www.cnrtl.fr/etymologie/étoile
-5859,25,160,bâton,,,,bâton,,bɑtɔ̃,bɑtɔ̃,,http://www.cnrtl.fr/etymologie/bâton
-5860,25,161,pierre,,,,pierre,,pjɛʀ,pjɛʀ,,http://www.cnrtl.fr/etymologie/pierre
-5861,25,162,droit,,,,droit,,dʀwɑ,dʀwɑ,,http://www.cnrtl.fr/etymologie/droit
-5863,25,164,soleil,,,,soleil,,sɔlɛj,sɔˈlɛj,,http://www.cnrtl.fr/etymologie/soleil
-5864,25,165,enfler,,,,enfler,,ɑ̃fle,ɑ̃fˈle,,http://www.cnrtl.fr/etymologie/enfler
-5865,25,166,nager,,,,nager,,naʒe,naˈʒe,,http://www.cnrtl.fr/etymologie/nager
-5866,25,167,queue,,,,queue,,kø,kø,,http://www.cnrtl.fr/etymologie/queue
-5870,25,171,épais,,,,épais,,epɛ,eˈpɛ,,http://www.cnrtl.fr/etymologie/épais
-5872,25,173,penser,,,,penser,,pɑ̃se,pɑ̃ˈse,,http://www.cnrtl.fr/etymologie/penser
-5875,25,176,trois,,,,trois,,tʀwa,tʀwa,,http://www.cnrtl.fr/etymologie/trois
-5876,25,177,lancer,,,,lancer,,lɑ̃se,lɑ̃se,,http://www.cnrtl.fr/etymologie/lancer
-5877,25,178,attacher,,,,attacher,,ataʃe,ataˈʃe,,http://www.cnrtl.fr/etymologie/attacher
-5878,25,179,langue,,Also means 'language'.,,langue,,lɑ̃g,lɑ̃g,,http://www.cnrtl.fr/etymologie/langue
-5879,25,180,dent,,,,dent,,dɑ̃,dɑ̃,,http://www.cnrtl.fr/etymologie/dent
-5880,25,181,arbre,,,,arbre,,aʀbʀ,aʀbʀ,,http://www.cnrtl.fr/etymologie/arbre
-5881,25,182,tourner,,,,tourner,,tuʀne,tuʀˈne,,http://www.cnrtl.fr/etymologie/tourner
-5882,25,183,deux,,,,deux,,dø,dø,,http://www.cnrtl.fr/etymologie/deux
-5883,25,184,vomir,,,,vomir,,vɔmiʀ,vɔˈmiʀ,,http://www.cnrtl.fr/etymologie/vomir
-5885,25,186,chaud,,,,chaud,,ʃo,ʃo,,http://www.cnrtl.fr/etymologie/chaud
-5886,25,187,laver,,,,laver,,lave,laˈve,,http://www.cnrtl.fr/etymologie/laver
-5887,25,188,eau,,,,eau,,o,o,,http://www.cnrtl.fr/etymologie/eau
-5889,25,190,mouillé,,,,mouillé,,muje,muˈje,,http://www.cnrtl.fr/etymologie/mouillé/adjectif
-5893,25,194,blanc,,,,blanc,,blɑ̃,blɑ̃,,http://www.cnrtl.fr/etymologie/blanc
-5895,25,196,large,,,,large,,laʀʒ,laʀʒ,,http://www.cnrtl.fr/etymologie/large
-5897,25,198,vent,,,,vent,,vɑ̃,vɑ̃,,http://www.cnrtl.fr/etymologie/vent
-5898,25,199,aile,,,,aile,,ɛl,ɛl,,http://www.cnrtl.fr/etymologie/aile
-5901,25,202,femme,,,,femme,,fam,fam,,http://www.cnrtl.fr/etymologie/femme
-5902,25,203,bois,,,,bois,,bwa,bwa,,http://www.cnrtl.fr/etymologie/bois
-5903,25,204,ver,,,,ver,,vɛʀ,vɛʀ,,http://www.cnrtl.fr/etymologie/ver
-5905,25,206,an,,,,an,,ɑ̃,ɑ̃,,http://www.cnrtl.fr/etymologie/an
-5906,25,207,jaune,,,,jaune,,ʒon,ʒon,,http://www.cnrtl.fr/etymologie/jaune
+5710,25,4,cendre,,,,cendre,,,sɑ̃dʁ,,http://www.cnrtl.fr/etymologie/cendre
+5712,25,6,dos,,,,dos,,,do,,http://www.cnrtl.fr/etymologie/dos
+5713,25,7,mauvais,,,,mauvais,,,mɔvɛ,,http://www.cnrtl.fr/etymologie/mauvais
+5714,25,8,écorce,,,,écorce,,,ekɔʁs,,http://www.cnrtl.fr/etymologie/écorce
+5716,25,10,ventre,,,,ventre,,,vɑ̃tʁ,,http://www.cnrtl.fr/etymologie/ventre
+5717,25,11,grand,,,,grand,,,gʁɑ̃,,http://www.cnrtl.fr/etymologie/grand
+5718,25,12,oiseau,,,,oiseau,,,waˈzo,,http://www.cnrtl.fr/etymologie/oiseau
+5719,25,13,mordre,,,,mordre,,,mɔʁdʁ,,http://www.cnrtl.fr/etymologie/mordre
+5720,25,14,noir,,,,noir,,,nwaʁ,,http://www.cnrtl.fr/etymologie/noir
+5721,25,15,sang,,,,sang,,,sɑ̃,,http://www.cnrtl.fr/etymologie/sang
+5723,25,17,os,,,,os,,,ɔs,,http://www.cnrtl.fr/etymologie/os
+5724,25,19,respirer,,,,respirer,,,ʁɛspiʁe,,http://www.cnrtl.fr/etymologie/respirer
+5725,25,20,brûler,,,,brûler,,,bʁyle,,http://www.cnrtl.fr/etymologie/brûler
+5727,25,22,nuage,,,,nuage,,,nyaʒ,,http://www.cnrtl.fr/etymologie/nuage
+5728,25,23,froid,,,,froid,,,fʁwɑ,,http://www.cnrtl.fr/etymologie/froid
+5729,25,24,venir,,,,venir,,,vəniʁ,,http://www.cnrtl.fr/etymologie/venir
+5730,25,25,compter,,,,compter,,,kɔ̃te,,http://www.cnrtl.fr/etymologie/compter
+5732,25,27,jour,,,,jour,,,ʒuʁ,,http://www.cnrtl.fr/etymologie/jour
+5733,25,28,mourir,,,,mourir,,,muʁiʁ,,http://www.cnrtl.fr/etymologie/mourir
+5734,25,29,creuser,,< CREUX 'hollow' (Buck),,creuser,,,kʁøze,,http://www.cnrtl.fr/etymologie/creuser
+5735,25,30,sale,,,,sale,,,sal,,http://www.cnrtl.fr/etymologie/sale
+5736,25,31,chien,,,,chien,,,ʃɛ̃,,http://www.cnrtl.fr/etymologie/chien
+5737,25,32,boire,,,,boire,,,bwaʁ,,http://www.cnrtl.fr/etymologie/boire
+5738,25,33,sec,,,,sec,,,sɛk,,http://www.cnrtl.fr/etymologie/sec
+5740,25,35,poussière,,,,poussière,,,pusjɛʁ,,http://www.cnrtl.fr/etymologie/poussière
+5741,25,36,oreille,,,,oreille,,,ɔʁɛj,,http://www.cnrtl.fr/etymologie/oreille
+5742,25,37,terre,,,,terre,,,tɛʁ,,http://www.cnrtl.fr/etymologie/terre
+5743,25,38,manger,,,,manger,,,mɑ̃ʒe,,http://www.cnrtl.fr/etymologie/manger
+5744,25,39,oeuf,,,,oeuf,,,œf,,http://www.cnrtl.fr/etymologie/oeuf
+5745,25,40,oeil,,,,oeil,,,œj,,http://www.cnrtl.fr/etymologie/oeil
+5746,25,41,tomber,,,,tomber,,,tɔ̃be,,http://www.cnrtl.fr/etymologie/tomber
+5747,25,42,loin,,,,loin,,,lwɛ̃,,http://www.cnrtl.fr/etymologie/loin
+5750,25,45,avoir peur,,,,avoir peur,,,avwaʁ pœʁ,,http://www.cnrtl.fr/etymologie/peur
+5751,25,46,plume,,,,plume,,,plym,,http://www.cnrtl.fr/etymologie/plume
+5753,25,48,se battre,,,,se battre,,,sə batʁ,,http://www.cnrtl.fr/etymologie/battre
+5754,25,50,feu,,,,feu,,,fø,,http://www.cnrtl.fr/etymologie/feu
+5755,25,51,poisson,,,,poisson,,,pwasɔ̃,,http://www.cnrtl.fr/etymologie/poisson
+5756,25,52,cinq,,,,cinq,,,sɛ̃k,,http://www.cnrtl.fr/etymologie/cinq
+5759,25,55,fleur,,,,fleur,,,flœʁ,,http://www.cnrtl.fr/etymologie/fleur
+5760,25,56,voler,,,,voler,,,vɔle,,http://www.cnrtl.fr/etymologie/voler
+5761,25,57,brouillard,,,,brouillard,,,bʁujaʁ,,http://www.cnrtl.fr/etymologie/brouillard
+5762,25,58,pied,,,,pied,,,pje,,http://www.cnrtl.fr/etymologie/pied
+5763,25,59,quatre,,,,quatre,,,katʁ,,http://www.cnrtl.fr/etymologie/quatre
+5764,25,60,geler,,,,geler,,,ʒəle,,http://www.cnrtl.fr/etymologie/geler
+5765,25,61,fruit,,,,fruit,,,fʁɥi,,http://www.cnrtl.fr/etymologie/fruit
+5766,25,63,donner,,,,donner,,,dɔne,,http://www.cnrtl.fr/etymologie/donner
+5767,25,64,bon,,,,bon,,,bɔ̃,,http://www.cnrtl.fr/etymologie/bon
+5768,25,65,herbe,,,,herbe,,,ɛʁb,,http://www.cnrtl.fr/etymologie/herbe
+5769,25,66,vert,,,,vert,,,vɛʁ,,http://www.cnrtl.fr/etymologie/vert
+5771,25,68,cheveu,,,,cheveu,,,ʃəvø,,http://www.cnrtl.fr/etymologie/cheveu
+5772,25,69,main,,,,main,,,mɛ̃,,http://www.cnrtl.fr/etymologie/main
+5774,25,71,tête,,,,tête,,,tɛt,,http://www.cnrtl.fr/etymologie/tête
+5775,25,72,entendre,,,,entendre,,,ɑ̃tɑ̃dʁ,,http://www.cnrtl.fr/etymologie/entendre
+5776,25,73,cœur,,,,cœur,,,kœʁ,,http://www.cnrtl.fr/etymologie/cœur
+5777,25,74,lourd,,,,lourd,,,luʁ,,http://www.cnrtl.fr/etymologie/lourd
+5779,25,76,frapper,,"prob. ""of imitative origin"" (Buck 1949: 553)",,frapper,,,fʁape,,http://www.cnrtl.fr/etymologie/frapper
+5782,25,80,chasser,,,,chasser,,,ʃase,,http://www.cnrtl.fr/etymologie/chasser
+5785,25,83,glace,,,,glace,,,glas,,http://www.cnrtl.fr/etymologie/glace
+5788,25,86,tuer,,,,tuer,,,tɥe,,http://www.cnrtl.fr/etymologie/tuer
+5789,25,88,savoir,,"To know facts/knowledge, not people.",,savoir,,,savwaʁ,,http://www.cnrtl.fr/etymologie/savoir
+5790,25,89,lac,,,,lac,,,lak,,http://www.cnrtl.fr/etymologie/lac
+5791,25,90,rire,,,,rire,,,ʁiʁ,,http://www.cnrtl.fr/etymologie/rire
+5792,25,91,feuille,,,,feuille,,,fœj,,http://www.cnrtl.fr/etymologie/feuille
+5793,25,92,gauche,,,,gauche,,,goʃ,,http://www.cnrtl.fr/etymologie/gauche
+5794,25,93,jambe,,,,jambe,,,ʒɑ̃b,,http://www.cnrtl.fr/etymologie/jambe
+5796,25,95,vivre,,,,vivre,,,vivʁ,,http://www.cnrtl.fr/etymologie/vivre
+5797,25,96,foie,,,,foie,,,fwa,,http://www.cnrtl.fr/etymologie/foie
+5798,25,97,long,,,,long,,,lɔ̃,,http://www.cnrtl.fr/etymologie/long
+5799,25,98,pou,,,,pou,,,pu,,http://www.cnrtl.fr/etymologie/pou
+5800,25,99,homme,,,,homme,,,ɔm,,http://www.cnrtl.fr/etymologie/homme
+5802,25,101,viande,,derived from Lat.: vivenda < vivere? - originally CC 909,,viande,,,vjɑ̃d,,http://www.cnrtl.fr/etymologie/viande
+5804,25,104,montagne,,,,montagne,,,mɔ̃taɲ,,http://www.cnrtl.fr/etymologie/montagne
+5805,25,105,bouche,,,,bouche,,,buʃ,,http://www.cnrtl.fr/etymologie/bouche
+5806,25,106,nom,,,,nom,,,nɔ̃,,http://www.cnrtl.fr/etymologie/nom
+5807,25,107,étroit,,,,étroit,,,etʁwa,,http://www.cnrtl.fr/etymologie/étroit
+5808,25,108,près,,,,près,,,pʁɛ,,http://www.cnrtl.fr/etymologie/près
+5809,25,109,cou,,,,cou,,,ku,,http://www.cnrtl.fr/etymologie/cou
+5810,25,110,nouveau,,,,nouveau,,,nuvo,,http://www.cnrtl.fr/etymologie/nouveau
+5811,25,111,nuit,,,,nuit,,,nɥi,,http://www.cnrtl.fr/etymologie/nuit/substantif
+5812,25,112,nez,,,,nez,,,ne,,http://www.cnrtl.fr/etymologie/nez
+5814,25,114,vieux,,,,vieux,,,vjø,,http://www.cnrtl.fr/etymologie/vieux
+5815,25,115,un,,,,un,,,œ̃,,http://www.cnrtl.fr/etymologie/un
+5818,25,118,jouer,,,,jouer,,,ʒwe,,http://www.cnrtl.fr/etymologie/jouer
+5819,25,119,tirer,,,,tirer,,,tiʁe,,http://www.cnrtl.fr/etymologie/tirer
+5820,25,120,pousser,,,,pousser,,,puse,,http://www.cnrtl.fr/etymologie/pousser
+5821,25,121,pluie,,,,pluie,,,plɥi,,http://www.cnrtl.fr/etymologie/pleuvoir
+5822,25,122,rouge,,,,rouge,,,ʁuʒ,,http://www.cnrtl.fr/etymologie/rouge
+5824,25,124,droit,,,,droit,,,dʁwɑ,,http://www.cnrtl.fr/etymologie/droit
+5825,25,125,rivière,,,,rivière,,,ʁivjɛʁ,,http://www.cnrtl.fr/etymologie/rivière
+5827,25,127,racine,,,,racine,,,ʁasin,,http://www.cnrtl.fr/etymologie/racine
+5829,25,129,pourri,,,,pourri,,,puʁi,,http://www.cnrtl.fr/etymologie/pourri/adjectif
+5831,25,132,sel,,,,sel,,,sɛl,,http://www.cnrtl.fr/etymologie/sel
+5832,25,133,sable,,,,sable,,,sɑbl,,http://www.cnrtl.fr/etymologie/sable
+5833,25,134,dire,,,,dire,,,diʁ,,http://www.cnrtl.fr/etymologie/dire
+5835,25,136,mer,,,,mer,,,mɛʁ,,http://www.cnrtl.fr/etymologie/mer
+5836,25,137,voir,,,,voir,,,vwaʁ,,http://www.cnrtl.fr/etymologie/voir
+5837,25,138,graine,,,,graine,,,grɛn,,http://www.cnrtl.fr/etymologie/graine
+5838,25,139,coudre,,,,coudre,,,kudʁ,,http://www.cnrtl.fr/etymologie/coudre
+5839,25,140,coupant,,"Other close candidate lexemes include 'trenchant', which prescriptively might be preferred, but is in practice less commonly used term, more restricted in register than 'coupant'.  'Trenchant' is also frequently figurative (e.g. of a gaze or comment), not the literal sense targeted in CoBL.",,coupant,,,kupɑ̃,,http://www.cnrtl.fr/etymologie/coupant
+5840,25,141,court,,,,court,,,kuʁ,,http://www.cnrtl.fr/etymologie/court/adjectif
+5841,25,142,chanter,,,,chanter,,,ʃɑ̃te,,http://www.cnrtl.fr/etymologie/chanter
+5842,25,143,être assis,,,,être assis,,,ɛtʁ asi,,http://www.cnrtl.fr/etymologie/asseoir
+5843,25,144,peau,,,,peau,,,po,,http://www.cnrtl.fr/etymologie/peau
+5844,25,145,ciel,,,,ciel,,,sjɛl,,http://www.cnrtl.fr/etymologie/ciel
+5845,25,146,dormir,,,,dormir,,,dɔʁmiʁ,,http://www.cnrtl.fr/etymologie/dormir
+5846,25,147,petit,,,,petit,,,pəti,,http://www.cnrtl.fr/etymologie/petit
+5847,25,148,sentir,,,,sentir,,,sɑ̃tiʁ,,http://www.cnrtl.fr/etymologie/sentir
+5848,25,149,fumée,,,,fumée,,,fyme,,http://www.cnrtl.fr/etymologie/fumée
+5849,25,150,lisse,,,,lisse,,,lis,,http://www.cnrtl.fr/etymologie/lisse
+5850,25,151,serpent,,,,serpent,,,sɛʁpɑ̃,,http://www.cnrtl.fr/etymologie/serpent
+5851,25,152,neige,,,,neige,,,nɛʒ,,http://www.cnrtl.fr/etymologie/neige
+5857,25,158,être debout,,'be standing',,être debout,,,ɛtʁ dəbu,,http://www.cnrtl.fr/etymologie/debout
+5858,25,159,étoile,,,,étoile,,,etwal,,http://www.cnrtl.fr/etymologie/étoile
+5859,25,160,bâton,,,,bâton,,,bɑtɔ̃,,http://www.cnrtl.fr/etymologie/bâton
+5860,25,161,pierre,,,,pierre,,,pjɛʁ,,http://www.cnrtl.fr/etymologie/pierre
+5861,25,162,droit,,,,droit,,,dʁwɑ,,http://www.cnrtl.fr/etymologie/droit
+5863,25,164,soleil,,,,soleil,,,sɔlɛj,,http://www.cnrtl.fr/etymologie/soleil
+5864,25,165,enfler,,,,enfler,,,ɑ̃fle,,http://www.cnrtl.fr/etymologie/enfler
+5865,25,166,nager,,,,nager,,,naʒe,,http://www.cnrtl.fr/etymologie/nager
+5866,25,167,queue,,,,queue,,,kø,,http://www.cnrtl.fr/etymologie/queue
+5870,25,171,épais,,,,épais,,,epɛ,,http://www.cnrtl.fr/etymologie/épais
+5872,25,173,penser,,,,penser,,,pɑ̃se,,http://www.cnrtl.fr/etymologie/penser
+5875,25,176,trois,,,,trois,,,tʁwa,,http://www.cnrtl.fr/etymologie/trois
+5876,25,177,lancer,,,,lancer,,,lɑ̃se,,http://www.cnrtl.fr/etymologie/lancer
+5877,25,178,attacher,,,,attacher,,,ataʃe,,http://www.cnrtl.fr/etymologie/attacher
+5878,25,179,langue,,Also means 'language'.,,langue,,,lɑ̃g,,http://www.cnrtl.fr/etymologie/langue
+5879,25,180,dent,,,,dent,,,dɑ̃,,http://www.cnrtl.fr/etymologie/dent
+5880,25,181,arbre,,,,arbre,,,aʁbʁ,,http://www.cnrtl.fr/etymologie/arbre
+5881,25,182,tourner,,,,tourner,,,tuʁne,,http://www.cnrtl.fr/etymologie/tourner
+5882,25,183,deux,,,,deux,,,dø,,http://www.cnrtl.fr/etymologie/deux
+5883,25,184,vomir,,,,vomir,,,vɔmiʁ,,http://www.cnrtl.fr/etymologie/vomir
+5885,25,186,chaud,,,,chaud,,,ʃo,,http://www.cnrtl.fr/etymologie/chaud
+5886,25,187,laver,,,,laver,,,lave,,http://www.cnrtl.fr/etymologie/laver
+5887,25,188,eau,,,,eau,,,o,,http://www.cnrtl.fr/etymologie/eau
+5889,25,190,mouillé,,,,mouillé,,,muje,,http://www.cnrtl.fr/etymologie/mouillé/adjectif
+5893,25,194,blanc,,,,blanc,,,blɑ̃,,http://www.cnrtl.fr/etymologie/blanc
+5895,25,196,large,,,,large,,,laʁʒ,,http://www.cnrtl.fr/etymologie/large
+5897,25,198,vent,,,,vent,,,vɑ̃,,http://www.cnrtl.fr/etymologie/vent
+5898,25,199,aile,,,,aile,,,ɛl,,http://www.cnrtl.fr/etymologie/aile
+5901,25,202,femme,,,,femme,,,fam,,http://www.cnrtl.fr/etymologie/femme
+5902,25,203,bois,,,,bois,,,bwa,,http://www.cnrtl.fr/etymologie/bois
+5903,25,204,ver,,,,ver,,,vɛʁ,,http://www.cnrtl.fr/etymologie/ver
+5905,25,206,an,,,,an,,,ɑ̃,,http://www.cnrtl.fr/etymologie/an
+5906,25,207,jaune,,,,jaune,,,ʒon,,http://www.cnrtl.fr/etymologie/jaune
 6305,26,4,jiske,,Changed from YESKE.,,jiske,,ˈjɪskə,,,
 6307,26,6,rêch,,Removed RUG.,,rêch,,rɛːx,,,
 6308,26,7,min,,,,min,,mɪn,,,
@@ -2511,240 +2511,240 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 8447,36,203,skógur,,Replaced SKOGR.; more basic than mörk TKD,,skógur,,ˈskouːʏr,,,
 8450,36,206,ár,,,,ár,,auːr,,,
 8451,36,207,gulur,,Replaced GULR.,,gulur,,ˈɡ̊ʏːlʏr,,,
-8654,38,4,luaith,,,,luaith,,,,,http://www.teanglann.ie/ga/fgb/luaith
-8656,38,6,droim,,"maybe derived from 'anus, hole', cf. Greek tormos, trema (Pokorny). Changed from DRUIM.",,droim,,d̪ˠɾˠɪmʲ,d̪ˠɾˠɪmʲ,,http://www.teanglann.ie/ga/fgb/droim
-8659,38,10,bolg,,,,bolg,,,,,http://www.teanglann.ie/ga/fgb/bolg
-8660,38,11,mór,,,,mór,,mˠɔːr,,,http://www.teanglann.ie/ga/fgb/mór
-8661,38,12,éan,,,,éan,,eːnˠ,,,http://www.teanglann.ie/ga/fgb/éan
-8663,38,14,dubh,,,,dubh,,d̪ˠʊw,,,http://www.teanglann.ie/ga/fgb/dubh
-8664,38,15,fuil,,,,fuil,,fˠɪlʲ,,,http://www.teanglann.ie/ga/fgb/fuil
-8666,38,17,cnámh,,,,cnámh,,,,,http://www.teanglann.ie/ga/fgb/cnámh
-8667,38,19,análaigh,,,,análaigh,,,,,http://www.teanglann.ie/ga/fgb/análaigh
-8668,38,20,dóigh,,,,dóigh,"to burn, sear, scorch",,,,http://www.teanglann.ie/ga/fgb/dóigh
-8671,38,23,fuar,,"Reradicalisation, i.e. reinterpretation of [hu] as [φ].",,fuar,,fˠuəɾˠ,,,http://www.teanglann.ie/ga/fgb/fuar
-8672,38,24,tar ≠ tag-,,,,tar ≠ tag-,,t̪ˠaɾˠ,,,http://www.teanglann.ie/ga/fgb/tar
-8673,38,25,áirigh,,,,áirigh,,,,,http://www.teanglann.ie/ga/fgb/áirigh
-8675,38,27,lá,,,,lá,,l̪ˠaː,,,http://www.teanglann.ie/ga/fgb/lá
-8678,38,30,salach,,,,salach,,"ˈsˠal̪ˠəx, sˠəˈl̪ˠax",,,http://www.teanglann.ie/ga/fgb/salach
-8679,38,31,madra,,,,madra,,ˈmˠad̪ˠɾˠə,,,http://www.teanglann.ie/ga/fgb/madra
-8680,38,32,ól,,"noun, from PCelt. *fotlo-, cf. lat. pōculum",,ól,,oːl̪ˠ,,,http://www.teanglann.ie/ga/fgb/ól
-8684,38,36,cluas,,,,cluas,,kl̪ˠuəsˠ,,,http://www.teanglann.ie/ga/fgb/cluas
-8686,38,38,ith,,,,ith,,"ɪ, ɪh",,,http://www.teanglann.ie/ga/fgb/ith
-8687,38,39,ubh,,,,ubh,,"u:, uv",,,http://www.teanglann.ie/ga/fgb/ubh
-8688,38,40,súil,,,,súil,,sˠuːlʲ,,,http://www.teanglann.ie/ga/fgb/súil
-8689,38,41,tit,,,,tit,,tʲɪtʲ,,,http://www.teanglann.ie/ga/fgb/tit
-8693,38,46,cleite,,,,cleite,,,,,http://www.teanglann.ie/ga/fgb/cleite
-8696,38,50,tine,,,,tine,,ˈtʲinʲə,,,http://www.teanglann.ie/ga/fgb/tine
-8697,38,51,iasc,,,,iasc,,,,,http://www.teanglann.ie/ga/fgb/iasc
-8698,38,52,cúig,,,,cúig,,kuːɟ,,,http://www.teanglann.ie/ga/fgb/cúig
-8700,38,55,bláth,,,,bláth,,bˠl̪ˠaː,,,http://www.teanglann.ie/ga/fgb/bláth
-8701,38,56,eitil,,,,eitil,,,,,http://www.teanglann.ie/ga/fgb/eitil
-8702,38,57,ceo,,,,ceo,,co:,,,http://www.teanglann.ie/ga/fgb/ceo
-8703,38,58,cos,,,,cos,,kos,,,http://www.teanglann.ie/ga/fgb/cos
-8704,38,59,ceathar,,"ceathair is the form used in counting, ceithre when enumerating objects",,ceathar,,,,,http://www.teanglann.ie/ga/fgb/ceathair
-8706,38,61,toradh,,,,toradh,,,,,http://www.teanglann.ie/ga/fgb/toradh
-8707,38,63,tabhair ≠ tug-,,,,tabhair ≠ tug-,,"ˈt̪ˠauɾʲ, ˈt̪ˠoːɾʲ, ˈt̪ˠuːɾʲ",,,http://www.teanglann.ie/ga/fgb/tabhair
-8708,38,64,maith,,,,maith,,"mˠa, mˠah, mˠaɪ, mˠaɪh",,,http://www.teanglann.ie/ga/fgb/maith
-8709,38,65,féar,,,,féar,,,,,http://www.teanglann.ie/ga/fgb/féar
-8710,38,66,glas,,,,glas,,ɡl̪ˠasˠ,,,http://www.teanglann.ie/ga/fgb/glas
-8712,38,68,gruaig,,,,gruaig,,,,,http://www.teanglann.ie/ga/fgb/gruaig
-8713,38,69,lámh,,,,lámh,,"l̪ˠɑːvˠ, l̪ˠæːw",,,http://www.teanglann.ie/ga/fgb/lámh
-8715,38,71,ceann,,,,ceann,,"caːn̪ˠ, can̪ˠ",,,http://www.teanglann.ie/ga/fgb/ceann
-8717,38,73,croí,,,,croí,,,,,http://www.teanglann.ie/ga/fgb/croí
-8731,38,89,loch,,,,loch,,l̪ˠɔx,,,http://www.teanglann.ie/ga/fgb/loch
-8733,38,91,"duilleog, duille",,,,"duilleog, duille",,,,,http://www.teanglann.ie/ga/fgb/duilleog
-8734,38,92,clé,,,,clé,,clʲeː,,,http://www.teanglann.ie/ga/fgb/clé
-8735,38,93,cos,,,,cos,,kos,,,http://www.teanglann.ie/ga/fgb/cos
-8737,38,95,bí beo,,,,bí beo,,,,,http://www.teanglann.ie/ga/fgb/beo
-8738,38,96,ae,,,,ae,,e:,,,http://www.teanglann.ie/ga/fgb/ae
-8739,38,97,fada,,,,fada,,"fˠɑd̪ˠə, ˈfˠad̪ˠə",,,http://www.teanglann.ie/ga/fgb/fada
-8740,38,98,míol,,,,míol,,,,,http://www.teanglann.ie/ga/fgb/míol
-8743,38,101,feoil,,,,feoil,,"fʲoːlʲ, fʲɔːlʲ",,,http://www.teanglann.ie/ga/fgb/feoil
-8745,38,104,sliabh,,,,sliabh,,,,,http://www.teanglann.ie/ga/fgb/sliabh
-8746,38,105,béal,,,,béal,,bʲeːl̪ˠ,,,http://www.teanglann.ie/ga/fgb/béal
-8747,38,106,ainm,,,,ainm,,ˈanʲəmʲ,,,http://www.teanglann.ie/ga/fgb/ainm
-8748,38,107,cúng,,,,cúng,,,,,http://www.teanglann.ie/ga/fgb/cúng
-8749,38,108,gar,,,,gar,,,,,http://www.teanglann.ie/ga/fgb/gar
-8750,38,109,muineál,,,,muineál,,,,,http://www.teanglann.ie/ga/fgb/muineál
-8751,38,110,nua,,,,nua,,nˠuːə,,,http://www.teanglann.ie/ga/fgb/nua
-8752,38,111,oíche,,,,oíche,,"ˈiːçə, ˈiːhə, ˈiː",,,http://www.teanglann.ie/ga/fgb/oíche
-8753,38,112,srón,,,,srón,,,,,http://www.teanglann.ie/ga/fgb/srón
-8755,38,114,sean,,,,sean,,ʃan,,,http://www.teanglann.ie/ga/fgb/sean
-8756,38,115,aon,,,,aon,,eːn̪ˠ,,,http://www.teanglann.ie/ga/fgb/aon
-8759,38,118,imir,,,,imir,,,,,http://www.teanglann.ie/ga/fgb/imir
-8760,38,119,tarraing,,,,tarraing,,,,,http://www.teanglann.ie/ga/fgb/tarraing
-8763,38,122,dearg,,,,dearg,,ˈdʲarəɡ,,,http://www.teanglann.ie/ga/fgb/dearg
-8766,38,125,abhainn,,,,abhainn,,"əunʲ, əun̠ʲ, oːn̠ʲ",,,http://www.teanglann.ie/ga/fgb/abhainn
-8768,38,127,fréamh,,,,fréamh,,,,,http://www.teanglann.ie/ga/fgb/fréamh
-8772,38,132,salann,,,,salann,,,,,http://www.teanglann.ie/ga/fgb/salann
-8773,38,133,gaineamh,,,,gaineamh,,,,,http://www.teanglann.ie/ga/fgb/gaineamh
-8776,38,136,farraige,,,,farraige,,ˈfˠæɾˠɟɪ,,,http://www.teanglann.ie/ga/fgb/farraige
-8777,38,138,síol,,,,síol,,,,,http://www.teanglann.ie/ga/fgb/síol
-8778,38,139,fuaigh,,,,fuaigh,,,,,http://www.teanglann.ie/ga/fgb/fuaigh
-8780,38,141,gearr,,,,gearr,,,,,http://www.teanglann.ie/ga/fgb/gearr
-8781,38,142,can,,,,can,,kan̪ˠ,,,http://www.teanglann.ie/ga/fgb/can
-8782,38,143,bí ina shuí,,,,bí ina shuí,,,,,http://www.teanglann.ie/ga/fgb/suí
-8783,38,144,craiceann,,,,craiceann,,ˈkɾˠacən̪ˠ,,,http://www.teanglann.ie/ga/fgb/craiceann
-8784,38,145,spéir,,,,spéir,,,,,http://www.teanglann.ie/ga/fgb/spéir
-8785,38,146,codail,,,,codail,,,,,http://www.teanglann.ie/ga/fgb/codail
-8787,38,149,deatach,,,,deatach,,,,,http://www.teanglann.ie/ga/fgb/deatach
-8789,38,151,nathair,,,,nathair,,,,,http://www.teanglann.ie/ga/fgb/nathair
-8790,38,152,sneachta,,,,sneachta,,ˈʃnʲãxt̪ˠə,,,http://www.teanglann.ie/ga/fgb/sneachta
-8796,38,158,bí ina sheasamh,,,,bí ina sheasamh,,ʃasˠ,,,http://www.teanglann.ie/ga/fgb/seasamh
-8797,38,159,réalta,,,,réalta,,,,,http://www.teanglann.ie/ga/fgb/réalta
-8798,38,160,bata,,,,bata,,ˈbˠat̪ˠə,,,http://www.teanglann.ie/ga/fgb/bata
-8799,38,161,cloch,,,,cloch,,kl̪ˠɔx,,,http://www.teanglann.ie/ga/fgb/cloch
-8800,38,162,díreach,,,,díreach,,ˈdʲiːɾʲəx,,,http://www.teanglann.ie/ga/fgb/díreach
-8802,38,164,grian,,,,grian,,,,,http://www.teanglann.ie/ga/fgb/grian
-8803,38,165,at,,,,at,,,,,http://www.teanglann.ie/ga/fgb/at
-8804,38,166,snámh,,,,snámh,,,,,http://www.teanglann.ie/ga/fgb/snámh
-8805,38,167,eireaball,,,,eireaball,,,,,http://www.teanglann.ie/ga/fgb/eireaball
-8811,38,173,smaoinigh,,,,smaoinigh,,,,,http://www.teanglann.ie/ga/fgb/smaoinigh
-8814,38,176,trí,,,,trí,,tʲɾʲiː,,,http://www.teanglann.ie/ga/fgb/trí
-8816,38,178,ceangal,,,,ceangal,,,,,http://www.teanglann.ie/ga/fgb/ceangal
-8817,38,179,teanga,,,,teanga,,,,,http://www.teanglann.ie/ga/fgb/teanga
-8818,38,180,fiacail,,,,fiacail,,,,,http://www.teanglann.ie/ga/fgb/fiacail
-8819,38,181,crann,,,,crann,,,,,http://www.teanglann.ie/ga/fgb/crann
-8821,38,183,dó,,,,dó,,,,,http://www.teanglann.ie/ga/fgb/dó
-8823,38,186,"te, té",,,,"te, té",,,,,http://www.teanglann.ie/ga/fgb/te
-8824,38,187,nigh,,,,nigh,,"nʲiː, nʲɪɟ",,,http://www.teanglann.ie/ga/fgb/nigh
-8825,38,188,uisce,,,,uisce,,ˈiʃkʲə,,,http://www.teanglann.ie/ga/fgb/uisce
-8827,38,190,fliuch,,,,fliuch,,fʲlʲʊx,,,http://www.teanglann.ie/ga/fgb/fliuch
-8831,38,194,bán,,,,bán,,bɑːn,,,http://www.teanglann.ie/ga/fgb/bán
-8833,38,196,leathan,,,,leathan,,l̻ʲahən̻ˠ,,,http://www.teanglann.ie/ga/fgb/leathan
-8835,38,198,gaoth,,,,gaoth,,,,,http://www.teanglann.ie/ga/fgb/gaoth
-8836,38,199,eiteog,,,,eiteog,,,,,http://www.teanglann.ie/ga/fgb/eiteog
-8839,38,202,bean,,,,bean,,bʲan̪ˠ,,,http://www.teanglann.ie/ga/fgb/bean
-8843,38,206,bliain,,,,bliain,,bʲlʲiənʲ,,,http://www.teanglann.ie/ga/fgb/bliain
-8844,38,207,buí,,,,buí,,,,,http://www.teanglann.ie/ga/fgb/buí
-8848,39,4,cenere,,,,cenere,,'tʃenere,ˈtʃeneɾe,,
-8851,39,7,cattivo,,,,cattivo,,katˈtivo,kat'tivo,,
-8855,39,11,grande,,Also means 'great'.,,grande,,ˈgrande,ˈgɾande,,
+8654,38,4,luaith,,,,luaith,,ˈl̪ʷuəh,ˈl̪ˠuəhʲ,,http://www.teanglann.ie/ga/fgb/luaith
+8656,38,6,droim,,,,droim,,ˈd̪ˠɹˠɪmʲ,ˈdˠɾˠəmʲ,,http://www.teanglann.ie/ga/fgb/droim
+8659,38,10,bolg,,,,bolg,,ˈbˠʊlˠəg̊ˠ,ˈbˠəlˠgˠ,,http://www.teanglann.ie/ga/fgb/bolg
+8660,38,11,mór,,,,mór,,ˈmˠoːɾˠ,ˈmˠoːrˠ,,http://www.teanglann.ie/ga/fgb/mór
+8661,38,12,éan,,,,éan,,ˈeːnˠ,ˈeːnˠ,,http://www.teanglann.ie/ga/fgb/éan
+8663,38,14,dubh,,,,dubh,,ˈd̪ˠʊvˠ,ˈdˠəvˠ,,http://www.teanglann.ie/ga/fgb/dubh
+8664,38,15,fuil,,,,fuil,,ˈfʷɪlʲ,ˈfˠəlʲ,,http://www.teanglann.ie/ga/fgb/fuil
+8666,38,17,cnámh,,,,cnámh,,ˈkˠn̥ˠɑ̃ːvˠ,ˈkˠnˠaːṽˠ,,http://www.teanglann.ie/ga/fgb/cnámh
+8667,38,19,análaigh,,,,análaigh,,əˈnˠɑːlˠɪʝ,∅ˠəˈnˠaːlˠəɣʲ,,http://www.teanglann.ie/ga/fgb/análaigh
+8668,38,20,dóigh,,,,dóigh,,ˈd̪ˠoːʝ,ˈd̪ˠoːɣʲ,,http://www.teanglann.ie/ga/fgb/dóigh
+8671,38,23,fuar,,"Reradicalisation, i.e. reinterpretation of [hu] as [φ].",,fuar,,ˈfʷuəɾˠ,ˈfˠuəɾˠ,,http://www.teanglann.ie/ga/fgb/fuar
+8672,38,24,tar ≠ tag-,,,,tar ≠ tag-,,ˈt̪ˠʰaɾˠ ≠ ˈt̪ˠʰagˠ,ˈtˠarˠ ≠ ˈtˠagˠ,,http://www.teanglann.ie/ga/fgb/tar
+8673,38,25,áirigh,,,,áirigh,,ˈɑːɹ̝ɪʝ,ˈaːrʲəɣʲ,,http://www.teanglann.ie/ga/fgb/áirigh
+8675,38,27,lá,,,,lá,,ˈl̪ˠɑː,ˈl̪ˠaː,,http://www.teanglann.ie/ga/fgb/lá
+8678,38,30,salach,,,,salach,,ˈsˠalˠəx,ˈsˠalˠəxˠ,,http://www.teanglann.ie/ga/fgb/salach
+8679,38,31,madra,,,,madra,,ˈmˠad̪ˠɹˠə,ˈmˠadˠrˠə,,http://www.teanglann.ie/ga/fgb/madra
+8680,38,32,ól,,Noun,,ól,,ˈoːlˠ,ˈoːlˠ,,http://www.teanglann.ie/ga/fgb/ól
+8684,38,36,cluas,,,,cluas,,ˈkʷl̥ʷuəsˠ,ˈkˠlˠuəsˠ,,http://www.teanglann.ie/ga/fgb/cluas
+8686,38,38,ith,,,,ith,,ˈɪh,ˈ∅ʲəhʲ,,http://www.teanglann.ie/ga/fgb/ith
+8687,38,39,ubh,,,,ubh,,ˈʊvˠ,ˈ∅ˠəvˠ,,http://www.teanglann.ie/ga/fgb/ubh
+8688,38,40,súil,,,,súil,,ˈsuːlʲ,ˈsˠuːlʲ,,http://www.teanglann.ie/ga/fgb/súil
+8689,38,41,tuit,,,,tuit,,ˈt̪ˠʰɪt̪ʲʰ,ˈtˠətʲ,,http://www.teanglann.ie/ga/fgb/tit
+8693,38,46,cleite,,,,cleite,,ˈcl̥ʲɛt̪ʲʰə,ˈkʲlʲatʲə,,http://www.teanglann.ie/ga/fgb/cleite
+8696,38,50,tine,,,,tine,,ˈt̪ʲʰɪnʲə,ˈtʲənʲə,,http://www.teanglann.ie/ga/fgb/tine
+8697,38,51,iasc,,,,iasc,,ˈiəsˠkˠ,ˈiəsˠkˠ,,http://www.teanglann.ie/ga/fgb/iasc
+8698,38,52,cúig,,,,cúig,,ˈkʷʰuːɟ̊,ˈkˠuːgʲ,,http://www.teanglann.ie/ga/fgb/cúig
+8700,38,55,bláth,,,,bláth,,ˈbˠlˠɑːh,ˈbˠlˠaːhˠ,,http://www.teanglann.ie/ga/fgb/bláth
+8701,38,56,eitil,,,,eitil,,ˈɛt̪ʲʰɪlʲ,ˈ∅ʲatʲəlʲ,,http://www.teanglann.ie/ga/fgb/eitil
+8702,38,57,ceo,,,,ceo,,ˈcʰoː,ˈkʲoː,,http://www.teanglann.ie/ga/fgb/ceo
+8703,38,58,cos,,,,cos,,ˈkʰʊsˠ,ˈkˠəsˠ,,http://www.teanglann.ie/ga/fgb/cos
+8704,38,59,ceathar,,,,ceathar,,ˈcʰæhəɾˠ,ˈkʲahˠərˠ,,http://www.teanglann.ie/ga/fgb/ceathair
+8706,38,61,toradh,,,,toradh,,ˈt̪ˠʰʊɾˠə,ˈtˠərˠə,,http://www.teanglann.ie/ga/fgb/toradh
+8707,38,63,tabhair ≠ tug-,,,,tabhair ≠ tug-,,ˈt̪ˠʰoːɹ̝,ˈtˠavˠərʲ,,http://www.teanglann.ie/ga/fgb/tabhair
+8708,38,64,maith,,,,maith,,ˈmˠah,ˈmˠahʲ,,http://www.teanglann.ie/ga/fgb/maith
+8709,38,65,féar,,,,féar,,ˈfʲeːɾˠ,ˈfʲeːrˠ,,http://www.teanglann.ie/ga/fgb/féar
+8710,38,66,glas,,,,glas,,ˈɡˠlˠasˠ,ˈgˠlˠas,,http://www.teanglann.ie/ga/fgb/glas
+8712,38,68,gruaig,,,,gruaig,,ˈgʷɹʷuəɟ̊,ˈgˠruəgʲ,,http://www.teanglann.ie/ga/fgb/gruaig
+8713,38,69,lámh,,,,lámh,,ˈl̪ˠɑ̃ːvˠ,ˈl̪ˠaːṽˠ,,http://www.teanglann.ie/ga/fgb/lámh
+8715,38,71,ceann,,,,ceann,,ˈcʰan̪ˠ,ˈkʲan̪ˠ,,http://www.teanglann.ie/ga/fgb/ceann
+8717,38,73,croí,,,,croí,,ˈkˠɹ̥ˠiː,ˈkˠrˠiː,,http://www.teanglann.ie/ga/fgb/croí
+8731,38,89,loch,,,,loch,,ˈl̪ˠʊx,ˈl̪ˠəxˠ,,http://www.teanglann.ie/ga/fgb/loch
+8733,38,91,duilleog,,,,duilleog,,ˈd̪ˠɪʎoːg̊ˠ,ˈdˠəl̪ʲoːgˠ,,http://www.teanglann.ie/ga/fgb/duilleog
+8734,38,92,clé,,,,clé,,ˈcl̥ʲeː,ˈkʲlʲeː,,http://www.teanglann.ie/ga/fgb/clé
+8735,38,93,cos,,,,cos,,ˈkˠʰʊsˠ,ˈkˠəsˠ,,http://www.teanglann.ie/ga/fgb/cos
+8737,38,95,bí beo,,,,bí beo,,ˈbʲiː ˈbʲoː,ˈbʲiː ˈbʲoː,,http://www.teanglann.ie/ga/fgb/beo
+8738,38,96,ae,,,,ae,,ˈe:,ˈeː,,http://www.teanglann.ie/ga/fgb/ae
+8739,38,97,fada,,,,fada,,ˈfˠad̪ˠə,ˈfˠadˠə,,http://www.teanglann.ie/ga/fgb/fada
+8740,38,98,míol,,,,míol,,ˈmʲiːlˠ,ˈmʲiːlˠ,,http://www.teanglann.ie/ga/fgb/míol
+8743,38,101,feoil,,,,feoil,,ˈfʲoːlʲ,ˈfʲoːlʲ,,http://www.teanglann.ie/ga/fgb/feoil
+8745,38,104,sliabh,,,,sliabh,,ˈʃl̥ʲiəvˠ,ˈsʲlʲiəvˠ,,http://www.teanglann.ie/ga/fgb/sliabh
+8746,38,105,béal,,,,béal,,ˈbʲeːlˠ,ˈbʲeːlˠ,,http://www.teanglann.ie/ga/fgb/béal
+8747,38,106,ainm,,,,ainm,,ˈanʲəmʲ,ˈ∅ˠanʲmʲ,,http://www.teanglann.ie/ga/fgb/ainm
+8748,38,107,cúng,,,,cúng,,ˈkʷʰuːŋˠ,ˈkˠuːŋˠ,,http://www.teanglann.ie/ga/fgb/cúng
+8749,38,108,gar,,,,gar,,ˈgˠaɾˠ,ˈgˠarˠ,,http://www.teanglann.ie/ga/fgb/gar
+8750,38,109,muineál,,,,muineál,,ˈmʷɪnʲaːlˠ,ˈmˠənʲaːlˠ,,http://www.teanglann.ie/ga/fgb/muineál
+8751,38,110,nua,,,,nua,,ˈn̪ˠuə,ˈn̪ˠuə,,http://www.teanglann.ie/ga/fgb/nua
+8752,38,111,oíche,,,,oíche,,ˈiːçə,ˈ∅ˠiːxʲə,,http://www.teanglann.ie/ga/fgb/oíche
+8753,38,112,srón,,,,srón,,ˈsˠɹˠoːnˠ,ˈsˠrˠoːnˠ,,http://www.teanglann.ie/ga/fgb/srón
+8755,38,114,sean,,,,sean,,ˈʃænˠ,ˈsʲanˠ,,http://www.teanglann.ie/ga/fgb/sean
+8756,38,115,aon,,,,aon,,ˈeːnˠ,ˈeːnˠ,,http://www.teanglann.ie/ga/fgb/aon
+8759,38,118,imir,,,,imir,,ˈɪmʲɪɹ̝,ˈ∅ʲəmʲərʲ,,http://www.teanglann.ie/ga/fgb/imir
+8760,38,119,tarraing,,,,tarraing,,ˈt̪ˠʰaɾˠəŋʲ,ˈtˠarˠəŋʲ,,http://www.teanglann.ie/ga/fgb/tarraing
+8763,38,122,dearg,,,,dearg,,ˈd̪ʲaɾˠəg̊ˠ,ˈdʲarˠgˠ,,http://www.teanglann.ie/ga/fgb/dearg
+8766,38,125,abhainn,,,,abhainn,,ˈawəɲ,ˈ∅ˠavˠən̪ʲ,,http://www.teanglann.ie/ga/fgb/abhainn
+8768,38,127,fréamh,,,,fréamh,,ˈfʲɹ̝̥ẽːvˠ,ˈfʲrʲeːṽ,,http://www.teanglann.ie/ga/fgb/fréamh
+8772,38,132,salann,,,,salann,,ˈsˠalˠən̪ˠ,ˈsˠalən̪ˠ,,http://www.teanglann.ie/ga/fgb/salann
+8773,38,133,gaineamh,,,,gaineamh,,ˈgˠanʲə̃vˠ,ˈgˠanʲəṽˠ,,http://www.teanglann.ie/ga/fgb/gaineamh
+8776,38,136,farraige,,,,farraige,,ˈfˠaɾˠɪɟə,ˈfˠarˠəgʲə,,http://www.teanglann.ie/ga/fgb/farraige
+8777,38,138,síol,,,,síol,,ˈʃiːlˠ,ˈsʲiːlˠ,,http://www.teanglann.ie/ga/fgb/síol
+8778,38,139,fuaigh,,,,fuaigh,,ˈfʷuəʝ,ˈfˠuəɣʲ,,http://www.teanglann.ie/ga/fgb/fuaigh
+8780,38,141,gearr,,,,gearr,,ˈɟæɾˠ,ˈgʲarˠ,,http://www.teanglann.ie/ga/fgb/gearr
+8781,38,142,can,,,,can,,ˈkˠʰanˠ,ˈkˠanˠ,,http://www.teanglann.ie/ga/fgb/can
+8782,38,143,bí ina shuí,,,,bí ina shuí,,ˈbʲiː ɪnˠə ˈhiː,ˈbʲiː ∅ʲə nˠə ˈhˠiː,,http://www.teanglann.ie/ga/fgb/suí
+8783,38,144,craiceann,,,,craiceann,,ˈkˠɹ̥ˠacʰən̪ˠ,ˈkˠrˠakʲən̪ˠ,,http://www.teanglann.ie/ga/fgb/craiceann
+8784,38,145,spéir,,,,spéir,,ˈsʲpʲeːɹ̝,ˈsʲpʲeːrʲ,,http://www.teanglann.ie/ga/fgb/spéir
+8785,38,146,codail,,,,codail,,ˈkˠʰʊd̪ˠəlʲ,ˈkˠədˠəlʲ,,http://www.teanglann.ie/ga/fgb/codail
+8787,38,149,deatach,,,,deatach,,ˈd̪ʲæt̪ˠʰəx,ˈdʲatˠəxˠ,,http://www.teanglann.ie/ga/fgb/deatach
+8789,38,151,nathair,,,,nathair,,ˈn̪ˠahəɹ̝,ˈn̪ˠahˠərʲ,,http://www.teanglann.ie/ga/fgb/nathair
+8790,38,152,sneachta,,,,sneachta,,ˈʃnʲãxt̪ˠʰə,ˈsʲnʲaxˠtˠə,,http://www.teanglann.ie/ga/fgb/sneachta
+8796,38,158,bí ina sheasamh,,,,bí ina sheasamh,,ˈbʲiː ˈsʲæsˠə̃vˠ,ˈbʲiː ˈsʲasˠəṽˠ,,http://www.teanglann.ie/ga/fgb/seasamh
+8797,38,159,réalta,,,,réalta,,ˈɹ̝eːlˠt̪ˠʰə,ˈrʲeːlˠtˠə,,http://www.teanglann.ie/ga/fgb/réalta
+8798,38,160,bata,,,,bata,,ˈbˠat̪ˠʰə,ˈbˠatˠə,,http://www.teanglann.ie/ga/fgb/bata
+8799,38,161,cloch,,,,cloch,,ˈkˠl̥ˠʊx,ˈkˠlˠəxˠ,,http://www.teanglann.ie/ga/fgb/cloch
+8800,38,162,díreach,,,,díreach,,ˈd̪ʲiːɹ̝əx,ˈdʲiːrʲəxˠ,,http://www.teanglann.ie/ga/fgb/díreach
+8802,38,164,grian,,,,grian,,ˈɟɹ̝iənˠ,ˈgʲrʲiənˠ,,http://www.teanglann.ie/ga/fgb/grian
+8803,38,165,at,,,,at,,ˈat̪ˠʰ,ˈ∅ˠatˠ,,http://www.teanglann.ie/ga/fgb/at
+8804,38,166,snámh,,,,snámh,,ˈsˠnˠɑ̃ːvˠ,ˈsˠnˠaːṽˠ,,http://www.teanglann.ie/ga/fgb/snámh
+8805,38,167,eireaball,,,,eireaball,,ˈɛɹ̝əbˠəl̪ˠ,ˈ∅ʲarʲəbˠəl̪ˠ,,http://www.teanglann.ie/ga/fgb/eireaball
+8811,38,173,smaoinigh,,,,smaoinigh,,ˈsˠmˠiːnʲɪʝ,ˈsˠmˠiːnʲəɣʲ,,http://www.teanglann.ie/ga/fgb/smaoinigh
+8814,38,176,trí,,,,trí,,ˈt̪ʲɹ̝̥iː,ˈtʲrʲiː,,http://www.teanglann.ie/ga/fgb/trí
+8816,38,178,ceangal,,,,ceangal,,ˈcʰæŋˠgˠəlˠ,ˈkʲaŋˠgˠəlˠ,,http://www.teanglann.ie/ga/fgb/ceangal
+8817,38,179,teanga,,,,teanga,,ˈt̪ʲʰæŋˠgˠə,ˈtʲaŋˠgˠə,,http://www.teanglann.ie/ga/fgb/teanga
+8818,38,180,fiacail,,,,fiacail,,ˈˈfʲiəkˠʰəlʲ,ˈfʲiəkˠəlʲ,,http://www.teanglann.ie/ga/fgb/fiacail
+8819,38,181,crann,,,,crann,,ˈkˠɹ̥ˠan̪ˠ,ˈkˠrˠan̪ˠ,,http://www.teanglann.ie/ga/fgb/crann
+8821,38,183,dó,,,,dó,,ˈˈd̪ˠoː,ˈdˠoː,,http://www.teanglann.ie/ga/fgb/dó
+8823,38,186,te,,,,te,,ˈt̪ʲʰɛh,ˈtʲahʲ,,http://www.teanglann.ie/ga/fgb/te
+8824,38,187,nigh,,,,nigh,,ˈɲʲɪʝ,ˈn̪ʲəɣʲ,,http://www.teanglann.ie/ga/fgb/nigh
+8825,38,188,uisce,,,,uisce,,ˈɪʃcə,ˈ∅əsʲkʲə,,http://www.teanglann.ie/ga/fgb/uisce
+8827,38,190,fliuch,,,,fliuch,,ˈfʲl̥ʲʊx,ˈfʲlʲəxˠ,,http://www.teanglann.ie/ga/fgb/fliuch
+8831,38,194,bán,,,,bán,,ˈbˠɑːnˠ,ˈbˠaːnˠ,,http://www.teanglann.ie/ga/fgb/bán
+8833,38,196,leathan,,,,leathan,,ˈl̪ʲæhənˠ,ˈl̪ʲahˠənˠ,,http://www.teanglann.ie/ga/fgb/leathan
+8835,38,198,gaoth,,,,gaoth,,ˈgˠiːh,ˈgˠiːhˠ,,http://www.teanglann.ie/ga/fgb/gaoth
+8836,38,199,eiteog,,,,eiteog,,ˈɛt̪ʲʰoːg̊ˠ,ˈ∅ʲatʲoːgˠ,,http://www.teanglann.ie/ga/fgb/eiteog
+8839,38,202,bean,,,,bean,,bʲænˠ,ˈbʲanˠ,,http://www.teanglann.ie/ga/fgb/bean
+8843,38,206,bliain,,,,bliain,,bʲlʲiənʲ,ˈbʲlʲiənʲ,,http://www.teanglann.ie/ga/fgb/bliain
+8844,38,207,buí,,,,buí,,ˈbʷiː,ˈbˠiː,,http://www.teanglann.ie/ga/fgb/buí
+8848,39,4,cenere,,,,cenere,,'tʃeneːɾe,ˈtʃeneɾe,,
+8851,39,7,cattivo,,,,cattivo,,katˈtiːvo,kat'tivo,,
+8855,39,11,grande,,Also means 'great'.,,grande,,ˈgɾande,ˈgɾande,,
 8856,39,12,uccello,,,,uccello,,ut'tʃɛllo,utˈtʃɛllo,,
-8857,39,13,mordere,,,,mordere,,'mɔrdere,ˈmɔ:ɾdere,,
-8858,39,14,nero,,,,nero,,'nero,ˈneɾo,,
+8857,39,13,mordere,,,,mordere,,'mɔɾdeɾe,ˈmɔ:ɾdeɾe,,
+8858,39,14,nero,,,,nero,,'neːɾo,ˈneɾo,,
 8859,39,15,sangue,,,,sangue,,'sangwe,ˈsangwe,,
-8861,39,17,osso,,,,osso,,'ɔsso,ɔ,,
-8862,39,19,respirare,,,,respirare,,respiˈrare,respiˈra:re,,
-8865,39,22,"nuvola, nube",,,,"nuvola, nube",,"'nuvola, 'nube","ˈnuvola,ˈnube",,
-8866,39,23,freddo,,,,freddo,,'freddo,ˈfɾeddo,,
-8867,39,24,venire,,,,venire,,ve'nire,veˈniɾe,,
-8868,39,25,contare,,,,contare,,konˈtare,konˈtaɾe,,
-8870,39,27,giorno,,,,giorno,,'dʒorno,ˈdʒoɾno,,
-8871,39,28,morire,,,,morire,,mo'rire,moˈɾiɾe,,
-8873,39,30,sporco,,,,sporco,,ˈspɔrko,ˈspɔɾko,,
-8874,39,31,cane,,,,cane,,'kane,ˈka:ne,,
-8875,39,32,bere,,,,bere,,'bere,ˈbere,,
+8861,39,17,osso,,,,osso,,'ɔsso,'ɔsso,,
+8862,39,19,respirare,,,,respirare,,ɾespiˈɾaːɾe,ɾespiˈɾa:ɾe,,
+8865,39,22,nuvola,,,,nuvola,,'nuːvola,ˈnuvola,,
+8866,39,23,freddo,,,,freddo,,'fɾeddo,ˈfɾeddo,,
+8867,39,24,venire,,,,venire,,ve'niːɾe,veˈniɾe,,
+8868,39,25,contare,,,,contare,,konˈtaːɾe,konˈtaɾe,,
+8870,39,27,giorno,,,,giorno,,'dʒoɾno,ˈdʒoɾno,,
+8871,39,28,morire,,,,morire,,mo'ɾiːɾe,moˈɾiɾe,,
+8873,39,30,sporco,,,,sporco,,ˈspɔɾko,ˈspɔɾko,,
+8874,39,31,cane,,,,cane,,'kaːne,ˈka:ne,,
+8875,39,32,bere,,,,bere,,'beːɾe,ˈbeɾe,,
 8876,39,33,asciutto,,Synonym: secco [sekko].,,asciutto,,aʃ'ʃutto,aʃˈʃutto,,
-8877,39,35,polvere,,,,polvere,,'polvere,ˈpolveɾe,,
-8878,39,36,orecchio,,,,orecchio,,o'rekkjo,oˈɾekkjo,,
-8879,39,37,terra,,,,terra,,'tɛrra,ˈtɛrra,,
-8880,39,38,mangiare,,,,mangiare,,man'dʒare,manˈdʒaɾe,,
-8881,39,39,uovo,,,,uovo,,'wɔvo,ˈwɔvo,,
+8877,39,35,polvere,,,,polvere,,'polveɾe,ˈpolveɾe,,
+8878,39,36,orecchio,,,,orecchio,,o'ɾekkjo,oˈɾekkjo,,
+8879,39,37,terra,,,,terra,,'tɛra,ˈtɛra,,
+8880,39,38,mangiare,,,,mangiare,,man'dʒaːɾe,manˈdʒaɾe,,
+8881,39,39,uovo,,,,uovo,,'wɔːvo,ˈwɔvo,,
 8882,39,40,occhio,,,,occhio,,'ɔkkjo,ˈɔkkjo,,
-8883,39,41,cadere,,,,cadere,,ka'dere,kaˈde:ɾe,,
-8884,39,42,lontano,,,,lontano,,lon'tano,lonˈtano,,
-8888,39,46,piuma,,,,piuma,,'pjuma,ˈpjuma,,
-8890,39,48,combattere,,,,combattere,,kom'battere,komˈbatteɾe,,
-8891,39,50,fuoco,,,,fuoco,,'fwɔko,ˈfwɔko,,
+8883,39,41,cadere,,,,cadere,,ka'deːɾe,kaˈde:ɾe,,
+8884,39,42,lontano,,,,lontano,,lon'taːno,lonˈtano,,
+8888,39,46,piuma,,,,piuma,,'pjuːma,ˈpjuma,,
+8890,39,48,combattere,,,,combattere,,kom'batteɾe,komˈbatteɾe,,
+8891,39,50,fuoco,,,,fuoco,,'fwɔːko,ˈfwɔko,,
 8892,39,51,pesce,,,,pesce,,'peʃʃe,ˈpeʃʃe,,
 8893,39,52,cinque,,,,cinque,,'tʃinkwe,ˈtʃinkwe,,
-8896,39,55,fiore,,,,fiore,,'fjore,ˈfjoɾe,,
-8897,39,56,volare,,,,volare,,vo'lare,voˈlare,,
+8896,39,55,fiore,,,,fiore,,'fjoːɾe,ˈfjoɾe,,
+8897,39,56,volare,,,,volare,,vo'laːɾe,voˈlaɾe,,
 8898,39,57,nebbia,,,,nebbia,,'nebbja,ˈnebbja,,
-8899,39,58,piede,,,,piede,,ˈpjɛde,ˈpjɛde,,
-8900,39,59,quattro,,,,quattro,,'kwattro,ˈkwattɾo,,
-8902,39,61,frutta,,,,frutta,,'frutto,ˈfrutto,,
-8903,39,63,dare,,,,dare,,'dare,ˈdaɾe,,
-8904,39,64,buono,,,,buono,,ˈbwɔno,ˈbwɔno,,
-8905,39,65,erba,,,,erba,,'ɛrba,ˈɛɾba,,
-8906,39,66,verde,,,,verde,,'verde,ˈveɾde,,
-8909,39,69,mano,,,,mano,,ˈmano,ˈmano,,
+8899,39,58,piede,,,,piede,,ˈpjɛːde,ˈpjɛde,,
+8900,39,59,quattro,,,,quattro,,'kwattɾo,ˈkwattɾo,,
+8902,39,61,frutta,,,,frutta,,'fɾutto,ˈfɾutto,,
+8903,39,63,dare,,,,dare,,'daːɾe,ˈdaɾe,,
+8904,39,64,buono,,,,buono,,ˈbwɔːno,ˈbwɔno,,
+8905,39,65,erba,,,,erba,,'ɛɾba,ˈɛɾba,,
+8906,39,66,verde,,,,verde,,'veɾde,ˈveɾde,,
+8909,39,69,mano,,,,mano,,ˈmaːno,ˈmano,,
 8911,39,71,testa,,,,testa,,'tɛsta,ˈtɛsta,,
-8913,39,73,cuore,,,,cuore,,ˈkwɔre,ˈkwɔɾe,,
+8913,39,73,cuore,,,,cuore,,ˈkwɔːɾe,ˈkwɔɾe,,
 8914,39,74,pesante,,,,pesante,,pe'sante,peˈsante,,
-8919,39,80,cacciare,,Removed ANDARE A CACCIA.,,cacciare,,kat'tʃare,katˈtʃaɾe,,
+8919,39,80,cacciare,,Removed ANDARE A CACCIA.,,cacciare,,kat'tʃaːɾe,katˈtʃaɾe,,
 8922,39,83,ghiaccio,,,,ghiaccio,,'gjattʃo,ˈgjattʃo,,
-8925,39,86,uccidere,,,,uccidere,,ut'tʃidere,utˈtʃideɾe,,
-8926,39,88,sapere,,"sapere is to know a fact, not a person, which is conoscere.",,sapere,,sa'pere,saˈpeɾe,,
-8927,39,89,lago,,,,lago,,ˈlago,ˈlago,,
-8928,39,90,ridere,,,,ridere,,'ridere,ˈɾideɾe,,
+8925,39,86,uccidere,,,,uccidere,,ut'tʃiːdeɾe,utˈtʃideɾe,,
+8926,39,88,sapere,,"sapere is to know a fact, not a person, which is conoscere.",,sapere,,sa'peːɾe,saˈpeɾe,,
+8927,39,89,lago,,,,lago,,ˈlaːgo,ˈlago,,
+8928,39,90,ridere,,,,ridere,,'ɾiːdeɾe,ˈɾideɾe,,
 8929,39,91,foglia,,Also means 'sheet' or 'page'.,,foglia,,ˈfɔʎʎo,ˈfɔʎʎo,,
-8930,39,92,sinistro,,,,sinistro,,si'nistro,siˈnistɾo,,
+8930,39,92,sinistro,,,,sinistro,,si'nistɾo,siˈnistɾo,,
 8931,39,93,gamba,,,,gamba,,'gamba,ˈgamba,,
-8933,39,95,vivere,,,,vivere,,'vivere,ˈviveɾe,,
-8934,39,96,fegato,,,,fegato,,'fegato,ˈfegato,,
+8933,39,95,vivere,,,,vivere,,'viːveɾe,ˈviveɾe,,
+8934,39,96,fegato,,,,fegato,,'feːgato,ˈfegato,,
 8935,39,97,lungo,,,,lungo,,'lungo,ˈlungo,,
 8936,39,98,pidocchio,,,,pidocchio,,pi'dɔkkjo,piˈdɔkkjo,,
-8937,39,99,uomo,,,,uomo,,'wɔmo,ˈwɔmo,,
-8939,39,101,carne,,,,carne,,'karne,ˈkaɾne,,
+8937,39,99,uomo,,,,uomo,,'wɔːmo,ˈwɔmo,,
+8939,39,101,carne,,,,carne,,'kaɾne,ˈkaɾne,,
 8941,39,104,montagna,,,,montagna,,"mon'taɲɲa, 'monte","monˈtaɲɲa, ˈmonte",,
 8942,39,105,bocca,,,,bocca,,'bokka,ˈbokka,,
-8943,39,106,nome,,,,nome,,'nome,ˈnome,,
-8944,39,107,stretto,,,,stretto,,'stretto,ˈstɾetto,,
-8945,39,108,vicino,,,,vicino,,vi'tʃino,viˈtʃino,,
+8943,39,106,nome,,,,nome,,'noːme,ˈnome,,
+8944,39,107,stretto,,,,stretto,,'stɾetto,ˈstɾetto,,
+8945,39,108,vicino,,,,vicino,,vi'tʃiːno,viˈtʃino,,
 8946,39,109,collo,,,,collo,,'kollo,ˈkollo,,
-8947,39,110,nuovo,,,,nuovo,,'nwɔvo,ˈnwɔvo,,
+8947,39,110,nuovo,,,,nuovo,,'nwɔːvo,ˈnwɔvo,,
 8948,39,111,notte,,,,notte,,'nɔtte,ˈnɔtte,,
-8949,39,112,naso,,,,naso,,'naso,ˈnaso,,
+8949,39,112,naso,,,,naso,,'naːso,ˈnaso,,
 8951,39,114,vecchio,,,,vecchio,,'vekkjo,ˈvekkjo,,
-8952,39,115,uno,,,,uno,,'uno,ˈuno,,
-8955,39,118,giocare,,,,giocare,,dʒo'kare,dʒoˈkaɾe,,
-8956,39,119,tirare,,,,tirare,,ti'rare,tiˈra:ɾe,,
-8957,39,120,spingere,,,,spingere,,'spindʒere,ˈspindʒeɾe,,
-8958,39,121,pioggia,,,,pioggia,,'pjɔvere,ˈpjɔveɾe,,
-8959,39,122,rosso,,,,rosso,,'rosso,ˈɾosso,,
-8961,39,124,destro,,,,destro,,'dɛstro,ˈdɛstɾo,,
-8962,39,125,fiume,,,,fiume,,'fjume,ˈfjume,,
-8964,39,127,radice,,,,radice,,raˈditʃe,ɾaˈditʃe,,
-8966,39,129,marcio,,comp. [cognate set 403](cog-403),,marcio,,'martʃo,ˈmaɾtʃo,,
-8968,39,132,sale,,,,sale,,'sale,ˈsale,,
+8952,39,115,uno,,,,uno,,'uːno,ˈuno,,
+8955,39,118,giocare,,,,giocare,,dʒo'kaːɾe,dʒoˈkaɾe,,
+8956,39,119,tirare,,,,tirare,,ti'ɾaːɾe,tiˈɾa:ɾe,,
+8957,39,120,spingere,,,,spingere,,'spindʒeɾe,ˈspindʒeɾe,,
+8958,39,121,pioggia,,,,pioggia,,'pjɔːveɾe,ˈpjɔveɾe,,
+8959,39,122,rosso,,,,rosso,,'ɾosso,ˈɾosso,,
+8961,39,124,destro,,,,destro,,'dɛstɾo,ˈdɛstɾo,,
+8962,39,125,fiume,,,,fiume,,'fjuːme,ˈfjume,,
+8964,39,127,radice,,,,radice,,ɾaˈdiːtʃe,ɾaˈditʃe,,
+8966,39,129,marcio,,comp. [cognate set 403](cog-403),,marcio,,'maɾtʃo,ˈmaɾtʃo,,
+8968,39,132,sale,,,,sale,,'saːle,ˈsale,,
 8969,39,133,sabbia,,,,sabbia,,'sabbja,ˈsabbja,,
-8970,39,134,dire,,,,dire,,'dire,ˈdiɾe,,
-8972,39,136,mare,,,,mare,,'mare,ˈmaɾe,,
-8973,39,137,vedere,,,,vedere,,ve'dere,veˈde:ɾe,,
-8974,39,138,seme,,,,seme,,'seme,ˈseme,,
-8975,39,139,cucire,,,,cucire,,ku'tʃire,kuˈtʃiɾe,,
-8977,39,141,corto,,,,corto,,'korto,ˈkoɾto,,
-8978,39,142,cantare,,,,cantare,,kan'tare,kanˈtaɾe,,
-8979,39,143,sedere,,,,sedere,,se'dere,seˈde:ɾe,,
+8970,39,134,dire,,,,dire,,'diːɾe,ˈdiɾe,,
+8972,39,136,mare,,,,mare,,'maːɾe,ˈmaɾe,,
+8973,39,137,vedere,,,,vedere,,ve'deːɾe,veˈde:ɾe,,
+8974,39,138,seme,,,,seme,,'seːme,ˈseme,,
+8975,39,139,cucire,,,,cucire,,ku'tʃiːɾe,kuˈtʃiɾe,,
+8977,39,141,corto,,,,corto,,'koɾto,ˈkoɾto,,
+8978,39,142,cantare,,,,cantare,,kan'taːɾe,kanˈtaɾe,,
+8979,39,143,essere seduto,,,,essere seduto,,se'de:ɾe,seˈdeɾe,,
 8980,39,144,pelle,,,,pelle,,'pɛlle,ˈpɛlle,,
 8981,39,145,cielo,,,,cielo,,ˈtʃɛlo,ˈtʃɛlo,,
-8982,39,146,dormire,,,,dormire,,dor'mire,doɾˈmire,,
+8982,39,146,dormire,,,,dormire,,doɾ'miːɾe,doɾˈmiɾe,,
 8983,39,147,piccolo,,,,piccolo,,'pikkolo,ˈpikkolo,,
-8984,39,148,sentire,,,,sentire,,sen'tire,senˈtiɾe,,
+8984,39,148,sentire,,,,sentire,,sen'ti:ɾe,senˈtiɾe,,
 8985,39,149,fumo,,,,fumo,,'fumo,ˈfumo,,
-8987,39,151,serpente,,Also 'serpente'.,,serpente,,'sɛrpe,ˈsɛɾpe,,
-8988,39,152,neve,,,,neve,,'neve,ˈneve,,
-8994,39,158,stare in piedi,,stare also used as the verb 'to be' in Southern Italian dialects.,,stare in piedi,,ˈstare im ˈpjɛdi,ˈstaɾe in ˈpjɛdi,,
+8987,39,151,serpente,,Also 'serpente'.,,serpente,,sɛɾ'pente,sɛɾ'pente,,
+8988,39,152,neve,,,,neve,,'neːve,ˈneve,,
+8994,39,158,stare in piedi,,stare also used as the verb 'to be' in Southern Italian dialects.,,stare in piedi,,ˈstaːɾe im ˈpjɛːdi,ˈstaɾe in ˈpjɛdi,,
 8995,39,159,stella,,,,stella,,'stella,ˈstella,,
-8996,39,160,bastone,,,,bastone,,bas'tone,basˈtone,,
-8998,39,162,dritto,,,,dritto,,di'ritto,diˈɾitto,,
-9000,39,164,sole,,,,sole,,'sole,ˈsole,,
-9001,39,165,gonfiare,,,,gonfiare,,gon'fjare,gonˈfjaɾe,,
-9002,39,166,nuotare,,,,nuotare,,nwo'tare,nwoˈtaɾe,,
-9003,39,167,coda,,,,coda,,'koda,ˈkoda,,
-9007,39,171,grosso,,,,grosso,,'grɔsso,ˈgɾɔsso,,
-9009,39,173,pensare,,,,pensare,,pen'sare,penˈsaɾe,,
-9012,39,176,tre,,,,tre,,tre,tɾe,,
-9014,39,178,legare,,,,legare,,le'gare,leˈgaɾe,,
+8996,39,160,bastone,,,,bastone,,bas'toːne,basˈtone,,
+8998,39,162,dritto,,,,dritto,,di'ɾitto,diˈɾitto,,
+9000,39,164,sole,,,,sole,,'soːle,ˈsole,,
+9001,39,165,gonfiare,,,,gonfiare,,gon'fjaːɾe,gonˈfjaɾe,,
+9002,39,166,nuotare,,,,nuotare,,nwo'taːɾe,nwoˈtaɾe,,
+9003,39,167,coda,,,,coda,,'koːda,ˈkoda,,
+9007,39,171,grosso,,,,grosso,,'gɾɔsso,ˈgɾɔsso,,
+9009,39,173,pensare,,,,pensare,,pen'saːɾe,penˈsaɾe,,
+9012,39,176,tre,,,,tre,,tɾe,tɾe,,
+9014,39,178,legare,,,,legare,,le'gaːɾe,leˈgaɾe,,
 9015,39,179,lingua,,Also means 'language'.,,lingua,,'lingwa,ˈlingwa,,
 9016,39,180,dente,,,,dente,,'dɛnte,ˈdɛnte,,
-9017,39,181,albero,,,,albero,,'albero,ˈalbeɾo,,
-9018,39,182,girare,,,,girare,,dʒi'rare,dʒiˈra:ɾe,,
-9019,39,183,due,,,,due,,'due,ˈdue,,
-9020,39,184,vomitare,,,,vomitare,,vomiˈtare,vomiˈta:ɾe,,
+9017,39,181,albero,,,,albero,,'albeɾo,ˈalbeɾo,,
+9018,39,182,girare,,,,girare,,dʒi'ɾaːɾe,dʒiˈɾa:ɾe,,
+9019,39,183,due,,,,due,,'duːe,ˈdue,,
+9020,39,184,vomitare,,,,vomitare,,vomiˈtaːɾe,vomiˈta:ɾe,,
 9022,39,186,caldo,,,,caldo,,'kaldo,ˈkaldo,,
-9023,39,187,lavare,,,,lavare,,laˈvare,laˈvaɾe,,
+9023,39,187,lavare,,,,lavare,,laˈvaːɾe,laˈvaɾe,,
 9024,39,188,acqua,,,,acqua,,'akkwa,ˈakkwa,,
-9026,39,190,bagnato,,< It. BAGNARE 'to bathe' < Lat. BALINEUM 'bath' (Buck 1949: 1074),,bagnato,,baɲ'ɲato,baɲˈɲato,,
+9026,39,190,bagnato,,< It. BAGNARE 'to bathe' < Lat. BALINEUM 'bath' (Buck 1949: 1074),,bagnato,,baɲ'ɲaːto,baɲˈɲato,,
 9030,39,194,bianco,,,,bianco,,'bjanko,ˈbjanko,,
-9032,39,196,largo,,,,largo,,ˈlargo,ˈlaɾgo,,
+9032,39,196,largo,,,,largo,,ˈlaɾgo,ˈlaɾgo,,
 9034,39,198,vento,,,,vento,,'vɛnto,ˈvɛnto,,
-9035,39,199,ala,,,,ala,,'ala,ˈala,,
+9035,39,199,ala,,,,ala,,'aːla,ˈala,,
 9038,39,202,donna,,,,donna,,'dɔnna,ˈdɔnna,,
 9039,39,203,bosco,,,,bosco,,'bɔsko,ˈbosko,,
-9040,39,204,verme,,,,verme,,'vɛrme,ˈvɛɾme,,
+9040,39,204,verme,,,,verme,,'vɛɾme,ˈvɛɾme,,
 9042,39,206,anno,,,,anno,,'anno,ˈanno,,
 9043,39,207,giallo,,,,giallo,,'dʒallo,ˈdʒallo,,
 9047,40,4,suur,,,,suur,ash,suːr,suːr,سٮوُر,
@@ -7700,21 +7700,21 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 24708,73,57,tuman,,,,tuman,,tʊˈmɑ̈n,tuˈman,туман,http://sum.in.ua/s/tuman
 24711,69,57,dimma,,,,dimma,,ˈdɪ̀mːa,,,http://www.saob.se/artikel/?seek=dimma
 24713,21,57,mist,,,,mist,,mɪst,,,http://www.etymologiebank.nl/trefwoord/mist1
-24720,39,62,pieno,,,,pieno,,'pjɛno,ˈpjɛno,,
+24720,39,62,pieno,,,,pieno,,'pjɛːno,ˈpjɛno,,
 24723,51,62,pūrā,,,,pūrā,,pura,,पूरा,
 24727,10,62,bharti,,,,bharti,,bʱort̪i,,ভর্তি,
 24736,51,64,rāmro,,,,rāmro,,ramro,,राम्रो,
 24754,65,68,koṇḍaya,,,,koṇḍaya,,,,කොණ්ඩය,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=කොණ්ඩය
 24756,42,161,sas,,"Lat. saxum 'large stone, rock', It. sasso (Buck 1949: 51)",,sas,,,ˈsas,,
 24760,51,71,ṭāuko,,,,ṭāuko,,ʈauko,,टाउको,
-24763,39,72,sentire,,"Also means 'to taste', 'to feel'.",,sentire,,sen'tire,senˈtiɾe,,
+24763,39,72,sentire,,"Also means 'to taste', 'to feel'.",,sentire,,sen'tiːɾe,senˈtiɾe,,
 24766,65,73,hadavata,,,,hadavata,,,,හදවත,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=හදවත
 24767,51,73,muṭu,,,,muṭu,,"muʈu,",,मुटु,
 24769,40,73,waenaǰ,,,,waenaǰ,,ʋɨnidʒ,ʋɨnidʒ,وانج,
 24770,40,161,kane,,,,kane,,kɨɲ,kɨnj,کنہ,
 24773,54,164,xuršīd,,related to Avestan huuarə,,xuršīd,sun,χorˈʃi:d,χorʃid,خورشيد,http://parsi.wiki/dehkhodasearchresult-fa.html?searchtype=0&word=2K7ZiNix2LTZitiv
 24774,59,86,a ucide,,,,a ucide,,a uˈtʃide,a uˈtʃide,,https://dexonline.ro/definitie/a ucide
-24776,39,86,ammazzare,,,,ammazzare,,ammat'tsare,ammatˈtsaɾe,,
+24776,39,86,ammazzare,,,,ammazzare,,ammat'tsaːɾe,ammatˈtsaɾe,,
 24791,69,91,blad,,,,blad,,blɑ:d,,,http://www.saob.se/artikel/?seek=blad
 24797,40,96,krehnmaaz,,,,krehnmaaz,,krihn mɑːz,krihnə mɑːz,کرہنَ ماز,
 24805,36,99,maður,,Replaced MADR. Also 'human being'.,,maður,,ˈmaːðʏr,,,
@@ -7747,7 +7747,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25003,20,130,rund,,,,rund,,ʁɔnˀ,,,http://ordnet.dk/ddo/ordbog?query=rund
 25004,69,130,rund,,,,rund,,rɵnd,,,http://www.saob.se/artikel/?seek=rund
 25005,22,130,round,,"Middle English via Anglo-Norman rounde, variant of Old French rond, ultimately from vulgar Latin retundus, from Latin rotundus",,round,,,ɹaʊnd,,http://www.oed.com/view/Entry/167938?
-25006,38,130,cruinn,,,,cruinn,,,,,http://www.teanglann.ie/ga/fgb/cruinn
+25006,38,130,cruinn,,,,cruinn,,ˈˈkˠɹ̥ʷɪɲ,ˈkrən̪ʲ,,http://www.teanglann.ie/ga/fgb/cruinn
 25008,21,130,rond,,,,rond,,rɔnt,,,http://www.etymologiebank.nl/trefwoord/rond
 25009,27,130,rund,,,,rund,,rʊnt,,,
 25012,46,130,apvalùs,,three-dimensional,,apvalùs,,,,,http://etimologija.baltnexus.lt/?w=apvalus
@@ -7756,10 +7756,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25017,60,130,kruglyj,,,,kruglyj,,'kɾugɫɘj,'kruglij,круглый,http://gramota.ru/slovari/dic/?all=x&word=круглый
 25018,51,130,golo,,"derived from golo 'anything round, ball'",,golo,,golo,,गोलो,
 25019,39,87,ginocchio,,,,ginocchio,,dʒi'nɔkkjo,dʒiˈnɔkkjo,,
-25020,25,87,genou,,,,genou,,ʒənu,ʒəˈnu,,http://www.cnrtl.fr/etymologie/genou
+25020,25,87,genou,,,,genou,,,ʒənu,,http://www.cnrtl.fr/etymologie/genou
 25021,68,87,rodilla,,,,rodilla,,ro'ðiʎa,roˈdiʎa,,http://dle.rae.es/?w=rodilla
 25022,59,87,genunchiu,,,,genunchiu,,dʒeˈnunkç,dʒeˈnunkʲ,,https://dexonline.ro/definitie/genunchiu
-25023,38,87,glúin,,prob. cogn. with 'cloud' in [lexeme 5133](lex-5133),,glúin,,ɡˠɫuːɲ,,,http://www.teanglann.ie/ga/fgb/glúin
+25023,38,87,glúin,,,,glúin,,ˈɡʷlʷuːnʲ,ˈgˠlˠuːnʲ,,http://www.teanglann.ie/ga/fgb/glúin
 25026,20,87,knæ,,,,knæ,,knɛˀ,,,http://ordnet.dk/ddo/ordbog?query=knæ
 25027,69,87,knä,,,,knä,,knɛ:,,,http://www.saob.se/artikel/?seek=knä
 25028,22,87,knee,,Old English cnēo,,knee,,,ni:,,http://www.oed.com/view/Entry/103957#
@@ -7785,8 +7785,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25055,27,78,Horn,,,,Horn,,hɔrn,,,
 25058,59,78,corn,,,,corn,,koɾn,korn,,https://dexonline.ro/definitie/corn
 25059,68,78,cuerno,,,,cuerno,,'kweɾno,ˈkweɾno,,http://dle.rae.es/?w=cuerno
-25060,25,78,corne,,,,corne,,kɔʀn,kɔʀn,,http://www.cnrtl.fr/etymologie/corne
-25061,39,78,corno,,,,corno,,'kɔrno,ˈkɔɾno,,
+25060,25,78,corne,,,,corne,,,kɔʁn,,http://www.cnrtl.fr/etymologie/corne
+25061,39,78,corno,,,,corno,,'kɔɾno,ˈkɔɾno,,
 25062,32,78,kérato,,,,kérato,horn (of an animal),ˈce̞rato̞,ˈke̞rato̞,κέρατο,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=κέρατο
 25077,42,14,fosch,,,,fosch,,,ˈfoʃk,,
 25080,56,14,preto,,,,preto,,ˈpɾetu,ˈpɾetu,,
@@ -7807,7 +7807,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25233,59,19,răsufla,,popular,,răsufla,,ɾəsuˈfla,rəsu'fla,,
 25250,81,25,meṣ*,,"Root /me-/, hapax legomenon inf. messi (A253 a1).",,meṣ*,gauges (?),meʂ,me-ṣ-ṣ,,
 25258,10,29,khom̐ṛā,,,,khom̐ṛā,,kʰõɽa,,খোঁড়া,
-25261,39,29,scavare,,,,scavare,,ska'vare,skaˈvaɾe,,
+25261,39,29,scavare,,,,scavare,,ska'vaːɾe,skaˈvaɾe,,
 25266,26,29,grave,,,,grave,,'gra:və,,,
 25271,3,30,ndotur,,"Alternatively ndohtë, both deverbal from ndoh 'make dirty', itself to dhjes 'to shit (on), ruin' < PIE **ǵʰed-i̯e- (Demiraj 1997: 290f.; LIV: 172).",,ndotur,,,,,
 25278,40,30,mokor,,,,mokor,,mokʊr,mokor,مُکُر,
@@ -7820,13 +7820,13 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25380,51,48,laḍnu,,,,laḍnu,,lʌɾ̠nu,,लड्नु,
 25387,17,48,barallar-se,,,,barallar-se,,bərə'ʎaɾsə,,,
 25392,59,48,a se bate,,,,a se bate,,a se bate,a se bate,,https://dexonline.ro/definitie/a se bate
-25393,38,48,troid,,,,troid,,,,,http://www.teanglann.ie/ga/fgb/troid
+25393,38,48,troid,,,,troid,,ˈt̪ˠɾ̥ɪd̪̥ʲ,ˈtˠrˠədʲ,,http://www.teanglann.ie/ga/fgb/troid
 25396,32,49,nýchi,,From dim. of Anc.Gk. ὄνυξ > ὀνύχιον.,,nýchi,,ˈniçi,ˈnixi,νύχι,http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=νύχι
 25397,39,49,unghia,,,,unghia,,'ungja,ˈungja,,
-25398,25,49,ongle,,,,ongle,,ɔ̃gl,ɔ̃gl,,http://www.cnrtl.fr/etymologie/ongle
+25398,25,49,ongle,,,,ongle,,,ɔ̃gl,,http://www.cnrtl.fr/etymologie/ongle
 25399,68,49,uña,,,,uña,,'uɲa,ˈuɲa,,http://dle.rae.es/?id=b72slJo
 25400,59,49,unghie,,,,unghie,,ˈungje,ˈungje,,https://dexonline.ro/definitie/unghie
-25401,38,49,ionga,,,,ionga,,,,,http://www.teanglann.ie/ga/fgb/ionga
+25401,38,49,ionga,,,,ionga,,ˈʊŋˠə,ˈ∅ʲəŋˠə,,http://www.teanglann.ie/ga/fgb/ionga
 25404,20,49,negl,,,,negl,,nɑjˀl,,,http://ordnet.dk/ddo/ordbog?query=negl
 25405,69,49,nagel,,,,nagel,,ˈnɑːɡəl,,,http://www.saob.se/artikel/?seek=nagel
 25406,22,49,nail,,"Middle English, from Old English nægl",,nail,,,neɪl,,http://www.oed.com/view/Entry/124844?
@@ -7846,7 +7846,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25506,50,76,mārane,,,,mārane,,maɾɳe,,मारणे,
 25508,24,76,treffen,,appears to be most basic TKD,,treffen,,,,,
 25515,76,76,bouhî,,,,bouhî,,bu'hiː,bu'hiː,,
-25518,39,76,colpire,,,,colpire,,kol'pire,kolˈpiɾe,,
+25518,39,76,colpire,,,,colpire,,kol'piːɾe,kolˈpiɾe,,
 25519,59,76,a lovi,,,,a lovi,,a loˈvi,a loˈvi,,https://dexonline.ro/definitie/a lovi
 25586,51,89,tāl,,,,tāl,,t̪al,,ताल,
 25588,40,89,sar,,,,sar,,sɑr,sɑr,سر,
@@ -7881,19 +7881,19 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 25726,26,120,triuwe,,,,triuwe,,'trjo.uwə,,,
 25729,51,120,ṭhelnu,,,,ṭhelnu,,ʈʰelnu,,ठेल्नु,
 25731,10,120,ṭhelā,,,,ṭhelā,,ʈʰæla,,ঠেলা,http://dsalsrv02.uchicago.edu/cgi-bin/app/biswas-bengali_query.py?searchhws=yes&qs=ঠেলা
-25738,38,120,brúigh,,,,brúigh,,,,,http://www.teanglann.ie/ga/fgb/brúigh
+25738,38,120,brúigh,,,,brúigh,,ˈbʷɹʷuːʝ,ˈbˠrˠuːɣʲ,,http://www.teanglann.ie/ga/fgb/brúigh
 25775,3,129,kalbët,,,,kalbët,,,,,
 25781,51,129,kuhieko,,,,kuhieko,,kuɦieko,,कुहिएको,
 25807,51,140,tīkho,,,,tīkho,,t̪ikʰo,,तीखो,
 25808,23,140,hvassur,,,,hvassur,,ˈkʰvasːʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=hvassur
-25812,38,140,géar,,,,géar,,ɟeːɾˠ,,,http://www.teanglann.ie/ga/fgb/géar
+25812,38,140,géar,,,,géar,,ˈɟeːɾˠ,ˈgʲeːrˠ,,http://www.teanglann.ie/ga/fgb/géar
 25818,66,145,nebo,,,,nebo,,ˈɲɛbɔ,ˈɲebo,,http://slovnik.azet.sk/pravopis/?q=nebo
 25822,51,145,ākāśa,,,,ākāśa,,,,आकाश,
 25824,35,145,āsamāna,,,,āsamāna,,ɑsmɑn,ɑsmɑn,आसमान,
 25830,65,147,kuḍā,,,,kuḍā,,,,කුඩා,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=කුඩා
 25831,10,148,śom̐kā,,,,śom̐kā,,ʃõka,,শোঁকা,
 25838,39,150,liscio,,,,liscio,,ˈliʃʃo,ˈliʃʃo,,
-25854,38,150,mín,,"Also gentle, tender; fine (of comb, sieve).",,mín,,mʲiːnʲ,,,http://www.teanglann.ie/ga/fgb/mín
+25854,38,150,mín,,,,mín,,ˈmʲiːnʲ,ˈmʲiːnʲ,,http://www.teanglann.ie/ga/fgb/mín
 25862,3,151,gjarpën,,,,gjarpën,,,,,
 25928,8,160,bir,,,,bir,,biɾ,biɾ,բիր,
 25929,23,162,beinur,,more basic TKD,,beinur,,ˈb̥aiːnʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=beinur
@@ -7921,10 +7921,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26118,46,204,kirmėlė̃,,,,kirmėlė̃,,,,,http://etimologija.baltnexus.lt/?w=kirmele
 26121,35,206,varṣa,,,,varṣa,,ʋəɾʃ,vərʃ,वर्ष,
 26126,42,20,brujé,,,,brujé,,,bruˈʒe,,
-26127,39,20,bruciare,,,,bruciare,,bru'tʃare,bruˈtʃare,,
+26127,39,20,bruciare,,,,bruciare,,bɾu'tʃaːɾe,bɾuˈtʃaɾe,,
 26128,59,35,praf,,,,praf,,pɾaf,praf,,https://dexonline.ro/definitie/praf
 26131,59,62,plin,,,,plin,,plin,plin,,https://dexonline.ro/definitie/plin
-26132,25,62,plein,,,,plein,,plɛ̃,plɛ̃,,http://www.cnrtl.fr/etymologie/plein
+26132,25,62,plein,,,,plein,,,plɛ̃,,http://www.cnrtl.fr/etymologie/plein
 26133,68,62,lleno,,,,lleno,,'ʎeno,ˈʎeno,,http://dle.rae.es/?id=NVOli5X
 26134,46,62,pìlnas,,,,pìlnas,,ˈpʲɪɫnɐs,,,http://etimologija.baltnexus.lt/?w=pìlnas
 26136,55,62,pełny,,,,pełny,,ˈpɛwnɘ̟,ˈpewnɨ,,http://sjp.pwn.pl/szukaj/pełny
@@ -7934,11 +7934,11 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26141,68,68,pelo,,,,pelo,,'pelo,'pelo,,http://dle.rae.es/?id=SPSNBuG
 26142,39,68,capelli,,,,capelli,,ka'pello,kaˈpello,,
 26144,59,102,lună,,,,lună,,ˈlunə,ˈlunə,,https://dexonline.ro/definitie/lună
-26145,25,102,lune,,,,lune,,lyn,lyn,,http://www.cnrtl.fr/etymologie/lune
+26145,25,102,lune,,,,lune,,,lyn,,http://www.cnrtl.fr/etymologie/lune
 26146,68,102,luna,,,,luna,,'luna,ˈluna,,http://dle.rae.es/?w=luna
 26147,60,102,luna,,,,luna,,ɫʊ'nɑ̈,lu'na,луна,http://gramota.ru/slovari/dic/?all=x&word=луна
 26148,18,102,měsíc,,,,měsíc,,ˈmɲɛsiːts,ˈmɲesiːts,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=měsíc
-26153,25,130,rond,,,,rond,,ʀɔ̃,ʀɔ̃,,http://www.cnrtl.fr/etymologie/rond
+26153,25,130,rond,,,,rond,,,ʁɔ̃,,http://www.cnrtl.fr/etymologie/rond
 26154,18,130,okrouhlý,,,,okrouhlý,,ˈ(ʔ)ɔkɾɔuɦliː,ˈokrouɦliː,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=okrouhlý
 26155,59,134,a spune,,,,a spune,,a 'spune,a ˈspune,,https://dexonline.ro/definitie/a spune
 26156,3,62,plotë,,"From PAlb *plata identical with IE *pleto- 'full' derived from *pel∂- 'to fill': Skt prata-, Lat com-pletus.",,plotë,,,,,
@@ -8086,7 +8086,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26366,122,204,vier,,,,vier,,'vjaːr,'vjɛr,,http://claap.org/definizion/?diz=fur-it&leme=vier
 26368,122,206,an,,,,an,,'aŋ,'an,,http://claap.org/definizion/?diz=fur-it&leme=an1
 26369,122,207,zâl,,,,zâl,,'ʤaːl,'ʤaːl,,http://claap.org/definizion/?diz=fur-it&leme=zâl
-26574,39,8,corteccia,,,,corteccia,,kor'tɛttʃa,koɾ'tɛttʃa,,
+26574,39,8,corteccia,,,,corteccia,,koɾtɛttʃa,koɾ'tɛttʃa,,
 26581,122,33,sut,,,,sut,,sut,'sut,,http://claap.org/definizion/?diz=fur-it&leme=sut
 26584,50,13,cāvaṇe,,,,cāvaṇe,,ʦaʋɳe,,चावणे,
 26590,50,30,maḷalelā,,,,maḷalelā,,məɭ:ela,,मळलेला,
@@ -8161,23 +8161,23 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 26898,59,182,a învârti,,,,a învârti,,a ɨnvɨɾ'ti,a ɨnvɨr'ti,,https://dexonline.ro/definitie/a învârti
 26900,59,121,ploaie,,,,ploaie,,ˈplo̯aje,ˈplo̯aje,,https://dexonline.ro/definitie/ploaie
 26904,59,124,drept,,,,drept,,dɾept,drept,,https://dexonline.ro/definitie/drept
-26912,38,171,tiubh,,,,tiubh,,tʲjuː,,,http://www.teanglann.ie/ga/fgb/tiubh
-26917,38,204,péist,,,,péist,,pʲeːʃtʲ,,,http://www.teanglann.ie/ga/fgb/péist
-26918,38,78,adharc,,,,adharc,,ɤ.əɾk,,,http://www.teanglann.ie/ga/fgb/adharc
-26921,38,137,feic,,,,feic,,,,,http://www.teanglann.ie/ga/fgb/feic
-26922,38,72,clois,,,,clois,,kl̪ˠɔʃ,,,http://www.teanglann.ie/ga/fgb/clois
-26924,38,90,gáire (nn.),,,,gáire (nn.),,ˈɡaːɾʲə,,,http://www.teanglann.ie/ga/fgb/gáire
-26925,38,88,bí a fhios ag,,In the expression bí + a fhios + ag,,bí a fhios ag,,fʲɪsˠ,,,http://www.teanglann.ie/ga/fgb/fios
-26926,38,76,buail,,,,buail,,bˠuəlʲ,,,http://www.teanglann.ie/ga/fgb/buail
-26927,38,182,cas,,,,cas,,kas,,,http://www.teanglann.ie/ga/fgb/cas
-26928,38,134,abair ≠ deir,,"Verbal noun rá, present root deir",,abair ≠ deir,,,,,http://www.teanglann.ie/ga/fgb/abair
-26929,38,121,báisteach,,Noun,,báisteach,,ˈbˠaːʃtʲəx,,,http://www.teanglann.ie/ga/fgb/báisteach
-26932,38,83,leac oighir,,,,leac oighir,,əi̯ɾʲ,,,http://www.teanglann.ie/ga/fgb/oighear
-26934,38,62,lán,,,,lán,,"l̪ˠɑːn̪ˠ, l̪ˠæːn̪ˠ",,,http://www.teanglann.ie/ga/fgb/lán
-26936,38,7,dona,,From Old Irish dona  < Proto-Celtic *do-gna-vos.,,dona,,d̪ˠoːn̪ˠə,,,http://www.teanglann.ie/ga/fgb/dona
-26937,38,33,tirim,,,,tirim,,"ˈtʲɪɾʲɪmʲ, tʲɾʲɪmʲ",,,http://www.teanglann.ie/ga/fgb/tirim
-26938,38,42,fada,,Same as 'long' lexeme/8739/.,,fada,,"ˈfˠɑd̪ˠə,ˈfˠad̪ˠə",,,http://www.teanglann.ie/ga/fgb/fada
-26939,38,124,deas,,,,deas,,dʲas,,,http://www.teanglann.ie/ga/fgb/deas
+26912,38,171,tiubh,,,,tiubh,,ˈt̪ʲʰʊvˠ,ˈtʲəvˠ,,http://www.teanglann.ie/ga/fgb/tiubh
+26917,38,204,péist,,,,péist,,pʲʰeːʃt̪ʲ,ˈpʲeːsʲtʲ,,http://www.teanglann.ie/ga/fgb/péist
+26918,38,78,adharc,,,,adharc,,ˈaʝəɾˠkˠʰ,ˈ∅ˠaɣˠərˠkˠ,,http://www.teanglann.ie/ga/fgb/adharc
+26921,38,137,feic,,,,feic,,ˈfʲɛcʰ,ˈfʲakʲ,,http://www.teanglann.ie/ga/fgb/feic
+26922,38,72,clois,,,,clois,,ˈkˠl̥ˠɪʃ,ˈkˠlˠəsʲ,,http://www.teanglann.ie/ga/fgb/clois
+26924,38,90,gáire,,Noun,,gáire,,ˈɡaːɹ̝ə,ˈgaːrʲə,,http://www.teanglann.ie/ga/fgb/gáire
+26925,38,88,bí a fhios ag,,"Used in the construction bí + a fhios + ag, lit. ""be + fear + at""",,bí a fhios ag,,ˈbʲiː ə ˈɪs əg̊,ˈbʲiː ə ∅ʲəsˠ əg,,http://www.teanglann.ie/ga/fgb/fios
+26926,38,76,buail,,,,buail,,ˈbʷuəlʲ,ˈbˠuəlʲ,,http://www.teanglann.ie/ga/fgb/buail
+26927,38,182,cas,,,,cas,,ˈkˠʰasˠ,ˈkˠasˠ,,http://www.teanglann.ie/ga/fgb/cas
+26928,38,134,abair ≠ deir,,,,abair ≠ deir,,ˈabˠəɹ̝ ≠ ˈd̪ʲɛɹ̝,ˈ∅abˠərʲ ≠ ˈdʲarʲ,,http://www.teanglann.ie/ga/fgb/abair
+26929,38,121,báisteach,,Noun,,báisteach,,ˈbˠaːʃt̪ʲəx,ˈbˠaːsʲtʲəxˠ,,http://www.teanglann.ie/ga/fgb/báisteach
+26932,38,83,leac oighir,,,,leac oighir,,ˈl̪ʲækˠʰ ˈaʝəɹ̝,ˈl̪ʲak ˈ∅ˠaɣʲərʲ,,http://www.teanglann.ie/ga/fgb/oighear
+26934,38,62,lán,,,,lán,,ˈl̪ˠɑːnˠ,ˈl̪ˠaːnˠ,,http://www.teanglann.ie/ga/fgb/lán
+26936,38,7,dona,,,,dona,,ˈd̪ˠʊnˠə,ˈdˠənˠə,,http://www.teanglann.ie/ga/fgb/dona
+26937,38,33,tirim,,,,tirim,,ˈt̪ʲʰɪɹ̝ɪmʲ,ˈtʲərʲəmʲ,,http://www.teanglann.ie/ga/fgb/tirim
+26938,38,42,fada,,Same as 'long' lexeme/8739/.,,fada,,ˈfˠad̪ˠə,ˈfˠadˠə,,http://www.teanglann.ie/ga/fgb/fada
+26939,38,124,deas,,,,deas,,ˈd̪ʲas,ˈdʲasˠ,,http://www.teanglann.ie/ga/fgb/deas
 26941,115,160,maide,,Cognate with lexeme 8603.,,maide,,mad̊ʲɪ,madʲə,,
 26943,115,38,ith,,,,ith,,i,iç,,
 26951,23,101,kjøt,,"Meat, flesh.",,kjøt,,tʃʰøːt,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=kjøt
@@ -8646,142 +8646,142 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 27870,128,203,razura,,"stem variant razurā (f); Klingenschmitt (1968: 128) suggests for vanarǝ „tree, forest“",,razura,N.n,,razura,𐬭𐬀𐬰𐬎𐬭𐬀,
 27873,128,206,yār,,more like calendar year,,yār,N.n,,i̯aːr,𐬪𐬁𐬭,
 27875,128,207,zairita,,more frequently used than zairi- (zairi- is mostly used in compounds),,zairita,ADJ,,zarita,𐬰𐬀𐬌𐬭𐬌𐬙𐬀,
-28134,127,4,lúaithred,,"Also 'dust', see [lexeme 28169](lex-28169)",,lúaithred,,luːəθʹrʹəð,,,http://dil.ie/30819
-28137,127,6,druimm,,,,druimm,,drumʹ,,,http://dil.ie/18862
-28141,127,10,brú,,"Related to Modern Welsh bru 'womb, uterus', originally < *bhreus- 'to sprout, shoot, spring up'.",,brú,,bruː,,,http://dil.ie/7037
-28142,127,11,"mór, már",,"< IE mo-ro-, root *mē-/ *mō- 'big'. Also cognate with Gk μωρος 'baby'.",,"mór, már",,"moːr, maːr",,,http://dil.ie/32548
-28143,127,12,én,,< IE *pet-no- ‘to fly’.,,én,,eːn,,,http://dil.ie/20038
-28144,127,14,dub,,,,dub,,duβ,,,http://dil.ie/18985
-28145,127,15,fuil,,"< *woli- from the root *wel- ‘to tear, rip’.",,fuil,,fulʹ,,,http://dil.ie/24792
-28147,127,17,cnáim,,"Cf. also Gk κνημη 'shin bone', OHG hamma‘hindquarter’.",,cnáim,,knaːṽʹ,,,http://dil.ie/9712
-28149,127,19,do·beir anál,,,,do·beir anál,,doˈbʹerʹ anaːl,,,http://dil.ie/3335
-28150,127,20,"loiscid, loscaid",,,,"loiscid, loscaid",,"losʹkʹədʹ, loscədʹ",,,http://dil.ie/30563
-28153,127,22,nél,,"< root *nebh- 'haze, cloud'.",,nél,,nʹeːl,,,http://dil.ie/33060
-28154,127,23,úar,,,,úar,,uːər,,,http://dil.ie/42762
-28155,127,24,do·icc,,,,do·icc,,doˈik,,,http://dil.ie/17096
-28156,127,25,ad·rími,,,,ad·rími,,aðˈrʹiːṽʹi,,,http://dil.ie/550
-28161,127,27,"laithe, lae",,,,"laithe, lae",,"laθʹe, la.e",,,http://dil.ie/29234
-28162,127,28,at-baill,,"From *exs-id-bal-ni 'throws it (out)', cognate with Gk. bállō lexeme 18968",,at-baill,,adˈbalʹlʹ,,,http://dil.ie/4577
-28163,127,29,claidid,,,,claidid,,klaðʹəðʹ,,,http://dil.ie/9329
-28164,127,30,salach,,,,salach,,saləx,,,http://dil.ie/36077
-28165,127,31,cú,,,,cú,,kuː,,,http://dil.ie/13291
-28166,127,32,ibid,,IE root *pō(i)- / *pi - 'to drink'.,,ibid,,iβʹəðʹ,,,http://dil.ie/27135
-28167,127,33,"tírim, tirim",,,,"tírim, tirim",,"tʹiːrʹəmʹ, tʹirʹəmʹ",,,http://dil.ie/40958
-28169,127,35,lúaithred,,"Also ashes, see [lexeme 28134](lex-28134)",,lúaithred,,luːəθʹrʹəð,,,http://dil.ie/30819
-28170,127,36,clúas,,< root *k,,clúas,,kluːəs,,,http://dil.ie/9627
-28172,127,38,ithid,,"< IE *pi-tu- ‘drink, food'; root: *pei(H)- / *p",,ithid,,iθʹəðʹ,,,http://dil.ie/29162
-28173,127,39,og,,< IE *ō(w)y-om / *eyom 'egg'.,,og,,oɣ,,,http://dil.ie/33559
-28174,127,40,súil,,"< IE *sãl -i-; root *s~wel-, *s(u)wel-,*sãl- ‘sun’.",,súil,,suːlʹ,,,http://dil.ie/39215
-28175,127,41,do·tuit,,,,do·tuit,,doˈtutʹ,,,http://dil.ie/18533
-28179,127,45,ad·ágathar,,,,ad·ágathar,,að·aːɣəθər,,,http://dil.ie/255
-28180,127,46,cleitte,,,,cleitte,,kʹlʹetʹe,,,http://dil.ie/9427
-28183,127,48,fichid,,,,fichid,,ɸʹixʹəðʹ,,,http://dil.ie/21985
-28184,127,50,teine,,< IE *tep-n-et- or *tep-n-os; root *tep-‘to be warm’. Blažek gives 'tene'.,,teine,,tʹenʹe,,,http://dil.ie/40385
-28186,127,51,íasc,,,,íasc,,iːəsk,,,http://dil.ie/27105
-28187,127,52,cóic,,,,cóic,,koːgʹ,,,http://dil.ie/10037
-28190,127,55,bláth,,,,bláth,,blaːθ,,,http://dil.ie/6086
-28192,127,56,fo·luathar,,"IE root: *pleu- 'to trickle, fly, swim, fly'.",,fo·luathar,,foˈluːəθər,,,http://dil.ie/23182
-28193,127,57,céo,,,,céo,,kʹeːo,,,http://dil.ie/8696
-28195,127,59,cethair,,,,cethair,,kʹeθərʹ,,,http://dil.ie/8908
-28196,127,61,torad,,,,torad,,torəð,,,http://dil.ie/search?q=torad&search_in=headword
-28197,127,62,lán,,"< IE *plH-no- ‘full’, root: *pel(ə)-’to fill’ amongst others.",,lán,,laːn,,,http://dil.ie/29542
-28198,127,63,do·beir,,"IE Root: *bher- ‘to carry, bring’.",,do·beir,,doˈbʹerʹ,,,http://dil.ie/17216
-28199,127,64,maith,,"< IE *ma-ti-,root: *mā- ‘good, in good time, in time'. Cf. also Lat maturus 'mature, ripe'.",,maith,,maθʹ,,,http://dil.ie/31438
-28200,127,65,fér,,,,fér,,fʹeːr,,,http://dil.ie/21667
-28202,127,68,folt,,,,folt,,folt,,,http://dil.ie/23166
-28203,127,69,lám,,"< IE *pl̥H-mā ‘flat Hand’, root: *pelə-/*plā- ‘wide, flat; to spread'. Cf. also Gk παλαμη ‘flat hand’; Lat palma ‘id.'.",,lám,,laːṽ,,,http://dil.ie/29507
-28205,127,71,cenn,,,,cenn,,kʹenn,,,http://dil.ie/8622
-28206,127,72,ro·cluinethar,,,,ro·cluinethar,,roˈklunʹəθər,,,http://dil.ie/35401
-28207,127,73,cride,,,,cride,,kʹrʹiðe,,,http://dil.ie/12925
-28208,127,74,tromm,,,,tromm,,trom,,,http://dil.ie/42031
-28210,127,76,benaid,,,,benaid,,bʹenəðʹ,,,http://dil.ie/5647
-28213,127,78,adarc,,,,adarc,,aðərk,,,http://dil.ie/307
-28215,127,80,ad·claid,,,,ad·claid,"fishes, hunts",aðˈklaðʹ,,,http://dil.ie/392
-28219,127,83,aig,,,,aig,,aɣʹ,,,http://dil.ie/909
-28222,127,86,marbaid,,"Denominal verb, based on the adjective marb 'dead', PIE *mer- 'to die' (LIV² 439).",,marbaid,"to kill, to slay",marβəðʹ,,,http://dil.ie/31573
-28223,127,87,glún,,,,glún,,gluːn,,,http://dil.ie/26180
-28224,127,88,ro·fitir,,"< IE *wid-r-, root *weid- 'to know'.",,ro·fitir,,roˈɸʹidərʹ,,,http://dil.ie/search?q=fitir&search_in=headword
-28225,127,89,loch,,,,loch,,lox,,,http://dil.ie/30427
-28226,127,90,tibid,,,,tibid,,tʹiβʹəðʹ,,,http://dil.ie/40693
-28227,127,91,duille,,,,duille,,dulʹlʹe,,,http://dil.ie/19115
-28228,127,92,clé,,,,clé,,kʹlʹeː,,,http://dil.ie/9397
-28229,127,93,cos,,,,cos,,kos,,,http://dil.ie/12566
-28231,127,95,is béo,,,,is béo,,is bʹeːo,,,http://dil.ie/5671
-28232,127,96,"óa, áe",,"óa is the Old Irish form, but not well attested. From the Middle Irish period the term is aé",,"óa, áe",,"oːa (?), ai",,,http://dil.ie/33368
-28233,127,97,fota,,,,fota,,fota,,,http://dil.ie/24135
-28234,127,98,míl,,< IE *mēlo- ‘small animal’. Cf. also Gk μηλον 'id.'.,,míl,,mʹiːl,,,http://dil.ie/32221
-28235,127,99,fer,,,,fer,,ɸʹer,,,http://dil.ie/21665
-28237,127,101,féoil,,< IE *u,,féoil,,ɸeːolʹ,,,http://dil.ie/21641
-28238,127,102,"éscae, éisce",,,,"éscae, éisce",,"eːske, eːsʹkʹe",,,http://dil.ie/20410
-28240,127,104,slíab,,,,slíab,,sʹlʹiːəβ,,,http://dil.ie/37917
-28241,127,105,gin,,,,gin,,gʹiun,,,http://dil.ie/25866
-28242,127,106,ainm,,,,ainm,,anʹmʹ,,,http://dil.ie/1471
-28244,127,107,cumung,,,,cumung,,kuṽung,,,http://dil.ie/13923
-28245,127,108,ocus,,,,ocus,,ogus,,,http://dil.ie/33483
-28247,127,110,núae,,Blažek gives nue.,,núae,,nu.e,,,http://dil.ie/33322
-28248,127,111,adaig,,,,adaig,,aðəɣʹ,,,http://dil.ie/256
-28249,127,112,srón,,,,srón,,sroːn,,,http://dil.ie/38834
-28251,127,114,sen,,,,sen,,sʹen,,,http://dil.ie/37090
-28252,127,115,óen,,,,óen,,oin,,,http://dil.ie/33512
-28256,127,118,imm·beir,,,,imm·beir,,imˈbʹerʹ,,,http://dil.ie/27777
-28258,127,119,srengaid,,,,srengaid,,sʹrʹeŋgəðʹ,,,http://dil.ie/38789
-28260,127,121,bráen,,Related to [cognate set 1043](cog-1043)?,,bráen,,brain,,,http://dil.ie/6469
-28262,127,122,derg,,,,derg,,dʹerg,,,http://dil.ie/15626
-28263,127,124,des(s),,,,des(s),,dʹes,,,http://dil.ie/15783
-28266,127,125,aub,,,,aub,,auβ,,,http://dil.ie/16
-28269,127,127,"frén, frém",,< IE *wr,,"frén, frém",,"ɸʹrʹeːn, ɸʹrʹeːṽ",,,http://dil.ie/24278
-28274,127,130,cruind,,,,cruind,,crunʹ(dʹ),,,http://dil.ie/13226
-28276,127,132,salann,,,,salann,,salann,,,http://dil.ie/36081
-28277,127,133,gainem,,,,gainem,,ganʹəṽ,,,http://dil.ie/25182
-28278,127,134,as·beir,,"Possible root in IE *bher- 'to carry, bring'.",,as·beir,,asˈbʹerʹ,asˈbʹerʹ,,http://dil.ie/4383
-28280,127,136,muir,,,,muir,,murʹ,,,http://dil.ie/32761
-28282,127,137,ad·cí,,"Blažek gives im ací and ad-cí, the latter of which is the standard Old Irish citation form (see Thurneysen, DIL), which is most commonly found in the glosses. The form ad·chí given by Ringe et al. is the relative.",,ad·cí,,aðˈkʹiː,,,http://dil.ie/391
-28283,127,138,síl,,,,síl,,sʹiːl,,,http://dil.ie/37503
-28284,127,139,úaigid,,,,úaigid,,uːəɣʹəðʹ,,,http://dil.ie/42619
-28285,127,140,gér,,,,gér,,gʹeːr,,,http://dil.ie/25709
-28287,127,141,gerr,,,,gerr,,gʹerr,,,http://dil.ie/25744
-28290,127,142,canaid,,,,canaid,,kanəðʹ,,,http://dil.ie/8126
-28291,127,143,saidid,,,,saidid,,saðʹəðʹ,,,http://dil.ie/35940
-28293,127,145,nem,,,,nem,,nʹeṽ,,,http://dil.ie/33070
-28294,127,146,con-tuili,,Cf. OCS toliti 'to be calm'; lit. tyl,,con-tuili,,konˈtulʹi,,,http://dil.ie/12381
-28295,127,147,"bec, becc",,"Generally spelt with -cc in Old Irish, which would indicate /k/, but the Modern languages have /g/.",,"bec, becc",,"bʹeg, bʹek",,,http://dil.ie/5512
-28296,127,148,bolad (nn.),,,,bolad (nn.),,boləð,,,http://dil.ie/6340
-28297,127,149,dé,,"< IE *dhw-i(y)-Vt-; root *dheu(ə)- '‘to swirl; dust, smoke, steam, etc'.",,dé,,dʹeː,,,http://dil.ie/14794
-28298,127,150,réid,,,,réid,,rʹeːðʹ,,,http://dil.ie/34942
-28299,127,151,nathair,,,,nathair,,naθərʹ,,,http://dil.ie/33000
-28300,127,152,snechtae,,,,snechtae,,sʹnʹexte,,,http://dil.ie/38149
-28305,127,158,do·airissedar,,,,do·airissedar,,doˈarʹəsʹəðər,,,http://dil.ie/17143
-28306,127,159,"rét, rétglu",,,,"rét, rétglu",,"rʹeːt, rʹeːtɣlu",,,http://dil.ie/35159
-28307,127,160,slatt,,,,slatt,,slat,,,http://dil.ie/37852
-28309,127,161,cloch,,,,cloch,,klox,,,http://dil.ie/9550
-28310,127,162,díriuch,,,,díriuch,,dʹiːrʹux,,,http://dil.ie/16743
-28313,127,164,grían,,,,grían,,gʹrʹiːən,,,http://dil.ie/26628
-28314,127,165,attaid,,,,attaid,,atəðʹ,,,http://dil.ie/4929
-28315,127,166,snaïd,,< IE *snā- ‘to flow; swim’. Cf. also Old Ind sn,,snaïd,,sna.iðʹ,,,http://dil.ie/38116
-28320,127,171,tiug,,,,tiug,,tʹiuɣ,,,http://dil.ie/40992
-28324,127,173,imm·rádi,,,,imm·rádi,,imˈraːdi,,,http://dil.ie/27906
-28329,127,176,trí,,,,trí,,tʹrʹiː,,,http://dil.ie/41872
-28330,127,177,fo·ceird,,,,fo·ceird,,foˈkʹerʹdʹ,,,http://dil.ie/22405
-28335,127,178,cenglaid,,,,cenglaid,,kʹeŋgləðʹ,,,http://dil.ie/8616
-28336,127,179,tengae,,,,tengae,,tʹeŋge,,,http://dil.ie/40504
-28337,127,180,dét,,,,dét,,dʹeːd,,,http://dil.ie/15797
-28338,127,181,crann,,< IE *kw,,crann,,krann,,,http://dil.ie/12753
-28339,127,182,soïd,,,,soïd,,so.iðʹ,,,http://dil.ie/38322
-28340,127,183,dá,,Blažek gives simply da.,,dá,,daː,,,http://dil.ie/14080
-28341,127,184,sceïd,,,,sceïd,,sʹkʹe.iðʹ,,,http://dil.ie/36353
-28344,127,186,"teë, té, te",,,,"teë, té, te",,"tʹe.e, tʹeː, tʹe",,,http://dil.ie/40249
-28345,127,187,nigid,,,,nigid,,nʹiɣʹəðʹ,,,http://dil.ie/33179
-28346,127,188,uisce,,,,uisce,,usʹkʹe,,,http://dil.ie/43063
-28349,127,190,fliuch,,,,fliuch,,ɸʹlʹux,,,http://dil.ie/22318
-28354,127,194,bán,,< IE *bhā-no-/*bhō-no-; root *bhā-/*bhō-/*bhə- ‘to shine’.,,bán,,baːn,,,http://dil.ie/5318
-28356,127,196,lethan,,,,lethan,,lʹeθən,,,http://dil.ie/30046
-28359,127,198,gáeth,,,,gáeth,,gaiθ,,,http://dil.ie/25098
-28360,127,199,ette,,,,ette,,eːtʹe,,,http://dil.ie/20940
-28363,127,202,ben,,,,ben,,bʹen,,,http://dil.ie/5644
-28364,127,203,caill,,,,caill,,kalʹlʹ,,,http://dil.ie/7742
-28367,127,204,cruim,,,,cruim,,kruṽʹ,,,http://dil.ie/13220
-28370,127,206,blíadain,,,,blíadain,,bʹlʹiːəðənʹ,,,http://dil.ie/6133
-28371,127,207,buide,,"Cf. Lat badius 'chestnut, reddish'.",,buide,,budʹe,,,http://dil.ie/7347
+28134,127,4,lúaithred,,,,lúaithred,,,lʷa∅θʲrʲəðʲ,,http://dil.ie/30819
+28137,127,6,druimm,,,,druimm,,,dʷrʷəmʲ,,http://dil.ie/18862
+28141,127,10,brú,,,,brú,,,bʷrʷə∅ʷ,,http://dil.ie/7037
+28142,127,11,mór,,Also már,,mór,,,mʷa∅ʷrʷ,,http://dil.ie/32548
+28143,127,12,én,,,,én,,,∅ʲa∅ʷn,,http://dil.ie/20038
+28144,127,14,dub,,,,dub,,,dʷəβʷ,,http://dil.ie/18985
+28145,127,15,fuil,,,,fuil,,,ɸʷəlʲ,,http://dil.ie/24792
+28147,127,17,cnáim,,,,cnáim,,,kna∅ṽʲ,,http://dil.ie/9712
+28149,127,19,do·beir anál,,,,do·beir anál,give breath,,dʷəˈbʲarʲ ˈ∅ana∅l,,http://dil.ie/3335
+28150,127,20,loiscid,,Also loscaid,,loiscid,,,lʷasʲkʲəθʲ,,http://dil.ie/30563
+28153,127,22,nél,,,,nél,,,nʲa∅ʷl,,http://dil.ie/33060
+28154,127,23,úar,,,,úar,,,∅ʷar,,http://dil.ie/42762
+28155,127,24,do·icc,,,,do·icc,,,dʷəˈ∅ʲəkʲ,,http://dil.ie/17096
+28156,127,25,ad·rími,,,,ad·rími,,,∅aðˈrʲəṽʲə∅ʲ,,http://dil.ie/550
+28161,127,27,lae,,Earlier also laithe,,lae,,,la∅ʲa∅,,http://dil.ie/29234
+28162,127,28,at-baill,,,,at-baill,,,∅adˈbalʲlʲ,,http://dil.ie/4577
+28163,127,29,claidid,,,,claidid,,,klaðʲəθʲ,,http://dil.ie/9329
+28164,127,30,salach,,,,salach,,,saləx,,http://dil.ie/36077
+28165,127,31,cú,,,,cú,,,kʷə∅ʷ,,http://dil.ie/13291
+28166,127,32,ibid,,,,ibid,,,∅ʲəβʲəθʲ,,http://dil.ie/27135
+28167,127,33,tírim,,Also tirim,,tírim,,,tʲə∅ʲrʲəmʲ,,http://dil.ie/40958
+28169,127,35,lúaithred,,,,lúaithred,,,lʷa∅θʲrʲəðʲ,,http://dil.ie/30819
+28170,127,36,clúas,,,,clúas,,,kʷlʷa∅s,,http://dil.ie/9627
+28172,127,38,ithid,,,,ithid,,,∅ʲəθʲəθʲ,,http://dil.ie/29162
+28173,127,39,og,,,,og,,,∅ʷaɣ,,http://dil.ie/33559
+28174,127,40,súil,,,,súil,,,sʷə∅ʷlʲ,,http://dil.ie/39215
+28175,127,41,do·tuit,,,,do·tuit,,,dʷəˈtʷətʲ,,http://dil.ie/18533
+28179,127,45,ad·ágathar,,,,ad·ágathar,,,∅að·∅a∅ɣəθər,,http://dil.ie/255
+28180,127,46,cleitte,,,,cleitte,,,kʲlʲatʲa∅ʲ,,http://dil.ie/9427
+28183,127,48,fichid,,,,fichid,,,ɸʲəxʲəθʲ,,http://dil.ie/21985
+28184,127,50,teine,,,,teine,,,tʲanʲa∅ʲ,,http://dil.ie/40385
+28186,127,51,íasc,,,,íasc,,,∅ʲa∅sk,,http://dil.ie/27105
+28187,127,52,cóic,,,,cóic,,,kʷa∅ʷgʲ,,http://dil.ie/10037
+28190,127,55,bláth,,,,bláth,,,bla∅θ,,http://dil.ie/6086
+28192,127,56,fo·luathar,,,,fo·luathar,,,ɸʷəˈlʷa∅θər,,http://dil.ie/23182
+28193,127,57,céo,,,,céo,,,kʲa∅ʷ,,http://dil.ie/8696
+28195,127,59,cethair,,,,cethair,,,kʲaθərʲ,,http://dil.ie/8908
+28196,127,61,torad,,,,torad,,,tʷarəð,,http://dil.ie/search?q=torad&search_in=headword
+28197,127,62,lán,,,,lán,,,la∅n,,http://dil.ie/29542
+28198,127,63,do·beir,,,,do·beir,,,dʷəˈbʲarʲ,,http://dil.ie/17216
+28199,127,64,maith,,,,maith,,,maθʲ,,http://dil.ie/31438
+28200,127,65,fér,,,,fér,,,ɸʲa∅ʷr,,http://dil.ie/21667
+28202,127,68,folt,,,,folt,,,ɸʷalt,,http://dil.ie/23166
+28203,127,69,lám,,,,lám,,,la∅ṽ,,http://dil.ie/29507
+28205,127,71,cenn,,,,cenn,,,kʲann,,http://dil.ie/8622
+28206,127,72,ro·cluinethar,,,,ro·cluinethar,,,rʷəˈkʷlʷənʲəθər,,http://dil.ie/35401
+28207,127,73,cride,,,,cride,,,kʲrʲəðʲa∅ʲ,,http://dil.ie/12925
+28208,127,74,tromm,,,,tromm,,,tʷrʷəm,,http://dil.ie/42031
+28210,127,76,benaid,,,,benaid,,,bʲanəθʲ,,http://dil.ie/5647
+28213,127,78,adarc,,,,adarc,,,∅aðərk,,http://dil.ie/307
+28215,127,80,ad·claid,,,,ad·claid,,,∅aðˈklaðʲ,,http://dil.ie/392
+28219,127,83,aig,,,,aig,,,∅aɣʲ,,http://dil.ie/909
+28222,127,86,marbaid,,"Denominal verb, based on the adjective marb 'dead'",,marbaid,,,marβəθʲ,,http://dil.ie/31573
+28223,127,87,glún,,,,glún,,,gʷlʷə∅ʷnʷ,,http://dil.ie/26180
+28224,127,88,ro·fitir,,,,ro·fitir,,,rʷəˈɸʲədʲərʲ,,http://dil.ie/search?q=fitir&search_in=headword
+28225,127,89,loch,,,,loch,,,lʷax,,http://dil.ie/30427
+28226,127,90,tibid,,,,tibid,,,tʲəβʲəθʲ,,http://dil.ie/40693
+28227,127,91,duille,,,,duille,,,dʷəlʲlʲa∅ʲ,,http://dil.ie/19115
+28228,127,92,clé,,,,clé,,,kʲlʲaʲ,,http://dil.ie/9397
+28229,127,93,cos,,,,cos,,,kʷas,,http://dil.ie/12566
+28231,127,95,is béo,,,,is béo,,,∅ʲəsʷ bʲa∅ʷ,,http://dil.ie/5671
+28232,127,96,oa,,Later aé,,oa,,,∅ʷa∅a∅,,http://dil.ie/33368
+28233,127,97,fota,,,,fota,,,ɸʷada,,http://dil.ie/24135
+28234,127,98,míl,,,,míl,,,mʲə∅ʲlʲ,,http://dil.ie/32221
+28235,127,99,fer,,,,fer,,,ɸʲər,,http://dil.ie/21665
+28237,127,101,féoil,,,,féoil,,,ɸʲa∅ʷlʲ,,http://dil.ie/21641
+28238,127,102,éscae,,Also éisce,,éscae,,,∅ʲaska∅ʲ,,http://dil.ie/20410
+28240,127,104,slíab,,,,slíab,,,sʲlʲa∅βʲ,,http://dil.ie/37917
+28241,127,105,gin,,,,gin,,,gʲənʷ,,http://dil.ie/25866
+28242,127,106,ainm,,,,ainm,,,∅anʲmʲ,,http://dil.ie/1471
+28244,127,107,cumung,,,,cumung,,,kʷəṽʷəŋʷgʷ,,http://dil.ie/13923
+28245,127,108,ocus,,,,ocus,,,∅ʷagʷəsʷ,,http://dil.ie/33483
+28247,127,110,nue,,,,nue,,,nʷa∅ə∅ʲ,,http://dil.ie/33322
+28248,127,111,adaig,,,,adaig,,,∅aðəɣʲ,,http://dil.ie/256
+28249,127,112,srón,,,,srón,,,sʷrʷa∅ʷnʷ,,http://dil.ie/38834
+28251,127,114,sen,,,,sen,,,sʲən,,http://dil.ie/37090
+28252,127,115,óen,,,,óen,,,∅ʷa∅ʲn,,http://dil.ie/33512
+28256,127,118,imm·beir,,,,imm·beir,,,∅ʲəmʲˈbʲarʲ,,http://dil.ie/27777
+28258,127,119,srengaid,,,,srengaid,,,sʲrʲaŋgəθʲ,,http://dil.ie/38789
+28260,127,121,bráen,,,,bráen,,,bra∅ʲn,,http://dil.ie/6469
+28262,127,122,derg,,,,derg,,,dʲarg,,http://dil.ie/15626
+28263,127,124,des,,,,des,,,dʲes,,http://dil.ie/15783
+28266,127,125,aub,,,,aub,,,∅a∅ʷβʷ,,http://dil.ie/16
+28269,127,127,frén,,frém soon becomes more common,,frén,,,ɸʲrʲa∅ʲn,,http://dil.ie/24278
+28274,127,130,cruind,,,,cruind,,,cʷrʷənʲdʲ,,http://dil.ie/13226
+28276,127,132,salann,,,,salann,,,salann,,http://dil.ie/36081
+28277,127,133,gainem,,,,gainem,,,ganʲəṽ,,http://dil.ie/25182
+28278,127,134,as·beir,,,,as·beir,,,∅asˈbʲarʲ,,http://dil.ie/4383
+28280,127,136,muir,,,,muir,,,mʷərʲ,,http://dil.ie/32761
+28282,127,137,ad·cí,,,,ad·cí,,,∅aðˈkʲə∅ʲ,,http://dil.ie/391
+28283,127,138,síl,,,,síl,,,sʲə∅ʲlʷ,,http://dil.ie/37503
+28284,127,139,úaigid,,,,úaigid,,,∅ʷaɣʲəθʲ,,http://dil.ie/42619
+28285,127,140,gér,,,,gér,,,gʲa∅ʲr,,http://dil.ie/25709
+28287,127,141,gerr,,,,gerr,,,gʲerr,,http://dil.ie/25744
+28290,127,142,canaid,,,,canaid,,,kanəθʲ,,http://dil.ie/8126
+28291,127,143,saidid,,,,saidid,,,saðʲəθʲ,,http://dil.ie/35940
+28293,127,145,nem,,,,nem,,,nʲəṽ,,http://dil.ie/33070
+28294,127,146,con-tuili,,,,con-tuili,,,kʷanˈtʷəlʲə∅ʲ,,http://dil.ie/12381
+28295,127,147,becc,,"Generally spelt with -cc in Old Irish, which would indicate /k/, but the Modern languages have /g/.",,becc,,,bʲək,,http://dil.ie/5512
+28296,127,148,bolad,,Noun,,bolad,,,bʷaləð,,http://dil.ie/6340
+28297,127,149,dé,,,,dé,,,dʲa∅ʲ,,http://dil.ie/14794
+28298,127,150,réid,,,,réid,,,rʲa∅ʲðʲ,,http://dil.ie/34942
+28299,127,151,nathair,,,,nathair,,,naθərʲ,,http://dil.ie/33000
+28300,127,152,snechtae,,,,snechtae,,,sʲnʲaxta∅ʲ,,http://dil.ie/38149
+28305,127,158,do·airissedar,,,,do·airissedar,,,dʷəˈ∅arʲəsʲəðər,,http://dil.ie/17143
+28306,127,159,rét,,Also rétglu,,rét,,,rʲaʲt,,http://dil.ie/35159
+28307,127,160,slatt,,,,slatt,,,slat,,http://dil.ie/37852
+28309,127,161,cloch,,,,cloch,,,kʷlʷax,,http://dil.ie/9550
+28310,127,162,díriuch,,,,díriuch,,,dʲə∅ʲrʲəxʷ,,http://dil.ie/16743
+28313,127,164,grían,,,,grían,,,gʲrʲa∅n,,http://dil.ie/26628
+28314,127,165,attaid,,,,attaid,,,∅atəθʲ,,http://dil.ie/4929
+28315,127,166,snaïd,,,,snaïd,,,sna∅əθʲ,,http://dil.ie/38116
+28320,127,171,tiug,,,,tiug,,,tʲəɣʷ,,http://dil.ie/40992
+28324,127,173,imm·rádi,,,,imm·rádi,,,∅ʲəmʲˈra∅də∅ʲ,,http://dil.ie/27906
+28329,127,176,trí,,,,trí,,,tʲrʲə∅ʲ,,http://dil.ie/41872
+28330,127,177,fo·ceird,,,,fo·ceird,,,fʷəˈkʲarʲdʲ,,http://dil.ie/22405
+28335,127,178,cenglaid,,,,cenglaid,,,kʲaŋgləθʲ,,http://dil.ie/8616
+28336,127,179,tengae,,,,tengae,,,tʲaŋga∅ʲ,,http://dil.ie/40504
+28337,127,180,dét,,,,dét,,,dʲa∅ʲd,,http://dil.ie/15797
+28338,127,181,crann,,,,crann,,,krann,,http://dil.ie/12753
+28339,127,182,soïd,,,,soïd,,,sʷo∅əθʲ,,http://dil.ie/38322
+28340,127,183,dá,,,,dá,,,da∅,,http://dil.ie/14080
+28341,127,184,sceïd,,,,sceïd,,,sʲkʲa∅ʲəθʲ,,http://dil.ie/36353
+28344,127,186,tee,,Also té and te,,tee,,,tʲa∅ʲa∅ʲ,,http://dil.ie/40249
+28345,127,187,nigid,,,,nigid,,,nʲəɣʲəθʲ,,http://dil.ie/33179
+28346,127,188,uisce,,,,uisce,,,∅ʷəsʲkʲa∅ʲ,,http://dil.ie/43063
+28349,127,190,fliuch,,,,fliuch,,,ɸʲlʲəxʷ,,http://dil.ie/22318
+28354,127,194,bán,,,,bán,,,ba∅n,,http://dil.ie/5318
+28356,127,196,lethan,,,,lethan,,,lʲaθən,,http://dil.ie/30046
+28359,127,198,gáeth,,,,gáeth,,,ga∅ʲθ,,http://dil.ie/25098
+28360,127,199,ette,,,,ette,,,∅ʲatʲa∅ʲ,,http://dil.ie/20940
+28363,127,202,ben,,,,ben,,,bʲan,,http://dil.ie/5644
+28364,127,203,coill,,Also caill,,coill,,,kʷalʲlʲ,,http://dil.ie/7742
+28367,127,204,cruim,,,,cruim,,,kʷrʷəṽʲ,,http://dil.ie/13220
+28370,127,206,blíadain,,,,blíadain,,,bʲlʲa∅ðənʲ,,http://dil.ie/6133
+28371,127,207,buide,,,,buide,,,bʷəðʲa∅ʲ,,http://dil.ie/7347
 28382,26,187,waskje,,,,waskje,,ˈvɔskjə,,,
 28386,130,7,mallom,,"Latin alphabet: mallom (acc.sg., TB 5,15, 2),  malom (acc.sg.,TB Pocc.185,11) mallud (abl.sg. TB 20), malud (abl.sg., TB 11.)",,mallom,,,,,
 28387,130,11,maimas,,"maimas (gen.sg.f. superlative form, TB 3,7); used as an attributive adjective of carneis 'part (of the senate)'.  Cf. O. mais 'more'.",,maimas,largest,,,,
@@ -9097,18 +9097,18 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 29468,58,58,fot,,,,fot,,fuːt,,,
 29469,58,130,rund,,,,rund,,ɾʉnː,,,
 29470,58,202,kvinne,,,,kvinne,,ˈkʋɪ̀nːə,,,
-29471,127,8,rúsc,,,,rúsc,,ruːsk,,,http://dil.ie/35804
-29475,127,13,ithid,,"Also 'eats, devours'. < *pi-tu- ‘drink, food'. Also belongs to cognate set 1699. Identical to [lexeme 28172](lex-28172) 'eat'.",,ithid,,iθʹəðʹ,,,http://dil.ie/29162
-29477,127,18,ucht,,< *pok-tu- (?) ‘breast'. Cf. also Lat pectus [lexeme 27662](lex-27662).,,ucht,,uxt,,,http://dil.ie/42871
-29478,127,18,bruinne,,"< *bhru-s-n-yo-, root: *bhreu-s-‘to swell, sprout’.",,bruinne,,brunʹnʹe,,,http://dil.ie/7117
-29479,127,49,ingen,,"More 'nail' than 'fingernail'. Also 'claw, hoof'. Root: *onogh- /*ongh- / *nogh- ‘finger- and toenail, claw’. Cf. also Lat unguis 'finger/toenail' (?).",,ingen,,iŋʹgʹən,,,http://dil.ie/28652
-29482,127,37,cré,,,,cré,,kʹrʹeː,,,http://dil.ie/12779
-29485,127,58,cos(s),,,,cos(s),,kos,,,http://dil.ie/12566
-29486,127,66,glas(s),,"Also 'grey'. < IE *gh/H-st-o- or *ghlə-st-o-, root: *",,glas(s),,glas,,,http://dil.ie/25996
-29488,127,86,"orcaid, oirgid",,< IE *h3erg-. Cf. ClArm [lexeme 28521](lex-28521) 'to hit'.,,"orcaid, oirgid",,"orgəðʹ, orʹgʹəðʹ",,,http://dil.ie/33726
-29490,127,109,muinél,,"< IE *mono- /-i- ‘neck, throat, neck; collar'.",,muinél,,munʹeːl,,,http://dil.ie/32738
-29492,127,144,croiccenn,,< IE *krokkeno-; root *(s)ker(ə)- ‘to cut’.,,croiccenn,,krokʹənn,,,http://dil.ie/13073
-29494,127,167,erball,,"Ary. -ball < *bhel-nó or *bhl-nó-; root*bhel- ’to bloat, swell'. Cognate with other Old Irish term for tail lexeme 28316?",,erball,,erball,,,http://dil.ie/20216
+29471,127,8,rúsc,,,,rúsc,,,rʷə∅ʷsʷkʷ,,http://dil.ie/35804
+29475,127,13,ithid,,Basic meaning is 'eat',,ithid,,,∅ʲəθʲəθʲ,,http://dil.ie/29162
+29477,127,18,ucht,,,,ucht,,,ʷəxʷtʷ,,http://dil.ie/42871
+29478,127,18,bruinne,,,,bruinne,,,bʷrʷənʲnʲa∅ʲ,,http://dil.ie/7117
+29479,127,49,ingen,,,,ingen,,,∅ʲəŋʲgʲen,,http://dil.ie/28652
+29482,127,37,cré,,,,cré,,,kʲrʲa∅,,http://dil.ie/12779
+29485,127,58,cos,,,,cos,,,kʷas,,http://dil.ie/12566
+29486,127,66,glas,,,,glas,,,glas,,http://dil.ie/25996
+29488,127,86,orcaid,,Also oirgid etc.,,orcaid,,,∅ʷargəθʲ,,http://dil.ie/33726
+29490,127,109,muin,,,,muin,,,mʷənʲ,,http://dil.ie/32738
+29492,127,144,croiccenn,,,,croiccenn,,,kʷrʷakʲənn,,http://dil.ie/13073
+29494,127,167,erball,,,,erball,,,∅ʲarball,,http://dil.ie/20216
 30214,140,11,magio-,,"Attested in many proper names, e.g. Magius, and assumed to be the general term in this meaning.",,magio-,,,,,
 30215,140,12,etno-,,"Attested in a theonym Etnosus, but assumed to contain the basic Gaulish word in this sense.",,etno-,,,,,
 30216,140,188,dubron,,"Attested in river names and other toponyms, e.g. Dubra ""the waters"" > Fr. Douvres.",,dubron,,,,,
@@ -9861,7 +9861,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32236,150,99,gur,,,,gur,,,,,
 32237,23,61,frukt,,,,frukt,,fɹʊkt,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=frukt
 32239,17,56,volar,,,,volar,,bu'la,,,
-32240,38,45,bí eagla ar,,"Used in the construction bí + eagla + ar, lit. ""there is (etc.) fear on""",,bí eagla ar,,,,,http://www.teanglann.ie/ga/fgb/eagla
+32240,38,45,bí eagla ar,,"Used in the construction bí + eagla + ar, lit. ""be + fear + on""",,bí eagla ar,,ˈbʲiː ˈagˠlˠə əɾˠ,ˈbʲiː ˈ∅agˠlˠə ər,,http://www.teanglann.ie/ga/fgb/eagla
 32243,23,74,tungur,,,,tungur,,ˈtʰʊŋɡ̊ʊɹ,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=tungur
 32244,23,134,siga,,,,siga,,ˈsiːja,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=siga
 32245,26,14,swart,,,,swart,,swat,,,
@@ -9886,12 +9886,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 32286,150,194,"guinn, guenn (fem.)",,LL,,"guinn, guenn (fem.)",,,,,
 32289,150,202,gurehic,,"'female', adjective based on the word for 'woman', Middle Welsh gwreic.",,gurehic,"female, adj.",,,,
 32290,150,207,melin,,LL,,melin,,,,,
-32292,38,13,beir greim,,,,beir greim,,,,,http://www.teanglann.ie/ga/fgb/greim
-32297,38,28,faigh bás,,,,faigh bás,,,,,http://www.teanglann.ie/ga/fgb/bás
-32308,38,99,fear,,,,fear,,,,,http://www.teanglann.ie/ga/fgb/fear
-32310,38,102,gealach,,,,gealach,,,,,http://www.teanglann.ie/ga/fgb/gealach
-32318,38,147,beag,,,,beag,,,,,http://www.teanglann.ie/ga/fgb/beag
-32320,38,149,toit,,,,toit,,,,,http://www.teanglann.ie/ga/fgb/toit
+32292,38,13,beir greim,,,,beir greim,,ˈbʲɛɹ̝ ˈɟɹ̝ɛmʲ,ˈbʲarʲ ˈgʲrʲamʲ,,http://www.teanglann.ie/ga/fgb/greim
+32297,38,28,faigh bás,,,,faigh bás,,ˈfˠaʝ ˈbˠɑːsˠ,ˈfˠaɣʲ ˈbˠaːsˠ,,http://www.teanglann.ie/ga/fgb/bás
+32308,38,99,fear,,,,fear,,ˈfʲæɾˠ,ˈfʲarˠ,,http://www.teanglann.ie/ga/fgb/fear
+32310,38,102,gealach,,,,gealach,,ˈɟælˠəx,ˈgʲalˠəxˠ,,http://www.teanglann.ie/ga/fgb/gealach
+32318,38,147,beag,,,,beag,,ˈbʲʊg̊ˠ,ˈbʲəgˠ,,http://www.teanglann.ie/ga/fgb/beag
+32320,38,149,toit,,,,toit,,ˈt̪ˠʰɪt̪ʲʰ,ˈtˠətʲ,,http://www.teanglann.ie/ga/fgb/toit
 32358,115,18,broilleach,,,,broilleach,,,brɔLʲəx,,
 32370,115,109,amhach,,,,amhach,,,avəx,,
 32377,115,159,reul,,,,reul,,,RiaL,,
@@ -10282,28 +10282,28 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 34547,21,108,dichtbij,,,,dichtbij,,,,,http://www.etymologiebank.nl/trefwoord/bij1
 34555,157,129,mör,,,,mör,,mør,mør,,
 34557,20,129,mør,,,,mør,,,,,http://ordnet.dk/ddo/ordbog?query=mør
-34585,127,7,droch,,,,droch,,drox,,,http://dil.ie/18753
-34588,38,18,ucht,,,,ucht,,,,,http://www.teanglann.ie/ga/fgb/ucht
-34589,38,22,scamall,,,,scamall,,,,,http://www.teanglann.ie/ga/fgb/scamall
-34591,38,29,tochail,,,,tochail,,,,,http://www.teanglann.ie/ga/fgb/tochail
-34593,38,35,deannach,,,,deannach,,,,,http://www.teanglann.ie/ga/fgb/deannach
-34594,38,37,cré,,,,cré,,,,,http://www.teanglann.ie/ga/fgb/cré
-34596,38,60,sioc,,,,sioc,,,,,http://www.teanglann.ie/ga/fgb/sioc
-34597,127,60,seccaid,,,,seccaid,,sʹekəðʹ,,,http://dil.ie/36736
-34598,38,74,trom,,,,trom,,,,,http://www.teanglann.ie/ga/fgb/trom
-34600,38,80,seilg,,,,seilg,,,,,http://www.teanglann.ie/ga/fgb/seilg
-34602,38,86,maraigh,,,,maraigh,,,,,http://www.teanglann.ie/ga/fgb/maraigh
-34608,38,177,caith,,,,caith,,,,,http://www.teanglann.ie/ga/fgb/caith
-34609,38,203,coill,,,,coill,,,,,http://www.teanglann.ie/ga/fgb/coill
-34610,38,8,rúsc,,,,rúsc,,,,,http://www.teanglann.ie/ga/fgb/rúsc
-34613,38,148,bolaigh,,,,bolaigh,,,,,http://www.teanglann.ie/ga/fgb/bolaigh
-34614,38,184,sceith,,,,sceith,,,,,http://www.teanglann.ie/ga/fgb/sceith
+34585,127,7,droch,,,,droch,,,drʷax,,http://dil.ie/18753
+34588,38,18,ucht,,,,ucht,,ˈʊxt̪ˠ,ˈ∅ˠəxˠtˠ,,http://www.teanglann.ie/ga/fgb/ucht
+34589,38,22,scamall,,,,scamall,,ˈsˠkˠamˠəl̪ˠ,ˈsˠkˠamˠəl̪ˠ,,http://www.teanglann.ie/ga/fgb/scamall
+34591,38,29,tochail,,,,tochail,,ˈt̪ˠʰʊxəlʲ,ˈtˠəxˠəlʲ,,http://www.teanglann.ie/ga/fgb/tochail
+34593,38,35,deannach,,,,deannach,,ˈd̪ʲan̪ˠəx,ˈdʲan̪ˠəxˠ,,http://www.teanglann.ie/ga/fgb/deannach
+34594,38,37,cré,,,,cré,,ˈcɹ̝̥eː,ˈkʲrʲeː,,http://www.teanglann.ie/ga/fgb/cré
+34596,38,60,sioc,,,,sioc,,ˈʃʊkʰ,ˈsʲəkˠ,,http://www.teanglann.ie/ga/fgb/sioc
+34597,127,60,seccaid,,,,seccaid,,,sʲakəθʲ,,http://dil.ie/36736
+34598,38,74,trom,,,,trom,,ˈt̪ˠɹ̥ˠʊmˠ,ˈtˠrˠəmˠ,,http://www.teanglann.ie/ga/fgb/trom
+34600,38,80,seilg,,,,seilg,,ˈʃɛlʲəɟ,ˈsʲalʲgʲ,,http://www.teanglann.ie/ga/fgb/seilg
+34602,38,86,maraigh,,,,maraigh,,ˈmˠaɾɪʝ,ˈmˠarˠəɣʲ,,http://www.teanglann.ie/ga/fgb/maraigh
+34608,38,177,caith,,,,caith,,ˈkˠʰah,ˈkˠahʲ,,http://www.teanglann.ie/ga/fgb/caith
+34609,38,203,coill,,,,coill,,ˈkˠʰɪʎ,ˈkˠəl̪ʲ,,http://www.teanglann.ie/ga/fgb/coill
+34610,38,8,rúsc,,,,rúsc,,ˈɾʷuːsˠkˠ,ˈrˠuːsˠkˠ,,http://www.teanglann.ie/ga/fgb/rúsc
+34613,38,148,bolaigh,,,,bolaigh,,ˈbˠʊlˠəʝ,ˈbˠəlˠəɣʲ,,http://www.teanglann.ie/ga/fgb/bolaigh
+34614,38,184,sceith,,,,sceith,,ˈʃcɛh,ˈsʲkʲahʲ,,http://www.teanglann.ie/ga/fgb/sceith
 34616,115,66,gorm,,MacBain's links this to [cognate set 333](cog-333),,gorm,,,gɔrɔm,,
-34619,38,129,lofa,,,,lofa,,,,,http://www.teanglann.ie/ga/fgb/lobh
-34620,127,129,lobtha,,,,lobtha,,loβθa,,,http://dil.ie/30404
+34619,38,129,lofa,,,,lofa,,ˈl̪ˠʊfˠə,ˈl̪ˠəfˠə,,http://www.teanglann.ie/ga/fgb/lobh
+34620,127,129,lobtha,,,,lobtha,,,lʷaβθa∅,,http://dil.ie/30404
 34626,115,199,sgiath,,,,sgiath,,,sgʲiə,,
-34636,127,42,fota,,,,fota,,ɸoda,,,http://dil.ie/24135
-34670,127,150,mín,,,,mín,,mʹiːnʹ,,,http://dil.ie/32283
+34636,127,42,fota,,,,fota,,,ɸʷada,,http://dil.ie/24135
+34670,127,150,mín,,,,mín,,,mʲə∅ʲnʹ,,http://dil.ie/32283
 34691,162,4,bhasma(n),,,,bhasma(n),,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=bhasma
 34692,162,6,piṭṭhi,,Unmarked term is i-stem rather than a-stem,,piṭṭhi,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=piṭṭhi
 34693,162,7,pāpa,,,,pāpa,,,,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=pāpa
@@ -11323,7 +11323,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 36383,112,225,molere,,"molō, molere, moluī, molitum",,molere,to grind (in a mill),moɫere,molere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dmolo1
 36384,112,226,unguis,,G.sg. unguis,,unguis,,ˈuŋgwis,ˈungwis,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dunguis
 36385,112,221,capere,,"capiō, capere, cēpī, captum",,capere,"to take into hand, take hold of",ˈkapere,ˈkapere,,http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dcapio1
-36386,25,208,fourmi,,,,fourmi,ant,fuʁmi,fuʁˈmi,,http://www.cnrtl.fr/etymologie/fourmi
+36386,25,208,fourmi,,,,fourmi,,,fuʁmi,,http://www.cnrtl.fr/etymologie/fourmi
 36387,110,217,glykýs,,"γλυκύς, γλυκεῖα, γλυκύ",,glykýs,sweet to the taste or smell,glykýs,glykýs,γλυκύς,http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=gluku/s
 36394,176,208,morvĕ,,Nominative plural.,,morvĕ,,ˈmɔrvɘ,ˈmorvɘ,,
 36395,176,4,püpel,,,,püpel,,pyˈpɛl,pyˈpɛl,,
@@ -12385,7 +12385,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 37830,152,140,kofteré,,,,kofteré,,ko̞fte̞ˈre̞,ko̞fte̞ˈre̞,κοφτερέ,
 37832,152,141,konté,,,,konté,,ko̞ˈnde̞,ko̞ˈnte̞,κοντέ,
 37833,152,142,tragoudoú,,,,tragoudoú,,traɣuˈðu,traɣuˈðu,τραγουδού,
-37834,25,18,poitrine,,,,poitrine,,,,,http://www.cnrtl.fr/etymologie/poitrine
+37834,25,18,poitrine,,,,poitrine,,,pwatʁin,,http://www.cnrtl.fr/etymologie/poitrine
 37835,152,219,draníntou,,/ðraˈmintu/ NPT,,draníntou,,ðraˈɲindu,ðraˈɲintu,δρανίντου,
 37836,152,146,kioúfou,,but NPT /praˈɣiazu/,,kioúfou,,ˈcufu,ˈkiufu,κιούφου,
 37837,152,147,(e)mitshī́,,,,(e)mitshī́,,(e̞)miˈtsʰi,(e̞)miˈtsʰi,(ε)μιτσ̔ή,
@@ -15627,7 +15627,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 46429,51,177,phyān̐knu,,,,phyān̐knu,,pʰjãknu,,फ्याँक्नु,
 46432,22,224,do,,,,do,,,duː,,http://www.oed.com/view/Entry/56228?
 47161,63,29,marrare,,,,marrare,,,,,
-47298,38,224,déan,,,,déan,,,,,http://www.teanglann.ie/ga/fgb/déan
+47298,38,224,déan,,,,déan,,ˈd̪ʲeːnˠ,ˈdʲeːnˠ,,http://www.teanglann.ie/ga/fgb/déan
 47299,63,4,cinisu,,,,cinisu,,,,,
 47300,63,8,corgiólu,,,,corgiólu,,,,,
 47301,63,12,pijone,,,,pijone,,,,,
@@ -15749,24 +15749,24 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 47445,39,213,ombra,,,,ombra,,,,,
 47446,39,217,dolce,,,,dolce,,,,,
 47447,39,221,prendere,,,,prendere,,,,,
-47448,39,212,ieri,,,,ieri,,,,,
+47448,39,212,ieri,,,,ieri,,jeɾi,jeɾi,,
 47449,39,226,artiglio,,,,artiglio,,,,,
 47450,39,225,macinare,,,,macinare,,,,,
 47451,39,210,ombelico,,,,ombelico,,,,,
 47452,39,209,coscia,,,,coscia,,,,,
-47453,127,208,sengán,,Does not occur in the glosses,,sengán,,sʹengaːn,,,http://dil.ie/37144
-47454,127,215,serb,,,,serb,,sʹerβ,,,http://dil.ie/37211
-47455,127,220,beirid,,,,beirid,,bʹerʹəðʹ,,,http://dil.ie/5583
-47456,127,224,do·gní,,,,do·gní,,do·gʹniː,,,http://dil.ie/17752
-47457,127,218,téit,,,,téit,,teːd,,,http://dil.ie/40447
-47458,127,214,tech,,,,tech,,tʹex,,,http://dil.ie/40265
-47459,127,221,gaibid,,,,gaibid,,gaβʹəðʹ,,,http://dil.ie/25119
-47460,127,223,ciid,,,,ciid,,kʹi.iðʹ,,,http://dil.ie/9072
-47461,127,219,reithid,,,,reithid,,rʹeθʹəðʹ,,,http://dil.ie/34983
-47462,127,212,indé,,,,indé,,inʹdʹe,,,http://dil.ie/28350
-47463,127,211,cuil,,,,cuil,,kulʹ,,,http://dil.ie/13495
-47464,127,209,slíasait,,,,slíasait,,sʹlʹiːəsədʹ,,,http://dil.ie/37921
-47465,127,225,meilid,,,,meilid,,mʹelʹ,,,http://dil.ie/31769
+47453,127,208,sengán,,Not attested in older period,,sengán,,,sʲaŋga∅n,,http://dil.ie/37144
+47454,127,215,serb,,,,serb,,,sʲarβ,,http://dil.ie/37211
+47455,127,220,beirid,,,,beirid,,,bʲarʲəθʲ,,http://dil.ie/5583
+47456,127,224,do·gní,,,,do·gní,,,dʷə·gʲnʲə∅ʲ,,http://dil.ie/17752
+47457,127,218,téit,,,,téit,,,tʲa∅ʲdʲ∅ʲʷ,,http://dil.ie/40447
+47458,127,214,tech,,,,tech,,,tʲax,,http://dil.ie/40265
+47459,127,221,gaibid,,,,gaibid,,,gaβʲəθʲʹ,,http://dil.ie/25119
+47460,127,223,ciid,,,,ciid,,,kʲə∅ʲəθʲ,,http://dil.ie/9072
+47461,127,219,reithid,,,,reithid,,,rʲaθʲəθʲ,,http://dil.ie/34983
+47462,127,212,indé,,,,indé,,,∅ʲənʲdʲe∅ʲ,,http://dil.ie/28350
+47463,127,211,cuil,,,,cuil,,,kʷəlʲ,,http://dil.ie/13495
+47464,127,209,slíasait,,,,slíasait,,,sʲlʲa∅sədʹ,,http://dil.ie/37921
+47465,127,225,meilid,,,,meilid,,,mʲalʲəθʲ,,http://dil.ie/31769
 47466,115,208,seangan,,,,seangan,,,ʃɛŋgan,,
 47467,115,215,searbh,,,,searbh,,,ʃɛrɛv,,
 47468,115,220,giùlain,,,,giùlain,,,gʲuːLɛNʲ,,
@@ -16108,29 +16108,29 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 47915,204,221,tomar,,,,tomar,,,,,
 47916,204,171,espesso,,,,espesso,,,,,
 47917,204,194,blanco,,,,blanco,,,,,
-47919,127,216,crúaid,,,,crúaid,,cruːəðʹ,,,http://dil.ie/13191
-47920,127,226,ingen,,,,ingen,,iŋʹgʹen,,,http://dil.ie/28652
-47921,127,210,imbliu,,,,imbliu,,imʹbʹlʹu,,,http://dil.ie/27623
-47922,127,222,ceilid,,,,ceilid,,kʹelʹəðʹ,,,http://dil.ie/8460
-47924,127,217,milis,,,,milis,,mʹilʹəsʹ,,,http://dil.ie/32244
-47926,38,208,seangán,,,,seangán,,ˈsʲæŋˠgˠaːnˠ,ˈsʲæŋˠgˠaːnˠ,,http://www.teanglann.ie/ga/fgb/seangán
-47927,38,215,searbh,,,,searbh,,,,,http://www.teanglann.ie/ga/fgb/searbh
-47928,38,220,beir,,,,beir,,,,,http://www.teanglann.ie/ga/fgb/beir
-47929,38,226,ionga,,,,ionga,,,,,http://www.teanglann.ie/ga/fgb/ionga
-47930,38,211,cuilleog,,,,cuilleog,,,,,http://www.teanglann.ie/ga/fgb/cuileog
-47931,38,218,téigh,,,,téigh,,,,,http://www.teanglann.ie/ga/fgb/téigh
-47932,38,216,crua,,,,crua,,,,,http://www.teanglann.ie/ga/fgb/crua
-47933,38,225,meil,,,,meil,,,,,http://www.teanglann.ie/ga/fgb/meil
-47934,38,223,goil,,,,goil,,,,,http://www.teanglann.ie/ga/fgb/goil
-47936,38,214,teach,,,,teach,,,,,http://www.teanglann.ie/ga/fgb/teach
-47937,38,222,cuir i bhfolach,,,,cuir i bhfolach,,,,,http://www.teanglann.ie/ga/fgb/cuir i
-47939,38,213,scáil,,,,scáil,,,,,http://www.teanglann.ie/ga/fgb/scáil
-47940,38,219,rith,,,,rith,,,,,http://www.teanglann.ie/ga/fgb/rith
-47942,38,210,imleacán,,,,imleacán,,,,,http://www.teanglann.ie/ga/fgb/imleacán
-47943,38,217,milis,,,,milis,,,,,http://www.teanglann.ie/ga/fgb/milis
-47944,38,221,tóg,,,,tóg,,,,,http://www.teanglann.ie/ga/fgb/tóg
-47945,38,209,ceathrú,,,,ceathrú,,,,,http://www.teanglann.ie/ga/fgb/ceathrú
-47946,38,212,inné,,,,inné,,,,,http://www.teanglann.ie/ga/fgb/inné
+47919,127,216,crúaid,,,,crúaid,,,cʷrʷa∅ðʲ,,http://dil.ie/13191
+47920,127,226,ingen,,Basic meaning is 'nail',,ingen,,,∅ʲəŋʲgʲen,,http://dil.ie/28652
+47921,127,210,imbliu,,,,imbliu,,,∅ʲəmʲbʲlʲə∅ʷ,,http://dil.ie/27623
+47922,127,222,ceilid,,,,ceilid,,,kʲalʲəθʲ,,http://dil.ie/8460
+47924,127,217,milis,,,,milis,,,mʲəlʲəsʲ,,http://dil.ie/32244
+47926,38,208,seangán,,,,seangán,,ˈʃæŋˠgˠɑːnˠ,ˈsʲaŋˠgˠaːnˠ,,http://www.teanglann.ie/ga/fgb/seangán
+47927,38,215,searbh,,,,searbh,,ˈʃæɾˠəvˠ,ˈsʲarˠvˠ,,http://www.teanglann.ie/ga/fgb/searbh
+47928,38,220,beir,,,,beir,,ˈbʲɛɹ̝,ˈbʲarʲ,,http://www.teanglann.ie/ga/fgb/beir
+47929,38,226,ionga,,,,ionga,,ˈʊŋˠə,ˈ∅ʲəŋˠə,,http://www.teanglann.ie/ga/fgb/ionga
+47930,38,211,cuilleog,,,,cuilleog,,ˈkˠʰɪʎoːg̊ˠ,ˈkˠəl̪ʲoːgˠ,,http://www.teanglann.ie/ga/fgb/cuileog
+47931,38,218,téigh,,,,téigh,,ˈt̪ʲʰeːʝ,ˈtʲeːɣʲ,,http://www.teanglann.ie/ga/fgb/téigh
+47932,38,216,crua,,,,crua,,ˈkʷɹ̥ʷuə,ˈkˠrˠuə,,http://www.teanglann.ie/ga/fgb/crua
+47933,38,225,meil,,,,meil,,ˈmʲɛlʲ,ˈmʲalʲ,,http://www.teanglann.ie/ga/fgb/meil
+47934,38,223,goil,,,,goil,,ˈgˠɪlʲ,ˈgˠəlʲ,,http://www.teanglann.ie/ga/fgb/goil
+47936,38,214,teach,,,,teach,,ˈt̪ʲʰæx,ˈtʲʰaxˠ,,http://www.teanglann.ie/ga/fgb/teach
+47937,38,222,cuir i bhfolach,,,,cuir i bhfolach,,ˈˈkʰɪɹ̝ ɪ ˈvˠʊlˠəx,ˈkˠərʲ ∅ʲə ˈvˠəlˠəxˠ,,http://www.teanglann.ie/ga/fgb/cuir i
+47939,38,213,scáil,,,,scáil,,ˈsˠkˠaːlʲ,ˈsˠkˠaːlʲ,,http://www.teanglann.ie/ga/fgb/scáil
+47940,38,219,rith,,,,rith,,ˈɹ̝ɪh,ˈrʲəhʲ,,http://www.teanglann.ie/ga/fgb/rith
+47942,38,210,imleacán,,,,imleacán,,ˈɪmʲlʲəkˠʰɑːnˠ,ˈ∅ʲəmʲlʲəkˠaːnˠ,,http://www.teanglann.ie/ga/fgb/imleacán
+47943,38,217,milis,,,,milis,,ˈmʲɪlʲɪʃ,ˈmʲəlʲəsʲ,,http://www.teanglann.ie/ga/fgb/milis
+47944,38,221,tóg,,,,tóg,,ˈt̪ˠʰoːg̊ˠ,ˈtˠoːgˠ,,http://www.teanglann.ie/ga/fgb/tóg
+47945,38,209,ceathrú,,,,ceathrú,,ˈcʰæhɹ̥ʷuː,ˈkʲahˠrˠuː,,http://www.teanglann.ie/ga/fgb/ceathrú
+47946,38,212,inné,,,,inné,,ˈɪɲeː,ˈ∅ʲənʲeː,,http://www.teanglann.ie/ga/fgb/inné
 47950,147,27,laa,,lá,,laa,,lɛː,lɛː,,
 47951,147,29,reuyrey,,rómhar,,reuyrey,,ˈraurə,ˈraurə,,
 47952,147,30,broghe,,bróghach,,broghe,,broːx,broːx,,
@@ -16663,26 +16663,26 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 49237,105,150,ślakṣṇá-,,,,ślakṣṇá-,adj.,*ɕlɐkˈʂɳɐ-,ślaksná-,श्लक्ष्ण-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=1103
 49239,59,215,amar,,,,amar,,amar,amar,,https://dexonline.ro/definitie/amar
 49243,59,220,duce,,,,duce,,'duʧe,'duʧe,,https://dexonline.ro/definitie/a duce
-49244,25,215,amer,,,,amer,,,,,http://www.cnrtl.fr/etymologie/amer
-49245,25,220,porter,,,,porter,,,,,http://www.cnrtl.fr/etymologie/porter
-49247,25,226,griffe,,,,griffe,,,,,http://www.cnrtl.fr/etymologie/griffe
-49248,25,223,pleurer,,,,pleurer,,,,,http://www.cnrtl.fr/etymologie/pleurer
-49249,25,224,faire,,,,faire,,,,,http://www.cnrtl.fr/etymologie/faire
+49244,25,215,amer,,,,amer,,,amɛʁ,,http://www.cnrtl.fr/etymologie/amer
+49245,25,220,porter,,,,porter,,,pɔʁte,,http://www.cnrtl.fr/etymologie/porter
+49247,25,226,griffe,,,,griffe,,,gʁif,,http://www.cnrtl.fr/etymologie/griffe
+49248,25,223,pleurer,,,,pleurer,,,plœʁe,,http://www.cnrtl.fr/etymologie/pleurer
+49249,25,224,faire,,,,faire,,,fɛʁ,,http://www.cnrtl.fr/etymologie/faire
 49250,59,226,gheară,,,,gheară,,ge̯arə,ge̯arə,,https://dexonline.ro/definitie/gheară
-49251,25,211,mouche,,,,mouche,,,,,http://www.cnrtl.fr/etymologie/mouche
-49252,25,218,aller ≠ va,,,,aller ≠ va,,,,,http://www.cnrtl.fr/etymologie/aller
-49253,25,225,moudre,,,,moudre,,,,,http://www.cnrtl.fr/etymologie/moudre
-49254,25,216,dur,,,,dur,,,,,http://www.cnrtl.fr/etymologie/dur
-49255,25,222,cacher,,,,cacher,,,,,http://www.cnrtl.fr/etymologie/cacher
-49256,25,214,maison,,,,maison,,,,,http://www.cnrtl.fr/etymologie/maison
-49257,25,210,nombril,,,,nombril,,,,,http://www.cnrtl.fr/etymologie/nombril
-49258,25,219,courir,,,,courir,,,,,http://www.cnrtl.fr/etymologie/courir
-49259,25,213,ombre,,,,ombre,,,,,http://www.cnrtl.fr/etymologie/ombre
-49260,25,217,sucré,,,,sucré,,,,,http://www.cnrtl.fr/etymologie/sucré
-49262,25,209,cuisse,,,,cuisse,,,,,http://www.cnrtl.fr/etymologie/cuisse
-49263,25,212,hier,,,,hier,,,,,http://www.cnrtl.fr/etymologie/hier
+49251,25,211,mouche,,,,mouche,,,muʃ,,http://www.cnrtl.fr/etymologie/mouche
+49252,25,218,aller ≠ va,,,,aller ≠ va,,,ale va,,http://www.cnrtl.fr/etymologie/aller
+49253,25,225,moudre,,,,moudre,,,mudʁ,,http://www.cnrtl.fr/etymologie/moudre
+49254,25,216,dur,,,,dur,,,dyʁ,,http://www.cnrtl.fr/etymologie/dur
+49255,25,222,cacher,,,,cacher,,,kaʃe,,http://www.cnrtl.fr/etymologie/cacher
+49256,25,214,maison,,,,maison,,,mɛzɔ̃,,http://www.cnrtl.fr/etymologie/maison
+49257,25,210,nombril,,,,nombril,,,nɔ̃bʁil,,http://www.cnrtl.fr/etymologie/nombril
+49258,25,219,courir,,,,courir,,,kuʁiʁ,,http://www.cnrtl.fr/etymologie/courir
+49259,25,213,ombre,,,,ombre,,,ɔ̃bʁ,,http://www.cnrtl.fr/etymologie/ombre
+49260,25,217,sucré,,,,sucré,,,sykʁe,,http://www.cnrtl.fr/etymologie/sucré
+49262,25,209,cuisse,,,,cuisse,,,kwis,,http://www.cnrtl.fr/etymologie/cuisse
+49263,25,212,hier,,,,hier,,,ijɛʁ,,http://www.cnrtl.fr/etymologie/hier
 49264,59,223,plânge,,,,plânge,,'plɨnʤe,'plɨnʤe,,https://dexonline.ro/definitie/a plânge
-49265,25,221,prendre,,,,prendre,,,,,http://www.cnrtl.fr/etymologie/prendre
+49265,25,221,prendre,,,,prendre,,,pʁɑ̃ndʁ,,http://www.cnrtl.fr/etymologie/prendre
 49266,59,224,face,,,,face,,a 'faʧe,a 'faʧe,,https://dexonline.ro/definitie/a face
 49267,59,218,a merge,,,,a merge,,a meɾʤe,a meɾʤe,,https://dexonline.ro/definitie/a merge
 49268,59,225,a măcina,,,,a măcina,,a məʧi'na,a məʧi'na,,https://dexonline.ro/definitie/a măcina
@@ -17387,7 +17387,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 50328,58,212,i går,,,,i går,,,,,
 50330,36,38,borða,,,,borða,,,,,
 50534,174,18,pāysä,,"""breast"", Most freqent termin older texts, mainly used for 'lying on the breast' (before so.);older meaning 'surface' with cognates in Vedic and Avestan",,pāysä,N.m,,paːzə,,
-50563,127,24,do·téit,,,,do·téit,,do'teːd,,,http://dil.ie/40447
+50563,127,24,do·téit,,,,do·téit,,,dʷə'tʲa∅ʲdʲ,,http://dil.ie/40447
 50568,162,140,tikkha,,,,tikkha,,,tikkʰa,,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=pali&searchdomain=headwords&matchtype=start&display=utf8&query=tikkha
 50570,50,208,muṅgī,,,,muṅgī,,muŋgi:,,मुंगी,
 50572,50,215,kaḍū,,,,kaḍū,,kəɖu:,,कडू,
@@ -17483,7 +17483,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Value,Gloss,phon_form,P
 50934,82,209,mlyuwe,,,,mlyuwe,thigh,ˈmlʲuwe,mlʲəwwe,,
 50935,190,55,puče,,,,puče,,,,,
 50936,81,35,tor,,Exact meaning and contrast with twe unclear; cf. Toch. B taur and tweye.,,tor,dust,tor,tor,,
-50937,127,213,scáth,,,,scáth,,skaːθ,,,http://dil.ie/36341
+50937,127,213,scáth,,,,scáth,,,ska∅θ,,http://dil.ie/36341
 50940,105,7,aghá-,,More frequent in (early) RV than pāpá-,,aghá-,"bad, evil",*ɐˈgʱɐ,agʱá-,अघ-,
 50945,95,160,štap,,,,štap,,ʂtɑ̈̂ːp,ʂtâːp,,http://hjp.znanje.hr/index.php?show=search_by_id&id=d1dhWRM
 50946,105,181,vána-,,"Often also vánaspáti- 'lord of the wood' = 'tree', later the general technical term",,vána-,"'wood, tree, forest'",'ʋɐnɐ-,vána-,वन-,http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/servepdf.php?page=917
