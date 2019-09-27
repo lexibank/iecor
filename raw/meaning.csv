@@ -4,9 +4,9 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 3,animal,,,89.1089108910891,False,False,0,,0,,903,619
 4,ash,,,100.0,False,False,0,"The powdery remains of a fire, not the tree species 'ash'.",0,There was nothing left but ash.,132,646
 5,at,,,84.0,False,False,0,,0,He stopped at the rock half way to the village.,904,1461
-6,back,,,97.2677595628415,False,False,0,"The noun, part of the human body, not the English adjective or adverb 'back'. ",0,I fell over and now my back hurts.,51,1291
+6,back,,,97.2527472527473,False,False,0,"The noun, part of the human body, not the English adjective or adverb 'back'. ",0,I fell over and now my back hurts.,51,1291
 7,bad,,,96.6346153846154,False,False,0,,0,That's a bad idea.,151,1292
-8,bark,,,98.7654320987654,False,False,0,The noun for the 'bark' of a tree.  *Not* the verb for the barking of dogs!,0,He tore some bark off the tree.,103,1204
+8,bark,,,98.7577639751553,False,False,0,The noun for the 'bark' of a tree.  *Not* the verb for the barking of dogs!,0,He tore some bark off the tree.,103,1204
 9,because,,,83.6734693877551,False,False,0,,0,,905,1157
 10,belly,,,97.5,False,False,0,,0,He punched him in the belly.,47,1251
 11,big,,,98.9417989417989,False,False,0,,0,This is a big stone. That is a small stone.,169,1202
@@ -16,18 +16,18 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 15,blood,,,97.6608187134503,False,False,0,,0,Blood is red.,58,946
 16,blow,,,90.6432748538012,False,True,0,"The  verb '(to) blow', not the noun for (a) blow from hitting.",0,He blew on the sticks to start the fire.,220,0
 17,bone,,,98.1927710843374,False,False,0,,0,He fell and broke a bone.,57,1394
-18,chest,,,94.9494949494949,True,False,0,The part of the body between shoulders and stomach.  *Not* specifically the female breast.,0,His wore a medal on his chest.,46,1592
+18,chest,,,94.8453608247423,True,False,0,The part of the body between shoulders and stomach.  *Not* specifically the female breast.,0,His wore a medal on his chest.,46,1592
 19,breathe,,,99.3975903614458,False,False,0,,0,People can't breathe underwater. ,218,1407
-20,burn,,,96.5,True,False,0,"Intransitive verb, not transitive.  ",0,The wood is burning in the fire.,280,2102
+20,burn,,,96.4824120603015,True,False,0,"Intransitive verb, not transitive.  ",0,The wood is burning in the fire.,280,2102
 21,child,,,87.1134020618557,False,True,0,"Kin term, for offspring;  *not* about young age, non-adult.  Opposite of 'parent', not of 'adult;. ",0,That is their first child.,67,0
-22,cloud,,,97.6878612716763,False,False,0,,0,There were white clouds in the blue sky.,109,1489
+22,cloud,,,97.7011494252874,False,False,0,,0,There were white clouds in the blue sky.,109,1489
 23,cold,,,100.0,False,False,0,,0,The rocks get hot during the day and cold at night.,157,1287
 24,come,,,99.4708994708995,False,False,0,,0,I saw him on the road. I don't know where he was coming from.,184,1446
 25,count,,,99.4117647058823,False,False,0,,0,I counted the stones; there were five stones.,240,1420
 26,cut,,,96.3730569948187,False,False,0,,0,"I've cut my finger; look, it's bleeding.",272,1432
 27,day,,,97.8260869565217,False,False,0,,0,Day and night.,112,1225
 28,die,,,97.7653631284916,False,False,0,,0,Everyone dies sooner or later.,214,1494
-29,dig,,,94.5054945054945,False,False,0,,0,He is digging in the ground.,292,1418
+29,dig,,,95.0276243093923,False,False,0,,0,He is digging in the ground.,292,1418
 30,dirty,,,97.3958333333333,False,False,0,,0,This cup is clean and that one is dirty.,166,1230
 31,dog,,,99.4413407821229,False,False,0,,0,I would like to own a dog.,79,2009
 32,drink,,,98.2658959537572,False,False,0,,0,He drank because he was thirsty.,232,1401
@@ -72,7 +72,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 71,head,,,97.7900552486188,False,False,0,,0,He has lots of hair on his head.,31,1256
 72,hear,,,99.4186046511628,False,False,0,,0,I heard a noise last night.,206,1408
 73,heart,,,98.8636363636364,False,False,0,,0,His heart was beating fast.,60,1223
-74,heavy,,,97.1751412429379,False,False,0,,0,The rock was very heavy.,164,1210
+74,heavy,,,97.1590909090909,False,False,0,,0,The rock was very heavy.,164,1210
 75,here,,,83.8150289017341,False,True,0,,0,The knife is here.,300,136
 76,hit,,,93.9393939393939,False,False,0,"The verb '(to) hit', not the noun for a blow or strike.",0,He hit the ball with the stick.,270,1433
 77,hold,,,85.8585858585859,False,False,0,,0,He is holding a stick in his hand.,911,1448
@@ -85,7 +85,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 84,if,,,75.7009345794392,False,False,0,,0,"If she does this, then it will happen.",912,1459
 85,in,,,87.7358490566038,False,False,0,,0,The dog is in a basket.,913,1460
 86,kill,,,98.9637305699482,False,False,0,,0,They started fighting. He killed him.,256,1417
-87,knee,,,99.4082840236686,False,False,0,,0,He put his hand on his knee.,54,1371
+87,knee,,,99.4047619047619,False,False,0,,0,He put his hand on his knee.,54,1371
 88,know,,,99.4565217391304,True,False,0,"Know a fact, *not* a person.  I.e. ‘be aware of’, not ‘be acquainted with’.",0,They know that we’re coming.,236,1410
 89,lake,,,97.6331360946746,False,False,0,,0,Her house is beside the lake.,128,624
 90,laugh,,,98.7951807228916,False,False,0,,0,"When I saw him, he was laughing.",242,1355
@@ -131,7 +131,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 130,round,,,96.7741935483871,False,False,0,,0,That table is round.,171,1395
 131,rub,,,82.1052631578947,False,False,0,,0,He rubbed his belly.,918,1449
 132,salt,,,98.2035928143713,False,False,0,,0,She puts too much salt in her food.,139,1274
-133,sand,,,99.4047619047619,False,False,0,,0,She let the sand fall through her hands.,120,671
+133,sand,,,99.4011976047904,False,False,0,,0,She let the sand fall through her hands.,120,671
 134,say,,,97.5728155339806,False,False,0,,0,She said that she would be late.,246,1458
 135,scratch,,,96.4912280701754,False,False,0,,0,She scratched her head.,274,1436
 136,sea,,,98.8826815642458,False,False,0,,0,Her house is beside the sea.,129,1474
@@ -146,7 +146,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 145,sky,,,99.4285714285714,False,False,0,,0,There were white clouds in the blue sky.,108,1732
 146,sleep,,,98.2658959537572,False,False,0,,0,He is sleeping in the house.,216,1585
 147,small,,,97.2826086956522,False,False,0,,0,This is a small stone. That is a big stone.,170,1246
-148,smell,,,96.9325153374233,True,False,0,Verb for a person *perceiving* an odour (transitive).  *Not* the sense of emitting an odour (intransitive).  ,0,I (can) smell smoke.,208,1586
+148,smell,,,96.9135802469136,True,False,0,Verb for a person *perceiving* an odour (transitive).  *Not* the sense of emitting an odour (intransitive).  ,0,I (can) smell smoke.,208,1586
 149,smoke,,,100.0,False,False,0,,0,I could see the smoke from the fire.,131,778
 150,smooth,,,96.1325966850829,False,False,0,,0,He picked a smooth stone from the river.,174,1234
 151,snake,,,97.8947368421053,False,False,0,,0,He jumped when he saw the snake.,89,730
