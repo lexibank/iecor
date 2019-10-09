@@ -15,6 +15,7 @@ Cite the source dataset as
 - **Varieties:** 151
 - **Concepts:** 170
 - **Lexemes:** 24,300
+- **Sources:** 0
 - **Synonymy:** 1.01
 - **Cognacy:** 24,310 cognates in 4,727 cognate sets (2,222 singletons)
 - **Cognate Diversity:** 0.19

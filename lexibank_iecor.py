@@ -274,10 +274,6 @@ class Dataset(BaseDataset):
         ds.add_component(
             'LanguageTable',
             {'name': 'Author_ID', 'separator': ';'},
-            {'name': 'Earliest_Time_Depth_Bound',
-             'datatype': {'base': 'integer', 'minimum': 0}},
-            {'name': 'Latest_Time_Depth_Bound',
-             'datatype': {'base': 'integer', 'minimum': 0}},
             'Description',
             'Variety',
             {'name': 'Clade', 'separator': ';'},

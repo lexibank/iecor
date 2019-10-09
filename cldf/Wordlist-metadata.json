@@ -423,20 +423,6 @@
                         "name": "Author_ID"
                     },
                     {
-                        "datatype": {
-                            "base": "integer",
-                            "minimum": 0
-                        },
-                        "name": "Earliest_Time_Depth_Bound"
-                    },
-                    {
-                        "datatype": {
-                            "base": "integer",
-                            "minimum": 0
-                        },
-                        "name": "Latest_Time_Depth_Bound"
-                    },
-                    {
                         "datatype": "string",
                         "name": "Description"
                     },
