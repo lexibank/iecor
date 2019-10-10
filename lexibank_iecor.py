@@ -146,6 +146,8 @@ class Dataset(BaseDataset):
     def cmd_install(self, **kw):
 
 
+        used_sources = set()
+
         def clean_md(t):
             lines = []
             for line in t.splitlines():
@@ -177,12 +179,14 @@ class Dataset(BaseDataset):
                 shorthand_ref = 'Meyer-Lübke 1935'
 
             if shorthand_ref in shorthand_sources:
+                used_sources.add(shorthand_sources[shorthand_ref])
                 return "[%s](src-%s)" % (
                         shorthand_ref,
                         shorthand_sources[shorthand_ref])
             if ':' in shorthand_ref: # : typo {ref Foo 2000:16-18}
                 arr = shorthand_ref.split(':', 2)
                 if arr[0] in shorthand_sources:
+                    used_sources.add(shorthand_sources[arr[0]])
                     return "[%s](src-%s):%s" % (
                             arr[0], shorthand_sources[arr[0]], arr[1])
             return shorthand_ref
@@ -234,8 +238,6 @@ class Dataset(BaseDataset):
                        'native_script', 'url')
         for src in dicts('source'):
             shorthand_sources[src['shorthand']] = src['id']
-            ds.add_sources(
-                Source(src['ENTRYTYPE'], src['id'], **source_to_kw(src)))
         ds.add_component(dict(
             url='authors.csv',
             tableSchema=dict(columns=[
@@ -274,10 +276,6 @@ class Dataset(BaseDataset):
         ds.add_component(
             'LanguageTable',
             {'name': 'Author_ID', 'separator': ';'},
-            {'name': 'Earliest_Time_Depth_Bound',
-             'datatype': {'base': 'integer', 'minimum': 0}},
-            {'name': 'Latest_Time_Depth_Bound',
-             'datatype': {'base': 'integer', 'minimum': 0}},
             'Description',
             'Variety',
             {'name': 'Clade', 'separator': ';'},
@@ -452,7 +450,6 @@ class Dataset(BaseDataset):
 
         for c in cognates:
             csids.add(c['Cognateset_ID'])
-            c['Source'] = crefs.get(c['ID'], [])
 
         dyen = {
             csid: [d['name'].strip() for d in dyens if d['doubtful'] == 'False']
@@ -603,6 +600,11 @@ class Dataset(BaseDataset):
 
         for cset in dicts('cognateclass', to_cldf=True):
             if cset['ID'] in csids:
+                csrc = csrefs.get(cset['ID'], [])
+                if len(csrc):
+                    for s in csrc:
+                        sid = re.sub(r'^(\d+).*', r'\1', s)
+                        used_sources.add(sid)
                 cset['Source'] = csrefs.get(cset['ID'], [])
                 cset['Dyen'] = sorted(dyen.get(cset['ID'], []))
                 cset['Ideophonic'] = cset['Ideophonic'] == 'True'
@@ -633,8 +635,6 @@ class Dataset(BaseDataset):
         for f in forms:
             f['Comment'] = parse_links_to_markdown(f['Comment'])
             f['Source'] = parse_links_to_markdown(f['Source'])
-        for c in cognates:
-            c['Source'] = parse_links_to_markdown(c['Source'])
         for c in css:
             c['Source'] = parse_links_to_markdown(c['Source'])
 
@@ -652,13 +652,17 @@ class Dataset(BaseDataset):
                     'markup_description': clean_md(read_text(wiki_page)),
                 })
 
+        for src in dicts('source'):
+            if src['id'] in used_sources:
+                ds.add_sources(
+                    Source(src['ENTRYTYPE'], src['id'], **source_to_kw(src)))
+
         ds.write(
             FormTable=forms,
             LanguageTable=[l for l in langs if l['ID'] in lids],
             ParameterTable=meanings,
             CognateTable=cognates,
             CognatesetTable=css,
-            # BorrowingTable=[],
             **{'loans.csv': loans,
                'policies.csv': policies,
                'authors.csv': sorted(authors.values(),

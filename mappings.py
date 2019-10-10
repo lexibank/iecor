@@ -125,8 +125,8 @@ FIELD_MAP = {
             "ascii_name": "ascii_name",
             "utf8_name": "Name",  # -> Name
             "description": "Description",
-            "earliestTimeDepthBound": "Earliest_Time_Depth_Bound",
-            "latestTimeDepthBound": "Latest_Time_Depth_Bound",
+            "earliestTimeDepthBound": "",
+            "latestTimeDepthBound": "",
             "progress": "",
             "author": "Authors",
             "foss_stat": "fossil",
