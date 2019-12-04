@@ -295,7 +295,6 @@ class Dataset(BaseDataset):
                 {'name': 'Dyen', 'separator': ";"},
                 {'name': 'proposedAsCognateTo_pk', 'datatype': {'base': 'integer'}},
                 {'name': 'proposedAsCognateToScale', 'datatype': {'base': 'integer'}},
-                {'name': 'dubiousSet', 'datatype': 'boolean'},
                 {'name': 'parallelDerivation', 'datatype': 'boolean'},
                 'Root_Form_calc',
                 'Root_Language_calc')
@@ -468,6 +467,7 @@ class Dataset(BaseDataset):
 
             for c in cognates:
                 csids.add(c['Cognateset_ID'])
+                c['Doubt'] = False
 
             dyen = {
                 csid: [d['name'].strip() for d in dyens if d['doubtful'] == 'False']
@@ -626,6 +626,7 @@ class Dataset(BaseDataset):
                     cset['Source'] = csrefs.get(cset['ID'], [])
                     cset['Dyen'] = sorted(dyen.get(cset['ID'], []))
                     cset['Ideophonic'] = cset['Ideophonic'] == 'True'
+                    cset['parallelDerivation'] = cset['parallelDerivation'] == 'True'
                     cset['Comment'] = parse_links_to_markdown(cset['Comment'])
                     cset['Justification'] = parse_links_to_markdown(cset['Justification'])
                     cset['revised_by'] = [initials_author_id[a] for a in cset['revised_by'].split(', ')] if cset['revised_by'] else []
@@ -633,6 +634,12 @@ class Dataset(BaseDataset):
                         cset['proposedAsCognateTo_pk'] = ''
                         cset['proposedAsCognateToScale'] = 0
                     css.append(cset)
+
+                    if cset['dubiousSet'] == 'True':
+                        for c in cognates:
+                            if c['Cognateset_ID'] == cset['ID']:
+                                c['Doubt'] = True
+                                break
 
                     if cset['loanword'] == 'True':
                         loans.append({
@@ -729,6 +736,7 @@ class Dataset(BaseDataset):
                     ID = c['ID'],
                     Form_ID = renewed_form_id_map[c['Form_ID']],
                     Cognateset_ID = c['Cognateset_ID'],
+                    Doubt = c['Doubt'],
                 )
 
             ds.write(

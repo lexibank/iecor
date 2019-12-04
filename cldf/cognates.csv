@@ -1008,7 +1008,7 @@ ID,Form_ID,Form,Cognateset_ID,Doubt,Cognate_Detection_Method,Source,Alignment,Al
 4740,21-198-1,,342,false,expert,,,,
 4741,21-199-1,,343,false,expert,,,,
 4744,21-202-1,,346,false,expert,,,,
-4745,21-203-1,,5795,false,expert,,,,
+4745,21-203-1,,5795,true,expert,,,,
 4746,21-204-1,,348,false,expert,,,,
 4747,21-206-1,,350,false,expert,,,,
 4748,21-207-1,,7535,false,expert,,,,

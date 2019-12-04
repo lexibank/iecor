@@ -12,7 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "4d8a4c6"
+            "dc:created": "3082602"
         },
         {
             "rdf:type": "prov:Entity",
@@ -490,10 +490,6 @@
                     {
                         "datatype": "integer",
                         "name": "proposedAsCognateToScale"
-                    },
-                    {
-                        "datatype": "boolean",
-                        "name": "dubiousSet"
                     },
                     {
                         "datatype": "boolean",

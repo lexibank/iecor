@@ -204,8 +204,8 @@ FIELD_MAP = {
             # -> if True, split into individual borrowings!
 
             # notProtoIndoEuropean
-            # dubiousSet:                 always True
-            # parallelDerivation:         13 True
+            "dubiousSet": "dubiousSet",
+            "parallelDerivation": "parallelDerivation",
             "revisedBy": "revised_by",
             # revisedYet
             "ideophonic": "Ideophonic",
