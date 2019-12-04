@@ -1,11 +1,6 @@
 # iecore
 
-Cite the source dataset as
-
-> 
-
 ## Statistics
-
 
 
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
