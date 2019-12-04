@@ -21,6 +21,6 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=1.1.1', 'pycdstar',
+        'pylexibank>=2.1', 'pycdstar',
     ]
 )
