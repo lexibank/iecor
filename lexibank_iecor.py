@@ -275,13 +275,15 @@ class Dataset(BaseDataset):
 
             ds.cldf.add_component(dict(
                 url='authors.csv',
-                tableSchema=dict(columns=[
-                    dict(name='ID'),
-                    dict(name='Last_Name'),
-                    dict(name='First_Name'),
-                    dict(name='URL'),
-                    dict(name='Photo'),
-                ])
+                tableSchema=dict(
+                    columns=[
+                        dict(name='ID'),
+                        dict(name='Last_Name'),
+                        dict(name='First_Name'),
+                        dict(name='URL'),
+                        dict(name='Photo'),
+                    ],
+                    primaryKey=['ID'])
             ))
             ds.cldf.add_component(
                 'CognatesetTable',
@@ -306,12 +308,14 @@ class Dataset(BaseDataset):
                 'Source_languoid',
                 'Source_form',
                 {'name': 'Parallel_loan_event', 'datatype': 'boolean'},
+                primaryKey=['Cognateset_ID'],
             )
             ds.cldf.add_table(
                 'policies.csv',
                 'id',
                 'name',
                 'markup_description',
+                primaryKey=['id'],
             )
             ds.cldf.add_table(
                 'clades.csv',
@@ -329,7 +333,8 @@ class Dataset(BaseDataset):
                 {'name': 'clade_level3','datatype': {'base': 'integer'}},
                 {'name': 'at_most','datatype': {'base': 'integer'}},
                 {'name': 'at_least','datatype': {'base': 'integer'}},
-                'distribution'
+                'distribution',
+                primaryKey=['ID'],
             )
 
             ds.cldf['LanguageTable', 'Author_ID'].separator = ';'
@@ -718,6 +723,8 @@ class Dataset(BaseDataset):
                         Name=l['Name'],
                         Glottocode=l['Glottocode'],
                         ISO639P3code=l['ISO639P3code'],
+                        Longitude=l['Longitude'],
+                        Latitude=l['Latitude'],
                         Author_ID=l['Author_ID'],
                         Description=l['Description'],
                         Variety=l['Variety'],
