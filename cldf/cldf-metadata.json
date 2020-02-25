@@ -12,19 +12,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "f155317"
+            "dc:created": "3b37ce3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0-78-g7e6b0c9c0c"
+            "dc:created": "v4.1-30-ga1ef02e22a"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.0-4-gaadba44"
+            "dc:created": "v2.2.1a-170-ge5f8de2"
         },
         {
             "rdf:type": "prov:Entity",
@@ -420,6 +420,9 @@
                     {
                         "name": "Photo"
                     }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "authors.csv"
@@ -538,6 +541,9 @@
                         "datatype": "boolean",
                         "name": "Parallel_loan_event"
                     }
+                ],
+                "primaryKey": [
+                    "Cognateset_ID"
                 ]
             },
             "url": "loans.csv"
@@ -558,6 +564,9 @@
                         "datatype": "string",
                         "name": "markup_description"
                     }
+                ],
+                "primaryKey": [
+                    "id"
                 ]
             },
             "url": "policies.csv"
@@ -626,6 +635,9 @@
                         "datatype": "string",
                         "name": "distribution"
                     }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "clades.csv"
