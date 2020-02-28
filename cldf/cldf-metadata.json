@@ -6,13 +6,13 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "iecore",
-    "dcat:accessURL": "git@github.com:lexibank/iecor",
+    "dcat:accessURL": "https://github.com/lexibank/iecor",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "3b37ce3"
+            "rdf:about": "https://github.com/lexibank/iecor",
+            "dc:created": "5be4d59"
         },
         {
             "rdf:type": "prov:Entity",

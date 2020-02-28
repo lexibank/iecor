@@ -443,6 +443,8 @@ class Dataset(BaseDataset):
             for lang in langs:
                 lang['historical'] = lang['historical'] == 'True'
                 lang['fossil'] = lang['fossil'] == 'True'
+                lang['Authors'] = re.sub(r'\s*,\s*and\s*',' and ', lang['Authors'])
+                lang['Authors'] = re.sub(r'\s*,\s*',' and ', lang['Authors'])
                 lang['Authors'] = re.sub(r'\s*&\s*',' and ', lang['Authors'])
                 lang['Authors'] = lang['Authors'].split(' and ') if lang[
                     'Authors'] else []
