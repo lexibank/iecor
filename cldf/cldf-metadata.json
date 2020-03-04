@@ -6,25 +6,25 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "iecore",
-    "dcat:accessURL": "git@github.com:lexibank/iecor",
+    "dcat:accessURL": "https://github.com/lexibank/iecor",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "3b37ce3"
+            "rdf:about": "https://github.com/lexibank/iecor",
+            "dc:created": "9bc64c9"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-30-ga1ef02e22a"
+            "dc:created": "v4.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a-170-ge5f8de2"
+            "dc:created": "v2.2.1"
         },
         {
             "rdf:type": "prov:Entity",
