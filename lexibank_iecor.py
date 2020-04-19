@@ -701,6 +701,11 @@ class Dataset(BaseDataset):
                     Description_md = m['Description_md'],
                 )
 
+            # remove newly added columns in order to get a good diff
+            ds.cldf['FormTable'].tableSchema.columns = [
+                c for c in args.writer.cldf['FormTable'].tableSchema.columns
+                if c.name != 'Graphemes' and c.name != 'Profile']
+
             for f in forms:
                 nf = ds.add_form(
                     ID=f['ID'],
