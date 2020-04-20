@@ -12,19 +12,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/iecor",
-            "dc:created": "c22e145"
+            "dc:created": "0001d38"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",
