@@ -1,7 +1,8 @@
 {
-    "title": "iecore",
-    "url": "",
-    "license": "",
+    "title": "CLDF dataset derived from 'Indo-European Cognate Relationships database project' (IE-CoR)",
+    "id": "iecor",
+    "url": "https://iecor.clld.org",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
     "conceptlist": "",
     "citation": ""
 }

@@ -1,6 +1,6 @@
 AUTHOR_MAP = {
     'Tonya Dewey': 'Tonya Kim Dewey-Findell',
-    'Maria-Reina Bastardas': 'Maria Reina Bastardas',
+    'Maria Reina Bastardas': 'Maria-Reina Bastardas',
     'Ganesh Gupta': '',
     'Henrik Liljegren': '',
     'Simone Loi': '',

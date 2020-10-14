@@ -1,0 +1,54 @@
+{
+    "title": "CLDF dataset derived from IE-CoR databases on Cognate Relationships across language families by Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew ",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Paul Heggarty"
+        },
+        {
+            "name": "Cormac Anderson"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Paul Heggarty",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Paul Heggarty",
+            "type": "Editor"
+        },
+        {
+            "name": "Cormac Anderson",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Cormac Anderson",
+            "type": "Editor"
+        },
+        {
+            "name": "Matthew Scarborough",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Matthew Scarborough",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

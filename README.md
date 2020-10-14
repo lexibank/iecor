@@ -1,4 +1,8 @@
-# iecore
+# CLDF dataset derived from IE-CoR databases on Cognate Relationships across language families by Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 
+
+This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+
+Available online at https://iecor.clld.org
 
 ## Statistics
 
@@ -20,3 +24,14 @@
 
 
 - Entries missing sources: 24300/24300 (100.00%)
+
+# Contributors
+
+Name                | GitHub user  | Description                          | Role
+---                 | ---          | ---                                  | ---
+Paul Heggarty       | | Founding Editor | Author, DataCurator, Editor
+Cormac Anderson     | | Founding Editor | Author, DataCurator, Editor
+Matthew Scarborough | |                 | DataCurator, Editor
+Hans-Jörg Bibiko    | @Bibiko       | patron, code     | Maintainer
+
+
