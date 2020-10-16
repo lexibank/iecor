@@ -210,6 +210,7 @@ FIELD_MAP = {
             "ideophonic": "Ideophonic",
             "proposedAsCognateTo_id": "proposedAsCognateTo_pk",
             "proposedAsCognateToScale": "proposedAsCognateToScale",
+            "supersetid": "supersetid",
         },
     'clade': # -> clades.csv
         {

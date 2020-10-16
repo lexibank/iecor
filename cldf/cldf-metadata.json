@@ -1,20 +1,21 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Jena: Max Planck Institute for the Science of Human History",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://iecor.clld.org",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from IE-CoR databases on Cognate Relationships across language families by Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew ",
+    "dc:title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database project\" (IE-CoR) from 2019",
     "dcat:accessURL": "git@github.com:lexibank/iecor",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "7d39503"
+            "dc:created": "4b6711d"
         },
         {
             "rdf:type": "prov:Entity",
@@ -507,6 +508,10 @@
                     {
                         "datatype": "string",
                         "name": "Root_Language_calc"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "supersetid"
                     }
                 ],
                 "primaryKey": [

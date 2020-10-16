@@ -1,4 +1,8 @@
-# CLDF dataset derived from IE-CoR databases on Cognate Relationships across language families by Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 
+# CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew’s "Indo-European Cognate Relationships database project" (IE-CoR) from 2019
+
+Cite the source dataset as
+
+> Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Jena: Max Planck Institute for the Science of Human History
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
