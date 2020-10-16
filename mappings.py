@@ -1,6 +1,6 @@
 AUTHOR_MAP = {
     'Tonya Dewey': 'Tonya Kim Dewey-Findell',
-    'Maria-Reina Bastardas': 'Maria Reina Bastardas',
+    'Maria Reina Bastardas': 'Maria-Reina Bastardas',
     'Ganesh Gupta': '',
     'Henrik Liljegren': '',
     'Simone Loi': '',
@@ -210,6 +210,7 @@ FIELD_MAP = {
             "ideophonic": "Ideophonic",
             "proposedAsCognateTo_id": "proposedAsCognateTo_pk",
             "proposedAsCognateToScale": "proposedAsCognateToScale",
+            "supersetid": "supersetid",
         },
     'clade': # -> clades.csv
         {

@@ -1,0 +1,55 @@
+{
+    "title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database project\" (IE-CoR) from 2019",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Paul Heggarty"
+        },
+        {
+            "name": "Cormac Anderson"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Paul Heggarty",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Paul Heggarty",
+            "type": "Editor"
+        },
+        {
+            "name": "Cormac Anderson",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Cormac Anderson",
+            "type": "Editor"
+        },
+        {
+            "name": "Matthew Scarborough",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Matthew Scarborough",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Heggarty, Paul &amp; Anderson, Cormac &amp; Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Jena: Max Planck Institute for the Science of Human History</p>\n</blockquote>"
+}

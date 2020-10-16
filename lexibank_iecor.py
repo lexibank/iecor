@@ -299,7 +299,8 @@ class Dataset(BaseDataset):
                 {'name': 'proposedAsCognateToScale', 'datatype': {'base': 'integer'}},
                 {'name': 'parallelDerivation', 'datatype': 'boolean'},
                 'Root_Form_calc',
-                'Root_Language_calc')
+                'Root_Language_calc',
+                {'name': 'supersetid', 'datatype': {'base': 'integer'}})
             ds.cldf.add_table(
                 'loans.csv',
                 'Cognateset_ID',

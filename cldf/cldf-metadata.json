@@ -1,18 +1,21 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Jena: Max Planck Institute for the Science of Human History",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:identifier": "https://iecor.clld.org",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "iecore",
-    "dcat:accessURL": "https://github.com/lexibank/iecor",
+    "dc:title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database project\" (IE-CoR) from 2019",
+    "dcat:accessURL": "git@github.com:lexibank/iecor",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/iecor",
-            "dc:created": "0001d38"
+            "rdf:about": "git@github.com:lexibank/iecor",
+            "dc:created": "4b6711d"
         },
         {
             "rdf:type": "prov:Entity",
@@ -24,7 +27,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0-rc.1-39-gd5655c3"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,7 +39,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.6"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
@@ -402,7 +405,7 @@
             "url": "cognates.csv"
         },
         {
-            "dc:extent": 85,
+            "dc:extent": 84,
             "tableSchema": {
                 "columns": [
                     {
@@ -505,6 +508,10 @@
                     {
                         "datatype": "string",
                         "name": "Root_Language_calc"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "supersetid"
                     }
                 ],
                 "primaryKey": [

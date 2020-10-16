@@ -1,5 +1,4 @@
 from setuptools import setup
-import sys
 import json
 
 
@@ -21,6 +20,17 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=2.1', 'pycdstar',
-    ]
+        'pylexibank>=2.7.2',
+        'pycdstar',
+        'pycldf>=1.15.2',
+        'clldutils>=3.5.4',
+        'csvw>=1.8',
+        'nameparser>=1.0.6',
+        'Markdown>=3.2.2',
+    ],
+    extras_require={
+        "test": [
+            "pytest-cldf"
+        ]
+    },
 )

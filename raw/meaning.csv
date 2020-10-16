@@ -202,7 +202,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 201,with,,,89.5604395604396,False,True,0,,0,I saw him walking with a friend.,307,1340
 202,woman,,,96.1722488038278,False,False,0,,0,I saw a man and a woman.,65,962
 203,forest,,,97.8260869565217,False,False,0,,0,There are many animals in the forest.,98,420
-204,worm,,,98.3240223463687,False,False,0,,0,There is a worm in this (insert name of local fruit).,90,1219
+204,worm,,,98.3240223463687,False,False,0,,0,Don’t step on that worm.,90,1219
 205,you_pl.,,,86.0335195530726,False,True,0,^See full meaning description.*,0,^See full meaning description.*,322,0
 206,year,,,99.4594594594595,False,False,0,,0,The year is almost over.,133,1226
 207,yellow,,,97.6047904191617,False,False,0,,0,Egg yolk is yellow,178,1424

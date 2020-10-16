@@ -6,7 +6,7 @@ id,surname,firstNames,email,website,initials,user_id
 5,Kümmel,Martin,martin-joachim.kuemmel@uni-jena.de,www.oriindufa.uni-jena.de/kümmel_martin.html,MJK,27
 6,Macak,Martin,mmacak@ukf.sk,,MM,23
 7,Dewey-Findell,Tonya Kim,tonyakdewey@gmail.com,,TKD,17
-8,Freiberg,Cassandra,cassandra.freiberg@uni-jena.de,,CF,40
+8,Freiberg,Cassandra,cassandra.freiberg@hu-berlin.de,,CF,40
 9,de Vaan,Michiel,Michiel.deVaan@unil.ch,,MDV,37
 10,Pronk,Tijmen,T.C.Pronk@hum.leidenuniv.nl,,TP,35
 11,Jocz,Lechosław,lechoslaw.jocz@gmail.com,https://pwsz-gorzow.academia.edu/Lechos%C5%82awJocz,LJ,18
@@ -20,12 +20,12 @@ id,surname,firstNames,email,website,initials,user_id
 20,Findell,Martin,martin.findell@nottingham.ac.uk,,MF,31
 21,Belyaev,Oleg,obelyaev@gmail.com,,OB,26
 22,Abete,Giovanni,giovanni.abete@gmail.com,,GA,20
-23,Ekici,Deniz,de226@exeter.ac.uk,,DE,45
+23,Ekici,Deniz,deniz.ekici@icloud.com,,DE,45
 24,Kim,Ronald,ronald.kim@yahoo.com,,RK,36
 25,Pooth,Roland,roland.pooth@gmx.de,,RP,28
 26,Serangeli,Matilde,matilde.serangeli@gmail.com,,MS,24
 27,Strand,Richard,strand@sedona.net,http://nuristan.info/,RS,71
-28,Cathcart,Chundra,chundra@berkeley.edu,,CC,9
+28,Cathcart,Chundra,chundra.a.cathcart@gmail.com,,CC,9
 29,Haig,Geoffrey,geoffrey.haig@uni-bamberg.de,https://www.uni-bamberg.de/aspra/mitarbeiter/prof-dr-geoffrey-haig/,GH,29
 30,Anonby,Erik,erik.anonby@carleton.ca,http://iranatlas.net/,EA,
 32,Falileyev,Alexander,a.falileyev@gmail.com,,AF,83
@@ -34,14 +34,14 @@ id,surname,firstNames,email,website,initials,user_id
 37,Dworkin,Stephen,dworkin@umich.edu,,SD,
 38,Loi,Simone,lsloisimone@gmail.com,,SL,
 39,Farridnejad,Shervin,s.farridnejad@fu-berlin.de,,SF,
-40,Mersch,Sam,sam.mersch@uni-jena.de,,SM,
+40,Mersch,Sam,sam.mersch@uni.lu,,SM,
 41,Tittel,Sabine,sabine.tittel@urz.uni-heidelberg.de,,ST,
 42,Videsott,Paul,Paul.Videsott@unibz.it,,PV,
 43,Versloot,Arjen,a.p.versloot@uva.nl,,AV,
 44,Markus,Patrycja,markus.patrycja@yahoo.com,,PM,
 45,Sims-Williams,Nicholas,ns5@soas.ac.uk,,NSW,
 46,Kamal Khan,Muhammad,mkkamazai@hotmail.com,,MKK,
-47,Bastardas,Maria Reina,reina.bastardas@gmail.com,,MRB,
+47,Bastardas,Maria-Reina,reina.bastardas@gmail.com,,MRB,
 48,Widmer,Manuel,manuel.widmer@uzh.ch,,MW,
 49,Purandare,Mandar,purandaremandars@gmail.com,,MP,
 50,Talebi,Mahnaz,alchemist_mahta@yahoo.com,,MT,
@@ -51,7 +51,7 @@ id,surname,firstNames,email,website,initials,user_id
 55,Delorme,Jérémie,jeremie.delorme@unine.ch,,JD,
 56,Liljegren,Henrik,henrik@ling.su.se,,HL,
 57,Pagan,Heather,hap@aber.ac.uk,,HP,
-58,Hammarström,Harald,,Harald.Hammarstrom@lingfil.uu.se,HH,
+58,Hammarström,Harald,Harald.Hammarstrom@lingfil.uu.se,,HH,
 59,Rhys,Guto,gutorhys@yahoo.com,,GR,
 60,Cadorini,Giorgio,giorgio@cadorini.org,,GC,
 61,Gupta,Ganesh,ganeshgupta1@gmail.com,,GG,
