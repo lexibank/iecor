@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "4b6711d"
+            "dc:created": "c558dba"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,7 +27,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-39-gd5655c3"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
