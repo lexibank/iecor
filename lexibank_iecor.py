@@ -10,6 +10,7 @@ from pycldf.sources import Source
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Lexeme, Concept
 from sqlalchemy import create_engine
+from pyconcepticon import Concepticon
 import re
 import attr
 
@@ -17,7 +18,6 @@ from mappings import FIELD_MAP, AUTHOR_MAP
 
 LANGUAGE_LIST = "default"
 MEANING_LIST = "default"
-CONCEPTICON_MAPPING = "raw/Heggarty-2017-200.tsv"
 
 
 def dicts(name, to_cldf=False):
@@ -418,15 +418,12 @@ class Dataset(BaseDataset):
             meanings = [d for d in dicts('meaning', to_cldf=True) if
                         d['ID'] in mids]
 
-            cmapping = {d['ID']: d for d in
-                        dsv.reader(CONCEPTICON_MAPPING, delimiter='\t', dicts=True)}
-
             wikidir = Path(__file__).resolve().parent.parent / 'CoBL.wiki'
+            c_api = Concepticon()
             for m in meanings:
-                m['Concepticon_ID'] = cmapping[m['ID']]['CONCEPTICON_ID']
-                m['Concepticon_Gloss'] = cmapping[m['ID']]['CONCEPTICON_GLOSS']
-                m['Concepticon_Definition'] = cmapping[m['ID']][
-                    'CONCEPTICON_DEFINITION']
+                cl = c_api.conceptsets.get(m['Concepticon_ID'])
+                m['Concepticon_Gloss'] = cl.gloss
+                m['Concepticon_Definition'] = cl.definition
 
                 wiki_data = ''
                 wiki_page = wikidir / 'Meaning:-{0}.md'.format(m['Name'])
