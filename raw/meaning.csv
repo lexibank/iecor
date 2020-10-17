@@ -47,7 +47,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 46,feather,,,97.6047904191617,False,False,0,,0,What bird does this feather come from?,84,1201
 47,few,,,81.1111111111111,False,False,0,,0,It's a small village. There are few houses. (Eng. There are not many houses.),907,1242
 48,fight,,,95.8904109589041,False,False,0,,0,The two men are fighting outside.,254,1423
-49,nail,,,98.1927710843374,False,False,0,"Nail of a finger/toe, not for hammering.",0,He had very long nails on his fingers.,45,0
+49,nail,,,98.1927710843374,False,False,0,"Nail of a finger/toe, not for hammering.",0,He had very long nails on his fingers.,45,1896
 50,fire,,,98.876404494382,False,False,0,,0,"He was cold, so he moved closer to the fire.",130,221
 51,fish,,,99.3865030674847,False,False,0,,0,I can see a fish swimming in the water.,91,227
 52,five,,,98.8095238095238,False,False,0,,0,Four plus one is five.,5,493
@@ -66,7 +66,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 65,grass,,,98.2352941176471,False,False,0,,0,There is grass growing beside the river.,107,606
 66,green,,,98.8439306358381,False,False,0,,0,The grass was fresh and green.,177,1425
 67,guts,,,96.3350785340314,False,False,0,,0,He cut open the animal and pulled out its guts.,49,1334
-68,hair,,,98.4924623115578,False,False,0,"Hair of the head, not the body.  Of people, not of animals.",0,She pulled him by his hair.,32,1040
+68,hair,,,98.4924623115578,False,False,0,"Hair of the head, not the body.  Of people, not of animals.",0,She pulled him by his hair.,32,2648
 69,hand,,,99.4565217391304,False,False,0,,0,He burned his hand.,42,1277
 70,he,,,78.0952380952381,False,False,0,,0,,910,1211
 71,head,,,97.7900552486188,False,False,0,,0,He has lots of hair on his head.,31,1256

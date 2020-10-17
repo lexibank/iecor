@@ -20,6 +20,7 @@ setup(
         ]
     },
     install_requires=[
+        'pyconcepticon'
         'pylexibank>=2.7.2',
         'pycdstar',
         'pycldf>=1.15.2',
