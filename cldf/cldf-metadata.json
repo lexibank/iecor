@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "2f69bda"
+            "dc:created": "55aef78"
         },
         {
             "rdf:type": "prov:Entity",
@@ -405,7 +405,7 @@
             "url": "cognates.csv"
         },
         {
-            "dc:extent": 84,
+            "dc:extent": 83,
             "tableSchema": {
                 "columns": [
                     {
