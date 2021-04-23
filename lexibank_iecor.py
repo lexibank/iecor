@@ -321,13 +321,6 @@ class Dataset(BaseDataset):
                 primaryKey=['Cognateset_ID'],
             )
             ds.cldf.add_table(
-                'policies.csv',
-                'id',
-                'name',
-                'markup_description',
-                primaryKey=['id'],
-            )
-            ds.cldf.add_table(
                 'clades.csv',
                 'ID',
                 'level0_name',
@@ -488,7 +481,6 @@ class Dataset(BaseDataset):
 
             css = []
             loans = []
-            policies = []
 
             lcdict_sorted = sorted(lcdict, key=lambda x: x['cladesOrder'])
             langs_byRank_sorted = sorted(langs, key=lambda x: x['sortRankInClade'])
@@ -672,19 +664,6 @@ class Dataset(BaseDataset):
             for c in css:
                 c['Source'] = parse_links_to_markdown(c['Source'])
 
-            for i, p in enumerate([
-                        # names of wiki pages come soon
-                    ]):
-                wiki_page = wikidir / '{0}.md'.format(p)
-                if not wiki_page.exists():
-                    print('no wiki page for "{}" found'.format(p))
-                else:
-                    policies.append({
-                        'id': str(i + 1),
-                        'name': re.sub(r'^[\d\-]*', '', p).replace('-', ' '),
-                        'markup_description': clean_md(Path.read_text(wiki_page)),
-                    })
-
             for src in dicts('source'):
                 if src['id'] in used_sources:
                     ds.cldf.add_sources(
@@ -759,7 +738,6 @@ class Dataset(BaseDataset):
             ds.write(
                 CognatesetTable=css,
                 **{'loans.csv': loans,
-                   'policies.csv': policies,
                    'authors.csv': sorted(authors.values(),
                                          key=lambda d: d['Last_Name']),
                    'clades.csv': clade_table})

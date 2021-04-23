@@ -13,7 +13,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://iecor.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:lexibank/iecor
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/iecor/tree/2834ae4">git@github.com:lexibank/iecor 2834ae4</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v1.4">CLTS v1.4</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/iecor/tree/8c66a74">git@github.com:lexibank/iecor 8c66a74</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v1.4">CLTS v1.4</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | iecor
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -189,20 +189,6 @@ Name/Property | Datatype | Description
 `Source_languoid` | `string` | 
 `Source_form` | `string` | 
 `Parallel_loan_event` | `boolean` | 
-
-## <a name="table-policiescsv"></a>Table [policies.csv](./policies.csv)
-
-property | value
- --- | ---
-
-
-### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`id` | `string` | Primary key
-`name` | `string` | 
-`markup_description` | `string` | 
 
 ## <a name="table-cladescsv"></a>Table [clades.csv](./clades.csv)
 

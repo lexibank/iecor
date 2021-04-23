@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "2834ae4"
+            "dc:created": "8c66a74"
         },
         {
             "rdf:type": "prov:Entity",
@@ -562,29 +562,6 @@
                 ]
             },
             "url": "loans.csv"
-        },
-        {
-            "dc:extent": 0,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "name": "id"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "name"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "markup_description"
-                    }
-                ],
-                "primaryKey": [
-                    "id"
-                ]
-            },
-            "url": "policies.csv"
         },
         {
             "dc:extent": 36,
