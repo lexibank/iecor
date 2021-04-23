@@ -105,6 +105,8 @@ class IECORLanguage(Language):
     ascii_name = attr.ib(default=None)
     loc_justification = attr.ib(default=None)
     historical = attr.ib(default=False)
+    earliestTimeDepthBound = attr.ib(default=False)
+    latestTimeDepthBound = attr.ib(default=False)
     fossil = attr.ib(default=False)
     sort_order = attr.ib(default=None)
 
@@ -332,8 +334,6 @@ class Dataset(BaseDataset):
                 {'name': 'clade_level1','datatype': {'base': 'integer'}},
                 {'name': 'clade_level2','datatype': {'base': 'integer'}},
                 {'name': 'clade_level3','datatype': {'base': 'integer'}},
-                {'name': 'at_most','datatype': {'base': 'integer'}},
-                {'name': 'at_least','datatype': {'base': 'integer'}},
                 'distribution',
                 primaryKey=['ID'],
             )
@@ -739,6 +739,8 @@ class Dataset(BaseDataset):
                         ascii_name=l['ascii_name'],
                         loc_justification=l['loc_justification'],
                         historical=l['historical'],
+                        earliestTimeDepthBound=l['earliestTimeDepthBound'],
+                        latestTimeDepthBound=l['latestTimeDepthBound'],
                         fossil=l['fossil'],
                         sort_order=l['sort_order'],
                     )
