@@ -85,14 +85,19 @@ TRS
 def iterrefs(type_, refid):
     for id_, items in groupby(
             sorted(dicts(type_), key=lambda i: i[refid]), lambda i: i[refid]):
-        refs = [(i['source_id'],
-            "{0}{1}".format(i['pages'].replace(';', '|'),
-            "{{{0}}}".format(
-                re.sub(r'[\n\r]+', ' ', i['comment'].replace(';', '|'))) if i['comment'] else ''))\
-                    for i in items]
+        refs = [
+            (
+                i['source_id'],
+                "{0}{1}".format(i['pages'].replace(';', '|'),
+                                "{{{0}}}".format(
+                                    re.sub(r'[\n\r]+', ' ', i['comment'].replace(';', '|'))) if i['comment'] else '')
+            )
+            for i in items
+        ]
         refs = ['{0}{1}'.format(sid, '[{0}]'.format(p.strip()) if p else '') for sid, p
                 in refs]
         yield id_, refs
+
 
 @attr.s
 class IECORLanguage(Language):
@@ -105,8 +110,11 @@ class IECORLanguage(Language):
     ascii_name = attr.ib(default=None)
     loc_justification = attr.ib(default=None)
     historical = attr.ib(default=False)
+    earliestTimeDepthBound = attr.ib(default=False)
+    latestTimeDepthBound = attr.ib(default=False)
     fossil = attr.ib(default=False)
     sort_order = attr.ib(default=None)
+
 
 @attr.s
 class IECORLexeme(Lexeme):
@@ -115,6 +123,7 @@ class IECORLexeme(Lexeme):
     Phonemic = attr.ib(default=None)
     native_script = attr.ib(default=None)
     url = attr.ib(default=None)
+
 
 @attr.s
 class IECORConcept(Concept):
@@ -188,11 +197,12 @@ class Dataset(BaseDataset):
                     lines.append(line)
                 return '\\n'.join(lines)
 
-            shorthand_sources = {} # shorthand to scr_id map
+            shorthand_sources = {}  # shorthand to scr_id map
 
             re_ref = re.compile(r'\{ref\s+([^{]+?)\s*\}', re.IGNORECASE)
             re_cog = re.compile(r'(https?://cobl.info)?/cognate/(\d+)/?', re.IGNORECASE)
             re_lex = re.compile(r'(https?://cobl.info)?/lexeme/(\d+)/?', re.IGNORECASE)
+
             def parse_links_to_markdown(s):
                 # format: [label](type-id)  supported types: src/cog/lex
                 # return text for non-found IDs
@@ -203,6 +213,7 @@ class Dataset(BaseDataset):
                 ret = re_cog.sub(make_cognate_link, ret)
                 ret = re_ref.sub(make_source_link, ret)
                 return ret
+
             def make_source_link(m):
                 shorthand_ref = m.groups()[0]
 
@@ -212,30 +223,28 @@ class Dataset(BaseDataset):
 
                 if shorthand_ref in shorthand_sources:
                     used_sources.add(shorthand_sources[shorthand_ref])
-                    return "[%s](src-%s)" % (
-                            shorthand_ref,
-                            shorthand_sources[shorthand_ref])
-                if ':' in shorthand_ref: # : typo {ref Foo 2000:16-18}
+                    return "[{}](src-{})".format(
+                        shorthand_ref,
+                        shorthand_sources[shorthand_ref])
+                if ':' in shorthand_ref:  # : typo {ref Foo 2000:16-18}
                     arr = shorthand_ref.split(':', 2)
                     if arr[0] in shorthand_sources:
                         used_sources.add(shorthand_sources[arr[0]])
-                        return "[%s](src-%s):%s" % (
-                                arr[0], shorthand_sources[arr[0]], arr[1])
+                        return "[{}](src-{}):{}".format(
+                            arr[0], shorthand_sources[arr[0]], arr[1])
                 return shorthand_ref
+
             def make_cognate_link(m):
                 cog_ref = m.groups()[1]
                 if cog_ref in csids:
-                    return "[cognate set %s](cog-%s)" % (
-                            cog_ref,
-                            cog_ref)
-                return 'cognate set %s' % (cog_ref)
+                    return "[cognate set {}](cog-{})".format(cog_ref, cog_ref)
+                return 'cognate set {}'.format(cog_ref)
+
             def make_lexeme_link(m):
                 lex_ref = m.groups()[1]
                 if lex_ref in fids:
-                    return "[lexeme %s](lex-%s)" % (
-                            lex_ref,
-                            lex_ref)
-                return 'lexeme %s' % (lex_ref)
+                    return "[lexeme {}](lex-{})".format(lex_ref, lex_ref)
+                return 'lexeme {}'.format(lex_ref)
 
             authors_dict = dicts('author', to_cldf=True)
             initials_author_id = {a['initials']: a['ID'] for a in authors_dict}
@@ -312,13 +321,6 @@ class Dataset(BaseDataset):
                 primaryKey=['Cognateset_ID'],
             )
             ds.cldf.add_table(
-                'policies.csv',
-                'id',
-                'name',
-                'markup_description',
-                primaryKey=['id'],
-            )
-            ds.cldf.add_table(
                 'clades.csv',
                 'ID',
                 'level0_name',
@@ -328,12 +330,10 @@ class Dataset(BaseDataset):
                 'clade_name',
                 'short_name',
                 'color',
-                {'name': 'clade_level0','datatype': {'base': 'integer'}},
-                {'name': 'clade_level1','datatype': {'base': 'integer'}},
-                {'name': 'clade_level2','datatype': {'base': 'integer'}},
-                {'name': 'clade_level3','datatype': {'base': 'integer'}},
-                {'name': 'at_most','datatype': {'base': 'integer'}},
-                {'name': 'at_least','datatype': {'base': 'integer'}},
+                {'name': 'clade_level0', 'datatype': {'base': 'integer'}},
+                {'name': 'clade_level1', 'datatype': {'base': 'integer'}},
+                {'name': 'clade_level2', 'datatype': {'base': 'integer'}},
+                {'name': 'clade_level3', 'datatype': {'base': 'integer'}},
                 'distribution',
                 primaryKey=['ID'],
             )
@@ -344,30 +344,27 @@ class Dataset(BaseDataset):
             ds.cldf['LanguageTable', 'fossil'].datatype.base = 'boolean'
             ds.cldf['LanguageTable', 'sort_order'].datatype.base = 'integer'
 
-            clade_table = sorted(dicts('clade', to_cldf=True),
-                                key=lambda x: (
-                                    int(x['clade_level0']),
-                                    int(x['clade_level1']),
-                                    int(x['clade_level2']),
-                                    int(x['clade_level3']),
-                                    ))
+            clade_table = sorted(dicts('clade', to_cldf=True), key=lambda x: (
+                int(x['clade_level0']),
+                int(x['clade_level1']),
+                int(x['clade_level2']),
+                int(x['clade_level3'])))
             for i, c in enumerate(clade_table):
-                c['color'] = '#%s' % (c['color'])
+                c['color'] = '#{}'.format(c['color'])
 
             clades = {d['id']: d for d in dicts('clade')}
             cladesObj = dicts('clade')
             lcdict = dicts('languageclade')
             l2clade = {d['language_id']: clades[d['clade_id']] for d in lcdict}
-            for lc in sorted(lcdict,
-                    key=lambda d: d['cladesOrder'], reverse=True):
+            for lc in sorted(lcdict, key=lambda d: d['cladesOrder'], reverse=True):
                 llid = lc['language_id']
-                if clades[lc['clade_id']]['shortName'] and not 'clade_name' in l2clade[llid]:
+                if clades[lc['clade_id']]['shortName'] and 'clade_name' not in l2clade[llid]:
                     l2clade[llid]['clade_name'] = clades[lc['clade_id']]['cladeName']
-                if not 'cladeNames' in l2clade[llid]:
+                if 'cladeNames' not in l2clade[llid]:
                     l2clade[llid]['cladeNames'] = []
                 l2clade[llid]['cladeNames'].append(clades[lc['clade_id']]['cladeName'])
                 l2clade[llid]['cladeNames'] = [x for i, x in enumerate(l2clade[llid]['cladeNames'])
-                    if l2clade[llid]['cladeNames'].index(x) == i]
+                                               if l2clade[llid]['cladeNames'].index(x) == i]
 
             llists = {d['id']: (d['name'], set()) for d in dicts('languagelist')}
             for llid, _ds in groupby(
@@ -392,15 +389,15 @@ class Dataset(BaseDataset):
             langs = [d for d in dicts('language', to_cldf=True) if
                      d['notInExport'] == 'False' and d['ID'] in llists[
                          LANGUAGE_LIST]]
-            lang_urls = {l['ID']: l.pop('url') for l in langs}
+            lang_urls = {lg['ID']: lg.pop('url') for lg in langs}
             for i, lang in enumerate(sorted(langs, key=lambda x: (
-                int(x['level0']), int(x['level1']), int(x['level2']),
-                int(x['level3'] or 0), int(x['sortRankInClade'])))):
+                    int(x['level0']), int(x['level1']), int(x['level2']),
+                    int(x['level3'] or 0), int(x['sortRankInClade'])))):
                 lang.update(
                     Clade=l2clade[lang['ID']]['cladeNames'],
                     Color=l2clade[lang['ID']]['hexColor'],
                     clade_name=l2clade[lang['ID']]['clade_name'],
-                    sort_order=i+1)
+                    sort_order=i + 1)
             lids = set(d['ID'] for d in langs)
             forms = [f for f in dicts('lexeme', to_cldf=True) if
                      f['Form'] and (f['Language_ID'] in lids and f[
@@ -428,7 +425,7 @@ class Dataset(BaseDataset):
                 wiki_data = ''
                 wiki_page = wikidir / 'Meaning:-{0}.md'.format(m['Name'])
                 if not wiki_page.exists():
-                    print('no wiki page for "%s" found' % (m['Name']))
+                    print('no wiki page for "{}" found'.format(m['Name']))
                     wiki_page = wikidir / 'DO-Meaning:-{0}.md'.format(m['Name'])
                     if wiki_page.exists():
                         wiki_data = '##### Illustrative Context\n_' +\
@@ -441,9 +438,9 @@ class Dataset(BaseDataset):
             for lang in langs:
                 lang['historical'] = lang['historical'] == 'True'
                 lang['fossil'] = lang['fossil'] == 'True'
-                lang['Authors'] = re.sub(r'\s*,\s*and\s*',' and ', lang['Authors'])
-                lang['Authors'] = re.sub(r'\s*,\s*',' and ', lang['Authors'])
-                lang['Authors'] = re.sub(r'\s*&\s*',' and ', lang['Authors'])
+                lang['Authors'] = re.sub(r'\s*,\s*and\s*', ' and ', lang['Authors'])
+                lang['Authors'] = re.sub(r'\s*,\s*', ' and ', lang['Authors'])
+                lang['Authors'] = re.sub(r'\s*&\s*', ' and ', lang['Authors'])
                 lang['Authors'] = lang['Authors'].split(' and ') if lang[
                     'Authors'] else []
                 lang['Authors'] = [AUTHOR_MAP.get(a, a) or a for a in
@@ -484,7 +481,6 @@ class Dataset(BaseDataset):
 
             css = []
             loans = []
-            policies = []
 
             lcdict_sorted = sorted(lcdict, key=lambda x: x['cladesOrder'])
             langs_byRank_sorted = sorted(langs, key=lambda x: x['sortRankInClade'])
@@ -509,7 +505,7 @@ class Dataset(BaseDataset):
                         intersection = newcIdOrderMap.keys() & cladeIdOrderMap.keys()
                         cladeIdOrderMap.update(newcIdOrderMap)
                         cladeIdOrderMap = {k: v for k, v in cladeIdOrderMap.items()
-                                               if k in intersection}
+                                           if k in intersection}
                 # Retrieving the Clade:
                 if cladeIdOrderMap:
                     cId = min(cladeIdOrderMap, key=cladeIdOrderMap.get)
@@ -550,7 +546,7 @@ class Dataset(BaseDataset):
                     for i in loans:
                         if i['Cognateset_ID'] == cid:
                             if len(i['Source_form']) > 0:
-                                return "(%s)" % i['Source_form']
+                                return "({})".format(i['Source_form'])
                             else:
                                 break
                 # Branch lookup
@@ -558,15 +554,15 @@ class Dataset(BaseDataset):
                     [i['Form_ID'] for i in cognates if i['Cognateset_ID'] == cid]
                 )
                 affectedLgIds = set(
-                        [i['Language_ID'] for i in forms if i['ID'] in affectedFormIds]
-                    )
-                commonCladeIds = [i['clade_id'] for i in lcdict_sorted if
-                                                 i['language_id'] in affectedLgIds]
+                    [i['Language_ID'] for i in forms if i['ID'] in affectedFormIds])
+                commonCladeIds = [i['clade_id'] for i in lcdict_sorted
+                                  if i['language_id'] in affectedLgIds]
                 if commonCladeIds:
                     commonCladeIds = commonCladeIds[0]
-                    affectedLgIdsByClade = [i['language_id'] for i in lcdict_sorted \
+                    affectedLgIdsByClade = [
+                        i['language_id'] for i in lcdict_sorted
                         if i['clade_id'] == commonCladeIds and i['language_id'] in affectedLgIds]
-                    foundLangs = list() # order is important
+                    foundLangs = list()  # order is important
                     for aid in affectedLgIdsByClade:
                         for i in langs_byRank_sorted:
                             if i['ID'] == aid:
@@ -610,13 +606,13 @@ class Dataset(BaseDataset):
                 parentCladeTaxonsetName = getCladeFromLanguageIds(set(
                     i['Language_ID'] for i in forms if i['ID'] in affectedFormIds))
                 if parentCladeTaxonsetName is not None:
-                    return "(%s)" % parentCladeTaxonsetName
+                    return "({})".format(parentCladeTaxonsetName)
                 # Maybe we can use loan_source:
                 if cset['loanword'] == 'True':
                     for i in loans:
                         if i['Cognateset_ID'] == cid:
                             if len(i['Source_languoid']) > 0:
-                                return "(%s)" % i['Source_languoid']
+                                return "({})".format(i['Source_languoid'])
                             else:
                                 break
                 return ''
@@ -668,20 +664,6 @@ class Dataset(BaseDataset):
             for c in css:
                 c['Source'] = parse_links_to_markdown(c['Source'])
 
-
-            for i, p in enumerate([
-                        # names of wiki pages come soon
-                    ]):
-                wiki_page = wikidir / '{0}.md'.format(p)
-                if not wiki_page.exists():
-                    print('no wiki page for "%s" found' % (p))
-                else:
-                    policies.append({
-                        'id': str(i+1),
-                        'name': re.sub(r'^[\d\-]*', '', p).replace('-', ' '),
-                        'markup_description': clean_md(Path.read_text(wiki_page)),
-                    })
-
             for src in dicts('source'):
                 if src['id'] in used_sources:
                     ds.cldf.add_sources(
@@ -691,12 +673,12 @@ class Dataset(BaseDataset):
 
             for m in meanings:
                 ds.add_concept(
-                    ID = m['ID'],
-                    Name = m['Name'],
-                    Concepticon_ID = m['Concepticon_ID'],
-                    Concepticon_Gloss = m['Concepticon_Gloss'],
-                    Concepticon_Definition = m['Concepticon_Definition'],
-                    Description_md = m['Description_md'],
+                    ID=m['ID'],
+                    Name=m['Name'],
+                    Concepticon_ID=m['Concepticon_ID'],
+                    Concepticon_Gloss=m['Concepticon_Gloss'],
+                    Concepticon_Definition=m['Concepticon_Definition'],
+                    Description_md=m['Description_md'],
                 )
 
             # remove newly added columns in order to get a good diff
@@ -721,40 +703,41 @@ class Dataset(BaseDataset):
                 )
                 renewed_form_id_map[f['ID']] = nf['ID']
 
-            for l in langs:
-                if l['ID'] in lids:
+            for lg in langs:
+                if lg['ID'] in lids:
                     ds.add_language(
-                        ID=l['ID'],
-                        Name=l['Name'],
-                        Glottocode=l['Glottocode'],
-                        ISO639P3code=l['ISO639P3code'],
-                        Longitude=l['Longitude'],
-                        Latitude=l['Latitude'],
-                        Author_ID=l['Author_ID'],
-                        Description=l['Description'],
-                        Variety=l['Variety'],
-                        Clade=l['Clade'],
-                        clade_name=l['clade_name'],
-                        Color=l['Color'],
-                        ascii_name=l['ascii_name'],
-                        loc_justification=l['loc_justification'],
-                        historical=l['historical'],
-                        fossil=l['fossil'],
-                        sort_order=l['sort_order'],
+                        ID=lg['ID'],
+                        Name=lg['Name'],
+                        Glottocode=lg['Glottocode'],
+                        ISO639P3code=lg['ISO639P3code'],
+                        Longitude=lg['Longitude'],
+                        Latitude=lg['Latitude'],
+                        Author_ID=lg['Author_ID'],
+                        Description=lg['Description'],
+                        Variety=lg['Variety'],
+                        Clade=lg['Clade'],
+                        clade_name=lg['clade_name'],
+                        Color=lg['Color'],
+                        ascii_name=lg['ascii_name'],
+                        loc_justification=lg['loc_justification'],
+                        historical=lg['historical'],
+                        earliestTimeDepthBound=lg['earliestTimeDepthBound'],
+                        latestTimeDepthBound=lg['latestTimeDepthBound'],
+                        fossil=lg['fossil'],
+                        sort_order=lg['sort_order'],
                     )
 
             for c in cognates:
                 ds.add_cognate(
-                    ID = c['ID'],
-                    Form_ID = renewed_form_id_map[c['Form_ID']],
-                    Cognateset_ID = c['Cognateset_ID'],
-                    Doubt = c['Doubt'],
+                    ID=c['ID'],
+                    Form_ID=renewed_form_id_map[c['Form_ID']],
+                    Cognateset_ID=c['Cognateset_ID'],
+                    Doubt=c['Doubt'],
                 )
 
             ds.write(
                 CognatesetTable=css,
                 **{'loans.csv': loans,
-                   'policies.csv': policies,
                    'authors.csv': sorted(authors.values(),
                                          key=lambda d: d['Last_Name']),
                    'clades.csv': clade_table})

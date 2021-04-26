@@ -15,13 +15,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "55aef78"
+            "dc:created": "8c66a74"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
@@ -263,6 +263,14 @@
                     {
                         "datatype": "boolean",
                         "name": "historical"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "earliestTimeDepthBound"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "latestTimeDepthBound"
                     },
                     {
                         "datatype": "boolean",
@@ -556,29 +564,6 @@
             "url": "loans.csv"
         },
         {
-            "dc:extent": 0,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "name": "id"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "name"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "markup_description"
-                    }
-                ],
-                "primaryKey": [
-                    "id"
-                ]
-            },
-            "url": "policies.csv"
-        },
-        {
             "dc:extent": 36,
             "tableSchema": {
                 "columns": [
@@ -629,14 +614,6 @@
                     {
                         "datatype": "integer",
                         "name": "clade_level3"
-                    },
-                    {
-                        "datatype": "integer",
-                        "name": "at_most"
-                    },
-                    {
-                        "datatype": "integer",
-                        "name": "at_least"
                     },
                     {
                         "datatype": "string",
