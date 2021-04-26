@@ -110,8 +110,12 @@ class IECORLanguage(Language):
     ascii_name = attr.ib(default=None)
     loc_justification = attr.ib(default=None)
     historical = attr.ib(default=False)
-    earliestTimeDepthBound = attr.ib(default=False)
-    latestTimeDepthBound = attr.ib(default=False)
+    distribution = attr.ib(default=False)
+    logNormalMean = attr.ib(default=False)
+    logNormalOffset = attr.ib(default=False)
+    logNormalStDev = attr.ib(default=False)
+    normalMean = attr.ib(default=False)
+    normalStDev = attr.ib(default=False)
     fossil = attr.ib(default=False)
     sort_order = attr.ib(default=None)
 
@@ -151,11 +155,6 @@ class Dataset(BaseDataset):
             'lastEditedBy',
             'lastTouched',
             'modified',
-            'logNormalMean',
-            'logNormalOffset',
-            'logNormalStDev',
-            'normalMean',
-            'normalStDev',
         ]
 
         dbc = create_engine('postgresql://postgres@/cobl_old')
@@ -334,7 +333,6 @@ class Dataset(BaseDataset):
                 {'name': 'clade_level1', 'datatype': {'base': 'integer'}},
                 {'name': 'clade_level2', 'datatype': {'base': 'integer'}},
                 {'name': 'clade_level3', 'datatype': {'base': 'integer'}},
-                'distribution',
                 primaryKey=['ID'],
             )
 
@@ -343,6 +341,11 @@ class Dataset(BaseDataset):
             ds.cldf['LanguageTable', 'historical'].datatype.base = 'boolean'
             ds.cldf['LanguageTable', 'fossil'].datatype.base = 'boolean'
             ds.cldf['LanguageTable', 'sort_order'].datatype.base = 'integer'
+            ds.cldf['LanguageTable', 'logNormalMean'].datatype.base = 'integer'
+            ds.cldf['LanguageTable', 'logNormalOffset'].datatype.base = 'integer'
+            ds.cldf['LanguageTable', 'logNormalStDev'].datatype.base = 'float'
+            ds.cldf['LanguageTable', 'normalMean'].datatype.base = 'integer'
+            ds.cldf['LanguageTable', 'normalStDev'].datatype.base = 'integer'
 
             clade_table = sorted(dicts('clade', to_cldf=True), key=lambda x: (
                 int(x['clade_level0']),
@@ -704,6 +707,11 @@ class Dataset(BaseDataset):
                 renewed_form_id_map[f['ID']] = nf['ID']
 
             for lg in langs:
+                lg_dist = ''
+                if lg['distribution'] == 'N':
+                    lg_dist = 'Normal'
+                elif lg['distribution'] == 'O':
+                    lg_dist = 'Offset log normal'
                 if lg['ID'] in lids:
                     ds.add_language(
                         ID=lg['ID'],
@@ -721,8 +729,12 @@ class Dataset(BaseDataset):
                         ascii_name=lg['ascii_name'],
                         loc_justification=lg['loc_justification'],
                         historical=lg['historical'],
-                        earliestTimeDepthBound=lg['earliestTimeDepthBound'],
-                        latestTimeDepthBound=lg['latestTimeDepthBound'],
+                        distribution=lg_dist,
+                        logNormalMean=int(lg['logNormalMean']) if lg['logNormalMean'] else '',
+                        logNormalOffset=int(lg['logNormalOffset']) if lg['logNormalOffset'] else '',
+                        logNormalStDev=float(lg['logNormalStDev']) if lg['logNormalStDev'] else '',
+                        normalMean=int(lg['normalMean']) if lg['normalMean'] else '',
+                        normalStDev=int(lg['normalStDev']) if lg['normalStDev'] else '',
                         fossil=lg['fossil'],
                         sort_order=lg['sort_order'],
                     )

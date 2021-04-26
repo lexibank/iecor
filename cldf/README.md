@@ -13,7 +13,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://iecor.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:lexibank/iecor
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/iecor/tree/8c66a74">git@github.com:lexibank/iecor 8c66a74</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v1.4">CLTS v1.4</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/iecor/tree/6fbb33e">git@github.com:lexibank/iecor 6fbb33e</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v1.4">CLTS v1.4</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | iecor
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -78,8 +78,12 @@ Name/Property | Datatype | Description
 `ascii_name` | `string` | 
 `loc_justification` | `string` | 
 `historical` | `boolean` | 
-`earliestTimeDepthBound` | `string` | 
-`latestTimeDepthBound` | `string` | 
+`distribution` | `string` | 
+`logNormalMean` | `integer` | 
+`logNormalOffset` | `integer` | 
+`logNormalStDev` | `float` | 
+`normalMean` | `integer` | 
+`normalStDev` | `integer` | 
 `fossil` | `boolean` | 
 `sort_order` | `integer` | 
 
@@ -213,5 +217,4 @@ Name/Property | Datatype | Description
 `clade_level1` | `integer` | 
 `clade_level2` | `integer` | 
 `clade_level3` | `integer` | 
-`distribution` | `string` | 
 

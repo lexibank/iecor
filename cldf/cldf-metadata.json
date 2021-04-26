@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/iecor",
-            "dc:created": "8c66a74"
+            "dc:created": "6fbb33e"
         },
         {
             "rdf:type": "prov:Entity",
@@ -266,11 +266,27 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "earliestTimeDepthBound"
+                        "name": "distribution"
                     },
                     {
-                        "datatype": "string",
-                        "name": "latestTimeDepthBound"
+                        "datatype": "integer",
+                        "name": "logNormalMean"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "logNormalOffset"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "logNormalStDev"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "normalMean"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "normalStDev"
                     },
                     {
                         "datatype": "boolean",
@@ -614,10 +630,6 @@
                     {
                         "datatype": "integer",
                         "name": "clade_level3"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "distribution"
                     }
                 ],
                 "primaryKey": [
