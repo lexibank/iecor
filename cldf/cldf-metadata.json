@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:lexibank/iecor",
             "rdf:type": "prov:Entity",
-            "dc:created": "43ba1c7",
+            "dc:created": "cb7186a",
             "dc:title": "Repository"
         },
         {
@@ -32,7 +32,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0-1-gec173ae",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
