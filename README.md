@@ -1,8 +1,14 @@
 # CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew’s "Indo-European Cognate Relationships database project" (IE-CoR) from 2019
 
-Cite the source dataset as
+## How to cite
 
-> Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Jena: Max Planck Institute for the Science of Human History
+If you use these data please cite
+- the original source
+  > Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Leipzig: Max Planck Institute for Evolutionary Anthropology
+- the derived dataset using the DOI of the [particular released version](releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
@@ -39,3 +45,10 @@ Matthew Scarborough | |                 | DataCurator, Editor
 Hans-Jörg Bibiko    | @Bibiko       | patron, code     | Maintainer
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
