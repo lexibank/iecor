@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:lexibank/iecor",
             "rdf:type": "prov:Entity",
-            "dc:created": "cb7186a",
+            "dc:created": "v1.0-12-g4a07bc8",
             "dc:title": "Repository"
         },
         {
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 24300,
+            "dc:extent": 25918,
             "tableSchema": {
                 "columns": [
                     {
@@ -130,6 +130,11 @@
                     },
                     {
                         "datatype": "string",
+                        "separator": " ",
+                        "name": "Phonemic_Segments"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "native_script"
                     },
                     {
@@ -169,7 +174,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 151,
+            "dc:extent": 161,
             "tableSchema": {
                 "columns": [
                     {
@@ -345,7 +350,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 24310,
+            "dc:extent": 25928,
             "tableSchema": {
                 "columns": [
                     {
@@ -429,7 +434,7 @@
             "url": "cognates.csv"
         },
         {
-            "dc:extent": 83,
+            "dc:extent": 91,
             "tableSchema": {
                 "columns": [
                     {
@@ -456,7 +461,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
-            "dc:extent": 4727,
+            "dc:extent": 5013,
             "tableSchema": {
                 "columns": [
                     {
@@ -545,7 +550,7 @@
             "url": "cognatesets.csv"
         },
         {
-            "dc:extent": 862,
+            "dc:extent": 1039,
             "tableSchema": {
                 "columns": [
                     {
@@ -580,7 +585,7 @@
             "url": "loans.csv"
         },
         {
-            "dc:extent": 36,
+            "dc:extent": 40,
             "tableSchema": {
                 "columns": [
                     {

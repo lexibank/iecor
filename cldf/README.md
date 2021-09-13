@@ -13,7 +13,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://iecor.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:lexibank/iecor
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/iecor/tree/cb7186a">git@github.com:lexibank/iecor cb7186a</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/iecor/tree/4a07bc8">git@github.com:lexibank/iecor v1.0-12-g4a07bc8</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.9.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | iecor
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -24,7 +24,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 24300
+[dc:extent](http://purl.org/dc/terms/extent) | 25918
 
 
 ### Columns
@@ -45,6 +45,7 @@ Name/Property | Datatype | Description
 `Gloss` | `string` | 
 `phon_form` | `string` | 
 `Phonemic` | `string` | 
+`Phonemic_Segments` | list of `string` (separated by ` `) | 
 `native_script` | `string` | 
 `url` | `string` | 
 
@@ -53,7 +54,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 151
+[dc:extent](http://purl.org/dc/terms/extent) | 161
 
 
 ### Columns
@@ -111,7 +112,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 24310
+[dc:extent](http://purl.org/dc/terms/extent) | 25928
 
 
 ### Columns
@@ -133,7 +134,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 83
+[dc:extent](http://purl.org/dc/terms/extent) | 91
 
 
 ### Columns
@@ -151,7 +152,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognatesetTable](http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 4727
+[dc:extent](http://purl.org/dc/terms/extent) | 5013
 
 
 ### Columns
@@ -180,7 +181,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 862
+[dc:extent](http://purl.org/dc/terms/extent) | 1039
 
 
 ### Columns
@@ -198,7 +199,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 36
+[dc:extent](http://purl.org/dc/terms/extent) | 40
 
 
 ### Columns
