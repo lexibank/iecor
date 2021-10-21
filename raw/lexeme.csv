@@ -3949,7 +3949,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9063,40,21,bačə,,,cf. /cognate/759/,19,False,True,,,,BOKUT
 9064,40,22,abor,ɑbʊr,,,20,False,False,ɑbor,,,اَبُر
 9066,40,24,iyon,ijon,,,22,False,False,ejon,,,ایون
-9067,40,25,ɡanzron,ɡɑ̃zron,,,23,False,False,ɡɑnzron,,,گنزرُن
+9067,40,25,ganzron,ɡɑ̃zron,,,23,False,False,ɡɑnzron,,,گنزرُن
 9069,40,27,doh,dɔh,,,25,False,False,dɔh,,,دوہ
 9070,40,28,maron,mɑron,,,26,False,False,mɑron,,,مَرُن
 9071,40,29,khanon,kʰɑnon,,,27,False,False,kʰɑnon,,,کھنُن
@@ -3973,7 +3973,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9089,40,47,kinh        ,kẽh,,,45,False,False,kenh,,,کنہ 
 9090,40,48,tsowon,tsʊʋon,,,46,False,False,tsoʋon,,,ژُون
 9091,40,50,naar,nɑːr,,,47,False,False,nɑːr,,,نار
-9092,40,51,ɡaaṛ,ɡɑːɽ,,,48,False,False,ɡɑːɽ,,,گاڑ
+9092,40,51,gaaṛ,ɡɑːɽ,,,48,False,False,ɡɑːɽ,,,گاڑ
 9093,40,52,paantsh,pɑ̃ːtsʰ,,,49,False,False,pɑːntsʰ,,,پانژھ
 9094,40,53,taron,t̪əron,,,50,False,False,t̪əron,,,تَرُن
 9095,40,54,pakon,pɑkon,,,51,False,False,pɑkon,,,پکُن
@@ -3982,11 +3982,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9098,40,57,waen,ʋɨnə,,,54,False,False,ʋɨnə,,,ونئہ
 9099,40,58,khɔr,,, ,55,False,True,,,,KHOR
 9100,40,59,tsɔɔr,tsɔːr,,,56,False,False,tsɔːr,,,ژور
-9101,40,60,šuh laɡon,ʃuh lʌɡon,,,57,False,False,ʃuh lɑɡon,,,شوہ لگُن
+9101,40,60,šuh lagon,ʃuh lʌɡon,,,57,False,False,ʃuh lɑɡon,,,شوہ لگُن
 9102,40,61,mɛwə,mɛʋ,,,58,False,False,mɛʋ,,,میو
 9103,40,63,dyon,d̪ʲon,,,59,False,False,d̪jon,,,دیون
 9104,40,64,rut,rut̪,,,60,False,False,rut̪,,,رُت
-9105,40,65,ɡaasə,ɡɑːsɨ,,,61,False,False,ɡɑːsə,,,گاسہ
+9105,40,65,gaasə,ɡɑːsɨ,,,61,False,False,ɡɑːsə,,,گاسہ
 9106,40,66,nyuul,nʲuːl,,Related to /lexeme/32714/?,62,False,False,njuːl,,,نیوُل
 9107,40,67,ḍom,ɖʊm,,,63,False,False,ɖom,,,ڈُم
 9108,40,68,mas,mɑs,,,64,False,False,mɑs,,,مَس
@@ -3994,7 +3994,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9111,40,71,kallə,kɑllɨ,,,67,False,False,kɑllə,,,کلہ
 9112,40,72,bozun,bɔzon,,,68,False,False,bɔzon,,,بُوزُن
 9113,40,73,dil,,,,69,False,True,,,,DIL
-9114,40,74,ɡʊb,ɡʊb,,,70,False,False,ɡob,,,گُبہ
+9114,40,74,gʊb,ɡʊb,,,70,False,False,ɡob,,,گُبہ
 9115,40,75,yatut,hut̪ʲ,, ,71,False,True,hut̪i,,,یتُت
 9116,40,76,layon,lɑːjon,,,72,False,False,lɑːjon,,,لایوں
 9117,40,77,raṭon,rʌʈon,, ,73,False,False,rɑʈon,,,رٹُن
@@ -4010,7 +4010,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9128,40,90,ason,ɑson,,,84,False,False,ɑson,,,اسُن
 9129,40,91,pan patər,pɑnpɨt̪ɨr,,,85,False,False,pɑnɨ pɨt̪ər,,,پنَ پتر
 9130,40,92,khohoṛ,kʰohʊɽ,,,86,False,False,kʰohoɽ,,,کھُہوڑ
-9131,40,93,zanɡ,zɑŋ,,,87,False,False,zɑŋ,,,زنگ
+9131,40,93,zang,zɑŋ,,,87,False,False,zɑŋ,,,زنگ
 9132,40,95,lason,,, ,88,False,True,,,,لَسُن
 9133,40,96,krehnmaaz,,,,89,False,True,,,,KREHNMAAZ
 9134,40,97,zyuuṭh,zʲoːʈ,,,90,False,False,zjoːʈʰ,,,زیوٹھ
@@ -4022,9 +4022,9 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9140,40,104,baal,,, ,96,False,True,,,,BAAL
 9141,40,105,buth,,,,97,False,True,,,,BUTH
 9142,40,106,naw,nɑːʋ,,,98,False,False,nɑːʋ,,,ناوء
-9143,40,107,tanɡ,t̪ɑŋ,,,99,False,False,t̪ɑŋ,,,تنگ
+9143,40,107,tang,t̪ɑŋ,,,99,False,False,t̪ɑŋ,,,تنگ
 9144,40,108,nakhə,nɑkʰɨ,,,100,False,False,nɑkʰɨ,,,نکھہ
-9145,40,109,ɡardan,ɡɑrd̪ɑn,,,101,False,False,ɡɑrd̪ɑn,,,گردن
+9145,40,109,gardan,ɡɑrd̪ɑn,,,101,False,False,ɡɑrd̪ɑn,,,گردن
 9146,40,110,now,noʋ,,,102,False,False,noʋ,,,وکِبس
 9147,40,111,raath,rɑːt̪ʰ,,,103,False,False,rɑːtʰ,,,راتھ
 9148,40,112,nas,nɑs,,,104,False,False,nɑs,,,نس
@@ -4032,7 +4032,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9150,40,114,proon,proːn,,,106,False,False,proːn,,,پُرون
 9151,40,115,akh,ɑkʰ,,,107,False,False,ɑkʰ,,,اکھ
 9153,40,117,insaan,insɑːn,,,109,False,False,insɑːn,,,انسان
-9154,40,118,ɡindon,ɡĩd̪on,,,110,False,False,ɡind̪on,,,گندُن
+9154,40,118,gindon,ɡĩd̪on,,,110,False,False,ɡind̪on,,,گندُن
 9155,40,119,lamon,lɑmon,,,111,False,False,lɑmon,,,لَمُن
 9156,40,120,dabawon,d̪ɑbɑʋon,,,112,False,False,d̪ɑbɑʋon,,,دباوُن
 9157,40,121,ruud pyon,,,,113,False,True,,,,
@@ -4054,11 +4054,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9173,40,139,sowon,sʊʋon,,,129,False,False,soʋon,,,سووُن
 9174,40,140,tɛɛz,t̪ɛːz,,,130,False,False,t̪ɛːz,,,تیز
 9175,40,141,tshoṭ,tsʰʊʈ,,,131,False,False,tsʰoʈ,,,ژھُ ٹ
-9176,40,142,ɡewon,ʝɛʋon,,,132,False,False,ɡɛʋon,,,گیون
+9176,40,142,gewon,ʝɛʋon,,,132,False,False,ɡɛʋon,,,گیون
 9177,40,143,bihon,bihon,,,133,False,False,bihon,,,بِہون
 9178,40,144,tsam,tsɑm,,,134,False,False,tsɑm,,,ژم
 9179,40,145,nab,ɑsmɑːn,,please revise!,135,False,False,ɑsmɑːn,,,اسمان
-9180,40,146,šoŋɡon,ʃoŋɡon,,,136,False,False,ʃoŋɡon,,,شُنگُن
+9180,40,146,šoŋgon,ʃoŋɡon,,,136,False,False,ʃoŋɡon,,,شُنگُن
 9181,40,147,lokoṭ,lokʊʈ,,,137,False,False,lokoʈ,,,لوکُٹ
 9182,40,148,maešakh ayon,mɨʃɨkʰ hʲon,,,138,False,False,mɨʃɨkʰ hjon,,,مَشکھ ہیون
 9183,40,149,daeh,d̪ɨh,,,139,False,False,d̪ɨh,,,دءہ
@@ -4088,7 +4088,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 9207,40,175,tsae,tsɨ,,*ty > ts unexplained (Turner),163,False,False,tsɨ,,,ژء
 9208,40,176,trɛ,t̪rɛ,,,164,False,False,t̪rɛ,,,ترے
 9209,40,177,daṛith  layon,d̪ɨɽit̪ʰ lɑjon,,,165,False,False,d̪ɨɽit̪ʰ lɑjon,,,سدڑٹ
-9210,40,178,ɡanḍon,ɡɑnɖon,,,166,False,False,ɡɑnɖon,,,گنڈُن
+9210,40,178,ganḍon,ɡɑnɖon,,,166,False,False,ɡɑnɖon,,,گنڈُن
 9211,40,179,zew,zɛʋ,,,167,True,False,zɛʋ,,,زیو
 9212,40,180,dand,d̪ɑnd̪,,,168,False,False,d̪ɑnd̪,,,دند
 9213,40,181,kul,kul,,,169,False,False,kul,,,کُل
@@ -4544,7 +4544,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 10524,47,113,nje-,ɲɛ,,,103,False,False,ɲe,nje_1,,
 10525,47,114,stary,ˈstɑ̈ɾɘ̟,,,104,False,False,ˈstarɘ̟,stary,,
 10526,47,115,jaden,"ˈjɑ̈dɛn, jɑ̈dn̩, jɑ̈n",,,105,False,False,ˈjaden,jaden,,
-10527,47,116,druɡi,ˈdruɡi,,,106,False,False,,,,
+10527,47,116,drugi,ˈdruɡi,,,106,False,False,,,,
 10529,47,118,graś,ɡɾɑ̈ɕ,,"In some contexts (when speaking about children) derivatives 'grajkaś, grajkotaś' can be used.",108,False,False,ɡraɕ,graś,,
 10531,47,120,tłocyś,ˈtwɔtsɘ̟ɕ,,,110,False,False,ˈtwotsɘ̟ɕ,tłocyś,,
 10532,47,121,dešć,deɕtɕ,,,111,False,False,deɕtɕ,dešć,,
@@ -5417,7 +5417,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 12258,54,106,ism,esm,,,97,False,True,esm,2KfYs9mF,,اسم
 12259,54,107,bārīk,bɒːriːk,thin; narrow,,98,False,False,bɒrik,2KjYp9ix2YrZgw%3d%3d,,باریک
 12260,54,108,nazdīk,næzdiːk,"near; at, beside",,99,False,False,næzdik,2YbYstiv2YrZgw%3d%3d,,نزدیک
-12261,54,109,ɡardan,ɡʲærˈdæn,,,100,False,False,ɡærdæn,2q%2fYsdiv2YY%3d,,گردن
+12261,54,109,gardan,ɡʲærˈdæn,,,100,False,False,ɡærdæn,2q%2fYsdiv2YY%3d,,گردن
 12262,54,110,tāzah,tʰɒːˈze,"fresh, new",,101,False,True,tɒze,2KrYp9iy2Yc%3d,,تازه
 12263,54,111,šab,ʃæb,,,102,False,False,ʃæb,2LTYqA%3d%3d,,شب
 12264,54,112,damāġ,dæmɒːɢ,,,103,False,False,dæmɒɢ,2K%2fZhdin2Lo%3d,,دماغ
@@ -5944,7 +5944,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 13208,58,63,gi,jiː,,,58,False,False,jiː,,,
 13209,58,64,god,ɡuː,,true synonyms TKD,59,False,False,ɡuː,,,
 13210,58,65,gress,ɡɾɛsː,,,60,False,False,ɡrɛsː,,,
-13211,58,66,ɡrønn,ɡɾønː,,,61,False,False,ɡrønː,,,
+13211,58,66,grønn,ɡɾønː,,,61,False,False,ɡrønː,,,
 13213,58,68,hår,hoːɾ,,,63,False,False,hoːr,,,
 13214,58,69,hånd,hɔnː,,,64,False,False,hɔnː,,,
 13215,58,70,hann,hanː,,,65,False,False,,,,
@@ -10339,7 +10339,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 21760,109,140,skarpr,skarpr,,,199,False,True,,b0539,,
 21761,109,141,skammr,skamːr,,,200,False,False,skamːr,skammr,,
 21762,109,141,stuttr,stutːr,'stunted',,201,False,True,,b0600,,
-21763,109,142,ɡala,ˈɡala,'chant',,202,False,True,,b0187,,
+21763,109,142,gala,ˈɡala,'chant',,202,False,True,,b0187,,
 21764,109,142,"syngva, syngja","ˈsynɡva, synɟa",,AF syngr,203,False,False,"synɡva, synɟa",syngva,,
 21765,109,143,sitja,ˈsitja,,AF sitr,204,False,False,sitja,sitja,,
 21766,109,144,húð,huːð,,,205,False,False,huːð,h%FA%F0,,
@@ -12292,7 +12292,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 25544,56,81,esposo,ɨʃˈpozu,, ,219,False,False,,,,
 25546,39,81,sposo,ˈspozo,,Also means 'bridegroom'.,216,False,True,,,,
 25553,35,84,yadi,jəd̪i,, ,212,False,False,,,,यदि
-25555,40,84,haŋɡay,hɑŋɡɑj,, ,236,False,False,hɑŋɑj,,,ہنگئے
+25555,40,84,haŋgay,hɑŋɡɑj,, ,236,False,False,hɑŋɑj,,,ہنگئے
 25557,66,84,ak,ak,,,211,False,False,,,,
 25558,69,84,ifall,iˈfalː,, ,221,False,False,,,,
 25559,69,84,såvida,soˈvìːda,̀, ,222,False,False,,,,
@@ -13220,7 +13220,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27276,125,8,c'arɜ,tsʼɑrɜ,,,7,False,False,cʼarɜ,,,цъарӕ
 27277,124,9,uymæn æmæ,ˈŭmɜn ɜmɜ,,,8,False,False,wəmɜn ɜmɜ,,,уымӕн ӕмӕ
 27278,125,9,womɐn ɐma,womɐn ɐma,,,8,False,False,,,,
-27279,124,10,g˳ybyn,ɡʷɘˈbɘn,,,9,False,False,ɡʷəbən,,,гуыбын
+27279,124,10,gʷybyn,ɡʷɘˈbɘn,,,9,False,False,ɡʷəbən,,,гуыбын
 27280,125,10,gubun,ɡubun,,,9,False,False,ɡubun,,,губун
 27281,124,11,styr,ʃtɘr,,,10,False,False,ʃtər,,,стыр
 27282,125,11,ustur,ustur,,,10,False,False,ustur,,,устур
@@ -13242,9 +13242,9 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27298,125,27,bon,bon,,Variant form: bonɜ.,18,False,False,bon,,,бон
 27299,124,30,ḱ'iži,ˈtʃʼiʒi,,,19,False,False,tʃʼiʒi,,,чъизи
 27300,125,30,c'umur,tsʼumur,,,19,False,False,cʼumur,,,цъумур
-27301,124,31,k˳yʒ,kʰʷɘz,,,20,False,False,kʷəz,,,куыдз
+27301,124,31,kʷyʒ,kʰʷɘz,,,20,False,False,kʷəz,,,куыдз
 27302,125,31,kuj,kʰuj,,,20,False,False,kuj,,,куй
-27303,124,33,x˳ysk',χʷɘʃkʼ,,A rather marginal term for 'dry'.,21,False,True,χʷəʃkʼ,,,хуыскъ
+27303,124,33,xʷysk',χʷɘʃkʼ,,A rather marginal term for 'dry'.,21,False,True,χʷəʃkʼ,,,хуыскъ
 27304,125,33,xusk'æ,χuskʼɜ,,,21,False,True,χuskʼɜ,,,хускъӕ
 27305,124,34,k'uymyx,kʼʷɘˈmɘχ,,,22,False,False,kʼʷəməχ,,,къуымых
 27306,125,34,k'umuχ,kˈumuχ,,,22,False,False,,,,
@@ -13308,7 +13308,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27364,125,75,ami,ɑmi,,Inessive of: a 'this'.,51,False,False,ami,,,ами
 27365,124,77,xæcyn,χɜˈsɘn,"hold, bite",Past stem χɜs-əd-.,52,False,False,χɜs-ən,,,хӕцын
 27366,125,77,χʷɐc-,χʷɐc-,,,52,False,False,,,,
-27367,124,79,k˳yd,kʰʷɘd,,,53,False,False,kʷəd,,,куыд
+27367,124,79,kʷyd,kʰʷɘd,,,53,False,False,kʷəd,,,куыд
 27368,125,79,kud,kʰud,,,53,False,False,kud,,,куд
 27369,124,81,læg,lɜɡ,,,54,False,False,lɜɡ,,,лӕг
 27370,125,81,lɐg,lɐɡ,,,54,False,False,,,,
@@ -13345,7 +13345,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27401,124,103,mad,mɑd,,,70,False,False,mad,,,мад
 27402,125,103,madæ,madɜ,,,70,False,False,madɜ,,,мадӕ
 27403,124,104,xox,χoχ,,Used for names of individual mountains and for mountains as an area (in pl.).,71,False,True,χoχ,,,хох
-27404,125,104,x˳ænx,χʷɜnχ,,Used for names of individual mountains and for mountains as an area (in pl.).,71,False,True,χʷɜnχ,,,хуӕнх
+27404,125,104,xʷænx,χʷɜnχ,,Used for names of individual mountains and for mountains as an area (in pl.).,71,False,True,χʷɜnχ,,,хуӕнх
 27405,124,105,kom,kʰom,ravine; mouth,"Rarely used for 'mouth', mostly in compounds etc.",72,False,True,kom,,,ком
 27406,125,105,kom,kom,,"Only used in compounds, or in non-literal meaning ('valley').",72,False,True,kom,,,ком
 27407,124,106,nom,nom,,,73,False,False,nom,,,ном
@@ -13494,7 +13494,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27550,125,86,marun,mɑrun,,Past stem: mard-.,144,False,False,mar-un,,,марун
 27551,124,90,xudyn,ˈχudɘn,,Past stem: χud-.,145,False,False,χud-ən,,,худын
 27552,125,90,xodun,χodun,,Past stem: χutː-.,145,False,False,χod-un,,,ходун
-27553,124,94,x˳yssyn,χʷɘˈšːɘn,,Past stem: χʷəšš-əd-. Participle: χʷəšt.,146,False,False,χʷəʃʃ-ən,,,хуыссын
+27553,124,94,xʷyssyn,χʷɘˈšːɘn,,Past stem: χʷəšš-əd-. Participle: χʷəšt.,146,False,False,χʷəʃʃ-ən,,,хуыссын
 27554,125,94,xussun,χusːun,,Past stem: χust-.,146,False,False,χuss-un,,,хуссун
 27555,124,95,cæryn,sɜˈrɘn,,Past stem: sard-.,147,False,False,sɜr-ən,,,цӕрын
 27556,125,95,cærun,tsʰɜrun,,Past stem: card-.,147,False,False,cɜr-un,,,цӕрун
@@ -13510,7 +13510,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27566,125,134,zæǧun,zɜʁun,,,152,False,False,zɜʁ-un,,,зӕгъун
 27567,124,137,wynyn,wɘˈnɘn,,,153,False,False,wən-ən,,,уынын
 27568,125,137,winun,winun,,Past stem: wid-.,153,False,False,win-un,,,уинун
-27569,124,139,x˳yjyn,χʷɘˈjɘn,,Past stem: χʷəd-. Check pronunciation and spelling.,154,False,False,χʷəj-ən,,,хуыйын
+27569,124,139,xʷyjyn,χʷɘˈjɘn,,Past stem: χʷəd-. Check pronunciation and spelling.,154,False,False,χʷəj-ən,,,хуыйын
 27570,125,139,xujun,χujun,,Past stem: χud-.,154,False,False,χuj-un,,,хуйун
 27571,124,142,zaryn,ˈʒɑrɘn,,Past stem: žar-əd-. Participle: žard.,155,False,False,ʒar-ən,,,зарын
 27572,125,142,zarun,zɑrun,,Past stem: zard-.,155,False,False,zar-un,,,зарун
@@ -13536,7 +13536,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27592,125,165,ræsujun,rɜsujun,,Past stem: rɜsud-.,165,False,False,rɜsuj-un,,,рӕсуйун
 27593,124,166,lenk kænyn,ˈlenk kɜnɘn,,Check what happens at word boundary.,166,False,False,lenk kɜn-ən,,,ленк кӕнын
 27594,125,166,nakæ kænun,nɑkʰɜ kʰɜnun,,,166,False,False,nakɜ kɜn-un,,,накӕ кӕнун
-27595,124,173,q˳ydy kænyn,ˈqʷɘdɘ kɜnɘn,,,167,False,False,qʷədə kɜn-ən,,,хъуыды кӕнын
+27595,124,173,qʷydy kænyn,ˈqʷɘdɘ kɜnɘn,,,167,False,False,qʷədə kɜn-ən,,,хъуыды кӕнын
 27596,125,173,ǧudi kænun,ʁudi kʰɜnun,,,167,False,False,ʁudi kɜn-un,,,гъуди кӕнун
 27597,124,177,æpparyn,ɜˈpːɑrɘn,,"Past stem: ɜpːɜršt-. This seems to mean specifically 'throw away' or 'throw down', i.e. not a generic term for throwing something at a target.",168,False,True,ɜpːar-ən,,,ӕппарын
 27598,125,177,gælʒun,ɡɜldzun,,Past stem: gɜlst-.,168,False,False,ɡɜlʒ-un,,,гӕлдзун
@@ -13566,7 +13566,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 27622,125,188,don,don,,,180,False,False,don,,,дон
 27623,124,189,max,mɑχ,,,181,False,False,maχ,,,мах
 27624,125,189,max,mɑχ,,,181,False,False,maχ,,,мах
-27625,124,190,x˳ylyʒ,χʷɘˈlɘz,wet (throughout),Cf. wəmɜl 'wet (on surface)'.,182,False,False,χʷələz,,,хуылыдз
+27625,124,190,xʷylyʒ,χʷɘˈlɘz,wet (throughout),Cf. wəmɜl 'wet (on surface)'.,182,False,False,χʷələz,,,хуылыдз
 27626,125,190,c'ifæ,tʃʼifɜ,wet (on surface),,182,False,True,cʼifɜ,,,цъифӕ
 27627,124,191,cy,sɘ,,,183,False,False,sə,,,цы
 27628,125,191,ci,tʃʰi,,,183,False,False,ci,,,ци
@@ -15811,7 +15811,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 31514,129,177,arjakem,,,,287,False,True,,,,արձակեմ
 31515,129,182,šrǰem,,,,288,False,True,,,,շրջեմ
 31516,129,185,kʿaylem,kʰɑjˈlɛm,,,289,False,False,kʰɑil-ɛ-m,,,քայլեմ
-31517,129,190,ɡēǰ,ɡɛdʒ,Also 'moist; lascivious',"gēǰ From QIE *gwhe/oidh-io-, cf. Russ. žídkij , SCr. žídak , etc. 'liquid, watery' although this is not fully accepted by Martirosyan.",290,False,False,ɡeidʒ-ɔ-,,,գէջ
+31517,129,190,gēǰ,ɡɛdʒ,Also 'moist; lascivious',"gēǰ From QIE *gwhe/oidh-io-, cf. Russ. žídkij , SCr. žídak , etc. 'liquid, watery' although this is not fully accepted by Martirosyan.",290,False,False,ɡeidʒ-ɔ-,,,գէջ
 31518,129,190,nay,nɑj,,,291,False,True,nɑj,,,նայ
 31519,129,191,z-i(-)nč,ziɲtʃʰ,,,292,False,False,z-i(-)ɲtʃʰ-i-,,,զինչ
 31520,129,192,yoržam,yoržam,,,293,False,True,yorʒam,,,յորժամ
@@ -17194,7 +17194,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 34523,21,81,man,mɑn,,,243,False,False,,,,
 34524,21,84,als,ɑls,,,244,False,False,,,,
 34525,21,117,persoon,ˈpɛrson,,,245,False,False,,persoon,,
-34526,21,123,ɡoed,ɣut,,,246,False,True,,goed,,
+34526,21,123,goed,ɣut,,,246,False,True,,goed,,
 34527,21,123,juist,jœyst,,,247,False,True,,juist,,
 34528,21,145,lucht,lʏχt,,,248,False,False,,lucht1,,
 34529,21,155,klieven,ˈklivə,,,249,False,False,,,,
@@ -17203,7 +17203,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 34532,21,182,draaien,ˈdraɪə,,,252,False,False,,draaien,,
 34533,21,184,kotsen,ˈkɔtsə,,,253,False,True,,,,
 34534,21,185,lopen,ˈlopə,,,254,False,False,,lopen1,,
-34535,21,197,echtɡenote,ˈɛχtɣənotə,,,255,False,False,,,,
+34535,21,197,echtgenote,ˈɛχtɣənotə,,,255,False,False,,,,
 34536,21,203,woud,wɑut,,,256,False,True,,woud,,
 34537,21,95,wonen,ˈwonə,,,257,False,True,,wonen,,
 34538,69,157,stinga,ˈstɪ̀ŋːa,,,299,False,False,,,,
@@ -18112,7 +18112,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 35531,95,168,onaj,ˈɔ̌nɑ̈ːj,,"That one which is (very) far away both from the speaker and the interlocutor, which is outside the communication situation.",220,False,False,ˈǒnaːj,eFlnXxk,,
 35532,95,168,taj,tâːj,,That one which is close(r) to the interlocutor.,221,False,True,,,,
 35533,95,182,obrnuti,ɔˈbə̌ɾnuti,,An alternative lexeme is 'okrenuti'.,218,False,False,oˈbřːnuti,eFtnXRY,,
-35534,95,184,riɡati,ˈrîɡati,,Dialectal/slang.,219,False,True,,,,
+35534,95,184,rigati,ˈrîɡati,,Dialectal/slang.,219,False,True,,,,
 35535,95,184,povraćati,ˈpɔ̌vɾɑ̈tɕɑ̈ti,,,220,False,False,ˈpǒvratɕati,eVlhXRY,,
 35536,95,47,malo,ˈmâlɔ,,,219,False,False,,,,
 35537,95,49,nokat,ˈnɔ̂kɑ̈t,,,220,False,False,ˈnôkat,eF1vXBE,,
@@ -18280,7 +18280,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 35705,75,83,yix̌,,ice,,222,False,False,jix,,,
 35706,174,82,aysu,ɐzʊ,I,,10,False,False,azu,,,
 35707,174,175,thu,tʰʊ,you (sg.),,11,False,False,,,,
-35708,174,96,ɡyaɡarrä,ɟɐɣɐrə,NOM.SG,"AF jatärrä, jarä",12,False,False,ɡi̯aɣarə,,,
+35708,174,96,gyagarrä,ɟɐɣɐrə,NOM.SG,"AF jatärrä, jarä",12,False,False,ɡi̯aɣarə,,,
 35709,174,15,hūnä,huːnə,NOM.SG.f,i-stem,13,False,False,huːnə,,,
 35710,174,23,sāḍa-,sɑːɽɐ-,ADJ,,14,False,False,saːɖa,,,
 35711,174,2,u,ʊ,and,,15,False,False,,,,
@@ -18322,11 +18322,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 35752,124,37,syǵyt,ʃɘˈdʒɘtʰ,earth (material),,202,False,False,ʃədʒət,,,сыджыт
 35753,124,47,čysyl,tʃʰɘˈʃɘl,,,203,False,False,čəʃəl,,,чысыл
 35754,124,22,ævraǧ,ɜvˈrɑʁ,,,204,False,False,ɜvraʁ,,,ӕврагъ
-35756,124,66,kærdægx˳yz,ˈkʰɜrdɜɡχʷɘʒ,,Lit. 'grass-colour'.,206,False,False,kɜrdɜɡ-χʷəʒ,,,кӕрдӕгхуыз
+35756,124,66,kærdægxʷyz,ˈkʰɜrdɜɡχʷɘʒ,,Lit. 'grass-colour'.,206,False,False,kɜrdɜɡ-χʷəʒ,,,кӕрдӕгхуыз
 35757,124,68,ʒykkutæ,zɘˈkːutʰɜ,,Pl. tantum; sg. meaning 'plait'.,207,False,False,zəkːu-tɜ,,,дзыккутӕ
 35758,124,84,kæd,kʰɜd,"when (interrog.), if",Realis condition.,208,False,False,kɜd,,,кӕд
 35759,124,104,k'æʒæx,kʼɜˈzɜχ,"cliff, mountain",,209,False,False,kʼɜzɜχ,,,къӕдзӕх
-35760,124,109,q˳yr,qʰʷɘr,throat,As seen from front. Not meaning 'neck' as such.,210,False,True,qʷər,,,хъуыр
+35760,124,109,qʷyr,qʰʷɘr,throat,As seen from front. Not meaning 'neck' as such.,210,False,True,qʷər,,,хъуыр
 35761,124,125,furd,furd,large river,,211,False,True,furd,,,фурд
 35762,124,138,myggag,mɘˈkːɑɡ,seed; sperm; clan,,212,False,False,məkːaɡ,,,мыггаг
 35763,124,147,ḱysyl,tʃʰɘˈʃɘl,,,213,False,False,tʃəʃəl,,,чысыл
@@ -18511,7 +18511,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 35954,174,106,nāma,nɑːmɐ,NOM.SG.n,Stem nāman-,122,False,False,naːma,,,
 35955,174,210,nehä,nɛːhə,GEN.SG,"Gen. sg., stem probably nāhi- (nāha-,as given by Bailey, should not have unlaut in genitive).",123,False,False,neːhə,,,
 35956,105,210,nā́bhiḥ,ˈnaːbʱih,f.,,297,False,False,náːbʱis,535,,नाभिः
-35957,174,109,ɡgaḍya,ɡɐɽjɐ,LOC.SG,"Loc. sɡ., stem ggaḍaa-",124,False,False,ɡaɖi̯a,,,
+35957,174,109,ggaḍya,ɡɐɽjɐ,LOC.SG,"Loc. sɡ., stem ggaḍaa-",124,False,False,ɡaɖi̯a,,,
 35958,174,110,nūvarä,nuwɐrə,ADJ,,125,False,False,nuu̯arə,,,
 35959,174,112,haysge,hɐzɡɛ, NOM.PL.f,"""nose, sg. nostril"", Pl., stem haysgā-",126,False,False,hazɡe,,,
 35960,174,113,ne,nɛ,,"Also ni, na",127,False,False,,,,
@@ -19775,7 +19775,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 37289,178,164,xwar,xʷaɾ,N,"Also xwrxšyd, hwrxšyd /xwaršēd/; ZP hwl",146,False,False,xʷar,,,xwr
 37290,178,217,šīrēn,ʃiːˈɾeːn,ADJ,ZP šylyn; derivative of šīr 'milk',147,False,False,ʃiːreːn,,,šyryn
 37291,178,166,išnāzēd,ɪˈʃnɑːz-,PRS.IND.3SG,"ZP šnʾc-, past šnʾcyt- (attested ʿšnʾzʾd PRS.SBJV.3SG)",148,False,False,ʃnaːzeːd,,,ʿšnʾzyd
-37292,178,167,dumbaɡ,dʊmˈbaɣ,N,ZP dwm(b),149,False,False,dumbaɡ,,,dwmbɡ
+37292,178,167,dumbag,dʊmˈbaɣ,N,ZP dwm(b),149,False,False,dumbaɡ,,,dwmbɡ
 37293,178,221,gīrēd,ɡiːɾ-,PRS.IND.3SG,"""take, seize"", Past gryft; ZP gyl-, past glpt- (attested gyrʾd PRS.SBJV.3SG; but well-attested in ZMP)",150,False,False,ɡiːreːd,,,gyryd
 37294,178,168,hān,hɑːn,,,151,False,False,,,,hʾn
 37295,178,169,anōh,anoːh,,cf. twice attested ōy,152,False,False,,,,ʾnwẖ
@@ -23192,7 +23192,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 43816,213,49,nâč′e,natʃˈɛ̠,nail (finger- or toe-),,196,False,False,natʃˈɛ̠,,,
 43818,213,61,kâc̣av′ec̣,kaʈʂɨβ̞ˈɛ̠ʈʂ̣,fruit,,198,False,False,kaʈʂɨβ̞ˈɛ̠ʈʂ̣,,,
 43820,213,78,ṣiŋ′a,ʂiŋˈi,horn,,200,False,False,ʂiŋˈɨ,,,
-43821,213,87,z′u˜,zˈũ,knee,,201,False,False,zˈũ,,,
+43821,213,87,z′ũ,zˈũ,knee,,201,False,False,zˈũ,,,
 43822,213,102,m′us,mˈus,moon,,202,False,False,mˈus,,,
 43824,213,162,sṭ′âla,ʂʈˈalɨ,straight; true; honest,,204,False,False,sʈˈalɨ,,,
 43825,213,172,lam′ař,lɨmˈɨɹ,thin; narrow,cf. Latin «lâmina» ‘thin plate’?,205,False,False,lɨmˈɨɹ,,,
@@ -23213,11 +23213,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 43854,214,10,kṭ′ol,kʈˈo̞l,stomach; rumen,,8,False,False,kʈˈo̞l,,,
 43855,214,11,′oala,ˈo̞ːlɨ,big,,9,False,False,o̞ɨlɨ,,,
 43856,214,12,mřâŋć′a,mɹaŋdzˈɨ,small bird; songbird; bird (meat),,10,False,False,mɹaŋtsˈɨ,,,
-43857,214,13,âš′aa˜ ŋâ-,aʒˈĩːŋa-,bite (onto),,11,False,False,aʃˈĩɨ ŋa-,,,
+43857,214,13,âš′aã ŋâ-,aʒˈĩːŋa-,bite (onto),,11,False,False,aʃˈĩɨ ŋa-,,,
 43858,214,14,ẓ′ia,ʐˈiː,black,,12,False,False,ʐˈiɨ,,,
 43859,214,15,l′ui,lˈui̯,blood,,13,False,False,lˈui,,,
 43860,214,17,âṭ′i,aɽˈi,bone; pit (of fruit),,14,False,False,aʈˈi,,,
-43861,214,19,š′ü˜ kṣoa-,ʃˈỹ kʂo̞ː-,breathe,,15,False,False,ʃˈỹ kʂo̞ɨ-,,,
+43861,214,19,š′ü̃ kṣoa-,ʃˈỹ kʂo̞ː-,breathe,,15,False,False,ʃˈỹ kʂo̞ɨ-,,,
 43862,214,21,kuř′a,kuɹˈɨ,child,,16,False,False,kuɹˈɨ,,,
 43863,214,22,nir′u,niɾˈu,cloud,,17,False,False,niɾˈu,,,
 43864,214,23,′üć,ʲˈyts,cold (thing),,18,False,False,ˈyts,,,
@@ -23234,7 +23234,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 43876,214,37,b′üm,bˈym,earth; ground,,30,False,False,bˈym,,,
 43877,214,38,i′u-,jˈu-,"consume; eat; utilize [money, resources]; exploit [resources, persons]",,31,False,False,iˈu-,,,
 43878,214,39,âṣ′o,aʐˈo̞,egg (of bird),,32,False,False,aʂˈo̞,,,
-43879,214,40,âč′e˜,atʃˈẽ,eye,,33,False,False,atʃˈẽ,,,
+43879,214,40,âč′ẽ,atʃˈẽ,eye,,33,False,False,atʃˈẽ,,,
 43880,214,41,′üň e-,ʲˈyɹ̃ e-,fall down; be dropped [inanimate],,34,False,False,yɹ̃ e-,,,
 43881,214,42,bâd′üř,badˈyɹ,far,,35,False,False,bâd′üř,,,
 43882,214,43,ski′o,skjˈo̞,fat,,36,False,False,skiˈo̞,,,
@@ -23264,14 +23264,14 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 43908,214,76,v′ia-,vˈiː-,hit; beat,,62,False,False,vˈiɨ-,,,
 43910,214,79,k′âa kti,kˈaː kti,how,,64,False,False,kˈaɨ stɨ,,,
 43911,214,80,šârt′oř ku-,ʃaɾtˈo̞ɹ ku-,markhor hunt; big-game hunt,"""make a hunt""",65,False,False,ʃaɾtˈo̞ɹ ku-,,,
-43913,214,82,′o˜ć,ˈõ̞ts,I,,67,False,False,õ̞ts,,,
+43913,214,82,′õć,ˈõ̞ts,I,,67,False,False,õ̞ts,,,
 43914,214,83,š′ea,ʃˈeː,ice,,68,False,False,ʃˈeɨ,,,
 43917,214,86,ǰâň′a-,dʒaɹ̃ˈɨ-,kill,,71,False,False,dʒaɹ̃ˈɨ-,,,
 43918,214,89,s′ur,sˈuɾ,mountain lake or pond,,72,False,False,sˈuɾ,,,
 43919,214,90,kân′a-,kanˈɨ-,laugh,,73,False,False,kanˈɨ-,,,
 43920,214,91,p′or,pˈo̞ɾ,"leaf; sheet, page; razor blade",,74,False,False,pˈo̞ɾ,,,
 43921,214,92,k′u,kˈu,left,,75,False,False,kˈu,,,
-43922,214,94,č′u˜ přâsia-,tʃˈũ pɹaziː-,stretch oneself out; lie down,,76,False,False,tʃˈũ pɹasiɨ-,,,
+43922,214,94,č′ũ přâsia-,tʃˈũ pɹaziː-,stretch oneself out; lie down,,76,False,False,tʃˈũ pɹasiɨ-,,,
 43923,214,95,ǰ′üa-,dʒˈyː-,be alive,,77,False,False,dʒˈyɨ-,,,
 43924,214,96,iâň′i,jaɹ̃ˈi,liver,,78,False,False,iaɹ̃ˈi,,,
 43925,214,97,draŋ′aň,dɾɨŋˈɨɹ̃,long; tall,,79,False,False,dɾɨŋˈɨɹ̃,,,
@@ -23283,8 +23283,8 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 43932,214,105,âš′a,aʒˈi,mouth,,86,False,False,aʃˈɨ,,,
 43933,214,106,n′om,nˈo̞m,name,,87,False,False,nˈo̞m,,,
 43934,214,107,âr′aň,aɾˈɨɹ̃,narrow,,88,False,False,aɾˈɨɹ̃,,,
-43935,214,108,t′uare˜,tˈuːɾẽ,near,,89,False,False,tˈuɨɾẽ,,,
-43936,214,110,nu·′i˜,nujˈĩ,new,,90,False,False,nu.ĩ,,,
+43935,214,108,t′uarẽ,tˈuːɾẽ,near,,89,False,False,tˈuɨɾẽ,,,
+43936,214,110,nu·′ĩ,nujˈĩ,new,,90,False,False,nu.ĩ,,,
 43937,214,111,řâd′or,ɹadˈo̞r,nighttime; night,,91,False,False,ɹadˈo̞ɾ,,,
 43938,214,112,nâs′uř,nazˈuɹ,nose,,92,False,False,nasˈuɹ,,,
 43939,214,113,n′â,nˈa,not; un-,,93,False,False,nˈa,,,
@@ -23312,7 +23312,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 43965,214,144,č′om,tʃˈo̞m,skin; hide,,119,False,False,tʃˈo̞m,,,
 43966,214,145,d′i,dˈi,sky,,120,False,False,dˈi,,,
 43967,214,146,pṣ′u-,pʂˈu,go to sleep,,121,False,False,pʂˈu,,,
-43968,214,147,turć′a˜,tuɾtsˈɨ̃,small,,122,False,False,tuɾtsˈɨ̃,,,
+43968,214,147,turć′ã,tuɾtsˈɨ̃,small,,122,False,False,tuɾtsˈɨ̃,,,
 43969,214,149,d′üm,dˈym,smoke,,123,False,False,dˈym,,,
 43970,214,150,salk′aň,sɨlkˈɨɹ̃,slippery; smooth,,124,False,False,sɨlkˈɨɹ̃,,,
 43971,214,152,ź′im,dzˈim,snow,,125,False,False,dzˈim,,,
@@ -23353,7 +23353,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44008,214,202,ǰ′ukuř,dʒˈuɣ̆uɹ,woman,,162,False,False,dʒˈukuɹ,,,
 44009,214,204,g′u,ɡˈu,bug; worm,,163,False,False,ɡˈu,,,
 44010,214,205,š′o,ʃˈo̞,you [plural (nominative and possessive)],,164,False,True,ʃˈo̞,,,
-44011,214,16,p′ü bosa˜ via-,pˈy bo̞zɨ̃ viː-,blow [animate agent],,165,False,False,pˈy bo̞sɨ̃ viɨ-,,,
+44011,214,16,p′ü bosã via-,pˈy bo̞zɨ̃ viː-,blow [animate agent],,165,False,False,pˈy bo̞sɨ̃ viɨ-,,,
 44012,214,206,s′a,sˈɨ,year,,166,False,False,sˈɨ,,,
 44013,214,20,luṣ′a-,luʐˈɨ-,burn [transitive],,167,False,False,luʂˈɨ-,,,
 44014,214,7,ḍâk′ara,ɖaɣ̆ˈɨrɨ,bad,,168,False,False,ɖakˈɨɾɨ,,,
@@ -23378,18 +23378,18 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44037,214,192,ku·′ia,kujˈiː,when?; whenever,,191,False,False,ku.ˈiɨ,,,
 44038,214,207,′âadra,ˈaːdɾɨ,yellow; green; pale (complexion),,192,False,False,ˈaɨdɾɨ,,,
 44040,214,18,č′uk,tʃˈuk,breast; chest,,194,False,False,tʃˈuk,,,
-44042,214,49,nâč′e˜,natʃˈẽ,nail (finger- or toe-); claw,,196,False,False,natʃˈẽ,,,
+44042,214,49,nâč′ẽ,natʃˈẽ,nail (finger- or toe-); claw,,196,False,False,natʃˈẽ,,,
 44044,214,61,kâc̣′avec̣,kaʈʂˈɨveʈʂ,fruit,,198,False,False,kaʈʂˈɨveʈʂ,,,
 44045,214,62,pâr′ea,paɾˈeː,all; full,,199,False,False,paɾˈeɨ,,,
 44046,214,78,ṣ′iŋ,ʂˈiŋ,horn,,200,False,False,ʂˈiŋ,,,
-44047,214,87,ź′o˜,dzˈõ̞,knee,,201,False,False,dzˈõ̞,,,
+44047,214,87,ź′õ,dzˈõ̞,knee,,201,False,False,dzˈõ̞,,,
 44048,214,102,m′os,mˈo̞s,moon,,202,False,False,mˈo̞s,,,
 44049,214,130,puṇr′aň,puɳɖɾˈɨɹ̃,round,,203,False,False,puɳɖɾˈɨɹ̃,,,
 44050,214,162,sṭ′âla,ʂʈˈalɨ,straight; true; honest,,204,False,False,sʈˈalɨ,,,
 44051,214,172,lâm′ař,lamˈɨɹ,thin; narrow,cf. Latin «lâmina» ‘thin plate’?,205,False,False,lamˈɨɹ,,,
 44053,214,203,bân′a,banˈɨ,forest,< MIA,207,False,False,banˈɨ,,,
 44054,214,208,řâm′ik,ɹamˈik,ant,,208,False,False,ɹamˈik,,,
-44055,214,209,c̣′u˜,ʈʂˈũ,thigh and hip,,209,False,False,ʈʂˈũ,,,
+44055,214,209,c̣′ũ,ʈʂˈũ,thigh and hip,,209,False,False,ʈʂˈũ,,,
 44056,214,210,š′üṇ,ʃˈyɳ,navel,,210,False,False,ʃˈyɳ,,,
 44057,214,211,t′üruk,tˈyɾuk,fly [N],,211,False,False,tˈyɾuk,,,
 44058,214,212,d′us,dˈus,yesterday,,212,False,False,dˈus,,,
@@ -23406,7 +23406,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44069,214,223,ẓ′u-,ʐˈu-,cry; weep,,223,False,False,ʐˈu-,,,
 44070,214,224,k′u-,kˈu-,do; make,,224,False,False,kˈu-,,,
 44071,214,225,pš′a-,pʃˈi-,grind; crush into small pieces,,225,False,False,pʃˈɨ-,,,
-44072,214,226,nâč′e˜,natʃˈẽ,nail (finger- or toe-); claw,,226,False,False,natʃˈẽ,,,
+44072,214,226,nâč′ẽ,natʃˈẽ,nail (finger- or toe-); claw,,226,False,False,natʃˈẽ,,,
 44076,215,4,ṣuːt′i,ʂʉːtˈi,,,4,False,False,ʂʉːtˈi,,,
 44077,215,6,psṭ′i,pʂʈˈi,back,,5,False,False,pʂʈˈi,,,
 44078,215,8,ć′i,tsˈi,skin (of plant); bark,,6,False,False,tsˈi,,,
@@ -23414,8 +23414,8 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44082,215,12,niŋâs′a,niŋasˈɨ,small bird; songbird; bird (meat),,10,False,False,niŋasˈɨ,,,
 44085,215,15,l′au,lˈɨβ̞,blood,,13,False,False,lˈɨu,,,
 44086,215,17,âṭ′i,aʈˈi,bone,,14,False,False,aʈˈi,,,
-44087,215,19,s′âː˜,sˈãː,breath; soul,,15,False,False,sˈãː,,,
-44088,215,21,př′âː˜,pɹˈãː,child,,16,False,False,pɹˈãː,,,
+44087,215,19,s′âː̃,sˈãː,breath; soul,,15,False,False,sˈãː,,,
+44088,215,21,př′âː̃,pɹˈãː,child,,16,False,False,pɹˈãː,,,
 44089,215,22,lâːňâ,laːɽ̃a,cloud,,17,False,False,laːɽ̃a,,,
 44090,215,23,âc̣ag′a,aʈʂ̣ɨɡˈɨ,cold,,18,False,False,aʈʂ̣ɨɡˈɨ,,,
 44091,215,25,gaňie-,ɡɨɽ̃je-,count,,19,False,False,ɡɨɽ̃ie-,,,
@@ -23427,14 +23427,14 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44102,215,37,b′um,bˈʉm,earth; ground,,30,False,False,bˈʉm,,,
 44103,215,38,i′o-,jˈʊ-,eat,,31,False,False,iˈʊ-,,,
 44104,215,39,ž′âu,ʒˈaβ̞,egg (of bird),,32,False,False,ʒˈau,,,
-44105,215,40,âć′i˜,atsˈĩ,eye,,33,False,False,atsˈĩ,,,
+44105,215,40,âć′ĩ,atsˈĩ,eye,,33,False,False,atsˈĩ,,,
 44107,215,42,sad′u,sɨdˈʉ,far,,35,False,False,sɨdˈʉ,,,
 44108,215,43,šik′âː,ʃikˈaː,fat,,36,False,False,ʃikˈaː,,,
 44109,215,44,d′âi,dˈaj,father,,37,False,False,dˈai,,,
 44111,215,46,pâṭ′u,paʈˈʉ,feather,,39,False,False,paʈˈʉ,,,
 44112,215,50,âŋ′â,aŋˈa,fire,,40,False,False,aŋˈa,,,
 44113,215,51,moːć,mʊːts,fish,,41,False,False,mʊːts,,,
-44114,215,52,p′o˜ć,pˈʊ̃ts,five,,42,False,False,pˈʊ̃ts,,,
+44114,215,52,p′õć,pˈʊ̃ts,five,,42,False,False,pˈʊ̃ts,,,
 44116,215,55,pus′up,pʉsˈʉp,flower,,44,False,False,pʉsˈʉp,,,
 44117,215,56,undr-,ʉndɾ-,fly,Buddruss,45,False,False,ʉndɾ-,,,
 44118,215,57,nâliud′uṛ,nali.ʉdˈʉɽ,fog,,46,False,False,nali.ʉdˈʉɽ,,,
@@ -23473,7 +23473,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44184,215,137,vieňie-,vieɽ̃ie-,see,,112,False,False,vieɽ̃ie-,,,
 44185,215,138,b′i,bˈi,seed; semen,,113,False,False,bˈi,,,
 44186,215,139,šivi′e-,ʃiviˈe-,sew,,114,False,False,ʃiviˈe-,,,
-44189,215,142,nâ˜il′o,nãjlˈʊ,song; music,noun,117,False,False,nãilˈʊ,,,
+44189,215,142,nẫil′o,nãjlˈʊ,song; music,noun,117,False,False,nãilˈʊ,,,
 44191,215,144,ć′âm,tsˈam,skin; hide,,119,False,False,tsˈam,,,
 44192,215,145,diːkâṭ′a,diːkaʈˈɨ,sky,,120,False,False,diːkaʈˈɨ,,,
 44193,215,146,min′iːk,minˈiːk,sleep,noun,121,False,False,minˈiːk,,,
@@ -23481,19 +23481,19 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44197,215,152,ž′im,ʒˈim,snow,,125,False,False,ʒˈim,,,
 44198,215,154,lusṭ′ik,lʉsʈˈik,spit,noun,126,False,False,lʉsʈˈik,,,
 44199,215,158,ut-,ut-,stand,"Buddruss ""sich hinstellen""",127,False,False,ut-,,,
-44200,215,159,ist′â˜,istˈã,star,,128,False,False,istˈã,,,
+44200,215,159,ist′ẫ,istˈã,star,,128,False,False,istˈã,,,
 44201,215,160,ḍuḍ′a,ɖʉɖˈɨ,stick,,129,False,False,ɖʉɖˈɨ,,,
 44204,215,164,s′o,sˈʊ,sun,,132,False,False,sˈʊ,,,
 44206,215,168,k′i,kˈi,that; he; she; it; [distal],,134,False,False,kˈi,,,
 44207,215,169,tik′a,tikˈɨ,there,,135,False,False,tikˈɨ,,,
-44208,215,170,ki′e˜i,kjˈẽj,those; they; [distal],,136,False,False,kiˈẽi,,,
+44208,215,170,ki′ẽi,kjˈẽj,those; they; [distal],,136,False,False,kiˈẽi,,,
 44209,215,173,bât-,bat-,think,"Buddruss ""denken; meinen""",137,False,False,bat-,,,
 44210,215,174,i′âk,jˈak,this; he; she; it; [proximal],,138,False,False,iˈak,,,
 44211,215,175,t′u,tˈʉ,you (thou),,139,False,False,tˈʉ,,,
 44212,215,176,tr′a,tɾˈɨ,three,,140,False,False,tɾˈɨ,,,
-44214,215,178,g′oː˜tie-,ɡˈʊ̃ːtje-,tie,,142,False,False,ɡˈʊ̃ːtie-,,,
+44214,215,178,g′oː̃tie-,ɡˈʊ̃ːtje-,tie,,142,False,False,ɡˈʊ̃ːtie-,,,
 44215,215,179,ž′uː,ʒˈʉː,tongue,,143,False,False,ʒˈʉː,,,
-44216,215,180,d′o˜t,dˈʊ̃t,tooth,,144,False,False,dˈʊ̃t,,,
+44216,215,180,d′õt,dˈʊ̃t,tooth,,144,False,False,dˈʊ̃t,,,
 44217,215,181,kand′a,kɨndˈɨ,woody plant; tree; bush,,145,False,False,kɨndˈɨ,,,
 44218,215,183,d′u,dˈʉ,two,,146,False,False,dˈʉ,,,
 44221,215,187,dari′e-,dɨɾjˈe-,wash,,149,False,False,dɨɾiˈe-,,,
@@ -23503,7 +23503,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44226,215,193,koň′o,kʊɽ̃ˈʊ,where,,154,False,False,kʊɽ̃ˈʊ,,,
 44228,215,195,ć′ai,tsˈɨj,who,,156,False,False,tsˈɨi,,,
 44230,215,198,dom′oː,dʊmˈʊː,wind,,158,False,False,dʊmˈʊː,,,
-44231,215,199,undrâ˜vâṭ,undrãvaʈ,wing,Buddruss,159,False,False,undrãvaʈ,,,
+44231,215,199,undrẫvâṭ,undrãvaʈ,wing,Buddruss,159,False,False,undrãvaʈ,,,
 44234,215,202,istramâl′i,istɾɨmalˈi,woman,,162,False,False,istɾɨmalˈi,,,
 44235,215,204,g′oːk,ɡˈʊːk,bug; worm,,163,False,False,ɡˈʊːk,,,
 44236,215,205,v′i,vˈi,you [plural],,164,False,False,vˈi,,,
@@ -23522,7 +23522,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44263,215,192,k′avi,kˈɨvi,when?; whenever,,191,False,False,kˈɨvi,,,
 44264,215,207,âidraâr′âːŋ,ajdɾɨaɾˈaːŋ,yellow; green; pale (complexion),,192,False,False,aidɾɨaɾˈaːŋ,,,
 44266,215,18,ćuć′u,tsʉtsˈʉ,breast,,194,False,False,tsʉtsˈʉ,,,
-44268,215,49,nâuć′a˜,nautsˈɨ̃,nail (finger- or toe-),,196,False,False,nautsˈɨ̃,,,
+44268,215,49,nâuć′ã,nautsˈɨ̃,nail (finger- or toe-),,196,False,False,nautsˈɨ̃,,,
 44270,215,61,miav′a,miɨvˈɨ,fruit,,198,False,False,miɨvˈɨ,,,
 44272,215,78,š′iŋ,ʃˈiŋ,horn,,200,False,False,ʃˈiŋ,,,
 44273,215,87,ḍ′oŋ,ɖˈʊŋ,knee,,201,False,False,ɖˈʊŋ,,,
@@ -23532,12 +23532,12 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44282,215,210,ṣ′uṇ,ʂˈʉɳ,navel,,210,False,False,ʂˈʉɳ,,,
 44283,215,211,mâi′oːs,maiˈʊːs,fly,,211,False,False,maiˈʊːs,,,
 44284,215,212,d′os,dˈʊs,yesterday,,212,False,False,dˈʊs,,,
-44285,215,213,pâ˜t′i,pãtˈi,shadow,"Budd. ""ac̣əw′ə""",213,False,False,pãtˈi,,,
+44285,215,213,pẫt′i,pãtˈi,shadow,"Budd. ""ac̣əw′ə""",213,False,False,pãtˈi,,,
 44286,215,214,âm′â,amˈa,house; room,,214,False,False,amˈa,,,
 44290,215,218,d′i-,dˈi-,go,,218,False,False,dˈi-,,,
 44296,215,224,ko-,kʊ-,do; make,,224,False,False,kʊ-,,,
 44302,216,4,âsa,a̞sˈɐ,ash(es),,4,False,False,a̞sˈɐ,,,
-44303,216,6,üc̣e˜,yʈʂˈẽ,back,,5,False,False,yʈʂˈẽ,,,
+44303,216,6,üc̣ẽ,yʈʂˈẽ,back,,5,False,False,yʈʂˈẽ,,,
 44304,216,8,či,tʃˈi,bark,,6,False,False,tʃˈi,,,
 44306,216,10,küć,kˈyts,belly,,8,False,False,kˈyts,,,
 44307,216,11,gaṇi,ɡɐɽ̃ˈi,big,,9,False,False,ɡɐɽ̃ˈi,,,
@@ -23545,14 +23545,14 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44310,216,14,kâča,ka̞tʃˈɐ,black; soot,,12,False,False,ka̞tʃˈɐ,,,
 44311,216,15,lai,lˈɐj,blood,,13,False,False,lˈɐi,,,
 44312,216,17,aṭi,ɐʈˈi,bone,,14,False,False,ɐʈˈi,,,
-44313,216,19,ṣö˜,ʂˈø̃,breath,noun,15,False,False,ʂˈø̃,,,
+44313,216,19,ṣö̃,ʂˈø̃,breath,noun,15,False,False,ʂˈø̃,,,
 44314,216,21,kṛo,kˈo˞,child,,16,False,False,kɽˈo,,,
 44315,216,22,nâli,na̞lˈi,cloud,,17,False,False,na̞lˈi,,,
 44316,216,23,ioz,jˈoz,cold,,18,False,False,iˈoz,,,
-44317,216,25,gaṇa tâvu˜,ɡɐɽ̃ɐta̞βˈũ,to count,,19,False,False,ɡɐɽ̃ɐ ta̞βˈũ,,,
-44319,216,28,mre˜-,mɾˈẽ-,die,,21,False,False,mɾˈẽ-,,,
+44317,216,25,gaṇa tâvũ,ɡɐɽ̃ɐta̞βˈũ,to count,,19,False,False,ɡɐɽ̃ɐ ta̞βˈũ,,,
+44319,216,28,mrẽ-,mɾˈẽ-,die,,21,False,False,mɾˈẽ-,,,
 44320,216,29,kuča-,kutʃˈɐ-,dig; quarry,,22,False,False,kutʃˈɐ-,,,
-44322,216,31,ću˜,tsˈũ,dog,,24,False,False,tsˈũ,,,
+44322,216,31,ćũ,tsˈũ,dog,,24,False,False,tsˈũ,,,
 44323,216,32,piia-,pijˈɐ-,drink,,25,False,False,piiˈɐ-,,,
 44324,216,33,deňâ-,deɹ̃ˈa̞-,dry [trans.],,26,False,False,deɹ̃ˈa̞-,,,
 44326,216,35,pasalä,pɐsɐlˈæ,dust,,28,False,False,pɐsɐlˈæ,,,
@@ -23560,15 +23560,15 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44328,216,37,büm,bˈym,earth; ground,,30,False,False,bˈym,,,
 44329,216,38,ia-,jˈɐ-,consume; eat,,31,False,False,iˈɐ-,,,
 44330,216,39,vṛâv,βɹˈa̞β̞,egg (of bird),,32,False,False,βɽˈa̞β,,,
-44331,216,40,ače˜,ɐtʃˈẽ,eye,,33,False,False,ɐtʃˈẽ,,,
+44331,216,40,ačẽ,ɐtʃˈẽ,eye,,33,False,False,ɐtʃˈẽ,,,
 44333,216,42,südi,sydˈi,far,,35,False,False,sydˈi,,,
 44334,216,43,sakâ,sɐkˈa̞,fat,,36,False,False,sɐkˈa̞,,,
 44335,216,44,tâti,ta̞tˈi,father,,37,False,False,ta̞tˈi,,,
 44336,216,45,vide-,βidˈe-,be afraid,,38,False,False,βidˈe-,,,
 44337,216,46,paṭä,pɐʈˈæ,feather; wing,,39,False,False,pɐʈˈæ,,,
-44338,216,50,â˜i,ã̞j,fire,,40,False,False,ˈã̞i,,,
+44338,216,50,ẫi,ã̞j,fire,,40,False,False,ˈã̞i,,,
 44339,216,51,mać,mˈɐts,fish,,41,False,False,mˈɐts,,,
-44340,216,52,pu˜č,pˈũtʃ,five,,42,False,False,pˈũtʃ,,,
+44340,216,52,pũč,pˈũtʃ,five,,42,False,False,pˈũtʃ,,,
 44342,216,55,püš,pˈyʃ,flower,,44,False,False,pˈyʃ,,,
 44343,216,56,osta-,ostˈɐ-,fly,,45,False,False,ostˈɐ-,,,
 44344,216,57,dümüč,dymˈytʃ,fog,,46,False,False,dymˈytʃ,,,
@@ -23577,23 +23577,23 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44348,216,63,pra-,pɾˈɐ-,give,,50,False,False,pɾˈɐ-,,,
 44349,216,64,ǰäi,dʒˈæi,good; pleasure,,51,False,False,dʒˈæi,,,
 44350,216,65,ius,jˈus,grassy plant,,52,False,False,iˈus,,,
-44351,216,66,köve˜,køβˈẽ,greenish blue; blue,,53,False,False,køβˈẽ,,,
-44352,216,67,atare˜,ɐtɐɾˈẽ,guts,,54,False,False,ɐtɐɾˈẽ,,,
+44351,216,66,kövẽ,køβˈẽ,greenish blue; blue,,53,False,False,køβˈẽ,,,
+44352,216,67,atarẽ,ɐtɐɾˈẽ,guts,,54,False,False,ɐtɐɾˈẽ,,,
 44353,216,68,dru,dɾˈu,hair on head,,55,False,False,dɾˈu,,,
 44354,216,69,dost,dˈost,hand; hand and forearm,,56,False,False,dˈost,,,
 44356,216,71,ṣai,ʂˈɐj,head,,58,False,False,ʂˈɐi,,,
-44357,216,72,akâr datu˜,ɐka̞ɾdɐtˈũ,to hear,"""to-ear cast""",59,False,False,ɐka̞ɾ dɐtˈũ,,,
+44357,216,72,akâr datũ,ɐka̞ɾdɐtˈũ,to hear,"""to-ear cast""",59,False,False,ɐka̞ɾ dɐtˈũ,,,
 44358,216,73,zö,zˈø,heart; chest,,60,False,False,zˈø,,,
 44359,216,74,ganala,ɡɐnɐlˈɐ,heavy,,61,False,False,ɡɐnɐlˈɐ,,,
 44360,216,76,ve-,βˈe-,"hit, beat",,62,False,False,βˈe-,,,
 44362,216,79,k′e-niŋ,kˈeniŋ,how?,,64,False,False,kˈeniŋ,,,
 44365,216,82,aŋa,ɐŋˈɐ,I,,67,False,False,ɐŋˈɐ,,,
 44366,216,83,âc̣ama,a̞ʈʂ̣ɐmˈɐ,ice,,68,False,False,a̞ʈʂ̣ɐmˈɐ,,,
-44369,216,86,ẓâ˜-,ʐˈã̞-,kill,,71,False,False,ʐˈã̞-,,,
+44369,216,86,ẓẫ-,ʐˈã̞-,kill,,71,False,False,ʐˈã̞-,,,
 44370,216,89,sor,sˈoɾ,mountain lake or pond,,72,False,False,sˈoɾ,,,
 44372,216,91,poṭ,pˈoʈ,leaf,,74,False,False,pˈoʈ,,,
 44373,216,92,kâri,ka̞ɾˈi,left,,75,False,False,ka̞ɾˈi,,,
-44375,216,95,ǰe˜ta tu˜,dʒẽtɐtˈũ,to be alive,"""alive remaining""",77,False,False,dʒẽtɐ tˈũ,,,
+44375,216,95,ǰẽta tũ,dʒẽtɐtˈũ,to be alive,"""alive remaining""",77,False,False,dʒẽtɐ tˈũ,,,
 44376,216,96,iok,jˈok,liver,,78,False,False,iˈok,,,
 44377,216,97,drigala,dɾiɡɐlˈɐ,long; tall,,79,False,False,dɾiɡɐlˈɐ,,,
 44378,216,98,iü,jˈy,louse,,80,False,False,iˈy,,,
@@ -23604,13 +23604,13 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44384,216,105,âš,ˈa̞ʃ,mouth,,86,False,False,ˈa̞ʃ,,,
 44385,216,106,nâm,nˈa̞m,name,,87,False,False,nˈa̞m,,,
 44386,216,107,avṛe,ɐβɹˈe,narrow,,88,False,False,ɐβɽˈe,,,
-44387,216,108,tarâ˜t,tɐɾˈã̞t,near,,89,False,False,tɐɾˈã̞t,,,
+44387,216,108,tarẫt,tɐɾˈã̞t,near,,89,False,False,tɐɾˈã̞t,,,
 44388,216,110,nuŋa,nuŋˈɐ,new,,90,False,False,nuŋˈɐ,,,
 44390,216,112,nâs,nˈa̞s,nose,,92,False,False,nˈa̞s,,,
 44391,216,113,na,nˈɐ,not; un-,,93,False,False,nˈɐ,,,
 44392,216,114,ḍega,ɖeɡˈɐ,old; worn out,,94,False,False,ɖeɡˈɐ,,,
 44393,216,115,ev,eβ,,,95,False,False,eβ,,,
-44395,216,118,müṣâp ču˜,myʂa̞ptʃˈũ,play,"""play do""",97,False,False,myʂa̞p tʃˈũ,,,
+44395,216,118,müṣâp čũ,myʂa̞ptʃˈũ,play,"""play do""",97,False,False,myʂa̞p tʃˈũ,,,
 44398,216,121,oṣit,oʂˈit,rain,,100,False,False,oʂˈit,,,
 44400,216,125,golâv,ɡolˈa̞β̞,river (in a steep-sided valley),,102,False,False,ɡolˈa̞β,,,
 44402,216,127,kov,kˈoβ̞,root,,104,False,False,kˈoβ,,,
@@ -23626,7 +23626,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44416,216,143,niše-,niʃˈe-,sit,,118,False,False,niʃˈe-,,,
 44417,216,144,čâm,tʃˈa̞m,skin; hide,,119,False,False,tʃˈa̞m,,,
 44418,216,145,dilu,dilˈu,sky,,120,False,False,dilˈu,,,
-44419,216,146,proš du˜,pɾoʃdˈũ,to go to sleep,"""sleep go""",121,False,False,pɾoʃ dˈũ,,,
+44419,216,146,proš dũ,pɾoʃdˈũ,to go to sleep,"""sleep go""",121,False,False,pɾoʃ dˈũ,,,
 44420,216,147,ćiki,tsikˈi,small,,122,False,False,tsikˈi,,,
 44421,216,149,düm,dˈym,smoke,,123,False,False,dˈym,,,
 44423,216,152,zim,zˈim,snow,,125,False,False,zˈim,,,
@@ -23639,14 +23639,14 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44431,216,166,âv-nâṭ,a̞β̞nˈa̞ʈ,swimming,"""water-dance""",133,False,False,a̞βnˈa̞ʈ,,,
 44432,216,168,ii,jˈi,that; he; she; it; the [unstressed]; [distal],,134,False,False,iˈi,,,
 44433,216,169,atuiv,ɐtˈujβ,there,,135,False,False,ɐtˈuiβ,,,
-44434,216,170,ie˜,jˈẽ,those; they; them; [distal nominative/oblique],,136,False,False,iˈẽ,,,
+44434,216,170,iẽ,jˈẽ,those; they; them; [distal nominative/oblique],,136,False,False,iˈẽ,,,
 44435,216,173,bata-,bɐtˈɐ-,think,,137,False,False,bɐtˈɐ-,,,
 44436,216,174,äli,ælˈi,this; he; she; it; [proximal],,138,False,False,ælˈi,,,
 44437,216,175,tü,tˈy,you (thou),,139,False,False,tˈy,,,
 44438,216,176,tre,tɾˈe,three,,140,False,False,tɾˈe,,,
 44439,216,177,arâ-,ɐɾˈa̞-,throw,,141,False,False,ɐɾˈa̞-,,,
 44441,216,179,ǰip,dʒˈip,tongue,,143,False,False,dʒˈip,,,
-44442,216,180,du˜t,dˈũt,tooth,,144,False,False,dˈũt,,,
+44442,216,180,dũt,dˈũt,tooth,,144,False,False,dˈũt,,,
 44443,216,181,ǰala,dʒɐlˈɐ,tree,,145,False,False,dʒɐlˈɐ,,,
 44444,216,183,dü,dˈy,two,,146,False,False,dˈy,,,
 44447,216,187,pala-,pɐlˈɐ-,wash [body],,149,False,False,pɐlˈɐ-,,,
@@ -23656,7 +23656,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44451,216,191,kiš,kˈiʃ,what?,,153,False,False,kˈiʃ,,,
 44452,216,193,kiv,kˈiβ,where? [with interrogative intonation]; wherever [in hypothetical clauses],,154,False,False,kˈiβ,,,
 44453,216,194,kašira,kɐʃiɾˈɐ,white,,155,False,False,kɐʃiɾˈɐ,,,
-44454,216,195,ka˜i,kˈɐ̃j,"who? [with interrogative intonation]; some, some people, somebody [plural]; nobody [plural; in negative clauses]; whoever",,156,False,False,kˈɐ̃i,,,
+44454,216,195,kãi,kˈɐ̃j,"who? [with interrogative intonation]; some, some people, somebody [plural]; nobody [plural; in negative clauses]; whoever",,156,False,False,kˈɐ̃i,,,
 44455,216,196,vište,βiʃtˈe,wide,,157,False,False,βiʃtˈe,,,
 44456,216,198,bâs,bˈa̞s,wind,,158,False,False,bˈa̞s,,,
 44457,216,199,paṭä,pɐʈˈæ,feather; wing,,159,False,False,pɐʈˈæ,,,
@@ -23664,7 +23664,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44460,216,202,meši,meʃˈi,woman,,162,False,False,meʃˈi,,,
 44461,216,204,gok,ɡˈok,worm,,163,False,False,ɡˈok,,,
 44462,216,205,vi,βˈi,you [plural],,164,False,False,βˈi,,,
-44463,216,16,puṇa·u˜,puɽ̃ɐ.ˈũ,blow,,165,False,False,puɽ̃ɐ.ˈũ,,,
+44463,216,16,puṇa·ũ,puɽ̃ɐ.ˈũ,blow,,165,False,False,puɽ̃ɐ.ˈũ,,,
 44464,216,206,vel,βˈel,year,,166,False,False,βˈel,,,
 44466,216,7,apala,ɐpɐlˈɐ,bad,,168,False,False,ɐpɐlˈɐ,,,
 44467,216,26,ćina-,tsinˈɐ-,slice,,169,False,False,tsinˈɐ-,,,
@@ -23691,8 +23691,8 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44499,216,87,aṣaŋa,ɐʂɐŋˈɐ,knee,,201,False,False,ɐʂɐŋˈɐ,,,
 44500,216,102,mâs,mˈa̞s,moon; month,,202,False,False,mˈa̞s,,,
 44501,216,130,punḍura,puɳɖuɾˈɐ,round,,203,False,False,puɳɖuɾˈɐ,,,
-44502,216,162,üǰâ˜ka,ydʒã̞kˈɐ,straight,,204,False,False,ydʒã̞kˈɐ,,,
-44503,216,172,tu˜ka,tũkˈɐ,thin,,205,False,False,tũkˈɐ,,,
+44502,216,162,üǰẫka,ydʒã̞kˈɐ,straight,,204,False,False,ydʒã̞kˈɐ,,,
+44503,216,172,tũka,tũkˈɐ,thin,,205,False,False,tũkˈɐ,,,
 44505,216,203,ban,bˈɐn,forest,< MIA,207,False,False,bˈɐn,,,
 44506,216,208,pilik,pilˈik,ant,,208,False,False,pilˈik,,,
 44507,216,209,sot,sˈot,thigh,,209,False,False,sˈot,,,
@@ -23714,16 +23714,16 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44544,217,27,v′âs,vˈa̞ːs,day,,20,False,False,vˈa̞s,,,wās
 44553,217,36,k′är,kˈæɾ,ear,,29,False,False,kˈæɾ,,,kär
 44554,217,37,g′åc̣,ɡˈɒʈʂ,earth,,30,False,False,ɡˈɒʈʂ,,,gɔ̄c̣
-44557,217,40,ac̣′i˜,ɐʈʂˈĩ,eye,,33,False,False,ɐʈʂˈĩ,,,ac̣′ĩ
+44557,217,40,ac̣′ĩ,ɐʈʂˈĩ,eye,,33,False,False,ɐʈʂˈĩ,,,ac̣′ĩ
 44559,217,42,sud′u,sudˈuː,far,,35,False,False,sudˈu,,,sud′ū
 44561,217,44,t′ât,tˈa̞ːt,father,,37,False,False,tˈa̞t,,,tāt
 44564,217,50,aŋ′â,ɐŋˈa̞ː,fire,,40,False,False,ɐŋˈa̞,,,aŋ′ā
-44566,217,52,p′o˜č,pˈõːtʃ,five,,42,False,False,pˈõtʃ,,,pō̃č
+44566,217,52,p′õč,pˈõːtʃ,five,,42,False,False,pˈõtʃ,,,pō̃č
 44568,217,55,mâlik,ma̞ːlik,,,44,False,False,ma̞lik,,,mālik
 44571,217,58,k′ur,kˈuːɾ,foot,,47,False,False,kˈuɾ,,,kūr
 44572,217,59,čat′â,čɐtˈa̞ː,four,,48,False,False,tʃɐtˈa̞,,,čat′ā
 44577,217,66,palaš′å,pɐlɐʃˈɔː,green,,53,False,False,pɐlɐʃˈɔ,,,palaš′ɔ̄
-44579,217,68,k′e˜ć,kˈẽːts,hair,,55,False,False,kˈẽts,,,kē̃ć
+44579,217,68,k′ẽć,kˈẽːts,hair,,55,False,False,kˈẽts,,,kē̃ć
 44582,217,71,ṣ′ei,ʂˈeːj,head,,58,False,False,ʂˈei,,,ṣēi
 44584,217,73,ź′o,dzˈoː,heart,,60,False,False,dzˈo,,,jō
 44591,217,82,′e,ˈeː,I,,67,False,False,ˈe,,,ē
@@ -23743,14 +23743,14 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44647,217,149,d′um,dˈum,smoke,,123,False,False,dˈum,,,dum
 44649,217,152,ź′im,dzˈiːm,snow,,125,False,False,dzˈim,,,jīm
 44652,217,159,târa,ta̞ːɾɐ,star,,128,False,False,ta̞ɾɐ,,,tāra
-44656,217,164,s′ä˜,sˈæ̃ː,,,132,False,False,sˈæ̃,,,sä̃
+44656,217,164,s′ä̃,sˈæ̃ː,,,132,False,False,sˈæ̃,,,sä̃
 44658,217,168,s′a,sˈɐ,that; he; she; it; [Conceptual],,134,False,False,sˈɐ,,,sa
 44660,217,170,ed′â,edˈa̞ː,those; they; [Conceptual],,136,False,False,edˈa̞,,,ed′ā
 44662,217,174,′i,ˈiː,this; he; she; it; [proximal],,138,False,False,ˈi,,,ī
 44663,217,175,t′u,tˈu,you (thou),,139,False,False,tˈu,,,tu
 44664,217,176,tr′e,tɾˈeː,three,,140,False,False,tɾˈe,,,trē
 44667,217,179,ǰ′ip,dʒˈiːp,tongue,,143,False,False,dʒˈip,,,ǰīp
-44668,217,180,d′u˜t,dˈũːt,tooth,,144,False,False,dˈũt,,,dū̃t
+44668,217,180,d′ũt,dˈũːt,tooth,,144,False,False,dˈũt,,,dū̃t
 44669,217,181,ǰal′â,dʒɐlˈa̞ː,tree,,145,False,False,dʒɐlˈa̞,,,ǰal′ā
 44670,217,183,d′u,dˈuː,two,,146,False,False,dˈu,,,dū
 44675,217,189,âv′a,a̞ːvˈɐː,we,,151,False,False,a̞vˈɐ,,,aw′ə̄
@@ -23776,7 +23776,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 44988,219,14,kriṣíṇu,kɾiˈʂiɳo,,,12,False,False,kriʂíɳu,,,کرِݜِݨوۡ
 44989,219,15,ráat,ɾaːt̪,,,13,False,False,ráat,,,رات
 44990,219,17,haáḍ,ɦa̤ːɖ,,,14,False,False,haáɖ,,,ہاڈ
-44991,219,19,šiíš ɡhína,ɕiːɕ ˈɡi̤n̪a,,,15,False,False,ɕiíɕ ɡhína,,,شِیش گھِنہ
+44991,219,19,šiíš ghína,ɕiːɕ ˈɡi̤n̪a,,,15,False,False,ɕiíɕ ɡhína,,,شِیش گھِنہ
 44992,219,21,kuṇaák,kuˈɳaːk,,,16,False,False,kuɳaák,,,کُݨاک
 44993,219,22,áabru,ˈaːbɾu,,,17,False,False,áabru,,,آبروۡ
 44994,219,23,šidáalu,ɕiˈd̪aːlu,,,18,False,False,ɕidáalu,,,شِدالوۡ
@@ -23800,7 +23800,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45013,219,44,báabu,ˈbaːbu,,,37,False,False,báabu,,,بابوۡ
 45014,219,45,bhíia,ˈbi̤ːja,,,38,False,False,bhíia,,,بِھیہ
 45015,219,46,phaáṭ,pʰaːʈ,,,39,False,False,pʰaáʈ,,,پھاٹ
-45016,219,50,anɡóor,aŋˈɡoːɾ,,,40,False,False,anɡóoɾ,,,انگور
+45016,219,50,angóor,aŋˈɡoːɾ,,,40,False,False,anɡóoɾ,,,انگور
 45017,219,51,reemáts,ɾeːˈmats,,,41,False,False,reemáts,,,ریمڅ
 45018,219,52,páanǰ,paːɲdʑ,,,42,False,False,páanʑ,,,پانج
 45020,219,55,pišíik,piˈɕiːk,,,44,False,False,piɕíik,,,پِشِیک
@@ -23808,7 +23808,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45022,219,57,dhun,d̪ṳn̪,,,46,False,False,dhun,,,دُھن
 45023,219,58,khur,kʰuɾ,,,47,False,False,kʰur,,,کُھر
 45024,219,59,čúur,tɕuːɾ,,,48,False,False,tɕúur,,,چور
-45025,219,60,soór ɡhína,soːɾ ˈɡi̤n̪a,,,49,False,False,soór ɡhína,,,سور گِھنہ
+45025,219,60,soór ghína,soːɾ ˈɡi̤n̪a,,,49,False,False,soór ɡhína,,,سور گِھنہ
 45026,219,63,díi,d̪iː,,,50,False,False,díi,,,دی
 45027,219,64,šóo,ɕoː,,,51,False,False,ɕóo,,,شو
 45028,219,65,čáar,tɕaːɾ,,,52,False,False,tɕáar,,,چار
@@ -23819,7 +23819,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45034,219,71,ṣiṣ,ʂiʂ,,,58,False,False,ʂiʂ,,,ݜِݜ
 45035,219,72,ṣúṇa,ˈʂuɳa,,,59,False,False,ʂúɳa,,,ݜُݨہ
 45036,219,73,híṛu,ˈɦi̤ɽo,,,60,False,False,híɽu,,,ہِڑوۡ
-45037,219,74,unɡúru,uŋˈɡuɾo,,,61,False,False,unɡúru,,,اُنگُروۡ
+45037,219,74,ungúru,uŋˈɡuɾo,,,61,False,False,unɡúru,,,اُنگُروۡ
 45038,219,76,ǰíi,dʑiː,,,62,False,False,dʑíi,,,جی
 45040,219,79,kanáa,kaˈn̪aː,,,64,False,False,kanáa,,,کنا
 45041,219,80,neečíir thíi,n̪eːˈtɕiːɾ t̪ʰiː,,,65,False,False,neetɕíir thiíi,,,نیچِیر تھی
@@ -23830,10 +23830,10 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45049,219,90,háansa,ˈɦã̤ːsa,,,73,False,False,háansa,,,ہانسہ
 45050,219,91,paalaá,paːˈlaː,,,74,False,False,paalaá,,,پالا
 45051,219,92,khúši,ˈkʰuɕi,,,75,False,False,kʰúɕi,,,کُھشیۡ
-45052,219,94,dhreéɡ díi,d̪ɾe̤ːɡ d̪iː,,,76,False,False,drheéɡ díi,,,دھریگ دی
+45052,219,94,dhreég díi,d̪ɾe̤ːɡ d̪iː,,,76,False,False,drheéɡ díi,,,دھریگ دی
 45053,219,95,ǰáandu hóonsa,ˈdʑaːn̪d̪u ˈɦõ̤ːsa,,,77,False,False,ʑáandu hóonsa,,,جاندوۡ ہونسہ
-45054,219,96,ǰhanɡaár,dʑa̤ŋˈɡaːɾ,,,78,False,False,ʑhanɡaár,,,جھنگار
-45055,219,97,dhríɡu,ˈd̪ɾi̤ɡo,,,79,False,False,drhíɡu,,,دھرِگوۡ
+45054,219,96,ǰhangaár,dʑa̤ŋˈɡaːɾ,,,78,False,False,ʑhanɡaár,,,جھنگار
+45055,219,97,dhrígu,ˈd̪ɾi̤ɡo,,,79,False,False,drhíɡu,,,دھرِگوۡ
 45056,219,98,ǰhií~,dʑĩ̤ː,,,80,False,False,ʑhĩi,,,جِھیں
 45057,219,99,míiš,miːɕ,,,81,False,False,míiɕ,,,مِیش
 45059,219,101,mhaás,ma̤ːs,,,83,False,False,mhaás,,,مھاس
@@ -23841,7 +23841,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45061,219,104,kháaṇ,kʰaːɳ,,,85,False,False,kʰáaɳ,,,کھاݨ
 45062,219,105,dhut,d̪ṳt̪,,,86,False,False,dhut,,,دُھت
 45063,219,106,nóo,n̪oː,,,87,False,False,nóo,,,نو
-45064,219,107,tanɡ,t̪aŋɡ,,,88,False,False,tanɡ,,,تنگ
+45064,219,107,tang,t̪aŋɡ,,,88,False,False,tanɡ,,,تنگ
 45065,219,108,nhiáaṛa,ˈn̪ja̤ːɽa,,,89,False,False,njháaɽa,,,نِھئاڑہ
 45066,219,110,náawu,ˈn̪aːʋu,,,90,False,False,náawu,,,ناووۡ
 45067,219,111,róot,ɾoːt̪,,,91,False,False,róot,,,روت
@@ -23858,7 +23858,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45080,219,127,zeelái,zeːˈlej,,,104,False,False,zeeláj,,,زیلئیۡ
 45082,219,129,pac̣hélu,paˈʈʂʰelo,,,106,False,False,paʈʂʰélu,,,پڇھیۡلوۡ
 45084,219,132,lhoóṇ,lo̤ːɳ,,,108,False,False,lhoóɳ,,,لھوݨ
-45085,219,133,síɡal,ˈsiɡal,,,109,False,False,síɡal,,,سِگل
+45085,219,133,sígal,ˈsiɡal,,,109,False,False,síɡal,,,سِگل
 45086,219,134,maníi,maˈn̪iː,,,110,False,False,maníi,,,منی
 45087,219,136,samandár,saman̪ˈd̪aɾ,,,111,False,False,samandár,,,سمندر
 45088,219,137,páaša,ˈpaːɕa,,,112,False,False,páaɕa,,,پاشہ
@@ -23869,19 +23869,19 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45093,219,142,rhoó díi,ɾo̤ː d̪iː,,,117,False,False,rhoó díi,,,رھو دی
 45094,219,143,bheší hóonsa,be̤ˑˈɕi ˈɦõ̤ːsa,,,118,False,False,bheɕí hóonsa,,,بھیۡشیۡ ہونسہ
 45095,219,144,púustu,ˈpuːst̪o,,,119,False,False,púustu,,,پُوستوۡ
-45096,219,145,aaɡhaá,aːˈɡa̤ː,,,120,False,False,aaɡhaá,,,آگھا
+45096,219,145,aaghaá,aːˈɡa̤ː,,,120,False,False,aaɡhaá,,,آگھا
 45097,219,146,síi,siː,,,121,False,False,síi,,,سی
 45098,219,147,lhoóku,ˈlo̤ːko,,,122,False,False,lhoóku,,,لھوکوۡ
 45099,219,149,dhuumíi,dṳːˈmiː,,,123,False,False,dhuumíi,,,دُھومی
 45100,219,150,pičhílu,piˈtɕʰilo,,,124,False,False,pitɕʰílu,,,پِچِھلوۡ
 45101,219,152,kir,kiɾ,,,125,False,False,kir,,,کِر
-45102,219,154,thúki ɡalíi,t̪ʰuki ɡaliː,,,126,False,False,tʰúki ɡalíi,,,تُھکیۡ گلی
+45102,219,154,thúki galíi,t̪ʰuki ɡaliː,,,126,False,False,tʰúki ɡalíi,,,تُھکیۡ گلی
 45103,219,158,uthí hóonsa,uˈt̪ʰi ˈɦõ̤ːsa,,,127,False,False,utʰí hóonsa,,,اُتھیۡ ہونسہ
 45104,219,159,tóoru,ˈt̪oːɾo,,,128,False,False,tóoru,,,توروۡ
 45105,219,160,lhaléemi,la̤ˈleːmi,,,129,False,False,lhaléemi,,,لھلیمیۡ
 45106,219,161,báaṭ,baːʈ,,,130,False,False,báaʈ,,,باٹ
 45108,219,164,súuri,ˈsuːɾi,,,132,False,False,súuri,,,سُوریۡ
-45109,219,166,bhéenɡi ǰíi,ˈbe̤ːŋɡi dʑiː,,,133,False,False,bhéenɡi ʑíi,,,بھینگیۡ جی
+45109,219,166,bhéengi ǰíi,ˈbe̤ːŋɡi dʑiː,,,133,False,False,bhéenɡi ʑíi,,,بھینگیۡ جی
 45110,219,168,aṛó,aˈɽo,,,134,False,False,aɽó,,,اڑوۡ
 45111,219,169,aṛáa,aˈɽaː,,,135,False,False,aɽáa,,,اڑا
 45112,219,170,se,se,,,136,False,False,se,,,سےۡ
@@ -23889,8 +23889,8 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45114,219,174,́anú,aˈn̪u,,,138,False,False,anú,,,انوۡ
 45115,219,175,tu,t̪u,,,139,False,False,tu,,,توۡ
 45116,219,176,tróo,t̪ɾoː,,,140,False,False,tróo,,,ترو
-45117,219,177,ṣuɡalíi,ʂuɡaˈliː,,,141,False,False,ʂuɡalíi,,,ݜُگلی
-45118,219,178,ɡhaṇḍíi,ɡa̤ɳˈɖiː,,,142,False,False,ɡhaɳɖíi,,,گھنڈی
+45117,219,177,ṣugalíi,ʂuɡaˈliː,,,141,False,False,ʂuɡalíi,,,ݜُگلی
+45118,219,178,ghaṇḍíi,ɡa̤ɳˈɖiː,,,142,False,False,ɡhaɳɖíi,,,گھنڈی
 45119,219,179,ǰip,dʑip,,,143,False,False,ʑip,,,جِپ
 45120,219,180,dáand,d̪aːn̪d̪,,,144,False,False,dáand,,,داند
 45121,219,181,muṭ,muʈ,,,145,False,False,muʈ,,,مُٹ
@@ -23901,16 +23901,16 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45126,219,188,wíi,ʋiː,,,150,False,False,wíi,,,وی
 45127,219,189,be,be,,,151,False,False,be,,,بےۡ
 45128,219,190,síndu,ˈsin̪d̪o,,,152,False,False,síndu,,,ِسِندوۡ
-45129,219,191,ɡubáa,ɡuˈbaː,,,153,False,False,ɡubáa,,,گُبا
-45130,219,193,ɡóo,ɡoː,,,154,False,False,ɡóo,,,گو
+45129,219,191,gubáa,ɡuˈbaː,,,153,False,False,ɡubáa,,,گُبا
+45130,219,193,góo,ɡoː,,,154,False,False,ɡóo,,,گو
 45131,219,194,paṇáaru,paˈɳaːɾu,,,155,False,False,paɳáaru,,,پݨاروۡ
 45132,219,195,koó,koː,,,156,False,False,koó,,,کو
 45133,219,196,bistíiṇu,bisˈt̪iːɳo,,,157,False,False,bistíiɳu,,,بِستِیݨوۡ
 45134,219,198,húuši,ˈɦṳːɕi,,,158,False,False,húuɕi,,,ہُوشیۡ
 45135,219,199,préku,ˈpɾeko,,,159,False,False,préku,,,پریۡکوۡ
-45137,219,201,sanɡí,saŋˈɡi,,,161,False,False,sanɡí,,,سنگیۡ
+45137,219,201,sangí,saŋˈɡi,,,161,False,False,sanɡí,,,سنگیۡ
 45138,219,202,kúṛi,ˈkuɽi,,,162,False,False,kúɽi,,,کُڑیۡ
-45139,219,204,ɡhroók,ɡɾo̤ːk,,,163,False,False,ɡrhoók,,,گھروک
+45139,219,204,ghroók,ɡɾo̤ːk,,,163,False,False,ɡrhoók,,,گھروک
 45140,219,205,tus,t̪us,,,164,False,False,tus,,,تُس
 45141,219,16,phuukíi,pʰuːˈkiː,,,165,False,False,pʰuukíi,,,پُھوکی
 45142,219,206,kaál,kaːl,,,166,False,False,kaál,,,کال
@@ -23929,7 +23929,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45156,219,167,laméeṭi,laˈmeːʈi,,,180,False,False,laméeʈi,,,لمیٹیۡ
 45158,219,182,nuuṭóo,n̪uːˈʈoː,,,182,False,False,nuuʈóo,,,نُوٹو
 45159,219,135,kaṇíi,kaˈɳiː,,,183,False,False,kaɳíi,,,کݨی
-45160,219,148,ɡhróoṇ,ɡɾo̤ːɳ,,,184,False,False,ɡrhóoɳ,,,گھروݨ
+45160,219,148,ghróoṇ,ɡɾo̤ːɳ,,,184,False,False,ɡrhóoɳ,,,گھروݨ
 45162,219,171,čóolu,ˈtɕoːlo,,,186,False,False,tɕóolu,,,چولوۡ
 45163,219,124,deec̣híṇu,d̪eːˈʈʂʰiɳo,,,187,False,False,deeʈʂʰíɳu,,,دیڇِھݨوۡ
 45164,219,151,ǰhanduraa,dʑa̤n̪ˈd̪ɾaː,,,188,False,False,ʑhanduraá,,,جھندُرا
@@ -23937,35 +23937,35 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 45167,219,192,kareé,kaˈɾeː,,,191,False,False,kareé,,,کرے
 45168,219,207,zeṛ,zeɽ,,,192,False,False,zeɽ,,,زیۡڑ
 45170,219,18,siiná,siːˈna,,,194,False,False,siiná,,,سِینہ
-45172,219,49,nóonɡ,n̪oːŋɡ,,,196,False,False,nóonɡ,,,نونگ
+45172,219,49,nóong,n̪oːŋɡ,,,196,False,False,nóonɡ,,,نونگ
 45174,219,61,meewá,meːˈʋa,,,198,False,False,meewá,,,میوہ
 45175,219,62,purá,puˈɾa,,,199,False,False,purá,,,پُرہ
-45176,219,78,ṣinɡ,ʂiŋɡ,,,200,False,False,ʂinɡ,,,ݜِنگ
+45176,219,78,ṣing,ʂiŋɡ,,,200,False,False,ʂinɡ,,,ݜِنگ
 45177,219,87,khúṭu,ˈkʰuʈo,,,201,False,False,kʰúʈu,,,کُھٹوۡ
 45178,219,102,yúun,juːn̪,,,202,False,False,júun,,,یُون
 45179,219,130,piṇḍúuru,piɳˈɖuːɾo,,,203,False,False,piɳɖúuru,,,پِنڈُوروۡ
 45180,219,162,c̣húuṇc̣u,ˈʈʂʰuːɳʈʂo,,,204,False,False,ʈʂʰúuɳʈʂu,,,ڇُھونڇوۡ
 45181,219,172,čúṇu,ˈtɕuɳo,,,205,False,False,tɕúɳu,,,چُݨوۡ
-45183,219,203,zanɡál,zaŋɡal,,,207,False,False,zanɡál,,,زنگل
+45183,219,203,zangál,zaŋɡal,,,207,False,False,zanɡál,,,زنگل
 45184,219,208,pilíilu,piˈliːlo,,,208,False,False,pilíilu,,,پِلِیلوۡ
 45185,219,209,séeti,ˈseːt̪i,,,209,False,False,séeti,,,سیتیۡ
 45186,219,210,šópu,ˈɕopo,,,210,False,False,ɕópu,,,شوۡپوۡ
 45187,219,211,phútu,ˈpʰut̪o,,,211,False,False,pʰútu,,,پُھتوۡ
 45188,219,212,dhoóṛ,d̪o̤ːɽ,,,212,False,False,dhoóɽ,,,دھوڑ
 45189,219,213,čhay,tɕʰaj,,,213,False,False,tɕʰaj,,,چھئیۡ
-45190,219,214,ɡhoóṣṭ,ɡo̤ːʂʈ,,,214,False,False,ɡhoóʂʈ,,,گھوݜٹ
+45190,219,214,ghoóṣṭ,ɡo̤ːʂʈ,,,214,False,False,ɡhoóʂʈ,,,گھوݜٹ
 45191,219,215,triṣṭu,ˈt̪ɾiʂʈo,,,215,False,False,tríʂʈu,,,ترِݜٹوۡ
-45192,219,216,ḍanɡ,ɖaŋɡ,,,216,False,False,ɖanɡ,,,ڈنگ
+45192,219,216,ḍang,ɖaŋɡ,,,216,False,False,ɖanɡ,,,ڈنگ
 45193,219,217,mhoóru,ˈmo̤ːɾo,,,217,False,False,mhoóru,,,مھوروۡ
 45194,219,218,bíi,biː,,,218,False,False,bíi,,,بی
 45195,219,219,utráapa,uˈt̪ɾaːpa,,,219,False,False,utráapa,,,اُتراپہ
-45196,219,220,ɡhiní bíi,ɡi̤ˈn̪i biː,,,220,False,False,ɡhiní bíi,,,گِھنیۡ بی
-45197,219,221,ɡhína,ˈɡi̤na,,,221,False,False,ɡhína,,,گِھنہ
+45196,219,220,ghiní bíi,ɡi̤ˈn̪i biː,,,220,False,False,ɡhiní bíi,,,گِھنیۡ بی
+45197,219,221,ghína,ˈɡi̤na,,,221,False,False,ɡhína,,,گِھنہ
 45198,219,222,palóo,paˈloː,,,222,False,False,palóo,,,پلو
 45199,219,223,ríi,ɾiː,,,223,False,False,ríi,,,ری
 45200,219,224,thíi,t̪ʰiː,,,224,False,False,tʰíi,,,تھی
 45201,219,225,píiṣa,ˈpiːʂa,,,225,False,False,píiʂa,,,پِیݜہ
-45202,219,226,nóonɡ,n̪oːŋɡ,,,226,False,False,nóonɡ,,,نونگ
+45202,219,226,nóong,n̪oːŋɡ,,,226,False,False,nóonɡ,,,نونگ
 45203,7,62,lecʿown,lɛˈtsʰun,,,215,False,False,lɛtsʰ-un,,,լեցուն
 45204,8,215,daṙə,ˈdɑrə,,,317,False,False,dɑr-n,,,դառը
 45205,7,215,lełi,lɛˈʁi,,,216,False,False,lɛʁ-i,,,լեղի
@@ -26586,7 +26586,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 49804,40,102,zoon,zuːn,,,259,False,False,zuːn,,,زون
 49805,40,49,nam,nɑm,,,260,False,False,nɑm,,,نَم
 49806,40,210,naːn,nɑːn,,,261,False,False,nɑːn,,,نان
-49807,40,130,ɡɔɔl,ɡɔːl,,,262,False,False,ɡɔːl,,,گول
+49807,40,130,gɔɔl,ɡɔːl,,,262,False,False,ɡɔːl,,,گول
 49808,40,219,drɔṛon,d̪rɔɽon,,,263,False,False,d̪rɔɽon,,,دروڑُن
 49809,40,213,tshay,tsʰɑːj,,,264,False,False,tsʰɑːj,,,ژھ ائے
 49810,40,217,myuṭh,mʲʊːʈʰ,,,265,False,False,mjoːʈʰ,,,میوٹھ
@@ -28560,7 +28560,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 53084,251,179,yazik,,,,0,False,False,,,,
 53085,251,180,zuub,,,,0,False,False,,,,
 53086,251,181,sztablo,,,,0,False,False,,,,
-53087,251,123,ɡyztina,,,,0,False,False,,,,
+53087,251,123,gyztina,,,,0,False,False,,,,
 53088,251,182,obratiti,,,,0,False,False,,,,
 53089,251,183,dva,,,,0,False,False,,,,
 53090,251,184,blyuvati,,,,0,False,False,,,,
@@ -34260,7 +34260,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60772,284,15,leey,ˈlʲɛːɪ,,,0,False,False,lɛ̀j,,,لیئے 
 60773,284,16,phuik,pʰʊˈik,,,0,False,False,pʰujík,,,پھوئیک
 60774,284,17,kooł,kɔːɫ̥,,,0,False,False,kɔ̀ɫ,,,کوڑ
-60775,284,19,hah ɡanik,hɑh ɡɑˈn̪ik,,,0,False,False,hɑh ɡɑník,,,ہاہ گانیک
+60775,284,19,hah ganik,hɑh ɡɑˈn̪ik,,,0,False,False,hɑh ɡɑník,,,ہاہ گانیک
 60776,284,20,puliik,pʊˈlʲiːk,,,0,False,False,pulìk,,,پولیک
 60777,284,220,uliik,ʊˈlʲiːk,,,0,False,False,ulìk,,,الیک
 60778,284,18,paz,pɑːs,,,0,False,False,pɑz,,,پاز
@@ -34268,7 +34268,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60780,284,226,qaf,qɑf,,,0,False,False,qɑf,,,قاف
 60781,284,22,khoṭ,kʰɔʈ,,,0,False,False,kʰɔʈ,,,کھوٹ
 60782,284,23,uṣak,ʊˈʂɑˑk,,,0,False,False,uʂɑ́k,,,اوݰاک
-60783,284,24,ɡik,ɡiˑk,,,0,False,False,ɡik,,,گیک
+60783,284,24,gik,ɡiˑk,,,0,False,False,ɡik,,,گیک
 60784,284,25,iṣmareek,iʂmɑˑˈɾɛːk,,,0,False,False,iʂmɑɾɛ̀k,,,اݰمارئیک
 60785,284,223,kełik,kɛˈɫik,,,0,False,False,kɛɫík,,,کیڑیک
 60786,284,26,čhinik,tɕʰiˈn̪ik,,,0,False,False,tɕʰiník,,,چھینیک
@@ -34280,7 +34280,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60792,284,31,reeni,ˈɾɛːn̪i,,,0,False,False,ɾɛ̀ni,,,رینی
 60793,284,32,piik,piːk,,,0,False,False,pìk,,,پیک
 60794,284,33,c̣huc̣hu,ʈʂʰʊˈʈʂʰu,,,0,False,False,ʈʂʰuʈʂʰú,,,ݯُھوݯُھو
-60795,284,35,ɡeht,ɡɛht̪,,,0,False,False,ɡɛht̪,,,گیہت
+60795,284,35,geht,ɡɛht̪,,,0,False,False,ɡɛht̪,,,گیہت
 60796,284,36,kar,kɑˑɾ̥,,,0,False,False,kɑɾ,,,کار
 60797,284,37,buum,buːm,,,0,False,False,bùm,,,بوم
 60798,284,38,žibik,ʑiˑˈbik,,,0,False,False,ʑibík,,,ژیبیک
@@ -34293,15 +34293,15 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60805,284,45,buhtiik,bʊhˈt̪iːk,,,0,False,False,buhtìk,,,بوہتیک
 60806,284,46,poc̣h,pɔʈʂ,,,0,False,False,pɔʈʂʰ,,,پوݯھ
 60807,284,48,ǰanǰal korik,dʑɜ̃ɲˈdʑɑl kɔˑˈɾik,,,0,False,False,dʑɑndʑɑ́l kɔɾík,,,جنجال کوریک
-60808,284,50,anɡaar,ɜ̃ŋˈɡɑːɾ̥,,,0,False,False,ɑnɡɑ̀ɾ,,,انگار
+60808,284,50,angaar,ɜ̃ŋˈɡɑːɾ̥,,,0,False,False,ɑnɡɑ̀ɾ,,,انگار
 60809,284,51,matshi,mɜˈtsʰi,,,0,False,False,mɑtsʰí,,,مڅھی
 60810,284,52,ponǰ,pɔ̃ˑɲtɕ,,,0,False,False,pɔndʑ,,,پونج
-60811,284,55,ɡamburi,ɡɜ̃mˈburi,,,0,False,False,ɡɑmbúri,,,گمبوری
-60812,284,211,maɡaas,mɜˈɡɑːs,,,0,False,False,mɑɡɑ̀s,,,مگاس
+60811,284,55,gamburi,ɡɜ̃mˈburi,,,0,False,False,ɡɑmbúri,,,گمبوری
+60812,284,211,magaas,mɜˈɡɑːs,,,0,False,False,mɑɡɑ̀s,,,مگاس
 60813,284,56,uliik,ʊˈlʲiːk,,,0,False,False,ulìk,,,ولیک
 60814,284,57,markhan,mɑˑɾˈkʰɑn̪,,,0,False,False,mɑɾkʰɑ́n,,,مرکھان
-60815,284,58,ponɡ,pɔˑŋk,,,0,False,False,pɔnɡ,,,پونگ
-60816,284,203,ǰanɡal,dʑɜ̃ŋˈɡɑlʲ,,,0,False,False,dʑɑnɡɑ́l,,,جنگل
+60815,284,58,pong,pɔˑŋk,,,0,False,False,pɔnɡ,,,پونگ
+60816,284,203,ǰangal,dʑɜ̃ŋˈɡɑlʲ,,,0,False,False,dʑɑnɡɑ́l,,,جنگل
 60817,284,59,čoor,tɕɔːɾ̥,,,0,False,False,tɕɔ̀ɾ,,,چور
 60818,284,60,yoz c̣okik,jɔˑs ʈʂɞˈkik,,,0,False,False,jɔz ʈʂɔkík,,,یوز ݯوکیک
 60819,284,61,mewa,mɛˈʋɑ,,,0,False,False,mɛʋɑ́,,,میوا
@@ -34309,13 +34309,13 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60821,284,63,dik,d̪ik,,,0,False,False,dik,,,دیک
 60822,284,218,bik,bik,,,0,False,False,bik,,,بیک
 60823,284,64,ǰam,dʑɑm,,,0,False,False,dʑɑm,,,جام
-60824,284,65,ɡaz,ɡɑˑs,,,0,False,False,ɡɑz,,,گھاز
+60824,284,65,gaz,ɡɑˑs,,,0,False,False,ɡɑz,,,گھاز
 60825,284,66,oc̣,ɔʈʂ,,,0,False,False,ɔʈʂ,,,اوݯ
 60826,284,225,peṣik,pɛˈʂik,,,0,False,False,pɛʂík,,,پیݰیک
 60827,284,67,xoyanbeeł,χɔjɑmˈbɛːɫ̥,,,0,False,False,xɔjɑnbɛ̀ɫ,,,خویانبیڑ
 60828,284,68,phur,pʰuˑɾ̥,,,0,False,False,pʰuɾ,,,پھور
 60829,284,69,host,hɔst̪,,,0,False,False,hɔst,,,ہوست
-60830,284,216,ḍanɡ,ɖɑŋk,,,0,False,False,ɖɑnɡ,,,دانگ
+60830,284,216,ḍang,ɖɑŋk,,,0,False,False,ɖɑnɡ,,,دانگ
 60831,284,71,sor,sɔˑɾ̥,,,0,False,False,sɔɾ,,,سور
 60832,284,72,kara dik,ˈkɑɾɜ d̪ik,,,0,False,False,kɑ́rɑ dík,,,کارا دیک
 60833,284,73,hardi,hɑɾˈd̪i,,,0,False,False,hɑɾdí,,,ہردی
@@ -34323,7 +34323,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60835,284,75,haya'a,hɑjɑː,,,0,False,False,hɑjɑ́ɑ,,,ہیا
 60836,284,222,khošteek,kʰɞɕˈt̪ɛːk,,,0,False,False,kʰɔɕtɛ̀k,,,کھوشتئیک
 60837,284,76,dik,d̪ik,,,0,False,False,dik,,,دیک
-60838,284,78,srunɡ,sɾ̥uŋk,,,0,False,False,sɾunɡ,,,سُرونگ
+60838,284,78,srung,sɾ̥uŋk,,,0,False,False,sɾunɡ,,,سُرونگ
 60839,284,186,pec̣,pɛʈʂ,,,0,False,False,pɛʈʂ,,,پیݯ
 60840,284,214,dur,d̪uˑɾ̥,,,0,False,False,duɾ,,,دُور
 60841,284,79,kiča,ˈkitɕɑ,,,0,False,False,kítɕɑ,,,کیچہ 
@@ -34341,7 +34341,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60853,284,94,porik,pɔˑˈɾik,,,0,False,False,pɔɾík,,,پوریک
 60854,284,95,žunu asik,ˈʑun̪ʊ ɜˈsik,,,0,False,False,ʑúnu ɑsík,,,ژونو
 60855,284,96,ṣeɣun,ˈʂɛɣʊn̪,,,0,False,False,ʂɛ́ɣun,,,ݰیغون
-60856,284,97,drunɡ,d̪ruŋk,,,0,False,False,dɾunɡ,,,درونگ
+60856,284,97,drung,d̪ruŋk,,,0,False,False,dɾunɡ,,,درونگ
 60857,284,98,žuɣ,ʑuˑx,,,0,False,False,ʑuɣ,,,ژوغ، ݱوغ
 60858,284,99,mooš,mɔ̃ːɕ,,,0,False,False,mɔ̀ɕ,,,موش
 60859,284,101,pušur,pʊˈɕuˑɾ̥,,,0,False,False,puɕúɾ,,,پوشور
@@ -34351,10 +34351,10 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60863,284,105,apak,ɜˈpɑk,,,0,False,False,ɑpɑ́k,,,اپاک
 60864,284,49,doɣur,d̪ɔˈʁuˑɾ̥,,,0,False,False,dɔɣúɾ,,,دوغور
 60865,284,106,nam,nɑm,,,0,False,False,nɑm,,,نام
-60866,284,107,tranɡ,t̪rɑŋk,,,0,False,False,trɑnɡ,,,ترانگ
+60866,284,107,trang,t̪rɑŋk,,,0,False,False,trɑnɡ,,,ترانگ
 60867,284,210,naf,n̪ɑf,,,0,False,False,nɑf,,,ناف
 60868,284,108,ṣoi,ˈʂɔi,,,0,False,False,ʂɔj,,,ݰوئے
-60869,284,109,ɡerdaan,ɡɛˑɾˈd̪ɑːn̪,,,0,False,False,ɡɛɾdɑ̀n,,,گردان
+60869,284,109,gerdaan,ɡɛˑɾˈd̪ɑːn̪,,,0,False,False,ɡɛɾdɑ̀n,,,گردان
 60870,284,110,nooɣ,n̪ɔːχ,,,0,False,False,nɔ̀ɣ,,,نوغ
 60871,284,111,čhui,ˈtɕʰʊi,,,0,False,False,tɕʰuj,,,چھوئے
 60872,284,112,naskar,n̪ɜ̃sˈkɑˑɾ̥,,,0,False,False,nɑskɑ́ɾ,,,نسکار
@@ -34363,7 +34363,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60875,284,115,i,i,,,0,False,False,i,,,ای
 60876,284,117,nafri,n̪ɜ̃fəˈɾi,,,0,False,False,nɑfɑrí,,,نفری
 60877,284,118,išṭok korik,ɪɕˈʈɔk kɔˑˈɾik,,,0,False,False,iɕʈɔ́k kɔɾík,,,اشٹوک کوریک
-60878,284,119,ẓinɡeek,ʐĩŋˈɡɛːk,,,0,False,False,ʐinɡɛ̀k,,,ݱینگئیک
+60878,284,119,ẓingeek,ʐĩŋˈɡɛːk,,,0,False,False,ʐinɡɛ̀k,,,ݱینگئیک
 60879,284,120,zuq dik,zuʁ dik,,,0,False,False,zuq dik,,,زوق دیک
 60880,284,121,boṣik,bɞˈʂik,,,0,False,False,bɔʂík,,,بوݰیک
 60881,284,122,krui,ˈkɾʊi,,,0,False,False,kɾuj,,,کروئی
@@ -34406,7 +34406,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60918,284,165,oxeek,ɔˈχɛːk,,,0,False,False,ɔxɛ̀k,,,اوخیک
 60919,284,166,usneek,ʊsˈn̪ɛːk,,,0,False,False,usnɛ̀k,,,اوسنیک
 60920,284,167,ruum,ɾuːm,,,0,False,False,ɾùm,,,روم
-60921,284,221,ɡanik,ɡɑˈn̪ik,,,0,False,False,ɡɑník,,,گانیک
+60921,284,221,ganik,ɡɑˈn̪ik,,,0,False,False,ɡɑník,,,گانیک
 60922,284,168,he,hɛ,,,0,False,False,hɛ,,,ہے
 60923,284,169,hera,ˈhɛɾɑ,,,0,False,False,hɛ́ɾɑ,,,ہیرا
 60924,284,170,het,hɛt̪,,,0,False,False,hɛt,,,ہیت
@@ -34418,7 +34418,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60930,284,176,troi,ˈt̪ɾɔˑi,,,0,False,False,tɾɔj,,,تروئے
 60931,284,177,parečhik,pɜɾəˈtɕʰik,,,0,False,False,pɑɾɛtɕʰík,,,پاریچھیک
 60932,284,178,botik,bɔˈt̪ik,,,0,False,False,bɔtík,,,بوتیک
-60933,284,179,liɡini,lʲiˈɡin̪ʲi,,,0,False,False,liɡíni,,,لیگینی
+60933,284,179,ligini,lʲiˈɡin̪ʲi,,,0,False,False,liɡíni,,,لیگینی
 60934,284,180,don,d̪ɔn̪,,,0,False,False,dɔn,,,دون
 60935,284,181,kan,kɑn̪,,,0,False,False,kɑn,,,کان
 60936,284,123,frosk,fɾɔsk,,,0,False,False,fɾɔsk,,,فروسک
@@ -34426,7 +34426,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60938,284,183,ǰu,dʑu,,,0,False,False,dʑu,,,جُو
 60939,284,184,oq dik,ɔʁ d̪ik,,,0,False,False,ɔq dik,,,اوق دیک
 60940,284,185,kosik,kɔˈsik,,,0,False,False,kɔsík,,,کوسیک
-60941,284,187,niɡik,n̪ʲiˈɡik,,,0,False,False,niɡík,,,نیگیک
+60941,284,187,nigik,n̪ʲiˈɡik,,,0,False,False,niɡík,,,نیگیک
 60942,284,188,uɣ,uˑχ,,,0,False,False,uɣ,,,اوغ
 60943,284,189,ispa,isˈpɑ,,,0,False,False,ispɑ́,,,اِسپہ
 60944,284,190,dzah,dzɑh,,,0,False,False,dzɑh,,,ځاہ
@@ -34436,11 +34436,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 60948,284,194,išperu,iɕˈpɛɾʊ,,,0,False,False,iɕpɛ́ɾu,,,اشپیرو
 60949,284,195,kaa,kɑː,,,0,False,False,kɑ̀,,,کا
 60950,284,196,biroɣun,biˈɾɔʁʊn̪,,,0,False,False,biɾɔ́ɣun,,,بیروغون
-60951,284,198,ɡaan,ɡɑ̃ːn̪,,,0,False,False,ɡɑ̀n,,,گان
+60951,284,198,gaan,ɡɑ̃ːn̪,,,0,False,False,ɡɑ̀n,,,گان
 60952,284,199,wrazun,ˈʋɾɑzʊ̃n̪,,,0,False,False,ʋɾɑ́zun,,,ورازون
 60953,284,201,ǰusta,ˈdʑust̪ɜ,,,0,False,False,dʑústɑ,,,جوستہ
 60954,284,202,kimeeri,kiˈmɛ̃ːri,,,0,False,False,kimɛ̀ri,,,کیمیری
-60955,284,204,ɡoɣ,ɡɔˑχ,,,0,False,False,ɡɔɣ,,,گوغ
+60955,284,204,goɣ,ɡɔˑχ,,,0,False,False,ɡɔɣ,,,گوغ
 60956,284,206,sal,sɑˑl̥,,,0,False,False,sɑl,,,سال
 60957,284,207,zehč,zɛhtɕ,,,0,False,False,zɛhtɕ,,,زیہچ، ځیہچ
 60958,284,212,wezeen,ʋɛˈzɛːn̪,,,0,False,False,ʋɛzɛ̀n,,,ویزین
@@ -35155,7 +35155,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61680,287,205,hβy,,,"<* šmaibya (cf. Skjærvø 1991, BSOAS 54/3, p.503); enclitic f(e)n-",0,False,False,haβiː,,,
 61681,287,170,yβy,,,"oblique stem hin, enclitic =hin/=n",0,False,False,,,,
 61682,288,208,pila,piˈl̪ɞ,,GM pil'a,0,False,False,pila,,,پِلہ
-61683,288,4,saaɡa,saːˈɡɔ,,GM sāg'a,0,False,False,saːɡa,,,ساگہ
+61683,288,4,saaga,saːˈɡɔ,,GM sāg'a,0,False,False,saːɡa,,,ساگہ
 61684,288,6,piṣṭi,pɪʂˈʈi,,GM piṣṭi,0,False,False,piʂʈi,,,پِݭٹی
 61685,288,7,khats,kʰɜsː,,GM khaċ,0,False,False,kʰats,,,کھڅ
 61686,288,8,tshik,tsʰik,,GM ċīk,0,False,False,tsʰik,,,څِھک
@@ -35168,16 +35168,16 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61693,288,15,lo,l̪oˑ,,GM lọ̄,0,False,False,lo,,,لو
 61694,288,16,fukik,fʊˈkik,,GM phūk 'breath',0,False,False,fukik,,,فوکیک
 61695,288,17,haḍoki,hɜɖoˑˈki,,GM haḍ'uki,0,False,False,haɖoki,,,ہڈوکی
-61696,288,19,saa ɡoik,saˑˈɡɵɪk,,,0,False,False,saː ɡojk,,,سا گوئیک
+61696,288,19,saa goik,saˑˈɡɵɪk,,,0,False,False,saː ɡojk,,,سا گوئیک
 61697,288,20,lušik,l̪ɵˈɕik,,GM loṣo-,0,False,False,luɕik,,,لُشیک
-61698,288,220,ɡaaik,ɡaːˈik,,"GM gū-, gō-",0,False,False,ɡaːjik,,,گائیک
+61698,288,220,gaaik,ɡaːˈik,,"GM gū-, gō-",0,False,False,ɡaːjik,,,گائیک
 61699,288,18,hida,hɪˈd̪ɞ,,GM h'ida,0,False,False,hida,,,ہدہ
 61700,288,21,bačai,bɜˈtɕeɪ,,,0,False,False,batɕaj,,,بچئ
 61701,288,226,panǰa,pɜ̃ɲˈdʑɔ,,,0,False,False,panʑa,,,پنجہ
 61702,288,22,albena,ɜl̪bẽˑˈn̪ɔ,,GM alb'ēna,0,False,False,albena,,,البینہ
 61703,288,23,šala,ɕɛˈl̪ə,,"GM šol'a, šal'a",0,False,False,ɕala,,,شلہ
 61704,288,24,ǰik,dʑik,,"GM ži-, ǰi-",0,False,False,dʑik,,,جِک
-61705,288,25,ɡenik,ɡeːˈn̪ĩk,,,0,False,False,ɡenik,,,گینِک
+61705,288,25,genik,ɡeːˈn̪ĩk,,,0,False,False,ɡenik,,,گینِک
 61706,288,223,baanik,baːˈn̪ĩk,,GM bāni-m'im,0,False,False,baːnik,,,بانِک
 61707,288,26,tshinik,tsiˈn̪ĩk,,GM ċini-mim to tear asunder,0,False,False,tsʰinik,,,څِھنِک
 61708,288,27,des,d̪eːs,,GM dēs,0,False,False,des,,,دیس
@@ -35198,10 +35198,10 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61723,288,42,duraae,d̪ɵɾaːˈiˑ,,"GM dur'āṛi, dur'āi",0,False,False,duraːji,,,دُورایے
 61724,288,43,sikaa,sɪˈkaː,,GM sik'a,0,False,False,sikaː,,,سِکا
 61725,288,44,baap,baːp,,"GM bab, bap",0,False,False,baːp,,,باپ
-61726,288,45,banɡarik,bɜ̃ŋɡɜˈɾik,,,0,False,False,banɡarik,,,بنگرِک
+61726,288,45,bangarik,bɜ̃ŋɡɜˈɾik,,,0,False,False,banɡarik,,,بنگرِک
 61727,288,46,faṭa,fɜ˞ˈʈɔ,, -- Identical with 'leaf',0,False,False,faʈa,,,فٹہ
 61728,288,48,ǰ̣aɣaṛik,ʐɜɣɜˈjik,,cf. Panjabi jʰagṛā „fight“,0,False,False,ɖʐaɣaɽik,,,ݫغڑِک
-61729,288,50,hanɡar,hɜ̃ŋˈɡaːɾ,,GM aŋɡ'ār,0,False,False,hanɡaːr,,,ہنگار
+61729,288,50,hangar,hɜ̃ŋˈɡaːɾ,,GM aŋɡ'ār,0,False,False,hanɡaːr,,,ہنگار
 61730,288,51,matsoṭa,mɜ̃tsoˑˈʈɔ,,"GM maċoṭ'a, maċ'ōṭa",0,False,False,matsoʈa,,,مڅوٹہ
 61731,288,52,pants,pɞ̃n̪ts,,"GM pōnċ, pō̃ċ",0,False,False,pants,,,پنڅ
 61732,288,55,puṣa,pʊˈʂɔ,,"GM puṣ'a, puṣ'ō",0,False,False,puʂa,,,پُوݭہ
@@ -35209,7 +35209,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61734,288,56,urzaai ɬik,uɾˈzaːɪɬik,,"GM urz'ā high up, in the air",0,False,False,urzaːj ɬik,,,اُورزائ ݪِک
 61735,288,57,naali,n̪ãːˈl̪i,,,0,False,False,naːli,,,نالی
 61736,288,58,khur,kʰʊɾ,,GM khur,0,False,False,kʰur,,,کُھر
-61737,288,203,zanɡal,zɜ̃ŋˈɡal̪,,GM z'aŋgal,0,False,False,zanɡal,,,زنگل
+61737,288,203,zangal,zɜ̃ŋˈɡal̪,,GM z'aŋgal,0,False,False,zanɡal,,,زنگل
 61738,288,59,tsur,tsuˑɾ,,GM ċūr,0,False,False,tsur,,,څُور
 61739,288,60,luzik,l̪ʊˈzik,,,0,False,False,luzik,,,لُزِک
 61740,288,61,fal,fal̪,,,0,False,False,fal,,,فل
@@ -35217,31 +35217,31 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61742,288,63,ɬik,ɬik,,"GM λē̆-, λi-",0,False,False,ɬik,,,ݪِک
 61743,288,218,dik,d̪ik,,GM di-,0,False,False,dik,,,دِک
 61744,288,64,bai,bəɪ,,"GM bäi, ba'ī",0,False,False,baj,,,بئ
-61745,288,65,ɡaans,ɡãːs,,"GM ɡā̃s, ɡ'ā̃s",0,False,False,ɡaːns,,,گانس
+61745,288,65,gaans,ɡãːs,,"GM ɡā̃s, ɡ'ā̃s",0,False,False,ɡaːns,,,گانس
 61746,288,66,nila,n̪iˑˈl̪ɔ,,"GM n'īla, n̄il'a",0,False,False,nila,,,نِلہ
 61747,288,225,peṣik,peːˈʂik,,GM pēṣi-m'ī̆m,0,False,False,peʂik,,,پیݭِک
-61748,288,67,atraanɡin,ɜt̪ɾãːŋˈɡin̪,,GM atəraŋg'īn,0,False,False,atraːnɡin,,,اترانگین
+61748,288,67,atraangin,ɜt̪ɾãːŋˈɡin̪,,GM atəraŋg'īn,0,False,False,atraːnɡin,,,اترانگین
 61749,288,68,khens,kʰẽːs,,GM khē̃s,0,False,False,kʰens,,,کھینس
 61750,288,69,hast,hɜst̪,,GM hast,0,False,False,hast,,,ہست
 61751,288,216,khakaṛa,kʰɜkɜˈɽɔ,,"GM khakaṛ'a, khakeṛ'a, kakeṛ'a",0,False,False,kʰakaɽa,,,کھکڑہ
 61752,288,71,ṣauṭa,ʂɔʊˈʈɔ,,GM šouṭā̆,0,False,False,ʂawʈa,,,ݭوٹہ
 61753,288,72,ṣunḍik,ʂʊ̃ɳˈɖik,,"GM šuni-, šuṇḍi-",0,False,False,ʂunɖik,,,ݭُنڈِک
 61754,288,73,heṛa,hɛ˞ːˈɽɔ,,"GM h'iṛa, hiṛ'a",0,False,False,heɽa,,,ہیڑہ
-61755,288,74,ɡandaala,ɡɜ̃n̪d̪aːˈl̪ɵ,,"GM gand'āla, g'andal'a",0,False,False,ɡandaːla,,,گندالہ
+61755,288,74,gandaala,ɡɜ̃n̪d̪aːˈl̪ɵ,,"GM gand'āla, g'andal'a",0,False,False,ɡandaːla,,,گندالہ
 61756,288,75,ate,ɜˈt̪eˑ,,GM it'ē,0,False,False,ate,,,اتے
 61757,288,222,walik,ʋɜˈl̪ik,,,0,False,False,walik,,,ولِک
 61758,288,76,ɬik,ɬik,,"GM λē̆-, λi- (homoph. with 'give') -- Identical with 'give'",0,False,False,ɬik,,,ݪِک
-61759,288,78,šinɡ,ɕĩŋɡ,,GM ṣiŋ,0,False,False,ɕinɡ,,,شِنگ
+61759,288,78,šing,ɕĩŋɡ,,GM ṣiŋ,0,False,False,ɕinɡ,,,شِنگ
 61760,288,186,tapa,t̪ɜˈpɞ,,GM tap'ōu,0,False,False,tapa,,,تپہ
 61761,288,214,aama,ãːˈmɔ̃,,GM 'āma,0,False,False,aːma,,,آمہ
 61762,288,79,šike,ɕiˈkɪ,,GM ši (-kerū) what (did you do)?,0,False,False,ɕike,,,شِکے
 61763,288,80,naatsiri kerik,n̪aːtsiˈɾi keˑɾˈik,,,0,False,False,naːtsiri kerik,,,ناڅِری کیرِک
 61764,288,82,aan,ãː,,GM ā,0,False,False,aːn,,,آں
-61765,288,83,waɬenɡ,ʋɜˈɬẽˑŋɡ,,,0,False,False,waɬenɡ,,,وݪینگ
+61765,288,83,waɬeng,ʋɜˈɬẽˑŋɡ,,,0,False,False,waɬenɡ,,,وݪینگ
 61766,288,86,maarik,maːˈɾik,,GM mā̆r-,0,False,False,maːrik,,,مارِک
-61767,288,87,ḍunɡa,ɖʊ̃ŋˈɡɒ,,GM ḍuŋɡ'a,0,False,False,ɖunɡa,,,ڈونگہ
+61767,288,87,ḍunga,ɖʊ̃ŋˈɡɒ,,GM ḍuŋɡ'a,0,False,False,ɖunɡa,,,ڈونگہ
 61768,288,88,piaanik,pɪãːˈn̪ik,,GM piāne-m'im,0,False,False,pijaːnik,,,پیانِک
-61769,288,89,ɡud,ɡɵd̪,,GM gūd,0,False,False,ɡud,,,گُد
+61769,288,89,gud,ɡɵd̪,,GM gūd,0,False,False,ɡud,,,گُد
 61770,288,90,haansik,hãˑˈsik,,GM hã̄se-m'im,0,False,False,haːnsik,,,ہانسِک
 61771,288,91,faṭa,fɜ˞ˈʈɔ,,GM phaṭ'a,0,False,False,faʈa,,,فٹہ
 61772,288,92,khauṛa,kʰɜʊˈɽɔ,,,0,False,False,kʰawɽa,,,کھوڑہ
@@ -35249,13 +35249,13 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61774,288,94,paṣṭik,pɜʂˈʈik,,,0,False,False,paʂʈik,,,پݭٹیک
 61775,288,95,zenta darik,zɛ̃ˑn̪ˈt̪ɑ d̪ɜˈɾik,,"GM zīã̄t'a, zien alive",0,False,False,zenta darik,,,زینتہ درِک
 61776,288,96,andets,ɜˑn̪ˈd̪ɛː(t)s,,GM and'ēċ,0,False,False,andets,,,اندیڅ
-61777,288,97,liɡaala,l̪ɪɡaːˈl̪œ,,GM lī̆ɡāl'a,0,False,False,liɡaːla,,,لِگالہ
+61777,288,97,ligaala,l̪ɪɡaːˈl̪œ,,GM lī̆ɡāl'a,0,False,False,liɡaːla,,,لِگالہ
 61778,288,98,zum,zũm,,GM zum,0,False,False,zum,,,زُوم
 61779,288,99,maanuṣ,mãːˈɳʊ˞ʂ,,GM m'ānuṣ,0,False,False,maːnuʂ,,,ماݨوݭ
 61780,288,101,aanda,ãːn̪ˈd̪ɔ,,GM 'ānda,0,False,False,aːnda,,,آندہ
 61781,288,102,maasoi,mãːˈsɵˑi,,"GM mās'ūi, mās'ōi",0,False,False,maːsoj,,,ماسوئ
 61782,288,103,ǰaai,ˈdʑaˑɪ,,"GM žāi, ǰāi",0,False,False,dʑaːj,,,جائ
-61783,288,104,ɡala,ɡɜˈl̪ɔ,,GM g'ala (steep) hill,0,False,False,ɡala,,,گلہ
+61783,288,104,gala,ɡɜˈl̪ɔ,,GM g'ala (steep) hill,0,False,False,ɡala,,,گلہ
 61784,288,105,haansi,hãːn̪ˈsi,,GM (h)ā̃s'ī,0,False,False,haːnsi,,,ہانسی
 61785,288,49,nak,n̪ɜk,,GM nak,0,False,False,nak,,,نک
 61786,288,106,naam,n̪ãːm,,GM nam,0,False,False,naːm,,,نام
@@ -35263,7 +35263,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61788,288,210,ṣunḍ,ʂũɳɖ,,GM ṣuṇ,0,False,False,ʂunɖ,,,ݭُنڈ
 61789,288,108,neṛai,n̪ɛːˈɽəɪ,,"GM nyāṛa, nyäṛǟ, nyēṛ'äi",0,False,False,neɽaj,,,نیڑئ
 61790,288,109,manda,mɜ̃n̪ˈd̪ɔ,,GM manda,0,False,False,manda,,,مندہ
-61791,288,110,nunɡa,n̪uˑŋˈɡɞ,,GM n'uŋga,0,False,False,nunɡa,,,نُنگہ
+61791,288,110,nunga,n̪uˑŋˈɡɞ,,GM n'uŋga,0,False,False,nunɡa,,,نُنگہ
 61792,288,111,el,eːl̪,,"GM hel, yel",0,False,False,el,,,ایل
 61793,288,112,naasi,n̪ãːˈsi,,GM nās'ī,0,False,False,naːsi,,,ناسی
 61794,288,113,na,n̪ɞ,,GM na,0,False,False,na,,,نہ
@@ -35294,7 +35294,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61819,288,141,khaṭana,kʰɜ˞ɖəˈɳɔ,,"GM k(h)aṭṭana, kaṭṭani, kaṭan'a",0,False,False,kʰaʈana,,,کھٹنہ
 61820,288,142,haara ɬik,haˑɾəˈɬik,,GM h'ara song,0,False,False,haːra ɬik,,,ہارہ ݪِک
 61821,288,143,nišik,n̪iˈɕik,,GM niši-m'im,0,False,False,niɕik,,,نِشِک
-61822,288,144,ɡaɬ,ɡɞɬ,,GM ɡaλ,0,False,False,ɡaɬ,,,گݪ
+61822,288,144,gaɬ,ɡɞɬ,,GM ɡaλ,0,False,False,ɡaɬ,,,گݪ
 61823,288,145,asmaan,ɜsˈmãːn̪,,GM āsm'ān,0,False,False,asmaːn,,,اسمان
 61824,288,146,peik,peˑˈik,,GM pēi-m'ī̆m to fall down; to lie down; to go to sleep,0,False,False,pejik,,,پییِک
 61825,288,147,pola,poˑˈl̪œ,,"GM pōl'a, p'ɔ̄la",0,False,False,pola,,,پولہ
@@ -35314,7 +35314,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61839,288,165,funḍik,fũɳˈɖik,,,0,False,False,funɖik,,,فُونڈِک
 61840,288,166,tarik,t̪aˈɾik,,GM tā̆ri- to cross,0,False,False,tarik,,,ترِک
 61841,288,167,limoṭa,l̪imo˞ˑˈʈɞ,,GM limoṭ'a,0,False,False,limoʈa,,,لِموٹہ
-61842,288,221,ɡoik,ɡəɪk,,"GM gū-, gō- to take, seize",0,False,False,ɡojk,,,گوئیک
+61842,288,221,goik,ɡəɪk,,"GM gū-, gō- to take, seize",0,False,False,ɡojk,,,گوئیک
 61843,288,168,tasa,t̪ɜˈsɞ,,GM tasa obl of se,0,False,False,tasa,,,تسہ
 61844,288,169,tine,t̪ɪˈn̪ɛˑ,,GM tēn'ē,0,False,False,tine,,,تِنے
 61845,288,170,time,t̪ɪˈmɛˑ,,GM teme,0,False,False,time,,,تِمے
@@ -35324,8 +35324,8 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61849,288,173,soč kerik,soːtɕkɛˑˈɾik,,,0,False,False,sotɕ kerik,,,سوچ کیرِک
 61850,288,174,wui,ʋɵɪ,,"GM wō̆i, u̯ōi",0,False,False,wuj,,,وئ
 61851,288,176,ɬe,ɬɛː,,"GM λē, λɛ",0,False,False,ɬe,,,ݪے
-61852,288,177,tanɡaik,t̪ɜ̃ŋˈɡɛɪk,,,0,False,False,tanɡajk,,,تنگئیک
-61853,288,178,ɡenṭik,ɡɛːɳˈʈik,,"GM gēṇṭhi-, g(y)eṇṭe-",0,False,False,ɡenʈik,,,گینٹِک
+61852,288,177,tangaik,t̪ɜ̃ŋˈɡɛɪk,,,0,False,False,tanɡajk,,,تنگئیک
+61853,288,178,genṭik,ɡɛːɳˈʈik,,"GM gēṇṭhi-, g(y)eṇṭe-",0,False,False,ɡenʈik,,,گینٹِک
 61854,288,179,zip,zip,,GM zib,0,False,False,zip,,,زِپ
 61855,288,180,dant,d̪ɜn̪t̪,,GM dant,0,False,False,dant,,,دنت
 61856,288,181,muṭha,mʊ˞ˈʈʰɞ,,"GM muṭh'a, muṭa",0,False,False,muʈʰa,,,مُٹھہ
@@ -35345,9 +35345,9 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 61870,288,195,kariken,ˈkaɾiken̪,,GM kara who? which? anybody,0,False,False,kariken,,,کریکین
 61871,288,196,wasaara,ʋəsaːˈɾɑ,,,0,False,False,wasaːra,,,وسارہ
 61872,288,198,haadiman,haˑd̪ɪˈmɜ̃n̪,,"GM hādim'ōn, wādiman",0,False,False,haːdiman,,,ہادِمن
-61873,288,199,kanɡa,kɜ̃ŋˈɡɞ,,GM kā̆ŋg'a,0,False,False,kanɡa,,,کنگہ
+61873,288,199,kanga,kɜ̃ŋˈɡɞ,,GM kā̆ŋg'a,0,False,False,kanɡa,,,کنگہ
 61874,288,201,manzi,ˈmɜ̃n̪zi,,"GM manza, mãze",0,False,False,manzi,,,منزی
-61875,288,202,šiɡaali,ɕɪɡaːˈl̪i,,GM šiɡāl'ī,0,False,False,ɕiɡaːli,,,شِگالی
+61875,288,202,šigaali,ɕɪɡaːˈl̪i,,GM šiɡāl'ī,0,False,False,ɕiɡaːli,,,شِگالی
 61876,288,204,tsoṭ,tso˞ːʈ,,,0,False,False,tsoʈ,,,څوٹ
 61877,288,206,feli,feˑˈl̪i,,GM phēl'ī,0,False,False,feli,,,فیلی
 61878,288,207,fela,feˑˈl̪ɜ,,"GM phial'a, phyal'a",0,False,False,fela,,,فیلہ
@@ -35574,7 +35574,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 62099,290,10,ḍǟr,ɖa̤ːɾ̥,,,0,False,False,ɖaːr L,,,ڈھاٞر
 62100,290,67,ā~l,ʔɒ̃ˑl̪̥,,,0,False,False,ɒ̃ːl H?,,,آنل
 62101,290,210,tin,t̪ĩɲ̥,,,0,False,False,tin H,,,تِن
-62102,290,6,ḍāɡ,ɖɒ̰ːɡ̥,,,0,False,False,ɖɒːɡ H(L),,,ڈاگ
+62102,290,6,ḍāg,ɖɒ̰ːɡ̥,,,0,False,False,ɖɒːɡ H(L),,,ڈاگ
 62103,290,93,ǰeŋ,dʑɛŋ̥,,,0,False,False,dʑeŋ H,,,جینگ
 62104,290,209,mädǟl,ˈmɜd̪aːl̪̥,,,0,False,False,madaːl HL,,,مداٞل
 62105,290,87,kuṭ,kuˑʈ,,,0,False,False,kuʈ H,,,کُوٹ
@@ -35597,7 +35597,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 62122,290,226,čōt,tɕoːt̪,,,0,False,False,tɕoːt H?,,,چوت
 62123,290,46,pǟṭ,paːʈ,,,0,False,False,paːʈ H,,,پاٞٹ
 62124,290,199,pākhel,ˈpɒːkʰɛˑl̪̥,,,0,False,False,pɒːkʰel HL,,,پاکھیل
-62125,290,151,nāɡ,n̪ɒːɡ̥,,,0,False,False,nɒːɡ H,,,ناگ
+62125,290,151,nāg,n̪ɒːɡ̥,,,0,False,False,nɒːɡ H,,,ناگ
 62126,290,204,ɬim,ɬim̥,,,0,False,False,ɬim H?,,,ݪِم
 62127,290,51,mätsin,ˈməsˑin̪̥,,,0,False,False,matsin HL,,,مڅِھین
 62128,290,12,päc̣in,ˈpəʈʂʰin̪̥,,,0,False,False,paʈʂin HL,,,پٞڄِھین
@@ -35612,9 +35612,9 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 62137,290,127,nār,n̪ɒːɾ̥,,,0,False,False,nɒːr H,,,نار
 62138,290,55,phuṇ,pʰũˑɳ̥,,,0,False,False,pʰuɳ LH,,,پُھنڑ
 62139,290,138,bi,biʔ,,,0,False,False,bi H,,,بی
-62140,290,65,ɡā,ɡɒ̤ːʔ,,,0,False,False,ɡɒː L,,,گھا
+62140,290,65,gā,ɡɒ̤ːʔ,,,0,False,False,ɡɒː L,,,گھا
 62141,290,145,āsmān,ʔɒˑsˈmɒ̃ːn̪̥,,,0,False,False,ɒːsmɒːn H(L),,,آسمان
-62142,290,22,āɡa,ˈʔɒˑɡəʔ,,,0,False,False,ɒːɡɒ HL,,,آگہ
+62142,290,22,āga,ˈʔɒˑɡəʔ,,,0,False,False,ɒːɡɒ HL,,,آگہ
 62143,290,213,čhǟy,tɕʰaːɪʔ,,,0,False,False,tɕʰaːj L?,,,چھاٞئے
 62144,290,164,sīr,sḭːɾ̥,,,0,False,False,siːr H(L),,,سِیر
 62145,290,27,dōs,d̪oːs,,,0,False,False,doːs H,,,دوس
@@ -35625,13 +35625,13 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 62150,290,37,därin,d̪əˈɾin̪̥,,,0,False,False,darin LH,,,دٞرین
 62151,290,104,khan,kʰɔn̪̥,,,0,False,False,kʰɒn LH,,,کھن
 62152,290,161,baṭ,bɔʈ,,,0,False,False,bɒʈ H,,,بٹ
-62153,290,133,siɡit,siˈjit̪,,,0,False,False,siɡit H(L),,,سِگیت
+62153,290,133,sigit,siˈjit̪,,,0,False,False,siɡit H(L),,,سِگیت
 62154,290,35,duṛ,d̪uɽ̥,,,0,False,False,duɽ H?,,,دُوڑ
 62155,290,188,ū,ʔṵːʔ,,,0,False,False,uː H(L),,,اُو
 62156,290,83,ōš,ʔo̰ˑɕ,,,0,False,False,oːɕ H(L),,,اوش
 62157,290,152,him,hi̤m̥,,,0,False,False,him LH,,,ہِم
 62158,290,57,duṛ,d̪uɽ̥,,Identical with 'dust',0,False,False,duɽ H?,,,دُوڑ
-62159,290,121,āɡa,ˈʔɒˑɡəʔ,,Identical with 'cloud',0,False,False,ɒːɡɒ HL,,,آگہ
+62159,290,121,āga,ˈʔɒˑɡəʔ,,Identical with 'cloud',0,False,False,ɒːɡɒ HL,,,آگہ
 62160,290,125,nän,n̪ɛ̃n̪̥,,,0,False,False,nan H,,,نٞن 
 62161,290,89,ḍāṇ,ɖɒ̤̃ːɳ̥,,,0,False,False,ɖɒːɳ L?,,,ڈھانڑ
 62162,290,136,däryāb,d̪ɛɾɪˈɒːb̥,,,0,False,False,darjɒːb H(L),,,دریاب
@@ -35654,18 +35654,18 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 62179,290,217,mic̣,mɪʈʂ,,,0,False,False,miʈʂ H?,,,مِڄ
 62180,290,186,tat,t̪ɔt̪,,,0,False,False,tɒt H,,,تت
 62181,290,23,šidäl,ɕɪˈd̪əl̪̥,,,0,False,False,ɕidal H,,,شِیدٞل
-62182,290,97,līɡ,l̪ɪˑɡ̥,,,0,False,False,liːɡ H,,,لِگ
+62182,290,97,līg,l̪ɪˑɡ̥,,,0,False,False,liːɡ H,,,لِگ
 62183,290,141,khäṭän,kʰəˈʈɛn̪̥,,,0,False,False,kʰaʈan LH,,,کٞھٹٞن 
 62184,290,196,bisīn,biˈsḭ̃n̪̥,,,0,False,False,bisiːn H(L),,,بِسین
 62185,290,107,taŋ,t̪ɔ̃ŋ,,,0,False,False,tɒŋ H,,,تنگ
 62186,290,171,bäkul,bəˈqul̥,,,0,False,False,bakul H,,,بقُول
 62187,290,172,čunuṭ,tɕʊˈɳʊʈ,,,0,False,False,tɕunuʈ H,,,چُنُوٹ
-62188,290,74,uɡur,ʔʊˈɡuɾ̥,,,0,False,False,uɡur H,,,اُگُور
+62188,290,74,ugur,ʔʊˈɡuɾ̥,,,0,False,False,uɡur H,,,اُگُور
 62189,290,62,pūra,puˑˈɾɒʔ,,,0,False,False,puːrɒ H,,,پُورہ
 62190,290,30,tsäpōt,tsəˈpo̰ːt̪,,,0,False,False,tsapoːt H(L)?,,,څٞپوت
 62191,290,33,šišääl,ɕiˈɕa̰ːl̪̥,,,0,False,False,ɕiɕaːl H(L),,,شِشاٞل
 62192,290,190,al,ʔɔ̰l̪̥,,,0,False,False,ɒl H,,,ال
-62193,290,11,ɡän,ɡæ̤̃n̪̥,,,0,False,False,ɡan L,,,گٞن
+62193,290,11,gän,ɡæ̤̃n̪̥,,,0,False,False,ɡan L,,,گٞن
 62194,290,147,lukuṭ,lʊˈkʊʈ,,,0,False,False,lukuʈ LH,,,لُکوٹ
 62195,290,130,bōṭ,bo̰ːʈ,,,0,False,False,boːʈ H(L)?,,,بوٹ
 62196,290,216,ṭäkär,ʈɜˈkəɾ̥,,,0,False,False,ʈakar H,,,ٹٞکٞر
@@ -35678,64 +35678,64 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 62203,290,122,läu,ˈl̪əʋʊʔ,,,0,False,False,lau HL,,,لوؤ
 62204,290,14,kiṣän,kʲiˈʂən̪̥,,,0,False,False,kiʂan H,,,کِݭٞن
 62205,290,194,pänär,ˈpɜ̃n̪əɾ̥,,,0,False,False,panar HL,,,پنٞر
-62206,290,218,bäčūɡ,bəˈtɕuːɡ̥,,,0,False,False,batɕuːɡ H,,,بٞچُوگ
-62207,290,24,yǟɡ,jaːɡ̥,,,0,False,False,jaːɡ LH,,,یاٞگ
-62208,290,182,ɡirūɡ,ɡiˈɾuːɡ̥,,,0,False,False,ɡiruːɡ H,,,گِروگ
-62209,290,158,pǟc̣ hōɡ,ˈpaːʂoˑɡ̥,,,0,False,False,paːʈʂ hoːɡ H-L,,,پاٞڄ ہوگ
-62210,290,143,bäyūɡ,bɜ̤ˈjuːɡ̥,,,0,False,False,bajuːɡ LH,,,بٞھیوگ
-62211,290,94,likä bäčūɡ,liˌkɛbəˈtɕuːɡ̥,,H in 1997 and H(L) in 2004,0,False,False,lika batɕuːɡ H(L)-H,,,لِیکہٞ بٞچُوگ
-62212,290,41,čhōr hōɡ,ˈtɕʰoːɾoˑɡ̥,,,0,False,False,tɕʰoːr hoːɡ LH-L,,,چھور ہوگ
-62213,290,185,tilūɡ,t̪iˈl̪uːɡ̥,,,0,False,False,tiluːɡ H,,,تِلوگ
-62214,290,219,ḍämin čhōrūɡ,ɖɛ̤ˈmĩɲtɕʰəˌɾuːɡ̥,,,0,False,False,ɖamin tɕʰoːruːɡ LH?-LH?,,,ڈٞمِین چھورُوگ
-62215,290,166,sāneṭä dǟɡ,ˈsɒ̃ˑɳeˑʈəˌdaːɡ̥,,,0,False,False,sɒːneʈa daːɡ HL-H,,,سانیٹہ داٞگ
-62216,290,56,šī~š dǟɡ,ˈɕĩːzðæːɡ̥,,,0,False,False,ɕĩːɕ daːɡ H-H,,,شِینش داٞگ
-62217,290,137,päšūɡ,pəˈɕuːɡ̥,,,0,False,False,paɕuːɡ H,,,پٞشُوگ
-62218,290,72,buǰūɡ,ˈbuʑuˑɡ̥,,,0,False,False,budʑuːɡ HL,,,بُجُوگ
-62219,290,148,māɡ dǟɡ,ˈmɒːɣðæˑɡ̥,,,0,False,False,mɒːɡ daːɡ HL-H,,,ماگ داٞگ
-62220,290,224,kärūɡ,kɛˈɾuːɡ̥,,,0,False,False,karuːɡ H,,,کٞروگ
-62221,290,95,ǰan därūɡ,ˈdʑɜn̪d̪ɛɾˌuˑɡ̥,,,0,False,False,dʑɒn daruːɡ H-LH,,,جن دٞروگ
-62222,290,28,märūɡ,mə̃ˈɾuːɡ̥,,,0,False,False,maruːɡ H,,,مٞرُوگ
-62223,290,146,nīn bäčūɡ,ˈn̪iːmbəˌtɕuˑɡ̥,,,0,False,False,niːn batɕuːɡ H(L)-H,,,نِین بچوگ
-62224,290,19,šī~š ɡinūɡ,ˈɕĩːʑɣɪ̃ˌn̪uːɡ̥,,,0,False,False,ɕĩːɕ ɡinuːɡ H-LH,,,شِینش گِھنُوگ
-62225,290,16,phuk dǟɡ,ˈpʰʊɡðæːɡ̥,,,0,False,False,pʰuk daːɡ LH?-H,,,پُھوک داٞگ
-62226,290,165,phusūɡ,pʰʊˈsuːɡ̥,,,0,False,False,pʰusuːɡ LH?,,,پُھسُوگ
-62227,290,154,thukūɡ,t̪ʰʊˈkuːɡ̥,,,0,False,False,tʰukuːɡ LH?,,,تُھکُوگ
-62228,290,184,čhäṛūɡ,tɕʰəˈɽuːɡ̥,,,0,False,False,tɕʰaɽuːɡ LH?,,,چھڑوگ
-62229,290,13,čäpūɡ,ˈtɕəpuːɡ̥,,,0,False,False,tɕapuːɡ HL?,,,چٞپُوگ
-62230,290,38,khāɡ,kʰɒːɡ̥,,,0,False,False,kʰɒːɡ LH,,,کھاگ
-62231,290,32,pūɡ,puːɡ̥,,,0,False,False,puːɡ H,,,پُوگ
-62232,290,45,biūɡ,bi̤ˑˈuːɡ̥,,,0,False,False,biuːɡ LH,,,بِھیُوگ
-62233,290,88,ǰānūɡ,ˈdʑɒːn̪ũˑɡ̥,,,0,False,False,dʑɒːnuːɡ HL,,,جانُوگ
-62234,290,173,sōč kärūɡ,ˈsoːɕxəˌɾuːɡ̥,,,0,False,False,soːtɕ karuːɡ H(L)-H,,,سوچ کٞروگ
-62235,290,25,ɡänūɡ,ɡɛˈn̪uːɡ̥,,,0,False,False,ɡanuːɡ H,,,گٞنُوگ
-62236,290,90,häsūɡ,hɜˈsuːɡ̥,,,0,False,False,hasuːɡ LH,,,ہٞسوگ
-62237,290,223,riŋūɡ,ˈɾiŋuˑɡ̥,,,0,False,False,riŋuːɡ HL,,,رِنگُوگ
-62238,290,134,mänūɡ,mɜ̃ˈn̪uːɡ̥,,,0,False,False,manuːɡ H,,,منوگ
-62239,290,142,rō dǟɡ,ˈɾoːd̪æˑɡ̥,,,0,False,False,roː daːɡ HL-H,,,رو داٞگ
-62240,290,118,näṭūɡ,n̪ɛˈʈuːɡ̥,,,0,False,False,naʈuːɡ H,,,نٞٹُوگ
-62241,290,63,dǟɡ,d̪a̰ːɡ̥,,,0,False,False,daːɡ H,,,داٞگ
-62242,290,48,ǰār kärūɡ,ˌdʑɒːɾ̥kəˈɾuːɡ̥,,cf. Panjabi jʰagṛā „fight“,0,False,False,dʑɒːr karuːɡ LH-H,,,جار کٞرُوگ
-62243,290,86,mārūɡ,ˈmɒ̃ːɾuˑɡ̥,,,0,False,False,mɒːruːɡ HL,,,مارُوگ
-62244,290,221,ɡinūɡ,ɡɪ̤ˈn̪uːɡ̥,,,0,False,False,ɡinuːɡ LH,,,گِھنُوگ
-62245,290,120,ṭōk dǟɡ,ˈʈoːɣða̰ːɡ̥,,,0,False,False,ʈoːk daːɡ HL?-H,,,ٹوک داٞگ
-62246,290,119,läkūɡ,l̪ɛˈkuːɡ̥,,,0,False,False,lakuːɡ LH,,,لٞکُوگ
-62247,290,178,ɡäṇūɡ,ɡɛ̤ˈɳuːɡ̥,,,0,False,False,ɡaɳuːɡ LH,,,گٞھنڑوگ
-62248,290,220,nǟɡ,n̪aːɡ̥,,,0,False,False,naːɡ H,,,ناٞگ
-62249,290,76,ṣäǰūɡ,ʂɜˈʑuːɡ̥,,,0,False,False,ʂadʑuːɡ H,,,ݭجُوگ
-62250,290,26,čhinūɡ,tɕʰiˈn̪uːɡ̥,,,0,False,False,tɕʰinuːɡ LH,,,چِھنُوگ
-62251,290,135,kinūɡ,ˈkin̪uːɡ̥,,,0,False,False,kinuːɡ HL?,,,کِنُوگ
-62252,290,187,duāɡ,d̪ʊ̤ˈʋɒːɡ̥,,,0,False,False,duɒːɡ LH,,,دُھوآگ
-62253,290,139,sīūɡ,siˑˈjuːɡ̥,,,0,False,False,siːuːɡ H,,,سِیوگ
-62254,290,20,däǰūɡ,ˈd̪əʑuˑɡ̥,,,0,False,False,dadʑuːɡ HL?,,,دٞجُوگ
-62255,290,60,ōš ɡäšūɡ,ˈʔoːʑɣeˌɕuːɡ̥,,,0,False,False,oːɕ ɡaɕuːɡ H(L)-H,,,اوش گٞشُوگ
-62256,290,177,išpārūɡ,ɪɕˈpɒːɾuˑɡ̥,,,0,False,False,iɕpɒːruːɡ HL,,,اِشپاروگ
-62257,290,80,nāčīr kärūɡ,n̪ɒ̃ːˈtɕiːɾ̥kəˌɾuˑɡ̥,,,0,False,False,nɒːtɕiːr karuːɡ H(L)-H,,,ناچِیر کٞرُوگ
-62258,290,225,pǟṣūɡ,ˈpʰa̰ːʂuˑɡ̊,,,0,False,False,pʰaːʂuːɡ HL,,,پاٞݭُوگ
-62259,290,29,khänūɡ,kʰə̃ˈn̪uːɡ̥,,,0,False,False,kʰanuːɡ LH,,,کٞھنُوگ
-62260,290,222,bilāɡ,bɪˈl̪ɒːɡ̥,,,0,False,False,bilɒːɡ H,,,بِلاگ
+62206,290,218,bäčūg,bəˈtɕuːɡ̥,,,0,False,False,batɕuːɡ H,,,بٞچُوگ
+62207,290,24,yǟg,jaːɡ̥,,,0,False,False,jaːɡ LH,,,یاٞگ
+62208,290,182,girūg,ɡiˈɾuːɡ̥,,,0,False,False,ɡiruːɡ H,,,گِروگ
+62209,290,158,pǟc̣ hōg,ˈpaːʂoˑɡ̥,,,0,False,False,paːʈʂ hoːɡ H-L,,,پاٞڄ ہوگ
+62210,290,143,bäyūg,bɜ̤ˈjuːɡ̥,,,0,False,False,bajuːɡ LH,,,بٞھیوگ
+62211,290,94,likä bäčūg,liˌkɛbəˈtɕuːɡ̥,,H in 1997 and H(L) in 2004,0,False,False,lika batɕuːɡ H(L)-H,,,لِیکہٞ بٞچُوگ
+62212,290,41,čhōr hōg,ˈtɕʰoːɾoˑɡ̥,,,0,False,False,tɕʰoːr hoːɡ LH-L,,,چھور ہوگ
+62213,290,185,tilūg,t̪iˈl̪uːɡ̥,,,0,False,False,tiluːɡ H,,,تِلوگ
+62214,290,219,ḍämin čhōrūg,ɖɛ̤ˈmĩɲtɕʰəˌɾuːɡ̥,,,0,False,False,ɖamin tɕʰoːruːɡ LH?-LH?,,,ڈٞمِین چھورُوگ
+62215,290,166,sāneṭä dǟg,ˈsɒ̃ˑɳeˑʈəˌdaːɡ̥,,,0,False,False,sɒːneʈa daːɡ HL-H,,,سانیٹہ داٞگ
+62216,290,56,šī~š dǟg,ˈɕĩːzðæːɡ̥,,,0,False,False,ɕĩːɕ daːɡ H-H,,,شِینش داٞگ
+62217,290,137,päšūg,pəˈɕuːɡ̥,,,0,False,False,paɕuːɡ H,,,پٞشُوگ
+62218,290,72,buǰūg,ˈbuʑuˑɡ̥,,,0,False,False,budʑuːɡ HL,,,بُجُوگ
+62219,290,148,māg dǟg,ˈmɒːɣðæˑɡ̥,,,0,False,False,mɒːɡ daːɡ HL-H,,,ماگ داٞگ
+62220,290,224,kärūg,kɛˈɾuːɡ̥,,,0,False,False,karuːɡ H,,,کٞروگ
+62221,290,95,ǰan därūg,ˈdʑɜn̪d̪ɛɾˌuˑɡ̥,,,0,False,False,dʑɒn daruːɡ H-LH,,,جن دٞروگ
+62222,290,28,märūg,mə̃ˈɾuːɡ̥,,,0,False,False,maruːɡ H,,,مٞرُوگ
+62223,290,146,nīn bäčūg,ˈn̪iːmbəˌtɕuˑɡ̥,,,0,False,False,niːn batɕuːɡ H(L)-H,,,نِین بچوگ
+62224,290,19,šī~š ginūg,ˈɕĩːʑɣɪ̃ˌn̪uːɡ̥,,,0,False,False,ɕĩːɕ ɡinuːɡ H-LH,,,شِینش گِھنُوگ
+62225,290,16,phuk dǟg,ˈpʰʊɡðæːɡ̥,,,0,False,False,pʰuk daːɡ LH?-H,,,پُھوک داٞگ
+62226,290,165,phusūg,pʰʊˈsuːɡ̥,,,0,False,False,pʰusuːɡ LH?,,,پُھسُوگ
+62227,290,154,thukūg,t̪ʰʊˈkuːɡ̥,,,0,False,False,tʰukuːɡ LH?,,,تُھکُوگ
+62228,290,184,čhäṛūg,tɕʰəˈɽuːɡ̥,,,0,False,False,tɕʰaɽuːɡ LH?,,,چھڑوگ
+62229,290,13,čäpūg,ˈtɕəpuːɡ̥,,,0,False,False,tɕapuːɡ HL?,,,چٞپُوگ
+62230,290,38,khāg,kʰɒːɡ̥,,,0,False,False,kʰɒːɡ LH,,,کھاگ
+62231,290,32,pūg,puːɡ̥,,,0,False,False,puːɡ H,,,پُوگ
+62232,290,45,biūg,bi̤ˑˈuːɡ̥,,,0,False,False,biuːɡ LH,,,بِھیُوگ
+62233,290,88,ǰānūg,ˈdʑɒːn̪ũˑɡ̥,,,0,False,False,dʑɒːnuːɡ HL,,,جانُوگ
+62234,290,173,sōč kärūg,ˈsoːɕxəˌɾuːɡ̥,,,0,False,False,soːtɕ karuːɡ H(L)-H,,,سوچ کٞروگ
+62235,290,25,gänūg,ɡɛˈn̪uːɡ̥,,,0,False,False,ɡanuːɡ H,,,گٞنُوگ
+62236,290,90,häsūg,hɜˈsuːɡ̥,,,0,False,False,hasuːɡ LH,,,ہٞسوگ
+62237,290,223,riŋūg,ˈɾiŋuˑɡ̥,,,0,False,False,riŋuːɡ HL,,,رِنگُوگ
+62238,290,134,mänūg,mɜ̃ˈn̪uːɡ̥,,,0,False,False,manuːɡ H,,,منوگ
+62239,290,142,rō dǟg,ˈɾoːd̪æˑɡ̥,,,0,False,False,roː daːɡ HL-H,,,رو داٞگ
+62240,290,118,näṭūg,n̪ɛˈʈuːɡ̥,,,0,False,False,naʈuːɡ H,,,نٞٹُوگ
+62241,290,63,dǟg,d̪a̰ːɡ̥,,,0,False,False,daːɡ H,,,داٞگ
+62242,290,48,ǰār kärūg,ˌdʑɒːɾ̥kəˈɾuːɡ̥,,cf. Panjabi jʰagṛā „fight“,0,False,False,dʑɒːr karuːɡ LH-H,,,جار کٞرُوگ
+62243,290,86,mārūg,ˈmɒ̃ːɾuˑɡ̥,,,0,False,False,mɒːruːɡ HL,,,مارُوگ
+62244,290,221,ginūg,ɡɪ̤ˈn̪uːɡ̥,,,0,False,False,ɡinuːɡ LH,,,گِھنُوگ
+62245,290,120,ṭōk dǟg,ˈʈoːɣða̰ːɡ̥,,,0,False,False,ʈoːk daːɡ HL?-H,,,ٹوک داٞگ
+62246,290,119,läkūg,l̪ɛˈkuːɡ̥,,,0,False,False,lakuːɡ LH,,,لٞکُوگ
+62247,290,178,gäṇūg,ɡɛ̤ˈɳuːɡ̥,,,0,False,False,ɡaɳuːɡ LH,,,گٞھنڑوگ
+62248,290,220,nǟg,n̪aːɡ̥,,,0,False,False,naːɡ H,,,ناٞگ
+62249,290,76,ṣäǰūg,ʂɜˈʑuːɡ̥,,,0,False,False,ʂadʑuːɡ H,,,ݭجُوگ
+62250,290,26,čhinūg,tɕʰiˈn̪uːɡ̥,,,0,False,False,tɕʰinuːɡ LH,,,چِھنُوگ
+62251,290,135,kinūg,ˈkin̪uːɡ̥,,,0,False,False,kinuːɡ HL?,,,کِنُوگ
+62252,290,187,duāg,d̪ʊ̤ˈʋɒːɡ̥,,,0,False,False,duɒːɡ LH,,,دُھوآگ
+62253,290,139,sīūg,siˑˈjuːɡ̥,,,0,False,False,siːuːɡ H,,,سِیوگ
+62254,290,20,däǰūg,ˈd̪əʑuˑɡ̥,,,0,False,False,dadʑuːɡ HL?,,,دٞجُوگ
+62255,290,60,ōš gäšūg,ˈʔoːʑɣeˌɕuːɡ̥,,,0,False,False,oːɕ ɡaɕuːɡ H(L)-H,,,اوش گٞشُوگ
+62256,290,177,išpārūg,ɪɕˈpɒːɾuˑɡ̥,,,0,False,False,iɕpɒːruːɡ HL,,,اِشپاروگ
+62257,290,80,nāčīr kärūg,n̪ɒ̃ːˈtɕiːɾ̥kəˌɾuˑɡ̥,,,0,False,False,nɒːtɕiːr karuːɡ H(L)-H,,,ناچِیر کٞرُوگ
+62258,290,225,pǟṣūg,ˈpʰa̰ːʂuˑɡ̊,,,0,False,False,pʰaːʂuːɡ HL,,,پاٞݭُوگ
+62259,290,29,khänūg,kʰə̃ˈn̪uːɡ̥,,,0,False,False,kʰanuːɡ LH,,,کٞھنُوگ
+62260,290,222,bilāg,bɪˈl̪ɒːɡ̥,,,0,False,False,bilɒːɡ H,,,بِلاگ
 62261,290,174,ī~,ʔĩːʔ,,,0,False,False,ĩː H(L),,,اِیں
 62262,290,168,äthē~,ˈʔatʰẽˑʔ,,,0,False,False,atʰẽː HL,,,اتھیں
-62263,290,75,himāɡ,hɪˈmɒːɡ̥,,,0,False,False,himɒːɡ LH?,,,ہِماگ
+62263,290,75,himāg,hɪˈmɒːɡ̥,,,0,False,False,himɒːɡ LH?,,,ہِماگ
 62264,290,108,niär,ˈn̪eɛɾ̥,,,0,False,False,niar HL,,,نیاٞر
 62265,290,169,ṣimāk,ˈʂimɒːk,,,0,False,False,ʂimɒːk HL?,,,ݭِماک
 62266,290,42,dūr,d̪uːɾ̥,,,0,False,False,duːr LH,,,دُور
@@ -36435,7 +36435,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63117,293,40,ačii,ʔaˈt͡ʃiˑ,,,0,False,False,at͡ʃiː,,,اچی
 63118,293,112,nasə,ˈnasːə,,"Most body part nouns require conjugation according to their possessor. We chose the third person singular. The same is true for all the following (in any case where there are multiple forms). In the case of this word for 'nose', the pronunciation changes dramatically according to possessor: [nos] vs. [nasə].",0,False,False,nasə,,,نسه
 63119,293,36,kheṭi,ˈkʰeːʈi,,,0,False,False,kʰeːʈi,,,کهیتی
-63120,293,105,ɡlon,ɡʊ̆ˈloˑn,,,0,False,False,ɡloːn,,,ګلون
+63120,293,105,glon,ɡʊ̆ˈloˑn,,,0,False,False,ɡloːn,,,ګلون
 63121,293,180,daandə,ˈd̪aːn̪d̪ə,,,0,False,False,daːndə,,,دانده
 63122,293,179,ǰiba,ˈd͡ʒɪbːə,,,0,False,False,d͡ʒiba,,,جبه
 63123,293,109,mandu,ˈman̪d̪ʊ,,,0,False,False,mandu,,,مندو
@@ -36445,7 +36445,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63127,293,10,banḍii,baɳˈɖiˑ,,,0,False,False,banɖiː,,,بنډی
 63128,293,67,kučə,ˈkʊt͡ʃːə,,,0,False,False,kut͡ʃə,,,کووچه
 63129,293,210,naafa,ˈnɑːfə,,,0,False,False,naːfa,,,نافه
-63130,293,6,ɡenə,ˈɡeːnə,,,0,False,False,ɡeːnə,,,ګینه
+63130,293,6,genə,ˈɡeːnə,,,0,False,False,ɡeːnə,,,ګینه
 63131,293,93,laɣati,laɣaˈt̪i,,,0,False,False,laɣati,,,لغتی
 63132,293,209,dawri,ˈd̪aʋɾi,,,0,False,False,dawri,,,دووری
 63133,293,87,khoṛ,kʰoˑɽ,,,0,False,False,kʰoːɽ,,,کهوړ
@@ -36454,7 +36454,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63136,293,17,aṭu,ʔaˈʈu,,,0,False,False,aʈu,,,اټو
 63137,293,15,wor,ʋoːɾ,,,0,False,False,woːr,,,وور
 63138,293,73,haaṛ,hɑːɽ,,,0,False,False,haːɽ,,,هاړ
-63139,293,96,ǰiɡar,d͡ʒiˈɡaɾ,,,0,False,False,d͡ʒiɡar,,,جګر
+63139,293,96,ǰigar,d͡ʒiˈɡaɾ,,,0,False,False,d͡ʒiɡar,,,جګر
 63140,293,117,nafar,naˈfaɾ,,,0,False,False,nafar,,,نفر
 63141,293,99,wiir,ʋiˑɾ,,,0,False,False,wiːr,,,ویر
 63142,293,202,aazu,ˈʔaːzu,,,0,False,False,aːzu,,,آزو
@@ -36462,13 +36462,13 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63144,293,44,baau,ˈbɑːʊ,,,0,False,False,baːwu,,,باوو
 63145,293,103,aaya,ˈɑːja,,,0,False,False,aːja,,,آ یا
 63146,293,106,nomə,ˈnoːmə,,,0,False,False,noːmə,,,نومه
-63147,293,31,šiinɡ,ʃiˑŋɡ,,,0,False,False,ʃiːnɡ,,,شینګ
-63148,293,78,šanɡaṭu,ʃaŋɡaˈʈu,,,0,False,False,ʃanɡaʈu,,,شنګتو
+63147,293,31,šiing,ʃiˑŋɡ,,,0,False,False,ʃiːnɡ,,,شینګ
+63148,293,78,šangaṭu,ʃaŋɡaˈʈu,,,0,False,False,ʃanɡaʈu,,,شنګتو
 63149,293,167,ləməṭi,ləməˈʈi,,,0,False,False,ləməʈi,,,لمتی
 63150,293,226,panǰu,paɲˈd͡ʒu,,,0,False,False,pand͡ʒu,,,پنجو
 63151,293,46,par,paɾ,,,0,False,False,par,,,پر
-63152,293,199,ḍinɡi,ɖɪŋˈɡi,,,0,False,False,ɖinɡi,,,ډنګی
-63153,293,151,ɡonas,ɡoːˈnas,,,0,False,False,ɡoːnas,,,ګونس
+63152,293,199,ḍingi,ɖɪŋˈɡi,,,0,False,False,ɖinɡi,,,ډنګی
+63153,293,151,gonas,ɡoːˈnas,,,0,False,False,ɡoːnas,,,ګونس
 63154,293,204,kaṛaawak,kəɽɑˑˈʋak,,,0,False,False,kaɽaːwak,,,کړاوک
 63155,293,51,masaṭi,masaˈʈi,,,0,False,False,masaʈi,,,مسه ټی
 63156,293,12,pac̣in,ˈpəʈ͡ʂin,,"This is plural for birds in general. There is no singular because if a singular bird is recognized, its specific type is named (e.g., sparrow); there is no singular form for 'bird' in general.",0,False,False,paʈ͡ʂin,,,پچین
@@ -36476,16 +36476,16 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63158,293,211,maašə,ˈmɑˑʃə,,,0,False,False,maːʃə,,,ماشه
 63159,293,98,ži,ʒi,,,0,False,False,ʒi,,,ژیی
 63160,293,181,kaṭi,kaˈʈi,,,0,False,False,kaʈi,,,کټی
-63161,293,203,ǰanɡal,d͡ʒaŋˈɡal,,,0,False,False,d͡ʒanɡal,,,جنګل
+63161,293,203,ǰangal,d͡ʒaŋˈɡal,,,0,False,False,d͡ʒanɡal,,,جنګل
 63162,293,160,lawṛii,laʊˈɽiˑ,,,0,False,False,lawɽiː,,,لوړی
 63163,293,91,paṭu,paˈʈu,,,0,False,False,paʈu,,,پتو
-63164,293,8,ɡanḍi,ɡaɳˈɖi,,,0,False,False,ɡanɖi,,,ګنډی
+63164,293,8,ganḍi,ɡaɳˈɖi,,,0,False,False,ɡanɖi,,,ګنډی
 63165,293,127,daṛi,d̪aˈɽi,,,0,False,False,daɽi,,,دړیی
-63166,293,55,ɡul,ɡʊl,,,0,False,False,ɡul,,,ګل 
+63166,293,55,gul,ɡʊl,,,0,False,False,ɡul,,,ګل 
 63167,293,138,bi,bi,,,0,False,False,bi,,,بیی
 63168,293,65,ǰoṭ,d͡ʒoːʈ,,,0,False,False,d͡ʒoːʈ,,,جوټ
 63169,293,145,aasmon,aːsˈmoˑn,,,0,False,False,aːsmoːn,,,آسمون
-63170,293,22,ṭonɡ,ʈoːŋɡ,,,0,False,False,ʈoːnɡ,,,ټونګ
+63170,293,22,ṭong,ʈoːŋɡ,,,0,False,False,ʈoːnɡ,,,ټونګ
 63171,293,213,saau,ˈsaːʊ,,,0,False,False,saːwu,,,ساوو
 63172,293,164,sər,səɾ,,,0,False,False,sər,,,سر
 63173,293,27,ǰuya,d͡ʒʊˈja,,,0,False,False,d͡ʒuja,,,جویا
@@ -36498,15 +36498,15 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63180,293,161,zom,zoːm,,,0,False,False,zoːm,,,زووم
 63181,293,133,selə,ˈseːlə,,,0,False,False,seːlə,,,سیله
 63182,293,35,paau,ˈpaːʊ,,,0,False,False,paːwu,,,پاوو
-63183,293,188,worɡə,ˈʋoˑɾɡə,,,0,False,False,woːrɡə,,,وورګه
-63184,293,83,kanɡaru,kaŋɡaˈɾu,,,0,False,False,kanɡaru,,,کنګرو
+63183,293,188,worgə,ˈʋoˑɾɡə,,,0,False,False,woːrɡə,,,وورګه
+63184,293,83,kangaru,kaŋɡaˈɾu,,,0,False,False,kanɡaru,,,کنګرو
 63185,293,152,him,him,,,0,False,False,him,,,حیم
 63186,293,57,naali,ˈnɑːli,,,0,False,False,naːli,,,نالی
 63187,293,121,daamon,d̪aˑˈmoːn,,,0,False,False,daːmoːn,,,دامون
 63188,293,125,nandii,nanˈd̪iˑ,,,0,False,False,nandiː,,,نندی
 63189,293,89,band,band̪,,This is a loan word because Dawlat Shah has no lakes.,0,False,False,band,,,بند
 63190,293,136,bahar,ˈbahːəɾ,,This is a loan word because Dawlat Shah has no sea.,0,False,False,bahar,,,بحر
-63191,293,50,anɡor,ʔaŋˈɡoːɾ,,,0,False,False,anɡoːr,,,انګور
+63191,293,50,angor,ʔaŋˈɡoːɾ,,,0,False,False,anɡoːr,,,انګور
 63192,293,149,diim,d̪iˑm,,,0,False,False,diːm,,,دییم
 63193,293,4,aaskorə,ˌʔɑːsˈkoˑɾə,,,0,False,False,aːskoːrə,,,آسکوره
 63194,293,206,saal,sɑːl,,,0,False,False,saːl,,,سال
@@ -36519,16 +36519,16 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63201,293,215,talaax,t̪aˈlɑˑx,,,0,False,False,talaːx,,,تلاخ
 63202,293,64,aiin,ʔaˈiːn,,,0,False,False,ajiːn,,,ایین
 63203,293,7,aboš,ʔaˈboːʃ,,,0,False,False,aboːʃ,,,ابوش
-63204,293,129,ɡandu,ɡanˈd̪u,,,0,False,False,ɡandu,,,ګندو
+63204,293,129,gandu,ɡanˈd̪u,,,0,False,False,ɡandu,,,ګندو
 63205,293,114,konu,ˈkoːnu,,,0,False,False,koːnu,,,کونو
-63206,293,110,nonɡu,ˈnoˑŋɡu,,,0,False,False,noːnɡu,,,نونګو
+63206,293,110,nongu,ˈnoˑŋɡu,,,0,False,False,noːnɡu,,,نونګو
 63207,293,217,širin,ʃɪˈɾin,,,0,False,False,ʃirin,,,شیرین
 63208,293,186,tapik,t̪aˈpik,,,0,False,False,tapik,,,تپیک
 63209,293,23,šədol,ʃəˈd̪oˑl,,,0,False,False,ʃədoːl,,,شدول
 63210,293,97,iiṣ,ʔiˑʂ,,,0,False,False,iːʂ,,,ایش
 63211,293,141,məṭi,məˈʈi,,,0,False,False,məʈi,,,متیی
 63212,293,196,awlu,ˈʔaˑʊlu,,,0,False,False,awlu,,,اولوو
-63213,293,107,tanɡ,t̪aŋɡ,,,0,False,False,tanɡ,,,تنګ
+63213,293,107,tang,t̪aŋɡ,,,0,False,False,tanɡ,,,تنګ
 63214,293,171,puṣṭu,ˈpʊʂʈu,,,0,False,False,puʂʈu,,,پشټو
 63215,293,172,talik,t̪aˈlik,,,0,False,False,talik,,,تلیک
 63216,293,74,wazəm,ʋaˈzəm,,,0,False,False,wazəm,,,وزم
@@ -36538,7 +36538,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63220,293,190,timiik,t̪ɪˈmiˑk,,,0,False,False,timiːk,,,تمییک
 63221,293,11,awlu,ˈʔaˑʊlu,,,0,False,False,awlu,,,اولوو
 63222,293,147,səlaku,sɪlaˈku,,,0,False,False,səlaku,,,سلکو
-63223,293,130,ɡərd,ɡəɾd̪,,,0,False,False,ɡərd,,,ګرد
+63223,293,130,gərd,ɡəɾd̪,,,0,False,False,ɡərd,,,ګرد
 63224,293,216,ṣaax,ʂɑːx,,,0,False,False,ʂaːx,,,شاخ
 63225,293,140,tez,t̪eˑz,,,0,False,False,teːz,,,تیز
 63226,293,150,lašəm,ˈlaʃːəm,,,0,False,False,laʃəm,,,لشم
@@ -36558,11 +36558,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63240,293,41,loṛutu,ˈloːɽʊˌt̪u,,,0,False,False,loːɽutu,,,لوړتو
 63241,293,185,paandə katu,ˈpɑːnd̪əkaˌt̪u,,,0,False,False,paːndə katu,,,پانده کتو
 63242,293,219,dawaltu,ˈd̪aʋalˌt̪u,,,0,False,False,dawaltu,,,دوولتو
-63243,293,166,warɡaa čhantu,ʋaɾˈɡɑˑt͡ʃʰanˌt̪u,,,0,False,False,warɡaː t͡ʃʰantu,,,ورګا چهنتو
+63243,293,166,wargaa čhantu,ʋaɾˈɡɑˑt͡ʃʰanˌt̪u,,,0,False,False,warɡaː t͡ʃʰantu,,,ورګا چهنتو
 63244,293,56,parwaaz katu,paɾˈʋɑːzkaˌt̪u,,,0,False,False,parwaːz katu,,,پروازکتو
 63245,293,137,dətaau,d̪əˈt̪ɑːʊ,,,0,False,False,dətaːwu,,,دتاو
 63246,293,72,khanǰetu,ˈkand͡ʒɛˑˌt̪u,,,0,False,False,kʰand͡ʒeːtu,,,کهنجیتو
-63247,293,148,ɡanda kataau,ˈɡand̪əkaˌt̪ɑːʊ,,,0,False,False,ɡanda kataːwu,,,ګنده کتاو
+63247,293,148,ganda kataau,ˈɡand̪əkaˌt̪ɑːʊ,,,0,False,False,ɡanda kataːwu,,,ګنده کتاو
 63248,293,224,katu,kaˈt̪u,,,0,False,False,katu,,,کتو
 63249,293,95,zundu aa,ˈzʊnd̪uˌʋɑː,,,0,False,False,zundu aa,,,زندو آه
 63250,293,28,muṛtu,ˈmʊɽt̪u,,,0,False,False,muɽtu,,,مړتو
@@ -36575,23 +36575,23 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63257,293,13,ṣawetaau,ʂaʋɛˈt̪ɑːʊ,,,0,False,False,ʂaʋeːtaːwu,,,شویتاوو
 63258,293,38,žetaau,ʒɛˑˈt̪ɑːʊ,,,0,False,False,ʒeːtaːwu,,,ژیتاوو
 63259,293,32,pataau,pəˈt̪ɑːʊ,,,0,False,False,pataːwu,,,پتاوو
-63260,293,45,ǰaanɡə butu,ˈd͡ʒɑːŋɡuːˌt̪u,,,0,False,False,d͡ʒaːnɡə butu,,,جانګه بتو
+63260,293,45,ǰaangə butu,ˈd͡ʒɑːŋɡuːˌt̪u,,,0,False,False,d͡ʒaːnɡə butu,,,جانګه بتو
 63261,293,88,faamtu,ˈfɑːmt̪u,,,0,False,False,faːmtu,,,فامتو
 63262,293,173,fakər katu,ˈfakəɾkaˌt̪u,,,0,False,False,fakər katu,,,فکرکتو
-63263,293,25,ɡantu,ɡanˈt̪u,,,0,False,False,ɡantu,,,ګنتو
+63263,293,25,gantu,ɡanˈt̪u,,,0,False,False,ɡantu,,,ګنتو
 63264,293,90,ǰasətu,ˈd͡ʒasəˌt̪u,,,0,False,False,d͡ʒasətu,,,جس تو
 63265,293,223,wretu,ʋə̆ˈɾɛːt̪u,,,0,False,False,wreːtu,,,وری تو
 63266,293,134,matu,maˈt̪u,,,0,False,False,matu,,,متو
-63267,293,142,ɡe matu,ˈɡeːmaˌt̪u,,,0,False,False,ɡeː matu,,,ګیی متو
+63267,293,142,ge matu,ˈɡeːmaˌt̪u,,,0,False,False,ɡeː matu,,,ګیی متو
 63268,293,118,aaxaltu,ˈʔɑːxalˌt̪u,,,0,False,False,aːxaltu,,,آخلتو
 63269,293,63,detaau,ˈd̪ɛːt̪ɑˑʊ,,The ending changes according to whether the object is overtly mentioned or not. We chose the form from a sentence in which the object is overtly mentioned.,0,False,False,deːtaːwu,,,دیتاو
 63270,293,48,hančaali katu,haɲˈt͡ʃɑːlikaˌt̪u,,,0,False,False,hant͡ʃaːli katu,,,حنچالی کتو
 63271,293,86,maartaau,ˈmɑːɾtɑʊ,,,0,False,False,maːrtaːwu,,,مارتاو
-63272,293,221,ɡuretaau,ɡʊˈɾɛːt̪ɑˑʊ,,,0,False,False,ɡureːtaːwu,,,ګوریتاو
+63272,293,221,guretaau,ɡʊˈɾɛːt̪ɑˑʊ,,,0,False,False,ɡureːtaːwu,,,ګوریتاو
 63273,293,120,daməketaau,ˌd̪aməˈkɛːt̪ɑˑʊ,,,0,False,False,daməkeːtaːwu,,,دم کیتاو
 63274,293,119,kaš kataau,ˌkaʃkaˈt̪ɑːʊ,,,0,False,False,kaʃ kataːwu,,,کش کتاوو
-63275,293,178,ṭanɡtaau,ˈʈaŋtɑˑʊ,,,0,False,False,ʈanɡtaːwu,,,ټنګتاو
-63276,293,220,ɡuretaau,ɡʊˈɾɛːt̪ɑˑʊ,,This is the same word for 'is taking.' It is not a mistake; this word is used for both meanings.,0,False,False,ɡureːtaːwu,,,ګوریتاو
+63275,293,178,ṭangtaau,ˈʈaŋtɑˑʊ,,,0,False,False,ʈanɡtaːwu,,,ټنګتاو
+63276,293,220,guretaau,ɡʊˈɾɛːt̪ɑˑʊ,,This is the same word for 'is taking.' It is not a mistake; this word is used for both meanings.,0,False,False,ɡureːtaːwu,,,ګوریتاو
 63277,293,76,hantaau,ˈhant̪ɑˑʊ,,,0,False,False,hantaːwu,,,هنتاوو
 63278,293,26,kaṛtaau,ˈkaɽt̪ɑˑʊ,,,0,False,False,kaɽtaːwu,,,کړتاو
 63279,293,135,khučetaau,ˈkʰut͡ʃɛˑˌtɑˑʊ,,,0,False,False,kʰut͡ʃeːtaːwu,,,کهوچیتاوو
@@ -36599,7 +36599,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 63281,293,139,suutaau,ˈsuːtɑˑʊ,,,0,False,False,suːtaːwu,,,سووتاوو
 63282,293,20,ǰətu,ˈd͡ʒʊtːu,,,0,False,False,d͡ʒətu,,,جت تو
 63283,293,60,šədol hantaau,ʃəˈd̪oːlhanˌt̪ɑˑʊ,,,0,False,False,ʃədoːl hantaːwu,,,شدول هنتاوو
-63284,293,177,wanɡetaau,ʋaŋˈɡɛːtɑˑʊ,,,0,False,False,wanɡeːtaːwu,,,ونګیتاوو
+63284,293,177,wangetaau,ʋaŋˈɡɛːtɑˑʊ,,,0,False,False,wanɡeːtaːwu,,,ونګیتاوو
 63285,293,80,šəkaar katu,ʃəˈkɑˑɾkaˌt̪u,,,0,False,False,ʃəkaːr katu,,,شکار کتو
 63286,293,225,žaandər kataau,ˌʒɑˑnd̪əɾkaˈt̪ɑˑʊ,,,0,False,False,ʒaːndər kataːwu,,,ژاندرکتاو
 63287,293,29,khortaau,ˈkʰoˑɾtɑˑʊ,,,0,False,False,kʰoːrtaːwu,,,کهورتاوو
@@ -40341,11 +40341,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 71908,312,10,kṭ′ol,kʈˈo̞l,stomach; rumen,,4,False,False,kʈˈo̞l,,,
 71909,312,11,′oala,ˈo̞ːlɨ,big,,5,False,False,o̞ɨlɨ,,,
 71910,312,12,mřâŋć′a,mɹaŋdzˈɨ,small bird; songbird; bird (meat),,6,False,False,mɹaŋtsˈɨ,,,
-71911,312,13,âš′aa˜ ŋâ-,aʒˈĩːŋa-,bite (onto),"""grasp with mouth (âš′a)""",7,False,False,aʃˈĩɨ ŋa-,,,
+71911,312,13,âš′aã ŋâ-,aʒˈĩːŋa-,bite (onto),"""grasp with mouth (âš′a)""",7,False,False,aʃˈĩɨ ŋa-,,,
 71912,312,14,ẓ′ia,ʐˈiː,black,,8,False,False,ʐˈiɨ,,,
 71913,312,15,l′ui,lˈui̯,blood,,9,False,False,lˈui,,,
 71914,312,17,âṭ′i,aɽˈi,bone; pit (of fruit),,10,False,False,aʈˈi,,,
-71915,312,19,š′ü˜ kṣoa-,ʃˈỹ kʂo̞ː-,breathe,,11,False,False,ʃˈỹ kʂo̞ɨ-,,,
+71915,312,19,š′ü̃ kṣoa-,ʃˈỹ kʂo̞ː-,breathe,,11,False,False,ʃˈỹ kʂo̞ɨ-,,,
 71916,312,22,nir′u,niɾˈu,cloud,< PII *nabʱ-ar-i-kā-,12,False,False,niɾˈu,,,
 71917,312,23,′üć,ʲˈyts,cold (thing),,13,False,False,ˈyts,,,
 71918,312,25,gâň′e-,ɡaɹ̃ˈe-,count,,14,False,False,ɡaɹ̃ˈe-,,,
@@ -40361,7 +40361,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 71928,312,37,b′üm,bˈym,earth; ground,,24,False,False,bˈym,,,
 71929,312,38,i′u-,jˈu-,"consume; eat; utilize [money, resources]; exploit [resources, persons]",,25,False,False,iˈu-,,,
 71930,312,39,âṣ′o,aʐˈo̞,egg (of bird),,26,False,False,aʂˈo̞,,,
-71931,312,40,âč′e˜,atʃˈẽ,eye,,27,False,False,atʃˈẽ,,,
+71931,312,40,âč′ẽ,atʃˈẽ,eye,,27,False,False,atʃˈẽ,,,
 71932,312,41,′üň e-,ʲˈyɹ̃ e-,fall down; be dropped [inanimate],,28,False,False,yɹ̃ e-,,,
 71933,312,42,bâd′üř,badˈyɹ,far,,29,False,False,badˈüř,,,
 71934,312,45,vid′ařa-,vidˈɨɹɨ-,be afraid,,30,False,False,vidˈɨɹɨ-,,,
@@ -40404,8 +40404,8 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 71971,312,105,âš′a,aʒˈi,mouth,,67,False,False,aʃˈɨ,,,
 71972,312,106,n′om,nˈo̞m,name,,68,False,False,nˈo̞m,,,
 71973,312,107,âr′aň,aɾˈɨɹ̃,narrow,,69,False,False,aɾˈɨɹ̃,,,
-71974,312,108,t′uare˜,tˈuːɾẽ,near,,70,False,False,tˈuɨɾẽ,,,
-71975,312,110,nu·′i˜,nujˈĩ,new,,71,False,False,nu.ĩ,,,
+71974,312,108,t′uarẽ,tˈuːɾẽ,near,,70,False,False,tˈuɨɾẽ,,,
+71975,312,110,nu·′ĩ,nujˈĩ,new,,71,False,False,nu.ĩ,,,
 71976,312,111,řâd′or,ɹadˈo̞r,nighttime; night,,72,False,False,ɹadˈo̞ɾ,,,
 71977,312,112,nâs′uř,nazˈuɹ,nose,,73,False,False,nasˈuɹ,,,
 71978,312,114,s′üma,sˈymɨ,old; worn out; (inanimate),,74,False,False,sˈymɨ,,,
@@ -40431,7 +40431,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 71998,312,144,č′om,tʃˈo̞m,skin; hide,,94,False,False,tʃˈo̞m,,,
 71999,312,145,d′i,dˈi,sky,,95,False,False,dˈi,,,
 72000,312,146,pṣ′u-,pʂˈu,go to sleep,,96,False,False,pʂˈu,,,
-72001,312,147,turć′a˜,tuɾtsˈɨ̃,small,,97,False,False,tuɾtsˈɨ̃,,,
+72001,312,147,turć′ã,tuɾtsˈɨ̃,small,,97,False,False,tuɾtsˈɨ̃,,,
 72002,312,149,d′üm,dˈym,smoke,,98,False,False,dˈym,,,
 72003,312,150,salk′aň,sɨlkˈɨɹ̃,slippery; smooth,,99,False,False,sɨlkˈɨɹ̃,,,
 72004,312,152,ź′im,dzˈim,snow,,100,False,False,dzˈim,,,
@@ -40482,17 +40482,17 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72049,312,185,po te-,pˈo̞te-,walk,,145,False,False,pˈo̞ te-,,,
 72050,312,207,′âadra,ˈaːdɾɨ,yellow; green; pale (complexion),,146,False,False,ˈaɨdɾɨ,,,
 72051,312,18,č′uk,tʃˈuk,breast; chest,Kâmviri has no word for “chest” as defined by IE-CoR,147,False,False,tʃˈuk,,,
-72052,312,49,nâč′e˜,natʃˈẽ,nail (finger- or toe-); claw,,148,False,False,natʃˈẽ,,,
+72052,312,49,nâč′ẽ,natʃˈẽ,nail (finger- or toe-); claw,,148,False,False,natʃˈẽ,,,
 72053,312,61,kâc̣′avec̣,kaʈʂˈɨveʈʂ,fruit,,149,False,False,kaʈʂˈɨveʈʂ,,,
 72054,312,62,pâr′ea,paɾˈeː,all; full,,150,False,False,paɾˈeɨ,,,
 72055,312,78,ṣ′iŋ,ʂˈiŋ,horn,,151,False,False,ʂˈiŋ,,,
-72056,312,87,ź′o˜,dzˈõ̞,knee,,152,False,False,dzˈõ̞,,,
+72056,312,87,ź′õ,dzˈõ̞,knee,,152,False,False,dzˈõ̞,,,
 72057,312,102,m′os,mˈo̞s,moon,,153,False,False,mˈo̞s,,,
 72058,312,130,puṇr′aň,puɳɖɾˈɨɹ̃,round,,154,False,False,puɳɖɾˈɨɹ̃,,,
 72059,312,162,sṭ′âla,ʂʈˈalɨ,straight; true; honest,,155,False,False,sʈˈalɨ,,,
 72060,312,203,bân′a,banˈɨ,forest,< MIA,156,False,False,banˈɨ,,,
 72061,312,208,řâm′ik,ɹamˈik,ant,,157,False,False,ɹamˈik,,,
-72062,312,209,c̣′u˜,ʈʂˈũ,thigh and hip,,158,False,False,ʈʂˈũ,,,
+72062,312,209,c̣′ũ,ʈʂˈũ,thigh and hip,,158,False,False,ʈʂˈũ,,,
 72063,312,210,š′üṇ,ʃˈyɳ,navel,,159,False,False,ʃˈyɳ,,,
 72064,312,211,t′üruk,tˈyɾuk,fly [N],,160,False,False,tˈyɾuk,,,
 72065,312,212,d′us,dˈus,yesterday,,161,False,False,dˈus,,,
@@ -40509,7 +40509,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72076,312,223,ẓ′u-,ʐˈu-,cry; weep,,172,False,False,ʐˈu-,,,
 72077,312,224,k′u-,kˈu-,do; make,,173,False,False,kˈu-,,,
 72078,312,225,pš′a-,pʃˈi-,grind; crush into small pieces,,174,False,False,pʃˈɨ-,,,
-72079,312,226,nâč′e˜,natʃˈẽ,nail (finger- or toe-); claw,,175,False,False,natʃˈẽ,,,
+72079,312,226,nâč′ẽ,natʃˈẽ,nail (finger- or toe-); claw,,175,False,False,natʃˈẽ,,,
 72080,314,71,ṣ′ei,ʂˈɛ̠i̯,,,1,False,False,ʂˈɛ̠i,,,ṣɛi
 72081,314,68,ẓ′u,ʐˈu,,,2,False,False,ʐˈu,,,ẓu
 72082,314,36,k′or,kˈo̞r,,,3,False,False,kˈo̞r,,,kor
@@ -40795,7 +40795,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72362,315,49,nâč′e,natʃˈɛ̠,nail (finger- or toe-),,116,False,False,natʃˈɛ̠,,,
 72363,315,61,kâc̣av′ec̣,kaʈʂɨβ̞ˈɛ̠ʈʂ,fruit,,117,False,False,kaʈʂɨβ̞ˈɛ̠ʈʂ,,,
 72364,315,78,ṣiŋ′a,ʂiŋˈi,horn,,118,False,False,ʂiŋˈɨ,,,
-72365,315,87,z′u˜,zˈũ,knee,,119,False,False,zˈũ,,,
+72365,315,87,z′ũ,zˈũ,knee,,119,False,False,zˈũ,,,
 72366,315,102,m′us,mˈus,moon,,120,False,False,mˈus,,,
 72367,315,162,sṭ′âla,ʂʈˈalɨ,straight; true; honest,,121,False,False,sʈˈalɨ,,,
 72368,315,203,ban′a,bɨnˈɨ,forest,< MIA,122,False,False,bɨnˈɨ,,,
@@ -40810,7 +40810,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72377,315,218,′e-,ˈɛ̠-,go,,131,False,False,ˈɛ̠-,,,
 72378,315,224,k′u-,kˈu-,do; make,,132,False,False,kˈu-,,,
 72379,316,4,âsa,a̞sˈɐ,ash(es),,1,False,False,a̞sˈɐ,,,
-72380,316,6,üc̣e˜,yʈʂˈẽ,back,,2,False,False,yʈʂˈẽ,,,
+72380,316,6,üc̣ẽ,yʈʂˈẽ,back,,2,False,False,yʈʂˈẽ,,,
 72381,316,8,či,tʃˈi,bark,,3,False,False,tʃˈi,,,
 72382,316,10,küć,kˈyts,belly,,4,False,False,kˈyts,,,
 72383,316,11,gaṇi,ɡɐɽ̃ˈi,big,,5,False,False,ɡɐɽ̃ˈi,,,
@@ -40818,13 +40818,13 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72385,316,14,kâča,ka̞tʃˈɐ,black; soot,,7,False,False,ka̞tʃˈɐ,,,
 72386,316,15,lai,lˈɐj,blood,,8,False,False,lˈɐi,,,
 72387,316,17,aṭi,ɐʈˈi,bone,,9,False,False,ɐʈˈi,,,
-72388,316,19,ṣö˜,ʂˈø̃,breath,noun,10,False,False,ʂˈø̃,,,
+72388,316,19,ṣö̃,ʂˈø̃,breath,noun,10,False,False,ʂˈø̃,,,
 72389,316,22,nâli,na̞lˈi,cloud,,11,False,False,na̞lˈi,,,
 72390,316,23,ioz,jˈoz,cold,,12,False,False,iˈoz,,,
 72391,316,25,gaṇa tâ-,ɡɐɽ̃ɐta̞-,to count,,13,False,False,ɡɐɽ̃ɐ ta̞-,,,
-72392,316,28,mre˜-,mɾˈẽ-,die,,14,False,False,mɾˈẽ-,,,
+72392,316,28,mrẽ-,mɾˈẽ-,die,,14,False,False,mɾˈẽ-,,,
 72393,316,29,kuča-,kutʃˈɐ-,dig; quarry,,15,False,False,kutʃˈɐ-,,,
-72394,316,31,ću˜,tsˈũ,dog,,16,False,False,tsˈũ,,,
+72394,316,31,ćũ,tsˈũ,dog,,16,False,False,tsˈũ,,,
 72395,316,32,piia-,pijˈɐ-,drink,,17,False,False,piiˈɐ-,,,
 72396,316,33,deňâ-,deɹ̃ˈa̞-,dry [trans.],,18,False,False,deɹ̃ˈa̞-,,,
 72397,316,35,pasalä,pɐsɐlˈæ,dust,,19,False,False,pɐsɐlˈæ,,,
@@ -40832,13 +40832,13 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72399,316,37,büm,bˈym,earth; ground,,21,False,False,bˈym,,,
 72400,316,38,ia-,jˈɐ-,consume; eat,,22,False,False,iˈɐ-,,,
 72401,316,39,vṛâv,βɹˈa̞β̞,egg (of bird),,23,False,False,βɽˈa̞β,,,
-72402,316,40,ače˜,ɐtʃˈẽ,eye,,24,False,False,ɐtʃˈẽ,,,
+72402,316,40,ačẽ,ɐtʃˈẽ,eye,,24,False,False,ɐtʃˈẽ,,,
 72403,316,42,südi,sydˈi,far,,25,False,False,sydˈi,,,
 72404,316,45,vide-,βidˈe-,be afraid,,26,False,False,βidˈe-,,,
 72405,316,46,paṭä,pɐʈˈæ,feather; wing,,27,False,False,pɐʈˈæ,,,
-72406,316,50,â˜i,ã̞j,fire,,28,False,False,ˈã̞i,,,
+72406,316,50,ẫi,ã̞j,fire,,28,False,False,ˈã̞i,,,
 72407,316,51,mać,mˈɐts,fish,,29,False,False,mˈɐts,,,
-72408,316,52,pu˜č,pˈũtʃ,five,,30,False,False,pˈũtʃ,,,
+72408,316,52,pũč,pˈũtʃ,five,,30,False,False,pˈũtʃ,,,
 72409,316,55,püš,pˈyʃ,flower,,31,False,False,pˈyʃ,,,
 72410,316,56,osta-,ostˈɐ-,fly,,32,False,False,ostˈɐ-,,,
 72411,316,57,dümüč,dymˈytʃ,fog,,33,False,False,dymˈytʃ,,,
@@ -40847,8 +40847,8 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72414,316,63,pra-,pɾˈɐ-,give,,36,False,False,pɾˈɐ-,,,
 72415,316,64,ǰäi,dʒˈæi,good; pleasure,,37,False,False,dʒˈæi,,,
 72416,316,65,ius,jˈus,grassy plant,,38,False,False,iˈus,,,
-72417,316,66,köve˜,køβˈẽ,greenish blue; blue,,39,False,False,køβˈẽ,,,
-72418,316,67,atare˜,ɐtɐɾˈẽ,guts,,40,False,False,ɐtɐɾˈẽ,,,
+72417,316,66,kövẽ,køβˈẽ,greenish blue; blue,,39,False,False,køβˈẽ,,,
+72418,316,67,atarẽ,ɐtɐɾˈẽ,guts,,40,False,False,ɐtɐɾˈẽ,,,
 72419,316,68,dru,dɾˈu,hair on head,,41,False,False,dɾˈu,,,
 72420,316,69,dost,dˈost,hand; hand and forearm,,42,False,False,dˈost,,,
 72421,316,71,ṣai,ʂˈɐj,head,,43,False,False,ʂˈɐi,,,
@@ -40857,11 +40857,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72424,316,74,ganala,ɡɐnɐlˈɐ,heavy,,46,False,False,ɡɐnɐlˈɐ,,,
 72425,316,76,ve-,βˈe-,"hit, beat",,47,False,False,βˈe-,,,
 72426,316,83,âc̣ama,a̞ʈʂɐmˈɐ,ice,< *â-c̣âr-ma “at-ice-expanse”?,48,False,False,a̞ʈʂɐmˈɐ,,,
-72427,316,86,ẓâ˜-,ʐˈã̞-,kill,,49,False,False,ʐˈã̞-,,,
+72427,316,86,ẓẫ-,ʐˈã̞-,kill,,49,False,False,ʐˈã̞-,,,
 72428,316,89,sor,sˈoɾ,mountain lake or pond,,50,False,False,sˈoɾ,,,
 72429,316,91,poṭ,pˈoʈ,leaf,,51,False,False,pˈoʈ,,,
 72430,316,92,kâri,ka̞ɾˈi,left,,52,False,False,ka̞ɾˈi,,,
-72431,316,95,ǰe˜ta ti-,dʒẽtɐti-,to be alive,"""alive remaining""",53,False,False,dʒẽtɐ ti-,,,
+72431,316,95,ǰẽta ti-,dʒẽtɐti-,to be alive,"""alive remaining""",53,False,False,dʒẽtɐ ti-,,,
 72432,316,96,iok,jˈok,liver,,54,False,False,iˈok,,,
 72433,316,97,drigala,dɾiɡɐlˈɐ,long; tall,,55,False,False,dɾiɡɐlˈɐ,,,
 72434,316,98,iü,jˈy,louse,,56,False,False,iˈy,,,
@@ -40871,7 +40871,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72438,316,105,âš,ˈa̞ʃ,mouth,,60,False,False,ˈa̞ʃ,,,
 72439,316,106,nâm,nˈa̞m,name,,61,False,False,nˈa̞m,,,
 72440,316,107,avṛe,ɐβɹˈe,narrow,,62,False,False,ɐβɽˈe,,,
-72441,316,108,tarâ˜t,tɐɾˈã̞t,near,,63,False,False,tɐɾˈã̞t,,,
+72441,316,108,tarẫt,tɐɾˈã̞t,near,,63,False,False,tɐɾˈã̞t,,,
 72442,316,110,nuŋa,nuŋˈɐ,new,,64,False,False,nuŋˈɐ,,,
 72443,316,112,nâs,nˈa̞s,nose,,65,False,False,nˈa̞s,,,
 72444,316,114,ḍega,ɖeɡˈɐ,old; worn out,,66,False,False,ɖeɡˈɐ,,,
@@ -40906,7 +40906,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72473,316,176,tre,tɾˈe,three,,95,False,False,tɾˈe,,,
 72474,316,177,arâ-,ɐɾˈa̞-,throw,,96,False,False,ɐɾˈa̞-,,,
 72475,316,179,ǰip,dʒˈip,tongue,,97,False,False,dʒˈip,,,
-72476,316,180,du˜t,dˈũt,tooth,,98,False,False,dˈũt,,,
+72476,316,180,dũt,dˈũt,tooth,,98,False,False,dˈũt,,,
 72477,316,181,ǰala,dʒɐlˈɐ,tree,,99,False,False,dʒɐlˈɐ,,,
 72478,316,183,dü,dˈy,two,,100,False,False,dˈy,,,
 72479,316,187,pala-,pɐlˈɐ-,wash [body],,101,False,False,pɐlˈɐ-,,,
@@ -40942,7 +40942,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72509,316,87,aṣaŋa,ɐʂɐŋˈɐ,knee,,131,False,False,ɐʂɐŋˈɐ,,,
 72510,316,102,mâs,mˈa̞s,moon; month,,132,False,False,mˈa̞s,,,
 72511,316,130,punḍura,puɳɖuɾˈɐ,round,,133,False,False,puɳɖuɾˈɐ,,,
-72512,316,162,üǰâ˜ka,ydʒã̞kˈɐ,straight,,134,False,False,ydʒã̞kˈɐ,,,
+72512,316,162,üǰẫka,ydʒã̞kˈɐ,straight,,134,False,False,ydʒã̞kˈɐ,,,
 72513,316,203,ban,bˈɐn,forest,< MIA,135,False,False,bˈɐn,,,
 72514,316,208,pilik,pilˈik,ant,,136,False,False,pilˈik,,,
 72515,316,209,sot,sˈot,thigh,,137,False,False,sˈot,,,
@@ -40966,7 +40966,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72533,317,12,niŋâs′a,niŋasˈɨ,small bird; songbird; bird (meat),,5,False,False,niŋasˈɨ,,,
 72534,317,15,l′au,lˈɨβ̞,blood,,6,False,False,lˈɨu,,,
 72535,317,17,âṭ′i,aʈˈi,bone,,7,False,False,aʈˈi,,,
-72536,317,19,s′âː˜,sˈãː,breath; soul,,8,False,False,sˈãː,,,
+72536,317,19,s′âː̃,sˈãː,breath; soul,,8,False,False,sˈãː,,,
 72537,317,22,lâːňâ,laːɽ̃a,cloud,,9,False,False,laːɽ̃a,,,
 72538,317,23,âc̣ag′a,aʈʂɨɡˈɨ,cold,,10,False,False,aʈʂɨɡˈɨ,,,
 72539,317,25,gaňie-,ɡɨɽ̃je-,count,,11,False,False,ɡɨɽ̃ie-,,,
@@ -40978,12 +40978,12 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72545,317,37,b′um,bˈʉm,earth; ground,,17,False,False,bˈʉm,,,
 72546,317,38,i′o-,jˈʊ-,eat,,18,False,False,iˈʊ-,,,
 72547,317,39,ž′âu,ʒˈaβ̞,egg (of bird),,19,False,False,ʒˈau,,,
-72548,317,40,âć′i˜,atsˈĩ,eye,,20,False,False,atsˈĩ,,,
+72548,317,40,âć′ĩ,atsˈĩ,eye,,20,False,False,atsˈĩ,,,
 72549,317,42,sad′u,sɨdˈʉ,far,,21,False,False,sɨdˈʉ,,,
 72550,317,46,pâṭ′u,paʈˈʉ,feather,,22,False,False,paʈˈʉ,,,
 72551,317,50,âŋ′â,aŋˈa,fire,,23,False,False,aŋˈa,,,
 72552,317,51,moːć,mʊːts,fish,,24,False,False,mʊːts,,,
-72553,317,52,p′o˜ć,pˈʊ̃ts,five,,25,False,False,pˈʊ̃ts,,,
+72553,317,52,p′õć,pˈʊ̃ts,five,,25,False,False,pˈʊ̃ts,,,
 72554,317,55,pus′up,pʉsˈʉp,flower,,26,False,False,pʉsˈʉp,,,
 72555,317,56,undr-,ʉndɾ-,fly,Buddruss,27,False,False,ʉndɾ-,,,
 72556,317,57,nâliud′uṛ,nali.ʉdˈʉɽ,fog,,28,False,False,nali.ʉdˈʉɽ,,,
@@ -41019,27 +41019,27 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72586,317,137,vieňie-,vieɽ̃ie-,see,,58,False,False,vieɽ̃ie-,,,
 72587,317,138,b′i,bˈi,seed; semen,,59,False,False,bˈi,,,
 72588,317,139,šivi′e-,ʃiviˈe-,sew,,60,False,False,ʃiviˈe-,,,
-72589,317,142,nâ˜il′o,nãjlˈʊ,song; music,noun,61,False,False,nãilˈʊ,,,
+72589,317,142,nẫil′o,nãjlˈʊ,song; music,noun,61,False,False,nãilˈʊ,,,
 72590,317,144,ć′âm,tsˈam,skin; hide,,62,False,False,tsˈam,,,
 72591,317,145,diːkâṭ′a,diːkaʈˈɨ,sky,,63,False,False,diːkaʈˈɨ,,,
 72592,317,146,min′iːk,minˈiːk,sleep,noun,64,False,False,minˈiːk,,,
 72593,317,149,d′uːm,dˈʉːm,smoke,,65,False,False,dˈʉːm,,,
 72594,317,152,ž′im,ʒˈim,snow,,66,False,False,ʒˈim,,,
 72595,317,158,ut-,ut-,stand,"Buddruss ""sich hinstellen""",67,False,False,ut-,,,
-72596,317,159,ist′â˜,istˈã,star,,68,False,False,istˈã,,,
+72596,317,159,ist′ẫ,istˈã,star,,68,False,False,istˈã,,,
 72597,317,160,ḍuḍ′a,ɖʉɖˈɨ,stick,,69,False,False,ɖʉɖˈɨ,,,
 72598,317,164,s′o,sˈʊ,sun,,70,False,False,sˈʊ,,,
 72599,317,173,bât-,bat-,think,"Buddruss ""denken; meinen""",71,False,False,bat-,,,
 72600,317,176,tr′a,tɾˈɨ,three,,72,False,False,tɾˈɨ,,,
-72601,317,178,g′oː˜tie-,ɡˈʊ̃ːtje-,tie,,73,False,False,ɡˈʊ̃ːtie-,,,
+72601,317,178,g′oː̃tie-,ɡˈʊ̃ːtje-,tie,,73,False,False,ɡˈʊ̃ːtie-,,,
 72602,317,179,ž′uː,ʒˈʉː,tongue,,74,False,False,ʒˈʉː,,,
-72603,317,180,d′o˜t,dˈʊ̃t,tooth,,75,False,False,dˈʊ̃t,,,
+72603,317,180,d′õt,dˈʊ̃t,tooth,,75,False,False,dˈʊ̃t,,,
 72604,317,181,kand′a,kɨndˈɨ,woody plant; tree; bush,,76,False,False,kɨndˈɨ,,,
 72605,317,183,d′u,dˈʉ,two,,77,False,False,dˈʉ,,,
 72606,317,187,dari′e-,dɨɾjˈe-,wash,,78,False,False,dɨɾiˈe-,,,
 72607,317,188,âb′o,abˈʊ,water,,79,False,False,abˈʊ,,,
 72608,317,198,dom′oː,dʊmˈʊː,wind,,80,False,False,dʊmˈʊː,,,
-72609,317,199,undrâ˜vâṭ,undrãvaʈ,wing,Buddruss,81,False,False,undrãvaʈ,,,
+72609,317,199,undrẫvâṭ,undrãvaʈ,wing,Buddruss,81,False,False,undrãvaʈ,,,
 72610,317,202,istramâl′i,istɾɨmalˈi,woman,,82,False,False,istɾɨmalˈi,,,
 72611,317,204,g′oːk,ɡˈʊːk,bug; worm,,83,False,False,ɡˈʊːk,,,
 72612,317,206,v′eːl,vˈeːl,year,,84,False,False,vˈeːl,,,
@@ -41055,7 +41055,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72622,317,151,kar′aṣ,kɨɾˈɨʂ,snake,,94,False,False,kɨɾˈɨʂ,,,
 72623,317,207,âidraâr′âːŋ,ajdɾɨaɾˈaːŋ,yellow; green; pale (complexion),,95,False,False,aidɾɨaɾˈaːŋ,,,
 72624,317,18,ćuć′u,tsʉtsˈʉ,breast,,96,False,False,tsʉtsˈʉ,,,
-72625,317,49,nâuć′a˜,nautsˈɨ̃,nail (finger- or toe-),,97,False,False,nautsˈɨ̃,,,
+72625,317,49,nâuć′ã,nautsˈɨ̃,nail (finger- or toe-),,97,False,False,nautsˈɨ̃,,,
 72626,317,61,miav′a,miɨvˈɨ,fruit,,98,False,False,miɨvˈɨ,,,
 72627,317,78,š′iŋ,ʃˈiŋ,horn,,99,False,False,ʃˈiŋ,,,
 72628,317,87,ḍ′oŋ,ɖˈʊŋ,knee,,100,False,False,ɖˈʊŋ,,,
@@ -41065,7 +41065,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72632,317,210,ṣ′uṇ,ʂˈʉɳ,navel,,104,False,False,ʂˈʉɳ,,,
 72633,317,211,mâi′oːs,maiˈʊːs,fly,,105,False,False,maiˈʊːs,,,
 72634,317,212,d′os,dˈʊs,yesterday,,106,False,False,dˈʊs,,,
-72635,317,213,pâ˜t′i,pãtˈi,shadow,"Budd. ""ac̣əw′ə""",107,False,False,pãtˈi,,,
+72635,317,213,pẫt′i,pãtˈi,shadow,"Budd. ""ac̣əw′ə""",107,False,False,pãtˈi,,,
 72636,317,214,âm′â,amˈa,house; room,,108,False,False,amˈa,,,
 72637,317,218,d′i-,dˈi-,go,,109,False,False,dˈi-,,,
 72638,317,224,ko-,kʊ-,do; make,,110,False,False,kʊ-,,,

@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:lexibank/iecor",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-12-g4a07bc8",
+            "dc:created": "v1.0-13-g93a18f7",
             "dc:title": "Repository"
         },
         {
@@ -26,17 +26,21 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.4.0",
+            "dc:created": "v2.5.0",
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.2.0",
             "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
+        {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
         {
             "dc:title": "python",
             "dc:description": "3.9.5"

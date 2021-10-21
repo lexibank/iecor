@@ -5,7 +5,7 @@
 If you use these data please cite
 - the original source
   > Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Leipzig: Max Planck Institute for Evolutionary Anthropology
-- the derived dataset using the DOI of the [particular released version](releases/) you were using
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
@@ -31,8 +31,8 @@ Available online at https://iecor.clld.org
 - **Cognacy:** 25,928 cognates in 5,013 cognate sets (2,363 singletons)
 - **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 6,781
-- **Tokens:** 90,138
-- **Segments:** 675 (1 BIPA errors, 1 CTLS sound class errors, 674 CLTS modified)
+- **Tokens:** 90,132
+- **Segments:** 675 (0 BIPA errors, 0 CTLS sound class errors, 675 CLTS modified)
 - **Inventory size (avg):** 37.77
 
 ## Possible Improvements:
