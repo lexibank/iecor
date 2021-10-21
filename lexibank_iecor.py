@@ -16,7 +16,7 @@ import attr
 
 from mappings import FIELD_MAP, AUTHOR_MAP
 
-LANGUAGE_LIST = "default"
+LANGUAGE_LIST = "Current"
 MEANING_LIST = "default"
 
 
@@ -125,6 +125,7 @@ class IECORLexeme(Lexeme):
     Gloss = attr.ib(default=None)
     phon_form = attr.ib(default=None)
     Phonemic = attr.ib(default=None)
+    Phonemic_Segments = attr.ib(default=None)
     native_script = attr.ib(default=None)
     url = attr.ib(default=None)
 
@@ -254,7 +255,7 @@ class Dataset(BaseDataset):
                     'ID': str(last_author_id + 1),
                     'Last_Name': 'Bibiko',
                     'First_Name': 'Hans-Jörg',
-                    'URL': 'https://www.shh.mpg.de/person/42541/25500'
+                    'URL': 'https://www.eva.mpg.de/linguistic-and-cultural-evolution/staff/hans-joerg-bibiko/'
                 },
                 {
                     'ID': str(last_author_id + 2),
@@ -336,6 +337,7 @@ class Dataset(BaseDataset):
                 primaryKey=['ID'],
             )
 
+            ds.cldf['FormTable', 'Phonemic_Segments'].separator = " "
             ds.cldf['LanguageTable', 'Author_ID'].separator = ';'
             ds.cldf['LanguageTable', 'Clade'].separator = ';'
             ds.cldf['LanguageTable', 'historical'].datatype.base = 'boolean'
@@ -690,7 +692,28 @@ class Dataset(BaseDataset):
                 if c.name != 'Graphemes' and c.name != 'Profile']
 
             for f in forms:
-                nf = ds.add_form(
+                # create segements for the fields phon_form and phonemic separately
+                # segments of phon_form => Form/Segments
+                # segments of phonemic => Form/Phonemic_Segments
+                segs = [[''], ['']]
+                if f['phon_form'] and f['phon_form'] != ' ':
+                    segs[0] = f['phon_form']
+                if['Phonemic'] and f['Phonemic'] != ' ':
+                    segs[1] = f['Phonemic']
+                for i, sf in enumerate(segs):
+                    if isinstance(sf, str):
+                        # handle space in front of tone marks H/L
+                        sf_ = re.sub(r'\s*H', 'H', re.sub(r'\s*L', 'L', sf))
+                        # handle cases like foo(x/y)bar => fooxbar
+                        sf_ = re.sub(r'\(([^/\)]+?)/[^\)]+?\)', r'\1', sf_)
+                        # '/' wrapped by spaces is consistently used as separator
+                        sf_ = sf_.replace(' / ', ';')
+                        # handle (x) => x; split all variants and take the first one
+                        sf_ = re.sub(
+                            r'\(([^,;/~L]+?)\)', r'\1', re.split(r' *[,;≠] *', sf_)[0]).strip()
+                        sf_ = ds.tokenize({}, sf_) or ['']
+                        segs[i] = sf_
+                nf = ds.add_form_with_segments(
                     ID=f['ID'],
                     Language_ID=f['Language_ID'],
                     Parameter_ID=f['Parameter_ID'],
@@ -703,6 +726,8 @@ class Dataset(BaseDataset):
                     Phonemic=f['Phonemic'],
                     native_script=f['native_script'],
                     url=f['url'],
+                    Segments=segs[0],
+                    Phonemic_Segments=segs[1],
                 )
                 renewed_form_id_map[f['ID']] = nf['ID']
 

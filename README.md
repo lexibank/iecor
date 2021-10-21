@@ -5,7 +5,7 @@
 If you use these data please cite
 - the original source
   > Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Leipzig: Max Planck Institute for Evolutionary Anthropology
-- the derived dataset using the DOI of the [particular released version](releases/) you were using
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
@@ -20,20 +20,26 @@ Available online at https://iecor.clld.org
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 151
+- **Varieties:** 161
 - **Concepts:** 170
-- **Lexemes:** 24,300
+- **Lexemes:** 25,918
 - **Sources:** 0
 - **Synonymy:** 1.01
-- **Cognacy:** 24,310 cognates in 4,727 cognate sets (2,222 singletons)
+- **Cognacy:** 25,928 cognates in 5,013 cognate sets (2,363 singletons)
 - **Cognate Diversity:** 0.19
+- **Invalid lexemes:** 6,781
+- **Tokens:** 90,132
+- **Segments:** 675 (0 BIPA errors, 0 CTLS sound class errors, 675 CLTS modified)
+- **Inventory size (avg):** 37.77
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 24300/24300 (100.00%)
+- Entries missing sources: 25918/25918 (100.00%)
 
 # Contributors
 

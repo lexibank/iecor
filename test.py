@@ -3,7 +3,7 @@ def test_valid(cldf_dataset, cldf_logger):
 
 
 def test_forms(cldf_dataset):
-    assert len(list(cldf_dataset["FormTable"])) == 24300
+    assert len(list(cldf_dataset["FormTable"])) == 25918
     assert any(f["Form"] == "thatë" for f in cldf_dataset["FormTable"])
 
 
@@ -12,11 +12,11 @@ def test_parameters(cldf_dataset):
 
 
 def test_clades(cldf_dataset):
-    assert len(list(cldf_dataset["clades.csv"])) == 36
+    assert len(list(cldf_dataset["clades.csv"])) == 40
 
 
 def test_loans(cldf_dataset):
-    assert len(list(cldf_dataset["loans.csv"])) == 862
+    assert len(list(cldf_dataset["loans.csv"])) == 1039
     assert any(f["Source_languoid"] == "Romance" for f in cldf_dataset["loans.csv"])
 
 
@@ -25,4 +25,4 @@ def test_authors(cldf_dataset):
 
 
 def test_languages(cldf_dataset):
-    assert len(list(cldf_dataset["LanguageTable"])) == 151
+    assert len(list(cldf_dataset["LanguageTable"])) == 161

@@ -7,9 +7,10 @@ ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,c
 31,Armenian,,,,Armenian,Arm,#800080,4,0,0,0
 30,Albanian,,,,Albanian,Alb,#999999,5,0,0,0
 33,Indo-Iranic,,,,Indo-Iranic,,#EE0000,6,0,0,0
-24,Indic,,,,Indic,Ind,#B0171F,6,1,0,0
-27,Nuristani,,,,Nuristani,Nur,#DC143C,6,2,0,0
-23,Iranic,,,,Iranic,Irc,#FF3E96,6,3,0,0
+24,Indo-Iranic,,,,Indic,Ind,#B0171F,6,1,0,0
+27,Indo-Iranic,Nuristani,,,Nuristani,Nur,#DC143C,6,2,0,0
+23,Indo-Iranic,Iranic,,,Iranic,Irc,#FF3E96,6,3,0,0
+55,Indo-Iranic,Iranic,South-Western,,South-Western Iranic,Irc,#FF3E96,6,3,1,0
 11,Balto-Slavic,,,,Balto-Slavic,,#EE7600,7,0,0,0
 29,Balto-Slavic,Baltic,,,Baltic,Blt,#FFBB00,7,1,0,0
 52,Balto-Slavic,Baltic,Baltic East,,Baltic East,,#FFCC88,7,1,1,0
@@ -24,8 +25,11 @@ ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,c
 3,Germanic,North-West,North Germanic,,North,,#4169E1,8,2,1,0
 2,Germanic,North-West,West Germanic,,West,,#6495ED,8,2,2,0
 40,Germanic,North-West,West Germanic,Anglic,Anglic,,#6495ED,8,2,2,1
+54,Germanic,North-West,West Germanic,Frisian,Frisian,,#6495ED,8,2,2,2
+56,Germanic,North-West,West Germanic,Dutch,Dutch,,#6495ED,8,2,2,3
+53,Germanic,North-West,West Germanic,High German,High German,,#6495ED,8,2,2,4
 5,Italic,,,,Italic,Itc,#00EE00,9,0,0,0
-51,,Roman,,,Roman,,#76EE00,9,1,0,0
+51,Italic,Roman,,,Roman,,#76EE00,9,1,0,0
 34,Italic,Roman,Romance,,Romance,,#76EE00,9,1,1,0
 35,Italic,Sabellic,,,Sabellic,,#ADFF24,9,2,0,0
 15,Celtic,,,,Celtic,Celt,#006400,10,0,0,0
