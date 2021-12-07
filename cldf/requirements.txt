@@ -4,7 +4,7 @@ bs4==0.0.1
 certifi==2020.12.5
 cffi==1.14.5
 chardet==4.0.0
-cldfbench==1.7.2
+cldfbench==1.9.0
 cldfcatalog==1.3.2
 clldutils==3.9.0
 colorlog==5.0.1
@@ -36,17 +36,18 @@ pyconcepticon==2.8.0
 pycountry==20.7.3
 pyglottolog==3.6.0
 pylexibank==3.3.0
--e git+https://github.com/numeralbank/pynumerals.git@7c827ba7e7892b2779573cd3047ab44da027243d#egg=pynumerals
 pytest==6.2.5
+python-dateutil==2.8.1
+python-Levenshtein==0.12.2
 regex==2021.8.28
 requests==2.26.0
 rfc3986==1.5.0
-scipy==1.6.3
+scipy==1.7.3
 segments==2.2.0
 six==1.16.0
 smmap==4.0.0
 soupsieve==2.2.1
-SQLAlchemy==1.4.23
+SQLAlchemy==1.4.27
 tabulate==0.8.9
 termcolor==1.1.0
 tqdm==4.62.3
