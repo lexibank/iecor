@@ -17,7 +17,10 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'iecor=lexibank_iecor:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'iecor=iecorcommands',
+        ],
     },
     install_requires=[
         'pyconcepticon>=2.8.0'
