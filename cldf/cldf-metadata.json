@@ -14,13 +14,13 @@
         {
             "rdf:about": "git@github.com:lexibank/iecor",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0",
+            "dc:created": "v2.0-18-gda7813e",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         },
         {
@@ -639,6 +639,10 @@
                     {
                         "datatype": "integer",
                         "name": "clade_level3"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "taxonsetName"
                     }
                 ],
                 "primaryKey": [
