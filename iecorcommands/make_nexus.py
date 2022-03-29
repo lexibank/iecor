@@ -1,14 +1,11 @@
 """
-Write NEXUS files suitable as input for SplitsTree, BEAST,
-as well as the plain CSV files 'DataTable' and 'Matrix' (distance matrix in %).
+Write NEXUS files suitable as input for SplitsTree, BEAST.
 The following options can be set with the parameter "--options":
-    - Mark meaning sets for ascertainment correction
     - Exclude cognate sets marked as Parallel Derivation
     - Exclude cognate sets marked as Ideophonic
     - Exclude cognate sets marked as Loan event
     - Exclude cognate sets marked as Parallel Loan event
     - Include Parallel Loan events as independent cognate sets
-    - Add cognate set labels
 
 by using a '1' for True and a '0' for False.
 """
@@ -21,54 +18,35 @@ from string import ascii_uppercase
 from textwrap import dedent
 from cldfbench.cli_util import add_dataset_spec, get_dataset
 from collections import defaultdict, OrderedDict
+from nexus import NexusWriter
 
-
-NEXUS_DIALECT_CHOICES = (
-    ("BP", "BayesPhylogenies"),
-    ("NN", "NeighborNet"),
-    ("MB", "MrBayes"))
 
 NEXUS_COMMENTS = [
-    ('label_cognate_sets', "[ Cognate set labels: {} ]"),
-    ('ascertainment_marker',
-     "[ Mark meaning sets for ascertainment correction: {} ]"),
-    ('excludeNotSwadesh', "[ Exclude lexemes: not Swadesh: {} ]"),
-    ('excludePllDerivation', "[ Exclude cog. sets: Pll. Derivation: {} ]"),
-    ('excludeIdeophonic', "[ Exclude cog. sets: Ideophonic: {} ]"),
-    ('excludeDubious', "[ Exclude cog. sets: Dubious: {} ]"),
-    ('excludeLoanword', "[ Exclude cog. sets: Loan event: {} ]"),
-    ('excludePllLoan', "[ Exclude cog. sets: Pll Loan: {} ]"),
-    ('includePllLoan',
-     "[ Include Pll Loan as independent cog. sets: {} ]"),
-    ('excludeMarkedLanguages',
-     "[ Exclude languages marked as 'not for export': {} ]"),
-    ('excludeMarkedMeanings',
-     "[ Exclude meanings marked as 'not for export': {} ]")
+    ('excludePllDerivation', "Exclude cog. sets: Pll. Derivation: {}"),
+    ('excludeIdeophonic', "Exclude cog. sets: Ideophonic: {}"),
+    ('excludeDubious', "Exclude cog. sets: Dubious: {}"),
+    ('excludeLoanword', "Exclude cog. sets: Loan event: {}"),
+    ('excludePllLoan', "Exclude cog. sets: Pll Loan: {}"),
+    ('includePllLoan', "Include Pll Loan as independent cog. sets: {}"),
 ]
 
 
 def register(parser):
     add_dataset_spec(parser)
     parser.add_argument(
-        '--dialect',
-        type=str,
-        help='{BP|NN|MB} := {BayesPhylogenies|NeighborNet|MrBayes}',
-        default='NN',
-    )
-    parser.add_argument(
         '--options',
         type=str,
         help='''a string separated by a space of 0\'s and 1\'s specifying:
-        setAscertainmentMarker excludePllDerivation excludeIdeophonic excludeLoanword
-        excludePllLoan includePllLoan labelCognateSets''',
-        default='1 1 1 0 0 1 1',
+        excludePllDerivation excludeIdeophonic excludeLoanword
+        excludePllLoan includePllLoan''',
+        default='1 1 0 0 1',
     )
 
 
 def run(args):
 
     opts = args.options.split()
-    if len(opts) != 7:
+    if len(opts) != 5:
         args.log.error('Please check the number of options - run "cldfbench iecor.make_nexus -h" for help')
         return 1
 
@@ -77,36 +55,25 @@ def run(args):
     opts = [bool(int(x)) for x in opts]
 
     spec_dict = {
-        'dialect': args.dialect,
-        'ascertainment_marker': opts[0],
-        'excludeNotSwadesh': True,
-        'excludePllDerivation': opts[1],
-        'excludeIdeophonic': opts[2],
-        'excludeDubious': True,
-        'excludeLoanword': opts[3],
-        'excludePllLoan': opts[4],
-        'includePllLoan': opts[5],
-        'excludeMarkedLanguages': True,
-        'excludeMarkedMeanings': True,
-        'calculateMatrix': True,
-        'label_cognate_sets': opts[6],
+        'excludePllDerivation': opts[0],
+        'excludeIdeophonic': opts[1],
+        'excludeLoanword': opts[2],
+        'excludePllLoan': opts[3],
+        'includePllLoan': opts[4],
     }
 
-    dialect = spec_dict["dialect"]
-    dialect_full_name = dict(NEXUS_DIALECT_CHOICES)[dialect]
+    dialect_full_name = "NeighborNet"
 
-    print('[ Nexus dialect: {} ]'.format(dialect_full_name))
     for k, v in NEXUS_COMMENTS:
         if k in spec_dict:
-            if k in ['excludeNotSwadesh', 'excludeDubious', 'excludeMarkedLanguages', 'excludeMarkedMeanings']:
-                print(v.format('{} (not adjustable)'.format(spec_dict[k])))
-            else:
-                print(v.format(spec_dict[k]))
+            print(v.format(spec_dict[k]))
 
     print()
     q = input('Are these settings correct? [Y/n]:')
     if len(q) and q[0].lower() != 'y':
         return
+
+    nexwriter = NexusWriter()
 
     ds = get_dataset(args)
     ds_cldf = ds.cldf_reader()
@@ -130,315 +97,87 @@ def run(args):
         cladeLevels[':'.join(cl)] = (c['clade_level0'], c['clade_level1'])
 
     args.log.info('construct data')
-    matrix, cognate_class_names, assumptions, dataTable = construct_matrix(
+    matrix, cognate_class_names, assumptions = construct_matrix(
         ds_cldf, languages, meanings, **spec_dict)
 
-    # Export data to compose:
-    exportData = []
+    # Export data to compose for BEAST:
     exportBEAUti = []
-    exportTableData = []
-    exportMatrix = []
 
-    def appendExports(s):
-        exportData.append(s)
-        exportBEAUti.append(s)
+    nexcom = getNexusComments(dialect_full_name, **spec_dict)
 
-    appendExports("#NEXUS\n\n[ Generated by: {} ]\n".format("IE-CoR CLDF dataset"))
-    appendExports(nexus_comment(ds.metadata.citation))
-    appendExports(getNexusComments(
-        "IE-CoR CLDF dataset", "IE-CoR CLDF dataset", dialect_full_name, **spec_dict))
+    nexwriter.add_comment("Generated by: {}".format("IE-CoR CLDF dataset"))
+    nexwriter.add_comment("")
+    nexwriter.add_comment(ds.metadata.citation)
+    for c in nexcom:
+        nexwriter.add_comment(c)
 
-    if dialect == "NN":
-        max_len += 2  # taxlabels are quoted
-        exportData.append(dedent("""\
-            begin taxa;
-              dimensions ntax={};
-              taxlabels {};
-            end;
-            """.format(len(list(languages)), " ".join(language_names))))
-        exportData.append(dedent("""\
-            begin characters;
-              dimensions nchar={};
-              format symbols="01" missing=?;
-              charstatelabels""".format(len(cognate_class_names))))
-        exportBEAUti.append(dedent("""\
-            begin characters;
-              dimensions nchar={};
-              format symbols="01" missing=?;""".format(len(cognate_class_names))))
-        labels = []
-        for i, cc in enumerate(cognate_class_names):
-            labels.append("    {} {}".format(i + 1, cc))
-        exportData.append(",\n".join(labels))
-        exportData.append("  ;\n  matrix")
-        exportBEAUti.append("  matrix")
+    exportBEAUti.append("#NEXUS\n\n[ Generated by: {} ]\n".format("IE-CoR CLDF dataset"))
+    exportBEAUti.append(nexus_comment(ds.metadata.citation))
+    exportBEAUti.append("".join(["[ {} ]\n".format(c) for c in nexcom]))
 
-    elif dialect == "MB":
-        exportData.append(dedent("""\
-            begin taxa;
-              dimensions ntax={};
-              taxlabels {};
-            end;
-            """.format(len(languages), " ".join(language_names))))
-        appendExports(dedent("""\
-            begin characters;
-              dimensions nchar={};
-              format missing=? datatype=restriction;
-              matrix
-            """.format(len(cognate_class_names))))
+    max_len += 2  # taxlabels are quoted
+    exportBEAUti.append(dedent("""\
+        begin characters;
+          dimensions nchar={};
+          format symbols="01" missing=?;""".format(len(cognate_class_names))))
+    labels = []
+    for i, cc in enumerate(cognate_class_names):
+        labels.append("    {} {}".format(i + 1, cc))
+    exportBEAUti.append("  matrix")
 
-    else:
-        assert dialect == "BP"
-        appendExports(dedent("""\
-            begin data;
-              dimensions ntax={} nchar={};
-              taxlabels {};
-              format symbols="01";
-              matrix
-            """.format(len(languages), len(cognate_class_names), " ".join(language_names))))
-
-    # # get stats for each language for csv header data table
-    args.log.info('compute language statistics')
-    langStats = meaningComputeCounts(ds_cldf, meanings, languages)
-
-    args.log.info('create data table')
-    # write CSV header
-    # add header Excess Synonyms
-    exportTableData.append("\"Excess Synonyms\",,,{}".format(",".join(
-        map(str, [langStats[lg['ID']]['excessCount'] for lg in languages]))))
-    # add header Orphan Meanings
-    exportTableData.append("\"Orphan Meanings\",,,{}".format(",".join(
-        map(str, [langStats[lg['ID']]['orphansCount'] for lg in languages]))))
-    # add header Loan Events
-    exportTableData.append("\"Loan Events\",,,{}".format(",".join(
-        map(str, [langStats[lg['ID']]['cogLoanCount'] for lg in languages]))))
-    # add header Parallel Loans
-    exportTableData.append("\"Parallel Loans\",,,{}".format(",".join(
-        map(str, [langStats[lg['ID']]['cogParallelLoanCount'] for lg in languages]))))
-    # add header Ideophonic
-    exportTableData.append("\"Ideophonic\",,,{}".format(",".join(
-        map(str, [langStats[lg['ID']]['cogIdeophonicCount'] for lg in languages]))))
-    # add header Parallel Derivation
-    exportTableData.append("\"Parallel Derivation\",,,{}".format(",".join(
-        map(str, [langStats[lg['ID']]['cogPllDerivationCount'] for lg in languages]))))
-    # add header Dubious
-    exportTableData.append("\"Dubious\",,,{}".format(",".join(
-        map(str, [langStats[lg['ID']]['cogDubSetCount'] for lg in languages]))))
-    # add header language URL Names
-    exportTableData.append("\"Language URL Name\",,,{}".format(",".join(
-        map(lambda x: '\"{}\"'.format(x), language_names))))
-    # add header language Display Names
-    exportTableData.append("\"Language Display Name\",,,{}".format(",".join(
-        map(lambda x: '\"{}\"'.format(x), [lg['Name'] for lg in languages]))))
-    # add header language Cl 0
-    exportTableData.append("\"Cl 0\",,,{}".format(",".join(
-        map(str, [cladeLevels[':'.join(lg['Clade'])][0] for lg in languages]))))
-    # add header language Cl 1
-    exportTableData.append("\"Cl 1\",,,{}".format(",".join(
-        map(str, [cladeLevels[':'.join(lg['Clade'])][1] for lg in languages]))))
-    # add header language Cl 0 hex colour
-    exportTableData.append("\"Language clade colour hex code\",,,{}".format(",".join(
-        map(lambda x: '\"#{}\"'.format(x), [lg['Color'] for lg in languages]))))
-    # add header Historical
-    exportTableData.append("\"Historical\",,,{}".format(",".join(
-        map(str, [int(lg['historical']) for lg in languages]))))
-    # add header Fragmentary? - empty @TODO
-    exportTableData.append("\"Fragmentary?\",,,{}".format(",".join(
-        map(str, [0 for lg in languages]))))
-
-    # matrix comments requested in #314:
     matrixComments = getMatrixCommentsFromCognateNames(
-        cognate_class_names, padding=max_len + 4)
-    appendExports(matrixComments + "\n")
+        cognate_class_names)
 
-    # write exportTableData
-    current_m = ""
-    empty_line = "," * (len(language_names)+1)
-    for row in sorted(dataTable):
-        m, cc_cnt, cc, lexid = (row.split("___") + [''] * 4)[:4]
-        if current_m != m:
-            exportTableData.append(empty_line)
-            exportTableData.append(empty_line)
-            exportTableData.append(empty_line)
-            exportTableData.append(empty_line)
-            exportTableData.append(empty_line)
-            exportTableData.append(empty_line)
-        exportTableData.append(",".join([m, re.sub(r'[A-Z]', '', str(cc)), lexid,
-                               ",".join(map(str, dataTable[row]))]))
-        current_m = m
-
-    args.log.info('process data')
-    # write matrix
-    for row in matrix:
-        language_name, row = row[0], row[1:]
-        if dialect == "NN":
-            def quoted(s):
-                return "'{}'".format(s)
+    padding = " " * (max_len + 4)
+    for c in matrixComments:
+        if len(c.strip()) > 0:
+            exportBEAUti.append("{}[{}]".format(padding, c))
+            nexwriter.add_collabels(c)
         else:
-            def quoted(s):
-                return s
-        appendExports("    {} {}{}".format(
+            exportBEAUti.append("")
+            nexwriter.add_collabels("")
+
+    exportBEAUti.append("\n")
+
+    for row_ in matrix:
+        language_name, row = row_[0], row_[1:]
+        def quoted(s):
+            return "'{}'".format(s)
+        for i, ccn in enumerate(cognate_class_names):
+            nexwriter.add(quoted(row_[0]), ccn, row_[i+1])
+        exportBEAUti.append("    {} {}{}".format(
                       quoted(language_name),
                       " " * (max_len - len(quoted(language_name))),
                       "".join(row)))
 
-    appendExports(matrixComments)
-    appendExports("  ;\nend;\n")
+    exportBEAUti.append("\n")
+    for c in matrixComments:
+        if len(c.strip()) > 0:
+            exportBEAUti.append("{}[{}]".format(padding, c))
+        else:
+            exportBEAUti.append("")
 
-    if dialect == "BP":
-        exportData.append(dedent("""\
-            begin BayesPhylogenies;
-                Chains 1;
-                it 12000000;
-                Model m1p;
-                bf emp;
-                cv 2;
-                pf 10000;
-                autorun;
-            end;
-            """))
-
-    # write charset assumptions
-    def writeCharsetAssumptions(appendTo):
-        appendTo.append("begin assumptions;")
-        for charset in assumptions:
-            appendTo.append("    " + charset)
-        appendTo.append("end;")
-    if assumptions and dialect != "NN":
-        writeCharsetAssumptions(exportData)
-    # Always write charset assumptions to BEAUti export:
-    writeCharsetAssumptions(exportBEAUti)
-
-    # Add location data to BEAUti export:
+    exportBEAUti.append("  ;\nend;\n")
+    exportBEAUti.append("begin assumptions;")
+    for charset in assumptions:
+        exportBEAUti.append("    " + charset)
+    exportBEAUti.append("end;")
     exportBEAUti.append(getNexusLocations(languages))
-    # Add charstatelabels data to BEAUTi export:
     exportBEAUti.append(getCharstateLabels(cognate_class_names))
+    exportBEAUti.append(cladeMembership(ds_cldf, languages))
+    exportBEAUti.append(computeCalibrations(ds_cldf, languages))
 
-    # Data for exportBEAUti and constraints:
-    memberships = cladeMembership(ds_cldf, languages)
-    calibrations = computeCalibrations(ds_cldf, languages)
-    exportBEAUti.append(memberships)
-    exportBEAUti.append(calibrations)
-
-    if spec_dict['calculateMatrix']:
-        # calculate data matrix
-        seenLgs = {}
-
-        # write header
-        line = []
-        line.append('')
-        line.extend(languages)
-        # add header language URL Names
-        exportMatrix.append("\"Language URL Name\",{}".format(",".join(
-            map(lambda x: '\"{}\"'.format(x), language_names))))
-        # add header language Display Names
-        exportMatrix.append("\"Language Display Name\",{}".format(",".join(
-            map(lambda x: '\"{}\"'.format(x), [lg['Name'] for lg in languages]))))
-        # add header language Cl 0
-        exportMatrix.append("\"Cl 0\",{}".format(",".join(
-            map(str, [cladeLevels[':'.join(lg['Clade'])][0] for lg in languages]))))
-        # add header language Cl 1
-        exportMatrix.append("\"Cl 1\",{}".format(",".join(
-            map(str, [cladeLevels[':'.join(lg['Clade'])][1] for lg in languages]))))
-        # add header language Cl 0 hex colour
-        exportMatrix.append("\"Language clade colour hex code\",{}".format(",".join(
-            map(lambda x: '\"#{}\"'.format(x), [lg['Color'] for lg in languages]))))
-        # add header Historical
-        exportMatrix.append("\"Historical\",{}".format(",".join(
-            map(str, [int(lg['historical']) for lg in languages]))))
-        # add header Fragmentary? -- no fragmentary data in cldf
-        exportMatrix.append("\"Fragmentary?\",{}".format(",".join(['0'] * len(languages))))
-
-        relevantLexemes = defaultdict(list)
-        allCognatesetsPerLangID = defaultdict(set)
-
-        args.log.info('prepare forms and cognates for distance matrix')
-        loans = {c['Cognateset_ID']: c['Parallel_loan_event'] for c in ds_cldf.get('loans.csv')}
-
-        allCognatesets = {}
-        for c in ds_cldf.get('cognatesets.csv'):
-            if c['ID']:
-                if spec_dict['excludeLoanword']:
-                    if c['ID'] in loans:
-                        continue
-                if spec_dict['excludePllLoan']:
-                    if c['ID'] in loans and loans[c['ID']]:
-                        continue
-                if spec_dict['excludePllDerivation']:
-                    if c['parallelDerivation']:
-                        continue
-                if spec_dict['excludeIdeophonic']:
-                    if c['Ideophonic']:
-                        continue
-                allCognatesets[c['ID']] = c
-
-        allCognatesetsPerFormID = {c['Form_ID']: c['Cognateset_ID'] for c in ds_cldf.get('cognates.csv')
-                                   if c['Cognateset_ID'] in allCognatesets}
-
-        for c in ds_cldf["FormTable"]:
-            if c['ID'] in allCognatesetsPerFormID:
-                allCognatesetsPerLangID[c['Language_ID']].add(allCognatesetsPerFormID[c['ID']])
-            relevantLexemes[c['Language_ID']].append(c)
-
-        mIdOrigLexDictPerLgID = defaultdict(lambda: defaultdict(list))
-        for lg in languages:
-            for lx in relevantLexemes[lg['ID']]:
-                mIdOrigLexDictPerLgID[lg['ID']][lx['Parameter_ID']].append(lx)
-
-        args.log.info('generate distance matrix')
-        for l1 in languages:
-            line = []
-            line.append(l1['Name'])
-            for l2 in languages:
-                if l1['ID'] == l2['ID']:
-                    line.append("100")
-                    continue
-                if "{}-{}".format(l2['ID'], l1['ID']) in seenLgs:
-                    line.append(seenLgs["{}-{}".format(l2['ID'], l1['ID'])])
-                    continue
-
-                mIdOrigLexDict = mIdOrigLexDictPerLgID[l2['ID']]  # Meaning.id -> [Lexeme]
-                numOfMeanings = set()
-                for lx in relevantLexemes[l1['ID']]:
-                    if lx['Parameter_ID'] in mIdOrigLexDict:
-                        numOfMeanings.add(lx['Parameter_ID'])
-
-                if len(numOfMeanings) != 0:
-                    numOfSharedCCPerMeanings = "{:.1f}".format(float(
-                        len(allCognatesetsPerLangID[l2['ID']] & allCognatesetsPerLangID[l1['ID']])
-                        / len(numOfMeanings) * 100))
-                else:
-                    numOfSharedCCPerMeanings = "0"
-
-                line.append(numOfSharedCCPerMeanings)
-
-                seenLgs["{}-{}".format(l1['ID'], l2['ID'])] = numOfSharedCCPerMeanings
-
-            exportMatrix.append(",".join(map(str, line)))
-
-    # timing
-    seconds = int(time.time() - start_time)
-    minutes = seconds // 60
-    seconds %= 60
-    appendExports("[ Processing time: {:02d}:{:02d} ]".format(minutes, seconds))
-
-    args.log.info("processed {} cognate sets from {} languages in {:02d}:{:02d}".format(
-                  len(cognate_class_names), len(matrix), minutes, seconds))
+    args.log.info("processed {} cognate sets from {} languages and {} meanings".format(
+                  len(cognate_class_names), len(matrix), len(meanings)))
 
     fname = 'IE-CoR_{}'.format(args.options.replace(' ', ''))
 
-    with open(ds.dir / '{}.nex'.format(fname), 'w', encoding='utf-8') as f:
-        for s in exportData:
-            f.write(s + '\n')
+    nexwriter.write_to_file("{}.nex".format(fname),
+                            interleave=False, charblock=True, preserve_order=True)
+
     with open(ds.dir / '{}_BEAUti.nex'.format(fname), 'w', encoding='utf-8') as f:
         for s in exportBEAUti:
             f.write(s + '\n')
-    with open(ds.dir / '{}_DataTable.csv'.format(fname), 'w', encoding='utf-8') as f:
-        for s in exportTableData:
-            f.write(s + '\n')
-    if spec_dict['calculateMatrix']:
-        with open(ds.dir / '{}_Matrix.csv'.format(fname), 'w', encoding='utf-8') as f:
-            for s in exportMatrix:
-                f.write(s + '\n')
 
 
 def nexus_comment(s):
@@ -447,22 +186,19 @@ def nexus_comment(s):
     return "\n".join("[ "+e.ljust(maxlen)+" ]" for e in lines)
 
 
-def getNexusComments(language_list_name, meaning_list_name, dialect_full_name, **spec_dict):
-    lines = ["[ Language list: {} ]".format(language_list_name),
-             "[ Meaning list: {} ]".format(meaning_list_name),
-             "[ Nexus dialect: {} ]".format(dialect_full_name)]
+def getNexusComments(dialect_full_name, **spec_dict):
+    lines = ["Nexus dialect: {}".format(dialect_full_name)]
     for k, v in NEXUS_COMMENTS:
         if k in spec_dict:
             lines.append(v.format(spec_dict[k]))
-    lines.append("[ File generated: {} ]\n".format(
+    lines.append("File generated: {}".format(
                  time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
-    return '\n'.join(lines)
+    return lines
 
 
 def construct_matrix(ds_cldf,
                      languages,                # [Language]
                      meanings,                 # [Meaning]
-                     ascertainment_marker,     # bool
                      excludePllDerivation,     # bool
                      excludeIdeophonic,        # bool
                      excludeLoanword,          # bool
@@ -586,22 +322,20 @@ def construct_matrix(ds_cldf,
     matrix, cognate_class_names, assumptions = list(), list(), list()
     make_header = True
     col_num = 0
-    dataTableDict = defaultdict(list)
 
     for language in languages:
         row = [language['ascii_name']]
         meaningIDsForLanguage = meaningIDsForLanguages[language['ID']]
         for meaning in meanings:
             is_lg_missing_mng = not meaning['ID'] in meaningIDsForLanguage
-            if ascertainment_marker:
-                if is_lg_missing_mng:
-                    row.append("?")
-                else:
-                    row.append("0")
-                if make_header:
-                    col_num += 1
-                    start_range = col_num
-                    cognate_class_names.append("{}_group".format(meaning['Name']))
+            if is_lg_missing_mng:
+                row.append("?")
+            else:
+                row.append("0")
+            if make_header:
+                col_num += 1
+                start_range = col_num
+                cognate_class_names.append("{}_group".format(meaning['Name']))
 
             if meaning['ID'] in data:
                 cnt = 0  # needed for preserving the cc order after sorting meaning keys in dict
@@ -639,24 +373,18 @@ def construct_matrix(ds_cldf,
 
                 for cc0 in sorted(cc_sortorder, reverse=True):
                     cc = cc_sortorder[cc0]
-                    if make_header and ascertainment_marker:
+                    if make_header:
                         col_num += 1
                         cognate_class_names.append(
                             cognate_class_name_formatter(cc, meaning['Name']))
                     if is_lg_missing_mng:
                         row.append("?")
-                        dataTableDict["{}___{}".format(
-                            meaning['Name'], get_cognate_class_id_for_dataTable(cnt, cc))].append("?")
                     elif language['ID'] in data_mng_id[cc]:
                         row.append("1")
-                        dataTableDict["{}___{}".format(
-                            meaning['Name'], get_cognate_class_id_for_dataTable(cnt, cc))].append("1")
                     else:
                         row.append("0")
-                        dataTableDict["{}___{}".format(
-                            meaning['Name'], get_cognate_class_id_for_dataTable(cnt, cc))].append("0")
                     cnt += 1
-            if ascertainment_marker and make_header:
+            if make_header:
                 end_range = col_num
                 assumptions.append(
                     "charset {} = {}-{};".format(meaning['Name'], start_range, end_range))
@@ -664,10 +392,10 @@ def construct_matrix(ds_cldf,
         matrix.append(row)
         make_header = False
 
-    return matrix, cognate_class_names, assumptions, dataTableDict
+    return matrix, cognate_class_names, assumptions
 
 
-def getMatrixCommentsFromCognateNames(cognate_class_names, padding=0):
+def getMatrixCommentsFromCognateNames(cognate_class_names):
 
     meaningRow = []  # Pieces to be joined with ''
     flagRow = ''
@@ -713,13 +441,12 @@ def getMatrixCommentsFromCognateNames(cognate_class_names, padding=0):
             flagRow += 'C'
             idBucket.append("{}|".format(cognateMatch.group(2)))
             continue
-        # Nothing matches:
         meaning, meaningLength = nextMeaning('')
         flagRow += '?'
         idBucket.append('')
-    nextMeaning('')  # Append last meaning to meaningRow
+    nextMeaning('')
 
-    # Create idRows by padding and transposing ids:
+    # Create idRows by transposing ids:
     idRows = []
     if len(idBucket) > 0:
         idMaxLenCC = max(*[len(i.split('|')[0]) for i in idBucket])
@@ -734,7 +461,7 @@ def getMatrixCommentsFromCognateNames(cognate_class_names, padding=0):
     commentRows = []
 
     def addComment(c):
-        commentRows.append(" " * (padding - 1) + "[ {} ]".format(c))
+        commentRows.append(c)
 
     # add nexus set ids on top of the comment
     nex_ccs = []
@@ -751,13 +478,10 @@ def getMatrixCommentsFromCognateNames(cognate_class_names, padding=0):
     for idRow in idRows:
         addComment(idRow)
 
-    return '\n'.join(commentRows)
+    return commentRows
 
 
 def getNexusLocations(languages):
-    '''
-    This function computes a `locations` block from some languages.
-    '''
     lines = []
     for language in languages:
         if language['Latitude'] is None or language['Longitude'] is None:
@@ -768,10 +492,6 @@ def getNexusLocations(languages):
 
 
 def getCharstateLabels(cognate_class_names):
-    '''
-    This function computes a `charstatelabels` block
-    for a given set of cognate classes.
-    '''
     labels = []
     for i, cc in enumerate(cognate_class_names):
         labels.append("    {} {}".format(i + 1, cc))
@@ -779,15 +499,6 @@ def getCharstateLabels(cognate_class_names):
 
 
 def cladeMembership(ds_cldf, languages):
-    '''
-    Computes the clade memberships as described in #50:
-
-    begin sets;
-    taxset tsAnatolian = Hittite Luvian Lycian Palaic;
-    taxset tsTocharian = TocharianA TocharianB;
-    taxset tsArmenian = ArmenianClassical ArmenianWestern ArmenianEastern;
-    end;
-    '''
     clades = ds_cldf.get('clades.csv')
     taxsets_refcolors = defaultdict(list)
     taxonsetNames = []
@@ -836,14 +547,6 @@ def cladeMembership(ds_cldf, languages):
 
 
 def computeCalibrations(ds_cldf, languages):
-    '''
-    Computes the {clade,language} calibrations as described in #161:
-
-    begin assumptions;
-    calibrate tsTocharian = offsetlognormal(1.650,0.200,0.900)
-    calibrate Latin = normal(2.050,0.075)
-    end;
-    '''
     def getDistribution(abstractDistribution):
 
         def yearToFloat(year):
@@ -882,114 +585,3 @@ def computeCalibrations(ds_cldf, languages):
                 calibrations.append("calibrate {} = {}".format(language['ascii_name'], cal))
 
     return "begin assumptions;\n{}\nend;\n".format("\n".join(calibrations))
-
-
-def meaningComputeCounts(ds_cldf, meanings, languages):
-    stats = {}
-
-    loans = {c['Cognateset_ID']: c for c in ds_cldf.get('loans.csv')}
-
-    meaningIdSet = set([m['ID'] for m in meanings])
-
-    cognates_form_ids = {c['Form_ID']: c for c in ds_cldf.get('cognates.csv')}
-
-    cognatesets = {c['ID']: c for c in ds_cldf.get('cognatesets.csv') if c['ID']}
-
-    targetFormsForLangId = defaultdict(list)
-    for f in ds_cldf["FormTable"]:
-        targetFormsForLangId[f['Language_ID']].append(f)
-
-    for lg in languages:
-
-        lang_id = lg['ID']
-
-        lexemes = []
-        blankCount = 0
-        noPhoneMicCount = 0
-        noPhoneTicCount = 0
-        dicLinkCount = 0
-        unassignedCount = 0
-
-        lexemeMeaningIdSet = set()
-        targetcognatesetIds = set()
-
-        for lx in targetFormsForLangId[lang_id]:
-            lexemeMeaningIdSet.add(lx['Parameter_ID'])
-            lexemes.append(lx)
-            if lx['ID'] not in cognates_form_ids:
-                unassignedCount += 1
-            else:
-                targetcognatesetIds.add(cognates_form_ids[lx['ID']]['Cognateset_ID'])
-            if lx['Form']:
-                blankCount += 1
-            if lx['Phonemic']:
-                noPhoneMicCount += 1
-            if lx['phon_form']:
-                noPhoneTicCount += 1
-            if lx['url']:
-                dicLinkCount += 1
-
-        entryCount = len(lexemes)
-        nonLexCount = 0
-
-        # no not_swadesh terms were imported
-        lexemeMeaningIdSetOnlySwadesh = lexemeMeaningIdSet
-
-        mergedIdSet = meaningIdSet & lexemeMeaningIdSet
-        meaningCount = len(mergedIdSet)
-        mergedIdOnlySwadeshSet = meaningIdSet & lexemeMeaningIdSetOnlySwadesh
-        meaningCountNotSwadeshTerm = meaningCount-len(mergedIdSet & mergedIdOnlySwadeshSet)
-
-        # no not_swadesh terms were imported
-        meaningsMarkedAsNotSwadeshList = ''
-
-        lexCount = entryCount - nonLexCount
-        excessCount = lexCount - meaningCount + meaningCountNotSwadeshTerm
-        if lexCount == 0:
-            dicLinkCount = 0
-            haveCitCount = 0
-        else:
-            dicLinkCount = dicLinkCount/lexCount*100
-            haveCitCount = 0
-
-        cogLoanCount = 0
-        cogParallelLoanCount = 0
-        cogIdeophonicCount = 0
-        cogPllDerivationCount = 0
-        cogDubSetCount = 0
-
-        for ccid in targetcognatesetIds:
-            cc = cognatesets[ccid]
-            if cc['ID'] in loans:
-                cogLoanCount += 1
-            if cc['ID'] in loans and loans[cc['ID']]['Parallel_loan_event']:
-                cogParallelLoanCount += 1
-            if cc['Ideophonic']:
-                cogIdeophonicCount += 1
-            if cc['parallelDerivation']:
-                cogPllDerivationCount += 1
-            # no dubios sets
-            # if cc.dubiousSet:
-            #     cogDubSetCount += 1
-
-        stats[lang_id] = {
-            'meaningCount': meaningCount,
-            'entryCount': entryCount,
-            'nonLexCount': nonLexCount,
-            'lexCount': lexCount,
-            'excessCount': excessCount,
-            'unassignedCount': unassignedCount,
-            'orphansCount': meaningCountNotSwadeshTerm,
-            'orphansList': meaningsMarkedAsNotSwadeshList,
-            'cogLoanCount': cogLoanCount,
-            'cogIdeophonicCount': cogIdeophonicCount,
-            'cogPllDerivationCount': cogPllDerivationCount,
-            'cogDubSetCount': cogDubSetCount,
-            'blankCount': blankCount,
-            'noPhoneTicCount': noPhoneTicCount,
-            'dicLinkCount': dicLinkCount,
-            'haveCitCount': haveCitCount,
-            'noPhoneMicCount': noPhoneMicCount,
-            'cogParallelLoanCount': cogParallelLoanCount}
-
-    return stats

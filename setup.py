@@ -31,6 +31,7 @@ setup(
         'csvw>=1.11.0',
         'nameparser>=1.0.6',
         'Markdown>=3.3.4',
+        'python-nexus>=2.8.0',
     ],
     extras_require={
         "test": [
