@@ -334,6 +334,7 @@ class Dataset(BaseDataset):
                 {'name': 'clade_level1', 'datatype': {'base': 'integer'}},
                 {'name': 'clade_level2', 'datatype': {'base': 'integer'}},
                 {'name': 'clade_level3', 'datatype': {'base': 'integer'}},
+                'taxonsetName',
                 primaryKey=['ID'],
             )
 
@@ -356,6 +357,10 @@ class Dataset(BaseDataset):
                 int(x['clade_level3'])))
             for i, c in enumerate(clade_table):
                 c['color'] = '#{}'.format(c['color'])
+                # only clades for export (nexus) have a taxonsetName
+                if c['export'] == 'False':
+                    c['taxonsetName'] = None
+                del c['export']
 
             clades = {d['id']: d for d in dicts('clade')}
             cladesObj = dicts('clade')

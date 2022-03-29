@@ -1,41 +1,41 @@
-ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,clade_level0,clade_level1,clade_level2,clade_level3
-22,Anatolian,,,,Anatolian,Atl,#8B4513,1,0,0,0
-32,Tocharian,,,,Tocharian,Tch,#F4A488,2,0,0,0
-21,Hellenic,,,,Hellenic,Grk,#00BFFF,3,0,0,0
-43,Hellenic,Ancient Hellenic,,,Ancient Hellenic,,#00BFFF,3,1,0,0
-42,Hellenic,Modern Hellenic,,,Modern Hellenic,,#00BFFF,3,2,0,0
-31,Armenian,,,,Armenian,Arm,#800080,4,0,0,0
-30,Albanian,,,,Albanian,Alb,#999999,5,0,0,0
-33,Indo-Iranic,,,,Indo-Iranic,,#EE0000,6,0,0,0
-24,Indo-Iranic,,,,Indic,Ind,#B0171F,6,1,0,0
-27,Indo-Iranic,Nuristani,,,Nuristani,Nur,#DC143C,6,2,0,0
-23,Indo-Iranic,Iranic,,,Iranic,Irc,#FF3E96,6,3,0,0
-55,Indo-Iranic,Iranic,South-Western,,South-Western Iranic,Irc,#FF3E96,6,3,1,0
-11,Balto-Slavic,,,,Balto-Slavic,,#EE7600,7,0,0,0
-29,Balto-Slavic,Baltic,,,Baltic,Blt,#FFBB00,7,1,0,0
-52,Balto-Slavic,Baltic,Baltic East,,Baltic East,,#FFCC88,7,1,1,0
-38,Balto-Slavic,Baltic,Baltic West,,Baltic West,,#FFCC88,7,1,2,0
-12,Balto-Slavic,Slavic,,,Slavic,Svc,#FF6000,7,2,0,0
-45,Balto-Slavic,Slavic,Slavic South,,Slavic South,,#E68A00,7,2,1,0
-46,Balto-Slavic,Slavic,Slavic West,,Slavic West,,#FFAD33,7,2,2,0
-47,Balto-Slavic,Slavic,Slavic East,,Slavic East,,#FFCC80,7,2,3,0
-1,Germanic,,,,Germanic,Gmc,#191970,8,0,0,0
-36,Germanic,East Germanic,,,East Germanic,,#27408B,8,1,0,0
-37,Germanic,North-West,,,North-West,,#0000CD,8,2,0,0
-3,Germanic,North-West,North Germanic,,North,,#4169E1,8,2,1,0
-2,Germanic,North-West,West Germanic,,West,,#6495ED,8,2,2,0
-40,Germanic,North-West,West Germanic,Anglic,Anglic,,#6495ED,8,2,2,1
-54,Germanic,North-West,West Germanic,Frisian,Frisian,,#6495ED,8,2,2,2
-56,Germanic,North-West,West Germanic,Dutch,Dutch,,#6495ED,8,2,2,3
-53,Germanic,North-West,West Germanic,High German,High German,,#6495ED,8,2,2,4
-5,Italic,,,,Italic,Itc,#00EE00,9,0,0,0
-51,Italic,Roman,,,Roman,,#76EE00,9,1,0,0
-34,Italic,Roman,Romance,,Romance,,#76EE00,9,1,1,0
-35,Italic,Sabellic,,,Sabellic,,#ADFF24,9,2,0,0
-15,Celtic,,,,Celtic,Celt,#006400,10,0,0,0
-39,Celtic,Continental,,,Continental,,#006400,10,1,0,0
-17,Celtic,Brythonic,,,Brythonic,,#2E8B57,10,2,0,0
-49,Celtic,Brythonic,Welsh,,Welsh,,#2E8B57,10,2,1,0
-50,Celtic,Brythonic,Cornish,,Cornish,,#2E8B57,10,2,2,0
-48,Celtic,Brythonic,Breton,,Breton,,#2E8B57,10,2,3,0
-16,Celtic,Goidelic,,,Goidelic,,#008B00,10,3,0,0
+ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,clade_level0,clade_level1,clade_level2,clade_level3,taxonsetName
+22,Anatolian,,,,Anatolian,Atl,#8B4513,1,0,0,0,Anatolian
+32,Tocharian,,,,Tocharian,Tch,#F4A488,2,0,0,0,
+21,Hellenic,,,,Hellenic,Grk,#00BFFF,3,0,0,0,Hellenic
+43,Hellenic,Ancient Hellenic,,,Ancient Hellenic,,#00BFFF,3,1,0,0,
+42,Hellenic,Modern Hellenic,,,Modern Hellenic,,#00BFFF,3,2,0,0,
+31,Armenian,,,,Armenian,Arm,#800080,4,0,0,0,Armenian
+30,Albanian,,,,Albanian,Alb,#999999,5,0,0,0,
+33,Indo-Iranic,,,,Indo-Iranic,,#EE0000,6,0,0,0,IndoIranic
+24,Indo-Iranic,,,,Indic,Ind,#B0171F,6,1,0,0,Indic
+27,Indo-Iranic,Nuristani,,,Nuristani,Nur,#DC143C,6,2,0,0,Nuristani
+23,Indo-Iranic,Iranic,,,Iranic,Irc,#FF3E96,6,3,0,0,Iranic
+55,Indo-Iranic,Iranic,South-Western,,South-Western Iranic,Irc,#FF3E96,6,3,1,0,
+11,Balto-Slavic,,,,Balto-Slavic,,#EE7600,7,0,0,0,BaltoSlavic
+29,Balto-Slavic,Baltic,,,Baltic,Blt,#FFBB00,7,1,0,0,
+52,Balto-Slavic,Baltic,Baltic East,,Baltic East,,#FFCC88,7,1,1,0,
+38,Balto-Slavic,Baltic,Baltic West,,Baltic West,,#FFCC88,7,1,2,0,
+12,Balto-Slavic,Slavic,,,Slavic,Svc,#FF6000,7,2,0,0,
+45,Balto-Slavic,Slavic,Slavic South,,Slavic South,,#E68A00,7,2,1,0,
+46,Balto-Slavic,Slavic,Slavic West,,Slavic West,,#FFAD33,7,2,2,0,
+47,Balto-Slavic,Slavic,Slavic East,,Slavic East,,#FFCC80,7,2,3,0,
+1,Germanic,,,,Germanic,Gmc,#191970,8,0,0,0,Germanic
+36,Germanic,East Germanic,,,East Germanic,,#27408B,8,1,0,0,
+37,Germanic,North-West,,,North-West,,#0000CD,8,2,0,0,
+3,Germanic,North-West,North Germanic,,North,,#4169E1,8,2,1,0,
+2,Germanic,North-West,West Germanic,,West,,#6495ED,8,2,2,0,
+40,Germanic,North-West,West Germanic,Anglic,Anglic,,#6495ED,8,2,2,1,
+54,Germanic,North-West,West Germanic,Frisian,Frisian,,#6495ED,8,2,2,2,
+56,Germanic,North-West,West Germanic,Dutch,Dutch,,#6495ED,8,2,2,3,
+53,Germanic,North-West,West Germanic,High German,High German,,#6495ED,8,2,2,4,
+5,Italic,,,,Italic,Itc,#00EE00,9,0,0,0,Italic
+51,Italic,Roman,,,Roman,,#76EE00,9,1,0,0,
+34,Italic,Roman,Romance,,Romance,,#76EE00,9,1,1,0,
+35,Italic,Sabellic,,,Sabellic,,#ADFF24,9,2,0,0,
+15,Celtic,,,,Celtic,Celt,#006400,10,0,0,0,Celtic
+39,Celtic,Continental,,,Continental,,#006400,10,1,0,0,
+17,Celtic,Brythonic,,,Brythonic,,#2E8B57,10,2,0,0,
+49,Celtic,Brythonic,Welsh,,Welsh,,#2E8B57,10,2,1,0,
+50,Celtic,Brythonic,Cornish,,Cornish,,#2E8B57,10,2,2,0,
+48,Celtic,Brythonic,Breton,,Breton,,#2E8B57,10,2,3,0,
+16,Celtic,Goidelic,,,Goidelic,,#008B00,10,3,0,0,
