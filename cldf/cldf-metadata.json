@@ -9,12 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database project\" (IE-CoR) from 2019",
-    "dcat:accessURL": "git@github.com:lexibank/iecor",
+    "dcat:accessURL": "https://github.com/lexibank/iecor",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:lexibank/iecor",
+            "rdf:about": "https://github.com/lexibank/iecor",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-18-gda7813e",
+            "dc:created": "v2.0-2-g102ce5c",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.9.12"
         },
         {
             "dc:title": "python-packages",
