@@ -10,7 +10,7 @@ ID,level0_name,level1_name,level2_name,level3_name,clade_name,short_name,color,c
 24,Indo-Iranic,,,,Indic,Ind,#B0171F,6,1,0,0,Indic
 27,Indo-Iranic,Nuristani,,,Nuristani,Nur,#DC143C,6,2,0,0,Nuristani
 23,Indo-Iranic,Iranic,,,Iranic,Irc,#FF3E96,6,3,0,0,Iranic
-55,Indo-Iranic,Iranic,South-Western,,South-Western Iranic,Irc,#FF3E96,6,3,1,0,
+55,Indo-Iranic,Iranic,South-Western,,South-Western Iranic,IrcSW,#FF3E96,6,3,1,0,
 11,Balto-Slavic,,,,Balto-Slavic,,#EE7600,7,0,0,0,BaltoSlavic
 29,Balto-Slavic,Baltic,,,Baltic,Blt,#FFBB00,7,1,0,0,
 52,Balto-Slavic,Baltic,Baltic East,,Baltic East,,#FFCC88,7,1,1,0,

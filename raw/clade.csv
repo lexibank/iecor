@@ -37,5 +37,5 @@ id,cladeName,hexColor,shortName,export,exportDate,taxonsetName,atMost,atLeast,di
 52,Baltic East,FFCC88,,False,False,BalticEast,,,_,,,,,,,,7,1,1,0,Balto-Slavic,Baltic,Baltic East,
 53,High German,6495ED,,False,False,GermanicHighGerman,,,_,,,,,,,,8,2,2,4,Germanic,North-West,West Germanic,High German
 54,Frisian,6495ED,,False,False,GermanicFrisian,,,_,,,,,,,,8,2,2,2,Germanic,North-West,West Germanic,Frisian
-55,South-Western Iranic,FF3E96,Irc,False,False,IranicSouthWestern,,,_,,,,,,,,6,3,1,0,Indo-Iranic,Iranic,South-Western,
+55,South-Western Iranic,FF3E96,IrcSW,False,False,IranicSouthWestern,,,_,,,,,,,,6,3,1,0,Indo-Iranic,Iranic,South-Western,
 56,Dutch,6495ED,,False,False,GermanicDutch,,,_,,,,,,,,8,2,2,3,Germanic,North-West,West Germanic,Dutch
