@@ -30,10 +30,10 @@ Available online at https://iecor.clld.org
 - **Synonymy:** 1.01
 - **Cognacy:** 25,928 cognates in 5,013 cognate sets (2,363 singletons)
 - **Cognate Diversity:** 0.19
-- **Invalid lexemes:** 6,781
-- **Tokens:** 90,132
-- **Segments:** 675 (0 BIPA errors, 0 CTLS sound class errors, 675 CLTS modified)
-- **Inventory size (avg):** 37.77
+- **Invalid lexemes:** 6,762
+- **Tokens:** 90,208
+- **Segments:** 670 (0 BIPA errors, 0 CLTS sound class errors, 670 CLTS modified)
+- **Inventory size (avg):** 37.75
 
 ## Possible Improvements:
 
