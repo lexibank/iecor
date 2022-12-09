@@ -1042,137 +1042,137 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 18-204-1,,18,204,červ,červ,tʃ ɛ ɾ f,,,,,,tʃɛɾf,tʃerv,tʃ e r v,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=červ
 18-206-1,,18,206,rok,rok,r ɔ k,,,,,,rɔk,rok,r o k,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=rok
 18-207-1,,18,207,žlutý,žlutý,ʒ l u t iː,,,,,,ˈʒlutiː,ˈʒlutiː,ʒ l u t iː,,http://ssjc.ujc.cas.cz/search.php?hledej=Hledat&hsubstr=no&heslo=žlutý
-20-4-1,,20,4,aske,aske,a s ɡ̊ ə,,,,,,ˈasɡ̥ə,ˈasɡ̥ə,a s ɡ̊ ə,,http://ordnet.dk/ddo/ordbog?query=aske
-20-6-1,,20,6,ryg,ryg,ʁ œ ɡː,removed baɡ.,,,,,ʁœɡː,ʁœɡː,ʁ œ ɡː,,http://ordnet.dk/ddo/ordbog?query=ryg
-20-8-1,,20,8,bark,bark,b̥ ɑː ɡ̥ʰ,,,,,,b̥ɑːɡ̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=bark
-20-10-1,,20,10,bug,bug,b̥ uˀ,,,,,,b̥uˀ,,,,http://ordnet.dk/ddo/ordbog?query=bug
-20-11-1,,20,11,stor,stor,s d̥ oˀ ɐ̯,originally CC 360,,,,,ˈsd̥oˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=stor
-20-12-1,,20,12,fugl,fugl,f uˀ l,ˈfuːlə in composition.,,,,,fuˀl,,,,http://ordnet.dk/ddo/ordbog?query=fugl
-20-13-1,,20,13,bide,bide,b̥ iː ð ə,,,,,,ˈb̥iːðə,,,,http://ordnet.dk/ddo/ordbog?query=bide
-20-14-1,,20,14,sort,sort,s ɒː d̥ʱ,,,,,,sɒːd̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=sort
-20-15-1,,20,15,blod,blod,b̥ l oˀ ð,,,,,,b̥loˀð,,,,http://ordnet.dk/ddo/ordbog?query=blod
+20-4-1,,20,4,aske,aske,a s ɡ ə,,,,,,ˈasɡə,,,,http://ordnet.dk/ddo/ordbog?query=aske
+20-6-1,,20,6,ryg,ryg,ʁ œ ɡ,removed baɡ.,,,,,ˈʁœɡ,,,,http://ordnet.dk/ddo/ordbog?query=ryg
+20-8-1,,20,8,bark,bark,b ɑː ɡ,,,,,,ˈbɑːɡ,,,,http://ordnet.dk/ddo/ordbog?query=bark
+20-10-1,,20,10,bug,bug,b uˀ,,,,,,ˈbuˀ,,,,http://ordnet.dk/ddo/ordbog?query=bug
+20-11-1,,20,11,stor,stor,s d oˀ ɐ̯,originally CC 360,,,,,ˈsdoˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=stor
+20-12-1,,20,12,fugl,fugl,f uˀ l,ˈfuːlə in composition.,,,,,ˈfuˀl,,,,http://ordnet.dk/ddo/ordbog?query=fugl
+20-13-1,,20,13,bide,bide,b iː ð ə,,,,,,ˈbiːðə,,,,http://ordnet.dk/ddo/ordbog?query=bide
+20-14-1,,20,14,sort,sort,s o ɐ̯ d,,,,,,ˈsoɐ̯d,,,,http://ordnet.dk/ddo/ordbog?query=sort
+20-15-1,,20,15,blod,blod,b l oˀ ð,,,,,,ˈbloˀð,,,,http://ordnet.dk/ddo/ordbog?query=blod
 20-17-1,,20,17,ben,ben,b̥ eˀ n,,,,,,b̥eˀn,,,,http://ordnet.dk/ddo/ordbog?query=ben
 20-19-1,,20,19,ånde,ånde,ʌ n ə,,,,,,ˈʌnə,,,,http://ordnet.dk/ddo/ordbog?query=ånde
-20-20-1,,20,20,brænde,brænde,b̥ ʁ a n ə,,,,,,ˈb̥ʁanə,,,,http://ordnet.dk/ddo/ordbog?query=brænde
-20-22-1,,20,22,sky,sky,s ɡ̥ʰ yˀ,,,,,,sɡ̥ʰyˀ,,,,http://ordnet.dk/ddo/ordbog?query=sky
-20-23-1,,20,23,kold,kold,ɡ̥ʰ ʌ lˀ,,,,,,ɡ̥ʰʌlˀ,,,,http://ordnet.dk/ddo/ordbog?query=kold
-20-24-1,,20,24,komme,komme,ɡ̥ʰ ʌ m ə,,,,,,ˈɡ̥ʰʌmə,,,,http://ordnet.dk/ddo/ordbog?query=komme
-20-25-1,,20,25,tælle,tælle,d̥ʱ ɛ l ə,,,,,,ˈd̥ʰɛlə,,,,http://ordnet.dk/ddo/ordbog?query=tælle
-20-27-1,,20,27,dag,dag,d̥ æˀ,,,,,,d̥æˀ,,,,http://ordnet.dk/ddo/ordbog?query=dag
-20-28-1,,20,28,dø,dø,d̥ øˀ,,,,,,d̥øˀ,,,,http://ordnet.dk/ddo/ordbog?query=dø
-20-29-1,,20,29,grave,grave,ɡ̊ ʁ ɑː v ə,,,,,,ˈɡ̥ʁɑːvə,,,,http://ordnet.dk/ddo/ordbog?query=grave
-20-31-1,,20,31,hund,hund,h u nˀ,,,,,,hunˀ,,,,http://ordnet.dk/ddo/ordbog?query=hund
-20-32-1,,20,32,drikke,drikke,d ʁ ɛ ɡ̊ ə,,,,,,ˈdʁɛɡ̥ə,,,,http://ordnet.dk/ddo/ordbog?query=drikke
-20-33-1,,20,33,tør,tør,d̥ʱ œˀ ɐ̯,,,,,,d̥ʰœˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=tør
-20-35-1,,20,35,støv,støv,s d̥ ø̞ˀ w,,,,,,sd̥ø̞ˀw,,,,http://ordnet.dk/ddo/ordbog?query=støv
-20-36-1,,20,36,øre,øre,ø̞ː ʌ,,,,,,ˈø̞ːʌ,,,,http://ordnet.dk/ddo/ordbog?query=øre
-20-37-1,,20,37,jord,jord,j oˀ ɐ̯,,,,,,joˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=jord
-20-38-1,,20,38,spise,spise,s b̥ iː s ə,appear to be true synonyms TKD,,,,,sb̥iːsə,,,,http://ordnet.dk/ddo/ordbog?query=spise
-20-39-1,,20,39,æg,æg,ɛˀ ɡ̊,,,,,,ɛˀɡ̥,,,,http://ordnet.dk/ddo/ordbog?query=æg
+20-20-1,,20,20,brænde,brænde,b ʁ a n ə,,,,,,ˈbʁanə,,,,http://ordnet.dk/ddo/ordbog?query=brænde
+20-22-1,,20,22,sky,sky,s ɡ yˀ,,,,,,ˈsɡyˀ,,,,http://ordnet.dk/ddo/ordbog?query=sky
+20-23-1,,20,23,kold,kold,k ʌ lˀ,,,,,,ˈkʌlˀ,,,,http://ordnet.dk/ddo/ordbog?query=kold
+20-24-1,,20,24,komme,komme,k ʌ m ə,,,,,,ˈkʌmə,,,,http://ordnet.dk/ddo/ordbog?query=komme
+20-25-1,,20,25,tælle,tælle,t ɛ l ə,,,,,,ˈtɛlə,,,,http://ordnet.dk/ddo/ordbog?query=tælle
+20-27-1,,20,27,dag,dag,d æˀ,,,,,,ˈdæˀ,,,,http://ordnet.dk/ddo/ordbog?query=dag
+20-28-1,,20,28,dø,dø,d øˀ,,,,,,ˈdøˀ,,,,http://ordnet.dk/ddo/ordbog?query=dø
+20-29-1,,20,29,grave,grave,ɡ ʁ ɑː v ə,,,,,,ˈɡʁɑːvə,,,,http://ordnet.dk/ddo/ordbog?query=grave
+20-31-1,,20,31,hund,hund,h u nˀ,,,,,,ˈhunˀ,,,,http://ordnet.dk/ddo/ordbog?query=hund
+20-32-1,,20,32,drikke,drikke,d ʁ ɛ ɡ ə,,,,,,ˈdʁɛɡə,,,,http://ordnet.dk/ddo/ordbog?query=drikke
+20-33-1,,20,33,tør,tør,t ɶˀ ɐ̯,,,,,,ˈtɶˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=tør
+20-35-1,,20,35,støv,støv,s d øˀ w,,,,,,ˈsdøˀw,,,,http://ordnet.dk/ddo/ordbog?query=støv
+20-36-1,,20,36,øre,øre,øː ʌ,,,,,,ˈøːʌ,,,,http://ordnet.dk/ddo/ordbog?query=øre
+20-37-1,,20,37,jord,jord,j oˀ ɐ̯,,,,,,ˈjoˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=jord
+20-38-1,,20,38,spise,spise,s b iː s ə,appear to be true synonyms TKD,,,,,ˈsbiːsə,,,,http://ordnet.dk/ddo/ordbog?query=spise
+20-39-1,,20,39,æg,æg,ɛˀ ɡ,,,,,,ˈɛˀɡ,,,,http://ordnet.dk/ddo/ordbog?query=æg
 20-40-1,,20,40,øje,øje,ʌ j ə,,,,,,ˈʌjə,,,,http://ordnet.dk/ddo/ordbog?query=øje
 20-41-1,,20,41,falde,falde,f a l ə,,,,,,ˈfalə,,,,http://ordnet.dk/ddo/ordbog?query=falde
-20-45-1,,20,45,frygte,frygte,f ʁ œ̝ ɡ̊ d̥ ə,,,,,,ˈfʁœ̝ɡ̥d̥ə,,,,http://ordnet.dk/ddo/ordbog?query=frygte
-20-46-1,,20,46,fjer,fjer,f j eˀ ɐ̯,,,,,,fjeˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=fjer
-20-50-1,,20,50,ild,ild,i lˀ,,,,,,ilˀ,,,,http://ordnet.dk/ddo/ordbog?query=ild
-20-51-1,,20,51,fisk,fisk,f e s ɡ̊,,,,,,fesɡ̥,,,,http://ordnet.dk/ddo/ordbog?query=fisk
-20-52-1,,20,52,fem,fem,f ɛ mˀ,,,,,,fɛmˀ,,,,http://ordnet.dk/ddo/ordbog?query=fem
-20-55-1,,20,55,blomst,blomst,b̥ l ʌ mˀ s d̥,,,,,,b̥lʌmˀsd̥,,,,http://ordnet.dk/ddo/ordbog?query=blomst
+20-45-1,,20,45,frygte,frygte,f ʁ œ ɡ d ə,,,,,,ˈfʁœɡdə,,,,http://ordnet.dk/ddo/ordbog?query=frygte
+20-46-1,,20,46,fjer,fjer,f j eˀ ɐ̯,,,,,,ˈfjeˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=fjer
+20-50-1,,20,50,ild,ild,i lˀ,,,,,,ˈilˀ,,,,http://ordnet.dk/ddo/ordbog?query=ild
+20-51-1,,20,51,fisk,fisk,f e s ɡ,,,,,,ˈfesɡ,,,,http://ordnet.dk/ddo/ordbog?query=fisk
+20-52-1,,20,52,fem,fem,f ɛ mˀ,,,,,,ˈfɛmˀ,,,,http://ordnet.dk/ddo/ordbog?query=fem
+20-55-1,,20,55,blomst,blomst,b l ʌ mˀ s d,,,,,,ˈblʌmˀsd,,,,http://ordnet.dk/ddo/ordbog?query=blomst
 20-56-1,,20,56,flyve,flyve,f l yː v ə,,,,,,ˈflyːvə,,,,http://ordnet.dk/ddo/ordbog?query=flyve
-20-57-1,,20,57,tåge,tåge,d̥ʱ ɔː w ə,,,,,,d̥ʰɔːwə,,,,http://ordnet.dk/ddo/ordbog?query=tåge
-20-58-1,,20,58,fod,fod,f oˀ ð,,,,,,foˀð,,,,http://ordnet.dk/ddo/ordbog?query=fod
+20-57-1,,20,57,tåge,tåge,t ɔː w ə,,,,,,ˈtɔːwə,,,,http://ordnet.dk/ddo/ordbog?query=tåge
+20-58-1,,20,58,fod,fod,f oˀ ð,,,,,,ˈfoˀð,,,,http://ordnet.dk/ddo/ordbog?query=fod
 20-59-1,,20,59,fire,fire,f iː ʌ,,,,,,ˈfiːʌ,,,,http://ordnet.dk/ddo/ordbog?query=fire
 20-60-1,,20,60,fryse,fryse,f ʁ yː s ə,,,,,,ˈfʁyːsə,,,,http://ordnet.dk/ddo/ordbog?query=fryse
-20-61-1,,20,61,frugt,frugt,f ʁ ɔ ɡ̊ d̥,,,,,,fʁɔɡ̥d̥,,,,http://ordnet.dk/ddo/ordbog?query=frugt
-20-63-1,,20,63,give,give,ɡ̊ i,,,,,,ɡ̥i,,,,http://ordnet.dk/ddo/ordbog?query=give
-20-64-1,,20,64,god,god,ɡ̊ oˀ,,,,,,ɡ̥oˀ,,,,http://ordnet.dk/ddo/ordbog?query=god
-20-65-1,,20,65,græs,græs,ɡ̊ ʁ a s,,,,,,ɡ̥ʁas,,,,http://ordnet.dk/ddo/ordbog?query=græs
-20-66-1,,20,66,grøn,grøn,ɡ̊ ʁ ɶ̝ nˀ,,,,,,ɡ̥ʁɶ̝nˀ,,,,http://ordnet.dk/ddo/ordbog?query=grøn
-20-68-1,,20,68,hår,hår,h ɒˀ,,,,,,hɒˀ,,,,http://ordnet.dk/ddo/ordbog?query=hår
-20-69-1,,20,69,hånd,hånd,h ʌ nˀ,,,,,,hʌnˀ,,,,http://ordnet.dk/ddo/ordbog?query=hånd
-20-71-1,,20,71,hoved,hoved,h oː ə ð,,,,,,hoːəð,,,,http://ordnet.dk/ddo/ordbog?query=hoved
+20-61-1,,20,61,frugt,frugt,f ʁ ɔ ɡ d,,,,,,ˈfʁɔɡd,,,,http://ordnet.dk/ddo/ordbog?query=frugt
+20-63-1,,20,63,give,give,ɡ iˀ,,,,,,ˈɡiˀ,,,,http://ordnet.dk/ddo/ordbog?query=give
+20-64-1,,20,64,god,god,ɡ oˀ,,,,,,ˈɡoˀ,,,,http://ordnet.dk/ddo/ordbog?query=god
+20-65-1,,20,65,græs,græs,ɡ ʁ a s,,,,,,ˈɡʁas,,,,http://ordnet.dk/ddo/ordbog?query=græs
+20-66-1,,20,66,grøn,grøn,ɡ ʁ ɶ nˀ,,,,,,ˈɡʁɶnˀ,,,,http://ordnet.dk/ddo/ordbog?query=grøn
+20-68-1,,20,68,hår,hår,h ɒˀ,,,,,,ˈhɒˀ,,,,http://ordnet.dk/ddo/ordbog?query=hår
+20-69-1,,20,69,hånd,hånd,h ʌ nˀ,,,,,,ˈhʌnˀ,,,,http://ordnet.dk/ddo/ordbog?query=hånd
+20-71-1,,20,71,hoved,hoved,h oː ə ð,,,,,,ˈhoːəð,,,,http://ordnet.dk/ddo/ordbog?query=hoved
 20-72-1,,20,72,høre,høre,h øː ʌ,,,,,,ˈhøːʌ,,,,http://ordnet.dk/ddo/ordbog?query=høre
-20-73-1,,20,73,hjerte,hjerte,j ɛ ɐ̯ d̥ ə,,,,,,ˈjɛɐ̯d̥ə,,,,http://ordnet.dk/ddo/ordbog?query=hjerte
-20-74-1,,20,74,tung,tung,d̥ʱ ɔ ŋˀ,,,,,,d̥ʰɔŋˀ,,,,http://ordnet.dk/ddo/ordbog?query=tung
+20-73-1,,20,73,hjerte,hjerte,j æ ɐ̯ d ə,,,,,,ˈjæɐ̯də,,,,http://ordnet.dk/ddo/ordbog?query=hjerte
+20-74-1,,20,74,tung,tung,t ɔ ŋˀ,,,,,,ˈtɔŋˀ,,,,http://ordnet.dk/ddo/ordbog?query=tung
 20-80-1,,20,80,jage,jage,j æː j ə,,,,,,ˈjæːjə,,,,http://ordnet.dk/ddo/ordbog?query=jage
-20-83-1,,20,83,is,is,iˀ s,,,,,,iˀs,,,,http://ordnet.dk/ddo/ordbog?query=is
-20-86-1,,20,86,dræbe,dræbe,d̥ ʁ ɛː b̥ ə,more common,,,,,ˈd̥ʁɛːb̥ə,,,,http://ordnet.dk/ddo/ordbog?query=dræbe
+20-83-1,,20,83,is,is,iˀ s,,,,,,ˈiˀs,,,,http://ordnet.dk/ddo/ordbog?query=is
+20-86-1,,20,86,dræbe,dræbe,d ʁ ɛː b ə,more common,,,,,ˈdʁɛːbə,,,,http://ordnet.dk/ddo/ordbog?query=dræbe
 20-88-1,,20,88,vide,vide,v iː ð ə,,,,,,ˈviːðə,,,,http://ordnet.dk/ddo/ordbog?query=vide
-20-89-1,,20,89,sø,sø,s øˀ,,,,,,søˀ,,,,http://ordnet.dk/ddo/ordbog?query=sø
-20-90-1,,20,90,le,le,l eˀ,,,,,,leˀ,,,,http://ordnet.dk/ddo/ordbog?query=le
-20-92-1,,20,92,venstre,venstre,v ɛ n s d̥ ʁ ʌ,,,,,,ˈvɛnsd̥ʁʌ,,,,http://ordnet.dk/ddo/ordbog?query=venstre
-20-93-1,,20,93,ben,ben,b̥ eˀ n,,,,,,b̥eˀn,,,,http://ordnet.dk/ddo/ordbog?query=ben
-20-96-1,,20,96,lever,lever,l e w ʌ,,,,,,ˈlewʌ,,,,http://ordnet.dk/ddo/ordbog?query=lever
-20-97-1,,20,97,lang,lang,l ɑ ŋˀ,,,,,,lɑŋˀ,,,,http://ordnet.dk/ddo/ordbog?query=lang
-20-98-1,,20,98,lus,lus,l uˀ s,,,,,,luˀs,,,,http://ordnet.dk/ddo/ordbog?query=lus
-20-99-1,,20,99,mand,mand,m a nˀ,,,,,,manˀ,,,,http://ordnet.dk/ddo/ordbog?query=mand
-20-101-1,,20,101,kød,kød,ɡ̊ʱ ø ð,,,,,,ɡ̊ʰøð,,,,http://ordnet.dk/ddo/ordbog?query=kød
-20-104-1,,20,104,bjerg,bjerg,b̥ j ɛ ɐ̯ˀ w,,,,,,ˈb̥jɛɐ̯ˀw,,,,http://ordnet.dk/ddo/ordbog?query=bjerg
-20-105-1,,20,105,mund,mund,m ɔ nˀ,,,,,,mɔnˀ,,,,http://ordnet.dk/ddo/ordbog?query=mund
-20-106-1,,20,106,navn,navn,n ɑ wˀ n,,,,,,nɑwˀn,,,,http://ordnet.dk/ddo/ordbog?query=navn
+20-89-1,,20,89,sø,sø,s øˀ,,,,,,ˈsøˀ,,,,http://ordnet.dk/ddo/ordbog?query=sø
+20-90-1,,20,90,le,le,l eˀ,,,,,,ˈleˀ,,,,http://ordnet.dk/ddo/ordbog?query=le
+20-92-1,,20,92,venstre,venstre,v ɛ n s d ʁ ʌ,,,,,,ˈvɛnsdʁʌ,,,,http://ordnet.dk/ddo/ordbog?query=venstre
+20-93-1,,20,93,ben,ben,b eˀ n,,,,,,ˈbeˀn,,,,http://ordnet.dk/ddo/ordbog?query=ben
+20-96-1,,20,96,lever,lever,l e wˀ ʌ,,,,,,ˈlewˀʌ,,,,http://ordnet.dk/ddo/ordbog?query=lever
+20-97-1,,20,97,lang,lang,l ɑ ŋˀ,,,,,,ˈlɑŋˀ,,,,http://ordnet.dk/ddo/ordbog?query=lang
+20-98-1,,20,98,lus,lus,l uˀ s,,,,,,ˈluˀs,,,,http://ordnet.dk/ddo/ordbog?query=lus
+20-99-1,,20,99,mand,mand,m a nˀ,,,,,,ˈmanˀ,,,,http://ordnet.dk/ddo/ordbog?query=mand
+20-101-1,,20,101,kød,kød,k ø ð,,,,,,ˈkøð,,,,http://ordnet.dk/ddo/ordbog?query=kød
+20-104-1,,20,104,bjerg,bjerg,b j æ ɐ̯ˀ w,,,,,,ˈbjæɐ̯ˀw,,,,http://ordnet.dk/ddo/ordbog?query=bjerg
+20-105-1,,20,105,mund,mund,m ɔ nˀ,,,,,,ˈmɔnˀ,,,,http://ordnet.dk/ddo/ordbog?query=mund
+20-106-1,,20,106,navn,navn,n ɑ wˀ n,,,,,,ˈnɑwˀn,,,,http://ordnet.dk/ddo/ordbog?query=navn
 20-107-1,,20,107,smal,smal,s m a lˀ,seems to be most basic TKD,,,,,smalˀ,,,,http://ordnet.dk/ddo/ordbog?query=smal
-20-108-1,,20,108,nær,nær,n ɛˀ ɐ̯,,,,,,nɛˀɐ̯,,,,http://ordnet.dk/ddo/ordbog?query=nær
-20-109-1,,20,109,hals,hals,h a lˀ s,,,,,,halˀs,,,,http://ordnet.dk/ddo/ordbog?query=hals
-20-110-1,,20,110,ny,ny,n yˀ,,,,,,nyˀ,,,,http://ordnet.dk/ddo/ordbog?query=ny
-20-111-1,,20,111,nat,nat,n a d̥ʱ,,,,,,nad̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=nat
+20-108-1,,20,108,nær,nær,i + n ɛ ɐ̯ h e ðˀ ə n,,,,,,i ˈnɛɐ̯ˌheðˀən,,,,http://ordnet.dk/ddo/ordbog?query=nær
+20-109-1,,20,109,hals,hals,h a lˀ s,,,,,,ˈhalˀs,,,,http://ordnet.dk/ddo/ordbog?query=hals
+20-110-1,,20,110,ny,ny,n yˀ,,,,,,ˈnyˀ,,,,http://ordnet.dk/ddo/ordbog?query=ny
+20-111-1,,20,111,nat,nat,n a d,,,,,,ˈnad,,,,http://ordnet.dk/ddo/ordbog?query=nat
 20-112-1,,20,112,næse,næse,n ɛː s ə,,,,,,ˈnɛːsə,,,,http://ordnet.dk/ddo/ordbog?query=næse
-20-114-1,,20,114,gammel,gammel,ɡ̊ ɑ m ə l,,,,,,ˈɡ̥ɑməl,,,,http://ordnet.dk/ddo/ordbog?query=gammel
-20-115-1,,20,115,en,en,eˀ n,,,,,,eˀn,,,,http://ordnet.dk/ddo/ordbog?query=en
-20-119-1,,20,119,trække,trække,d̥ʱ ʁ a ɡ̊ ə,more common,,,,,d̥ʰʁaɡ̥ə,,,,http://ordnet.dk/ddo/ordbog?query=trække
-20-121-1,,20,121,regn,regn,ʁ ɑ jˀ n,,,,,,ʁɑjˀn,,,,http://ordnet.dk/ddo/ordbog?query=regn
-20-122-1,,20,122,rød,rød,ʁ ø ðˀ,,,,,,ʁøðˀ,,,,http://ordnet.dk/ddo/ordbog?query=rød
+20-114-1,,20,114,gammel,gammel,ɡ ɑ m ə l,,,,,,ˈɡɑməl,,,,http://ordnet.dk/ddo/ordbog?query=gammel
+20-115-1,,20,115,en,en,eˀ n,,,,,,ˈeˀn,,,,http://ordnet.dk/ddo/ordbog?query=en
+20-119-1,,20,119,trække,trække,t ʁ a ɡ ə,more common,,,,,ˈtʁaɡə,,,,http://ordnet.dk/ddo/ordbog?query=trække
+20-121-1,,20,121,regn,regn,ʁ ɑ jˀ n,,,,,,ˈʁɑjˀn,,,,http://ordnet.dk/ddo/ordbog?query=regn
+20-122-1,,20,122,rød,rød,ʁ œ ðˀ,,,,,,ˈʁœðˀ,,,,http://ordnet.dk/ddo/ordbog?query=rød
 20-124-1,,20,124,højre,højre,h ʌ j ʁ ʌ,,,,,,ˈhʌjʁʌ,,,,http://ordnet.dk/ddo/ordbog?query=højre
-20-125-1,,20,125,flod,flod,f l oˀ ð,,,,,,floˀð,,,,http://ordnet.dk/ddo/ordbog?query=flod
-20-127-1,,20,127,rod,rod,ʁ oˀ ð,,,,,,ʁoˀð,,,,http://ordnet.dk/ddo/ordbog?query=rod
-20-132-1,,20,132,salt,salt,s a lˀ d̥ʱ,,,,,,salˀd̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=salt
-20-133-1,,20,133,sand,sand,s a nˀ,,,,,,sanˀ,,,,http://ordnet.dk/ddo/ordbog?query=sand
-20-134-1,,20,134,sige,sige,s iː,,,,,,siː,,,,http://ordnet.dk/ddo/ordbog?query=sige
-20-136-1,,20,136,hav,hav,h ɑ w,,,,,,hɑw,,,,http://ordnet.dk/ddo/ordbog?query=hav
-20-137-1,,20,137,se,se,s eˀ,,,,,,seˀ,,,,http://ordnet.dk/ddo/ordbog?query=se
-20-139-1,,20,139,sy,sy,s yˀ,,,,,,syˀ,,,,http://ordnet.dk/ddo/ordbog?query=sy
-20-140-1,,20,140,skarp,skarp,s ɡ̥ʰ ɑː b̥,,,,,,sɡ̥ʰɑːb̥,,,,http://ordnet.dk/ddo/ordbog?query=skarp
-20-141-1,,20,141,kort,kort,ɡ̥ʰ ɒː d̥ʱ,,,,,,ɡ̥ʰɒːd̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=kort
+20-125-1,,20,125,flod,flod,f l oˀ ð,,,,,,ˈfloˀð,,,,http://ordnet.dk/ddo/ordbog?query=flod
+20-127-1,,20,127,rod,rod,ʁ oˀ ð,,,,,,ˈʁoˀð,,,,http://ordnet.dk/ddo/ordbog?query=rod
+20-132-1,,20,132,salt,salt,s a lˀ d,,,,,,ˈsalˀd,,,,http://ordnet.dk/ddo/ordbog?query=salt
+20-133-1,,20,133,sand,sand,s a nˀ,,,,,,ˈsanˀ,,,,http://ordnet.dk/ddo/ordbog?query=sand
+20-134-1,,20,134,sige,sige,s iː,,,,,,ˈsiː,,,,http://ordnet.dk/ddo/ordbog?query=sige
+20-136-1,,20,136,hav,hav,h ɑ w,,,,,,ˈhɑw,,,,http://ordnet.dk/ddo/ordbog?query=hav
+20-137-1,,20,137,se,se,s eˀ,,,,,,ˈseˀ,,,,http://ordnet.dk/ddo/ordbog?query=se
+20-139-1,,20,139,sy,sy,s yˀ,,,,,,ˈsyˀ,,,,http://ordnet.dk/ddo/ordbog?query=sy
+20-140-1,,20,140,skarp,skarp,s ɡ ɑː b,,,,,,ˈsɡɑːb,,,,http://ordnet.dk/ddo/ordbog?query=skarp
+20-141-1,,20,141,kort,kort,k ɒː d,,,,,,ˈkɒːd,,,,http://ordnet.dk/ddo/ordbog?query=kort
 20-142-1,,20,142,synge,synge,s ø ŋ ə,,,,,,ˈsøŋə,,,,http://ordnet.dk/ddo/ordbog?query=synge
 20-143-1,,20,143,sidde,sidde,s e ð ə,,,,,,ˈseðə,,,,http://ordnet.dk/ddo/ordbog?query=sidde
-20-144-1,,20,144,hud,hud,h u ðˀ,,,,,,huðˀ,,,,http://ordnet.dk/ddo/ordbog?query=hud
+20-144-1,,20,144,hud,hud,h u ðˀ,,,,,,ˈhuðˀ,,,,http://ordnet.dk/ddo/ordbog?query=hud
 20-145-1,,20,145,himmel,himmel,h e m ə l,,,,,,ˈheməl,,,,http://ordnet.dk/ddo/ordbog?query=himmel
 20-146-1,,20,146,sove,sove,s ɒ w ə,,,,,,ˈsɒwə,,,,http://ordnet.dk/ddo/ordbog?query=sove
 20-147-1,,20,147,lille,lille,l i l ə,more frequent,,,,,ˈlilə,,,,http://ordnet.dk/ddo/ordbog?query=lille
-20-148-1,,20,148,lugte,lugte,l ɔ ɡ̊ d̥ ə,,,,,,ˈlɔɡ̥d̥ə,,,,http://ordnet.dk/ddo/ordbog?query=lugte
-20-149-1,,20,149,røg,røg,ʁ ʌ jˀ,,,,,,ʁʌjˀ,,,,http://ordnet.dk/ddo/ordbog?query=røg
-20-150-1,,20,150,glat,glat,ɡ̊ l a d̥ʱ,,,,,,ɡ̥lad̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=glat
+20-148-1,,20,148,lugte,lugte,l ɔ ɡ d ə,,,,,,ˈlɔɡdə,,,,http://ordnet.dk/ddo/ordbog?query=lugte
+20-149-1,,20,149,røg,røg,ʁ ʌ jˀ,,,,,,ˈʁʌjˀ,,,,http://ordnet.dk/ddo/ordbog?query=røg
+20-150-1,,20,150,glat,glat,ɡ l a d,,,,,,ˈɡlad,,,,http://ordnet.dk/ddo/ordbog?query=glat
 20-151-1,,20,151,slange,slange,s l ɑ ŋ ə,,,,,,ˈslɑŋə,,,,http://ordnet.dk/ddo/ordbog?query=slange
-20-152-1,,20,152,sne,sne,s n eˀ,,,,,,sneˀ,,,,http://ordnet.dk/ddo/ordbog?query=sne
-20-158-1,,20,158,stå,stå,s d̥ ɔˀ,,,,,,sd̥ɔˀ,,,,http://ordnet.dk/ddo/ordbog?query=stå
-20-159-1,,20,159,stjerne,stjerne,s d̥ j æ ɐ̯ n ə,,,,,,ˈsd̥jæɐ̯nə,,,,http://ordnet.dk/ddo/ordbog?query=stjerne
-20-160-1,,20,160,stok,stok,s d̥ ʌ ɡ̥ʰ,,,,,,sd̥ʌɡ̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=stok
-20-161-1,,20,161,sten,sten,s d̥ʱ e n,,,,,,sd̥ʰen,,,,http://ordnet.dk/ddo/ordbog?query=sten
+20-152-1,,20,152,sne,sne,s n eˀ,,,,,,ˈsneˀ,,,,http://ordnet.dk/ddo/ordbog?query=sne
+20-158-1,,20,158,stå,stå,s d ɔˀ,,,,,,ˈsdɔˀ,,,,http://ordnet.dk/ddo/ordbog?query=stå
+20-159-1,,20,159,stjerne,stjerne,s d j æ ɐ̯ n ə,,,,,,ˈsdjæɐ̯nə,,,,http://ordnet.dk/ddo/ordbog?query=stjerne
+20-160-1,,20,160,stok,stok,s d ʌ ɡ,,,,,,ˈsdʌɡ,,,,http://ordnet.dk/ddo/ordbog?query=stok
+20-161-1,,20,161,sten,sten,s d eˀ n,,,,,,ˈsdeˀn,,,,http://ordnet.dk/ddo/ordbog?query=sten
 20-162-1,,20,162,lige,lige,l iː ə,slightly more common,,,,,ˈliːə,,,,http://ordnet.dk/ddo/ordbog?query=lige
-20-164-1,,20,164,sol,sol,s o l,,,,,,sol,,,,http://ordnet.dk/ddo/ordbog?query=sol
+20-164-1,,20,164,sol,sol,s oˀ l,,,,,,ˈsoˀl,,,,http://ordnet.dk/ddo/ordbog?query=sol
 20-165-1,,20,165,svulme,svulme,s v u l m ə,,,,,,ˈsvulmə,,,,http://ordnet.dk/ddo/ordbog?query=svulme
 20-166-1,,20,166,svømme,svømme,s v œ m ə,,,,,,ˈsvœmə,,,,http://ordnet.dk/ddo/ordbog?query=svømme
-20-167-1,,20,167,hale,hale,h ɛː l ə,,,,,,ˈhɛːlə,,,,http://ordnet.dk/ddo/ordbog?query=hale
-20-171-1,,20,171,tyk,tyk,d̥ʱ y ɡ̥ʰ,,,,,,d̥ʰyɡ̥ʰ,,,,http://ordnet.dk/ddo/ordbog?query=tyk
-20-173-1,,20,173,tænke,tænke,d̥ʱ ɛ ŋ ɡ̊ ə,,,,,,ˈd̥ʰɛŋɡ̥ə,,,,http://ordnet.dk/ddo/ordbog?query=tænke
-20-176-1,,20,176,tre,tre,d̥ʱ ʁ ɛˀ,,,,,,d̥ʰʁɛˀ,,,,http://ordnet.dk/ddo/ordbog?query=tre
-20-177-1,,20,177,kaste,kaste,ɡ̥ʰ a s d̥ ə,,,,,,ɡ̥ʰasd̥ə,,,,http://ordnet.dk/ddo/ordbog?query=kaste
-20-178-1,,20,178,binde,binde,b̥ e n ə,,,,,,ˈb̥enə,,,,http://ordnet.dk/ddo/ordbog?query=binde
-20-179-1,,20,179,tunge,tunge,d̥ʱ ɔ ŋ ə,,,,,,ˈd̥ʰɔŋə,,,,http://ordnet.dk/ddo/ordbog?query=tunge
-20-180-1,,20,180,tand,tand,d̥ʱ a nˀ,,,,,,d̥ʰanˀ,,,,http://ordnet.dk/ddo/ordbog?query=tand
-20-181-1,,20,181,træ,træ,d̥ʱ ʁ ɛˀ,,,,,,d̥ʰʁɛˀ,,,,http://ordnet.dk/ddo/ordbog?query=træ
-20-183-1,,20,183,to,to,d̥ʱ oˀ,,,,,,d̥ʰoˀ,,,,http://ordnet.dk/ddo/ordbog?query=to
+20-167-1,,20,167,hale,hale,h æː l ə,,,,,,ˈhæːlə,,,,http://ordnet.dk/ddo/ordbog?query=hale
+20-171-1,,20,171,tyk,tyk,t y ɡ,,,,,,ˈtyɡ,,,,http://ordnet.dk/ddo/ordbog?query=tyk
+20-173-1,,20,173,tænke,tænke,t ɛ ŋ ɡ ə,,,,,,ˈtɛŋɡə,,,,http://ordnet.dk/ddo/ordbog?query=tænke
+20-176-1,,20,176,tre,tre,t ʁ ɛˀ,,,,,,ˈtʁɛˀ,,,,http://ordnet.dk/ddo/ordbog?query=tre
+20-177-1,,20,177,kaste,kaste,k a s d ə,,,,,,ˈkasdə,,,,http://ordnet.dk/ddo/ordbog?query=kaste
+20-178-1,,20,178,binde,binde,b e n ə,,,,,,ˈbenə,,,,http://ordnet.dk/ddo/ordbog?query=binde
+20-179-1,,20,179,tunge,tunge,t ɔ ŋ ə,,,,,,ˈtɔŋə,,,,http://ordnet.dk/ddo/ordbog?query=tunge
+20-180-1,,20,180,tand,tand,t a nˀ,,,,,,ˈtanˀ,,,,http://ordnet.dk/ddo/ordbog?query=tand
+20-181-1,,20,181,træ,træ,t ʁ ɛˀ,,,,,,ˈtʁɛˀ,,,,http://ordnet.dk/ddo/ordbog?query=træ
+20-183-1,,20,183,to,to,t oˀ,,,,,,ˈtoˀ,,,,http://ordnet.dk/ddo/ordbog?query=to
 20-184-1,,20,184,kaste op,kaste op,ɡ̥ʰ a s d̥ ə + ʌ b̥,,,,,,ˈɡ̥ʰasd̥ə ʌb̥,,,,http://ordnet.dk/ddo/ordbog?query=kaste op
-20-186-1,,20,186,varm,varm,v ɑˀ m,,,,,,vɑˀm,,,,http://ordnet.dk/ddo/ordbog?query=varm
-20-187-1,,20,187,vaske,vaske,v a s ɡ̊ ə,,,,,,ˈvasɡ̥ə,,,,http://ordnet.dk/ddo/ordbog?query=vaske
-20-188-1,,20,188,vand,vand,v a nˀ,,,,,,vanˀ,,,,http://ordnet.dk/ddo/ordbog?query=vand
-20-190-1,,20,190,våd,våd,v ɔˀ ð,,,,,,vɔˀð,,,,http://ordnet.dk/ddo/ordbog?query=våd
+20-186-1,,20,186,varm,varm,v ɑˀ m,,,,,,ˈvɑˀm,,,,http://ordnet.dk/ddo/ordbog?query=varm
+20-187-1,,20,187,vaske,vaske,v a s ɡ ə,,,,,,ˈvasɡə,,,,http://ordnet.dk/ddo/ordbog?query=vaske
+20-188-1,,20,188,vand,vand,v a nˀ,,,,,,ˈvanˀ,,,,http://ordnet.dk/ddo/ordbog?query=vand
+20-190-1,,20,190,våd,våd,v ɔˀ ð,,,,,,ˈvɔˀð,,,,http://ordnet.dk/ddo/ordbog?query=våd
 20-194-1,,20,194,hvid,hvid,v i ðˀ,,,,,,viðˀ,,,,http://ordnet.dk/ddo/ordbog?query=hvid
-20-198-1,,20,198,vind,vind,v e nˀ,,,,,,venˀ,,,,http://ordnet.dk/ddo/ordbog?query=vind
+20-198-1,,20,198,vind,vind,v e nˀ,,,,,,ˈvenˀ,,,,http://ordnet.dk/ddo/ordbog?query=vind
 20-199-1,,20,199,vinge,vinge,v e ŋ ə,,,,,,ˈveŋə,,,,http://ordnet.dk/ddo/ordbog?query=vinge
-20-202-1,,20,202,kvinde,kvinde,ɡ̥ʰ v e n ə,,,,,,ˈɡ̥ʰvenə,,,,http://ordnet.dk/ddo/ordbog?query=kvinde
-20-203-1,,20,203,skov,skov,s ɡ̊ ɒ wˀ,,,,,,sɡ̥ɒwˀ,,,,http://ordnet.dk/ddo/ordbog?query=skov
-20-204-1,,20,204,orm,orm,o ɐ̯ˀ m,,,,,,oɐ̯ˀm,,,,http://ordnet.dk/ddo/ordbog?query=orm
-20-206-1,,20,206,år,år,ɒˀ,,,,,,ɒˀ,,,,http://ordnet.dk/ddo/ordbog?query=år
-20-207-1,,20,207,gul,gul,ɡ uˀ l,,,,,,ɡuˀl,,,,http://ordnet.dk/ddo/ordbog?query=gul
+20-202-1,,20,202,kvinde,kvinde,k v e n ə,,,,,,ˈkvenə,,,,http://ordnet.dk/ddo/ordbog?query=kvinde
+20-203-1,,20,203,skov,skov,s ɡ ɒ wˀ,,,,,,ˈsɡɒwˀ,,,,http://ordnet.dk/ddo/ordbog?query=skov
+20-204-1,,20,204,orm,orm,o ɐ̯ˀ m,,,,,,ˈoɐ̯ˀm,,,,http://ordnet.dk/ddo/ordbog?query=orm
+20-206-1,,20,206,år,år,ɒˀ,,,,,,ˈɒˀ,,,,http://ordnet.dk/ddo/ordbog?query=år
+20-207-1,,20,207,gul,gul,ɡ uˀ l,,,,,,ˈɡuˀl,,,,http://ordnet.dk/ddo/ordbog?query=gul
 21-4-1,,21,4,as,as,ɑ s,Removed ASCH - archaic form?,,,,,ɑs,,,,http://www.etymologiebank.nl/trefwoord/as3
 21-6-1,,21,6,rug,rug,r ʏ χ,,,,,,rʏχ,,,,http://www.etymologiebank.nl/trefwoord/rug
 21-7-1,,21,7,slecht,slecht,s l ɛ χ t,,,,,,slɛχt,,,,http://www.etymologiebank.nl/trefwoord/slecht
@@ -7862,7 +7862,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 39-130-1,,39,130,tondo,tondo,t o n d o,,,,,,ˈtondo,ˈtondo,t o n d o,,
 68-130-1,,68,130,redondo,redondo,r e ð ɔ n̪ d o,,,,,,reˈðɔn̪do,reˈdondo,r e d o n d o,,http://dle.rae.es/?w=redondo
 59-130-1,,59,130,rotund,rotund,ɾ o t u n d,,,,,,ɾoˈtund,roˈtund,r o t u n d,,https://dexonline.ro/definitie/rotund
-20-130-1,,20,130,rund,rund,ʁ ɔ nˀ,,,,,,ʁɔnˀ,,,,http://ordnet.dk/ddo/ordbog?query=rund
+20-130-1,,20,130,rund,rund,ʁ ɔ nˀ,,,,,,ˈʁɔnˀ,,,,http://ordnet.dk/ddo/ordbog?query=rund
 69-130-1,,69,130,rund,rund,r ɵ n d,,,,,,rɵnd,,,,http://www.saob.se/artikel/?seek=rund
 22-130-1,,22,130,round,round,,"Middle English via Anglo-Norman rounde, variant of Old French rond, ultimately from vulgar Latin retundus, from Latin rotundus",,,,,,ɹaʊnd,ɹ a ʊ n d,,http://www.oed.com/view/Entry/167938
 38-130-1,,38,130,cruinn,cruinn,kˠ ɹ̥ʷ ɪ ɲ,,,,,,ˈkˠɹ̥ʷɪɲ,ˈkrən̪ʲ,k r ə n̪ʲ,,http://www.teanglann.ie/ga/fgb/cruinn
@@ -7878,7 +7878,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 68-87-1,,68,87,rodilla,rodilla,r o ð i j a,,,,,,roˈðija,roˈdija,r o d i j a,,http://dle.rae.es/?w=rodilla
 59-87-1,,59,87,genunchiu,genunchiu,dʒ e n u n k ç,,,,,,dʒeˈnunkç,dʒeˈnunkʲ,dʒ e n u n kʲ,,https://dexonline.ro/definitie/genunchiu
 38-87-1,,38,87,glúin,glúin,ɡʷ lʷ uː nʲ,,,,,,ˈɡʷlʷuːnʲ,ˈɡˠlˠuːnʲ,ɡˠ lˠ uː nʲ,,http://www.teanglann.ie/ga/fgb/glúin
-20-87-1,,20,87,knæ,knæ,k n ɛˀ,,,,,,knɛˀ,,,,http://ordnet.dk/ddo/ordbog?query=knæ
+20-87-1,,20,87,knæ,knæ,k n ɛˀ,,,,,,ˈknɛˀ,,,,http://ordnet.dk/ddo/ordbog?query=knæ
 69-87-1,,69,87,knä,knä,k n ɛː,,,,,,knɛː,,,,http://www.saob.se/artikel/?seek=knä
 22-87-1,,22,87,knee,knee,,Old English cnēo,,,,,,niː,n iː,,http://www.oed.com/view/Entry/103957
 21-87-1,,21,87,knie,knie,k n i,,,,,,kni,,,,http://www.etymologiebank.nl/trefwoord/knie
@@ -7898,7 +7898,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 50-78-1,,50,78,śinga,śinga,ʃ i ŋ ɡ,,,,,,ʃiŋɡ,,,शिंग,
 65-78-1,,65,78,an̆ga,an̆ga,,singa,,,,,,,,අඟ,http://dsalsrv02.uchicago.edu/cgi-bin/philologic/search3advanced?dbname=carter&matchtype=exact&query=අඟ
 21-78-1,,21,78,hoorn,hoorn,h o r n,,,,,,horn,,,,http://www.etymologiebank.nl/trefwoord/hoorn1
-20-78-1,,20,78,horn,horn,h o ɐ̯ˀ n,,,,,,hoɐ̯ˀn,,,,http://ordnet.dk/ddo/ordbog?query=horn
+20-78-1,,20,78,horn,horn,h o ɐ̯ˀ n,,,,,,ˈhoɐ̯ˀn,,,,http://ordnet.dk/ddo/ordbog?query=horn
 69-78-1,,69,78,horn,horn,h uː ɳ,,,,,,huːɳ,,,,http://www.saob.se/artikel/?seek=horn
 27-78-1,,27,78,Horn,Horn,h ɔ ɐ n,,,,,,ˈhɔɐn,ˈhɔʁn,h ɔ ʁ n,,
 59-78-1,,59,78,corn,corn,k o ɾ n,,,,,,koɾn,korn,k o r n,,https://dexonline.ro/definitie/corn
@@ -7946,7 +7946,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 68-49-1,,68,49,uña,uña,u ɲ a,,,,,,ˈuɲa,ˈuɲa,u ɲ a,,http://dle.rae.es/?id=b72slJo
 59-49-1,,59,49,unghie,unghie,u n ɡ j e,,,,,,ˈunɡje,ˈunɡje,u n ɡ j e,,https://dexonline.ro/definitie/unghie
 38-49-1,,38,49,ionga,ionga,ʊ ŋˠ ɡˠ ə,,,,,,ˈʊŋˠɡˠə,ˈØʲəŋˠɡˠə,Øʲ ə ŋˠ ɡˠ ə,,http://www.teanglann.ie/ga/fgb/ionga
-20-49-1,,20,49,negl,negl,n ɑ jˀ l,,,,,,nɑjˀl,,,,http://ordnet.dk/ddo/ordbog?query=negl
+20-49-1,,20,49,negl,negl,n ɑ jˀ l,,,,,,ˈnɑjˀl,,,,http://ordnet.dk/ddo/ordbog?query=negl
 69-49-1,,69,49,nagel,nagel,n ɑː ɡ ə l,,,,,,ˈnɑːɡəl,,,,http://www.saob.se/artikel/?seek=nagel
 22-49-1,,22,49,nail,nail,,"Middle English, from Old English nægl",,,,,,neɪl,n e ɪ l,,http://www.oed.com/view/Entry/124844
 21-49-1,,21,49,nagel,nagel,n a ɣ ə l,,,,,,ˈnaɣəl,,,,http://www.etymologiebank.nl/trefwoord/nagel1
@@ -10103,20 +10103,20 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 69-138-1,,69,138,frö,frö,f r øː,,,,,,frøː,,,,http://www.saob.se/artikel/?seek=frö
 69-160-1,,69,160,pinne,pinne,p ɪ̀ nː ə,,,,,,ˈpɪ̀nːə,,,,http://www.saob.se/artikel/?seek=pinne
 69-190-2,,69,190,blöt,blöt,b l øː t,,,,,,bløːt,,,,http://www.saob.se/artikel/?seek=blöt
-20-7-1,,20,7,dårlig,dårlig,d ɒː l i,,,,,,ˈdɒːli,ˈdɒːli,d ɒː l i,,http://ordnet.dk/ddo/ordbog?query=dårlig
+20-7-1,,20,7,dårlig,dårlig,d ɒː l i,,,,,,ˈdɒːli,,,,http://ordnet.dk/ddo/ordbog?query=dårlig
 20-30-1,,20,30,snavset,snavset,s n ɑ w s ə ð,,,,,,ˈsnɑwsəð,,,,http://ordnet.dk/ddo/ordbog?query=snavset
 20-38-2,,20,38,æde,æde,ɛː ð ə,appear to be true synonyms TKD,,,,,ˈɛːðə,,,,http://ordnet.dk/ddo/ordbog?query=æde
-20-42-1,,20,42,langt,langt,l ɑ ŋ ɡ̊ d̥,,,,,,lɑŋɡ̊d̥,,,,http://ordnet.dk/ddo/ordbog?query=langt
-20-48-1,,20,48,slås,slås,s l ʌ s,slightly more basic,,,,,slʌs,,,,http://ordnet.dk/ddo/ordbog?query=slås
-20-62-1,,20,62,fuld,fuld,f u lˀ,,,,,,fulˀ,,,,http://ordnet.dk/ddo/ordbog?query=fuld
+20-42-1,,20,42,langt,langt,l ɑ ŋˀ d + v ɛ ɡ,,,,,,ˈlɑŋˀd ˈvɛɡ,,,,http://ordnet.dk/ddo/ordbog?query=langt
+20-48-1,,20,48,slås,slås,s l ʌ s,slightly more basic,,,,,ˈslʌs,,,,http://ordnet.dk/ddo/ordbog?query=slås
+20-62-1,,20,62,fuld,fuld,f u lˀ,,,,,,ˈfulˀ,,,,http://ordnet.dk/ddo/ordbog?query=fuld
 20-76-1,,20,76,slå,slå,s l ɔˀ,,,,,,slɔˀ,,,,http://ordnet.dk/ddo/ordbog?query=slå
-20-18-1,,20,18,bryst,bryst,b̥ ʁ ɶ s d̥,,,,,,ˈb̥ʁɶsd̥,,,,http://ordnet.dk/ddo/ordbog?query=bryst
-20-91-1,,20,91,blad,blad,b̥ l a ð,,,,,,b̥lað,,,,http://ordnet.dk/ddo/ordbog?query=blad
+20-18-1,,20,18,bryst,bryst,b ʁ œ s d,,,,,,ˈbʁœsd,,,,http://ordnet.dk/ddo/ordbog?query=bryst
+20-91-1,,20,91,blad,blad,b l a ð,,,,,,ˈblað,,,,http://ordnet.dk/ddo/ordbog?query=blad
 20-102-1,,20,102,måne,måne,m ɔː n ə,,,,,,ˈmɔːnə,,,,http://ordnet.dk/ddo/ordbog?query=måne
-20-118-1,,20,118,spille,spille,s b̥ʱ e l ə,more common,,,,,ˈsb̥ʰelə,,,,http://ordnet.dk/ddo/ordbog?query=spille
-20-120-1,,20,120,skubbe,skubbe,s ɡ̊ ɔ b̥ ə,,,,,,ˈsɡ̊ɔb̥ə,,,,http://ordnet.dk/ddo/ordbog?query=skubbe
-20-138-1,,20,138,frø,frø,f ʁ œˀ,,,,,,fʁœˀ,,,,http://ordnet.dk/ddo/ordbog?query=frø
-20-196-1,,20,196,vid,vid,v i ðˀ,,,,,,viðˀ,,,,http://ordnet.dk/ddo/ordbog?query=vid
+20-118-1,,20,118,spille,spille,s b e l ə,more common,,,,,ˈsbelə,,,,http://ordnet.dk/ddo/ordbog?query=spille
+20-120-1,,20,120,skubbe,skubbe,s ɡ ɔ b ə,,,,,,ˈsɡɔbə,,,,http://ordnet.dk/ddo/ordbog?query=skubbe
+20-138-1,,20,138,frø,frø,f ʁ œˀ,,,,,,ˈfʁœˀ,,,,http://ordnet.dk/ddo/ordbog?query=frø
+20-196-1,,20,196,vid,vid,v i ðˀ,,,,,,ˈviðˀ,,,,http://ordnet.dk/ddo/ordbog?query=vid
 20-95-1,,20,95,bo,bo,b oˀ,,,,,,boˀ,,,,http://ordnet.dk/ddo/ordbog?query=bo
 23-95-1,,23,95,búgva,búgva,b̥ ɪ ɡ̊ v a,,,,,,ˈb̥ɪɡ̊va,,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=búgva
 36-10-1,,36,10,kviður,kviður,kʰ v ɪː ð ʏ r,,,,,,ˈkʰvɪːðʏr,ˈkvɪːðʏr,k v ɪː ð ʏ r,,
@@ -10318,7 +10318,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 21-107-1,,21,107,smal,smal,,,,,,,,,,,http://www.etymologiebank.nl/trefwoord/smal
 21-108-1,,21,108,dichtbij,dichtbij,,,,,,,,,,,http://www.etymologiebank.nl/trefwoord/bij1
 157-129-1,,157,129,mör,mör,m ø r,,,,,,mør,mør,m ø r,,
-20-129-1,,20,129,mør,mør,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=mør
+20-129-1,,20,129,mør,mør,m øˀ,,,,,,ˈmøˀ,,,,http://ordnet.dk/ddo/ordbog?query=mør
 127-7-1,,127,7,droch,droch,d̪ˠ rˠ ɔ xˠ,,,,,,ˈd̪ˠrˠɔxˠ,ˈdrox,d r o x,,http://dil.ie/18753
 38-18-1,,38,18,ucht,ucht,ʊ x t̪ˠ,,,,,,ˈʊxt̪ˠ,ˈØˠəxˠtˠ,Øˠ ə xˠ tˠ,,http://www.teanglann.ie/ga/fgb/ucht
 38-22-1,,38,22,scamall,scamall,sˠ kˠ a mˠ ə l̪ˠ,,,,,,ˈsˠkˠamˠəl̪ˠ,ˈsˠkˠamˠəl̪ˠ,sˠ kˠ a mˠ ə l̪ˠ,,http://www.teanglann.ie/ga/fgb/scamall
@@ -16577,7 +16577,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 24-208-1,,24,208,mier,mier,,,,,,,,,,,
 36-208-1,,36,208,maur,maur,,,,,,,,,,,
 58-208-1,,58,208,maur,maur,m ɑ ʊ ɾ,,,,,,mɑʊɾ,mɑʊr,m ɑ ʊ r,,https://ordbok.uib.no/perl/ordbok.cgi?ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal&OPP=+maur
-20-208-1,,20,208,myre,myre,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=myre
+20-208-1,,20,208,myre,myre,m yː ʌ,,,,,,ˈmyːʌ,,,,http://ordnet.dk/ddo/ordbog?query=myre
 23-208-1,,23,208,meyra,meyra,,,,,,,,,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=meyra
 46-19-1,,46,19,kvėpúoti,kvėpúoti,kʲ ʋʲ eː p ʊˑ ɔ tʲ ɪ,,,,,,kʲʋʲeːpˈʊˑɔtʲɪ,kʲvʲeːpˈʊˑɔtɪ,kʲ vʲ eː p ʊˑ ɔ t ɪ,,http://etimologija.baltnexus.lt/?w=kvėpúoti
 46-223-1,,46,223,ver̃kti,ver̃kti,ʋʲ ɛ rˑ kʲ tʲ ɪ,,,,,,ˈʋʲɛrˑkʲtʲɪ,ˈvʲɛrˑkʲtɪ,vʲ ɛ rˑ kʲ t ɪ,,http://etimologija.baltnexus.lt/?w=verkti
@@ -16622,26 +16622,26 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 80-221-1,,80,221,dā-,dā-,,,,,,"to take, to wed, to decide",,,,da-a-i,
 23-220-1,,23,220,bera,bera,,,,,,,,,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=bera
 69-212-1,,69,212,igår,igår,,,,,,,,,,,http://www.saob.se/artikel/?seek=igår
-20-220-1,,20,220,bære,bære,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=bære
-20-226-1,,20,226,klo,klo,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=klo
-20-223-1,,20,223,gråd,gråd,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=gråd
-20-224-1,,20,224,gøre,gøre,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=gøre
-20-211-1,,20,211,flue,flue,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=flue
-20-218-1,,20,218,gå,gå,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=gå
-20-225-1,,20,225,male,male,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=male
+20-220-1,,20,220,bære,bære,b ɛː ʌ,,,,,,ˈbɛːʌ,,,,http://ordnet.dk/ddo/ordbog?query=bære
+20-226-1,,20,226,klo,klo,k l oˀ,,,,,,ˈkloˀ,,,,http://ordnet.dk/ddo/ordbog?query=klo
+20-223-1,,20,223,gråd,gråd,ɡ ʁ aː ð ə,,,,,,ˈɡʁaːðə,,,,http://ordnet.dk/ddo/ordbog?query=gråd
+20-224-1,,20,224,gøre,gøre,ɡ ɶː ʌ,,,,,,ˈɡɶːʌ,,,,http://ordnet.dk/ddo/ordbog?query=gøre
+20-211-1,,20,211,flue,flue,f l uː ə,,,,,,ˈfluːə,,,,http://ordnet.dk/ddo/ordbog?query=flue
+20-218-1,,20,218,gå,gå,ɡ ɔˀ,,,,,,ˈɡɔˀ,,,,http://ordnet.dk/ddo/ordbog?query=gå
+20-225-1,,20,225,male,male,m æː l ə,,,,,,ˈmæːlə,,,,http://ordnet.dk/ddo/ordbog?query=male
 24-18-1,,24,18,borst,borst,,,,,,,,,,,
-20-216-1,,20,216,hård,hård,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=hård
-20-222-1,,20,222,skjule,skjule,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=skjule
-20-214-1,,20,214,hus,hus,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=hus
-20-210-1,,20,210,navle,navle,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=navle
-20-219-1,,20,219,løbe,løbe,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=løbe
+20-216-1,,20,216,hård,hård,h ɒˀ,,,,,,ˈhɒˀ,,,,http://ordnet.dk/ddo/ordbog?query=hård
+20-222-1,,20,222,skjule,skjule,s ɡ j uː l ə,,,,,,ˈsɡjuːlə,,,,http://ordnet.dk/ddo/ordbog?query=skjule
+20-214-1,,20,214,hus,hus,h uˀ s,,,,,,ˈhuˀs,,,,http://ordnet.dk/ddo/ordbog?query=hus
+20-210-1,,20,210,navle,navle,n ɑ w l ə,,,,,,ˈnɑwlə,,,,http://ordnet.dk/ddo/ordbog?query=navle
+20-219-1,,20,219,løbe,løbe,l øː b ə,,,,,,ˈløːbə,,,,http://ordnet.dk/ddo/ordbog?query=løbe
 23-226-1,,23,226,klógv,klógv,,,,,,,,,,,http://sleipnir.fo/obg/fob/fob.php?button_leita=&action=1&pageno=0&leitord=klógv
-20-213-1,,20,213,skygge,skygge,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=skygge
-20-217-1,,20,217,sød,sød,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=sød
+20-213-1,,20,213,skygge,skygge,s ɡ y ɡ ə,,,,,,ˈsɡyɡə,,,,http://ordnet.dk/ddo/ordbog?query=skygge
+20-217-1,,20,217,sød,sød,s ø ðˀ,,,,,,ˈsøðˀ,,,,http://ordnet.dk/ddo/ordbog?query=sød
 58-226-1,,58,226,klo,klo,k l uː,,,,,,kluː,kluː,k l uː,,
-20-221-1,,20,221,tage,tage,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=tage
-20-209-1,,20,209,lår,lår,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=lår
-20-212-1,,20,212,i går,i går,,,,,,,,,,,http://ordnet.dk/ddo/ordbog?query=i går
+20-221-1,,20,221,tage,tage,t æˀ,,,,,,ˈtæˀ,,,,http://ordnet.dk/ddo/ordbog?query=tage
+20-209-1,,20,209,lår,lår,l ɒˀ,,,,,,ˈlɒˀ,,,,http://ordnet.dk/ddo/ordbog?query=lår
+20-212-1,,20,212,i går,i går,i + ɡ ɒˀ,,,,,,i ˈɡɒˀ,,,,http://ordnet.dk/ddo/ordbog?query=i går
 36-226-1,,36,226,kló,kló,,,,,,,,,,,
 27-217-1,,27,217,süss,süss,z yː s,,,,,,ˈzyːs,ˈzyːs,z yː s,süß,
 24-223-1,,24,223,huilen,huilen,,,,,,,,,,,

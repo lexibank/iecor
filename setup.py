@@ -23,14 +23,14 @@ setup(
         ],
     },
     install_requires=[
-        'pyconcepticon>=2.8.0'
-        'pylexibank>=3.3.0',
-        'pycdstar>=1.0.1',
-        'pycldf>=1.23.0',
-        'clldutils>=3.9.0',
-        'csvw>=1.11.0',
-        'nameparser>=1.0.6',
-        'Markdown>=3.3.4',
+        'pyconcepticon>=3.0.0'
+        'pylexibank>=3.4.0',
+        'pycdstar>=1.1.0',
+        'pycldf>=1.34.0',
+        'clldutils>=3.14.0',
+        'csvw>=3.1.3',
+        'nameparser>=1.1.2',
+        'Markdown>=3.4.1',
         'python-nexus>=2.8.0',
     ],
     extras_require={
