@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/lexibank/iecor",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-4-g44bb646",
+            "dc:created": "v2.0-6-gfae37ef",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.8"
+            "dc:description": "3.10.10"
         },
         {
             "dc:title": "python-packages",

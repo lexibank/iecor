@@ -1110,7 +1110,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 20-105-1,,20,105,mund,mund,m ɔ nˀ,,,,,,ˈmɔnˀ,,,,http://ordnet.dk/ddo/ordbog?query=mund
 20-106-1,,20,106,navn,navn,n ɑ wˀ n,,,,,,ˈnɑwˀn,,,,http://ordnet.dk/ddo/ordbog?query=navn
 20-107-1,,20,107,smal,smal,s m a lˀ,seems to be most basic TKD,,,,,smalˀ,,,,http://ordnet.dk/ddo/ordbog?query=smal
-20-108-1,,20,108,nær,nær,i + n ɛ ɐ̯ h e ðˀ ə n,,,,,,i ˈnɛɐ̯ˌheðˀən,,,,http://ordnet.dk/ddo/ordbog?query=nær
+20-108-1,,20,108,i nærheden,i nærheden,i + n ɛ ɐ̯ h e ðˀ ə n,,,,,,i ˈnɛɐ̯ˌheðˀən,,,,http://ordnet.dk/ddo/ordbog?query=nær
 20-109-1,,20,109,hals,hals,h a lˀ s,,,,,,ˈhalˀs,,,,http://ordnet.dk/ddo/ordbog?query=hals
 20-110-1,,20,110,ny,ny,n yˀ,,,,,,ˈnyˀ,,,,http://ordnet.dk/ddo/ordbog?query=ny
 20-111-1,,20,111,nat,nat,n a d,,,,,,ˈnad,,,,http://ordnet.dk/ddo/ordbog?query=nat
@@ -10106,7 +10106,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 20-7-1,,20,7,dårlig,dårlig,d ɒː l i,,,,,,ˈdɒːli,,,,http://ordnet.dk/ddo/ordbog?query=dårlig
 20-30-1,,20,30,snavset,snavset,s n ɑ w s ə ð,,,,,,ˈsnɑwsəð,,,,http://ordnet.dk/ddo/ordbog?query=snavset
 20-38-2,,20,38,æde,æde,ɛː ð ə,appear to be true synonyms TKD,,,,,ˈɛːðə,,,,http://ordnet.dk/ddo/ordbog?query=æde
-20-42-1,,20,42,langt,langt,l ɑ ŋˀ d + v ɛ ɡ,,,,,,ˈlɑŋˀd ˈvɛɡ,,,,http://ordnet.dk/ddo/ordbog?query=langt
+20-42-1,,20,42,langt væk,langt væk,l ɑ ŋˀ d + v ɛ ɡ,,,,,,ˈlɑŋˀd ˈvɛɡ,,,,http://ordnet.dk/ddo/ordbog?query=langt
 20-48-1,,20,48,slås,slås,s l ʌ s,slightly more basic,,,,,ˈslʌs,,,,http://ordnet.dk/ddo/ordbog?query=slås
 20-62-1,,20,62,fuld,fuld,f u lˀ,,,,,,ˈfulˀ,,,,http://ordnet.dk/ddo/ordbog?query=fuld
 20-76-1,,20,76,slå,slå,s l ɔˀ,,,,,,slɔˀ,,,,http://ordnet.dk/ddo/ordbog?query=slå
@@ -16624,7 +16624,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 69-212-1,,69,212,igår,igår,,,,,,,,,,,http://www.saob.se/artikel/?seek=igår
 20-220-1,,20,220,bære,bære,b ɛː ʌ,,,,,,ˈbɛːʌ,,,,http://ordnet.dk/ddo/ordbog?query=bære
 20-226-1,,20,226,klo,klo,k l oˀ,,,,,,ˈkloˀ,,,,http://ordnet.dk/ddo/ordbog?query=klo
-20-223-1,,20,223,gråd,gråd,ɡ ʁ aː ð ə,,,,,,ˈɡʁaːðə,,,,http://ordnet.dk/ddo/ordbog?query=gråd
+20-223-1,,20,223,græde,græde,ɡ ʁ aː ð ə,,,,,,ˈɡʁaːðə,,,,http://ordnet.dk/ddo/ordbog?query=græde
 20-224-1,,20,224,gøre,gøre,ɡ ɶː ʌ,,,,,,ˈɡɶːʌ,,,,http://ordnet.dk/ddo/ordbog?query=gøre
 20-211-1,,20,211,flue,flue,f l uː ə,,,,,,ˈfluːə,,,,http://ordnet.dk/ddo/ordbog?query=flue
 20-218-1,,20,218,gå,gå,ɡ ɔˀ,,,,,,ˈɡɔˀ,,,,http://ordnet.dk/ddo/ordbog?query=gå
