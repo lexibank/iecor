@@ -90,7 +90,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 889,3,113,nuk,,,"From PAlb *nuka, cf such negatives in Skt naca, Lat nique, Goth nih, OIr na-ch, MW na-c, OBret na-c 'and not'. ",103,False,False,,,,
 890,3,114,vjetër,,,Borrowed < Lat veterem 'id'.,104,False,False,,,,
 891,3,115,nji,,,"From IE *sem- via Balkan-IE *sm-ijos > Arm mi, Gk μια and PAlb *mja. Orel disagrees, postulating an IE origin of *oi-no > Lat ūnus, Goth and OPrus ains, etc, all with identical meanings.",105,False,False,,,,
-893,3,117,njeri,,,"Goes back to PAlb *nera, further connected with Skt nár-, ανηρ (now husband), Arm ayr, all with identical meanings.	",107,False,False,,,,
+893,3,117,njeri,,,"Goes back to PAlb *nera, further connected with Skt nár-, ανηρ (now husband), Arm ayr, all with identical meanings.",107,False,False,,,,
 894,3,118,lu(e)j,,,,108,False,False,,,,
 895,3,119,hek,,,,109,False,False,,,,
 896,3,121,shi,,,"From PAlb *sūja, also connected with IE *sū- 'rain; to rain' and OPrus suge 'rain'.",110,False,False,,,,
@@ -12043,7 +12043,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 24872,35,117,insān,ɪnsɑn,,,207,False,False,ɪnsɑn,,,इनसान
 24880,8,185,šrǰel,,, ,199,False,True,,,,շրջել
 24881,51,185,him̐ḍnu,ɦiɾ̠nu,, ,217,False,False,,,,हिँड्नु
-24883,73,185,ìti,iˈtɪ,,Also 'to go'. Unidirectional verb. 	Depending on the phonetic context an alternative phonetic form 'йти' is used.,211,False,True,,,,іти
+24883,73,185,ìti,iˈtɪ,,Also 'to go'. Unidirectional verb. Depending on the phonetic context an alternative phonetic form 'йти' is used.,211,False,True,,,,іти
 24884,16,185,ìscì,isʲˈtsʲi,,Also 'to go'. Unidirectional verb.,204,False,True,,,,ісці
 24885,17,185,caminar,kəmiˈna,,,204,False,False,kəmiˈna,,,
 24886,56,185,caminhar,kɐmiˈɲaɾ,,,204,False,True,,,,
