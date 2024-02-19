@@ -1,10 +1,10 @@
-# CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew’s "Indo-European Cognate Relationships database project" (IE-CoR) from 2019
+# CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew’s "Indo-European Cognate Relationships database" ([IE-CoR version 1.0](https://github.com/lexibank/iecor/releases/tag/v1.0)) from 2019
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Leipzig: Max Planck Institute for Evolutionary Anthropology
+  > Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2024. Indo-European Cognate Relationships database (IE-CoR version 1.1). Leipzig: Max Planck Institute for Evolutionary Anthropology
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -23,31 +23,31 @@ Available online at https://iecor.clld.org
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 161
+- **Varieties:** 160
 - **Concepts:** 170
-- **Lexemes:** 25,918
+- **Lexemes:** 25,731
 - **Sources:** 0
 - **Synonymy:** 1.01
-- **Cognacy:** 25,928 cognates in 5,013 cognate sets (2,363 singletons)
+- **Cognacy:** 25,741 cognates in 4,981 cognate sets (2,341 singletons)
 - **Cognate Diversity:** 0.19
-- **Invalid lexemes:** 6,762
-- **Tokens:** 90,208
-- **Segments:** 670 (0 BIPA errors, 0 CLTS sound class errors, 670 CLTS modified)
-- **Inventory size (avg):** 37.75
+- **Invalid lexemes:** 6,930
+- **Tokens:** 88,401
+- **Segments:** 669 (0 BIPA errors, 0 CLTS sound class errors, 669 CLTS modified)
+- **Inventory size (avg):** 37.46
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 25918/25918 (100.00%)
+- Entries missing sources: 25731/25731 (100.00%)
 
 # Contributors
 
 Name                | GitHub user  | Description                          | Role
 ---                 | ---          | ---                                  | ---
-Paul Heggarty       | | Founding Editor | Author, DataCurator, Editor
+Paul Heggarty       | @PaulHeggarty | Founding Editor | Author, DataCurator, Editor
 Cormac Anderson     | | Founding Editor | Author, DataCurator, Editor
-Matthew Scarborough | |                 | DataCurator, Editor
+Matthew Scarborough | |                 | Author, DataCurator, Editor
 Hans-Jörg Bibiko    | @Bibiko       | patron, code     | Maintainer
 
 

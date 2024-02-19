@@ -16,8 +16,8 @@ import attr
 
 from mappings import FIELD_MAP, AUTHOR_MAP
 
-LANGUAGE_LIST = "Current"
-MEANING_LIST = "default"
+LANGUAGE_LIST = "IE-CoR_1-1"
+MEANING_LIST = "JenaFinal170"
 
 
 def dicts(name, to_cldf=False):
@@ -350,23 +350,24 @@ class Dataset(BaseDataset):
             ds.cldf['LanguageTable', 'normalMean'].datatype.base = 'integer'
             ds.cldf['LanguageTable', 'normalStDev'].datatype.base = 'integer'
 
-            clade_table = sorted(dicts('clade', to_cldf=True), key=lambda x: (
+            clade_cldf = [c for c in dicts('clade', to_cldf=True) if c['export'].strip() == 'True']
+            cladesObj = [c for c in dicts('clade') if c['export'].strip() == 'True']
+
+            clade_table = sorted(clade_cldf, key=lambda x: (
                 int(x['clade_level0']),
                 int(x['clade_level1']),
                 int(x['clade_level2']),
                 int(x['clade_level3'])))
             for i, c in enumerate(clade_table):
                 c['color'] = '#{}'.format(c['color'])
-                # only clades for export (nexus) have a taxonsetName
-                if c['export'] == 'False':
-                    c['taxonsetName'] = None
                 del c['export']
 
-            clades = {d['id']: d for d in dicts('clade')}
-            cladesObj = dicts('clade')
+            clades = {d['id']: d for d in cladesObj}
             lcdict = dicts('languageclade')
-            l2clade = {d['language_id']: clades[d['clade_id']] for d in lcdict}
+            l2clade = {d['language_id']: clades[d['clade_id']] for d in lcdict if d['clade_id'] in clades}
             for lc in sorted(lcdict, key=lambda d: d['cladesOrder'], reverse=True):
+                if lc['clade_id'] not in clades:
+                    continue
                 llid = lc['language_id']
                 if clades[lc['clade_id']]['shortName'] and 'clade_name' not in l2clade[llid]:
                     l2clade[llid]['clade_name'] = clades[lc['clade_id']]['cladeName']

@@ -643,7 +643,6 @@ id,pages,reliability,comment,cognate_judgement_id,source_id
 19088,931,A,,19071,47
 19089,931,A,,19072,47
 19090,931,A,,19073,47
-19093,195,A,,19075,68
 19095,386,A,,19077,69
 19097,,A,,19079,48
 19101,470,A,,19083,69
@@ -5619,7 +5618,6 @@ Alternatively, luanam is connected with Gr. λούω, λο(ϝ)έ-σαι ‘to ba
 34512,,B,,33380,48
 34513,,B,,33381,48
 34515,,A,,33383,48
-34567,,A,"The cognate coding is accurate, but the verb means ""fall asleep"" in Hittite, not stative ""sleep"".",19144,207
 34568,http://iedo.brillonline.nl/dictionaries/lemma.html?id=20599,A,"""barku-""",33425,165
 34569,http://iedo.brillonline.nl/dictionaries/lemma.html?id=20673,A,"""blōda-""",33426,165
 34570,,A,"Germanic ""swarta-""",33427,177
@@ -12191,7 +12189,7 @@ On of these roots might in fact be the basis for ie. *dʰu̯ens- from which the 
 45225,188-189,A,,20146,80
 45226,901-902,A,,40406,80
 45227,349-352,A,,40566,80
-45228,797–798,A,"= Skt. SAV(I)- 'to impel, set in motion', OIr. SOÏD 'turns' < IE *sHu-ie/o",40567,80
+45228,797–798,A,,40567,80
 45229,340-341,A,,20260,80
 45230,583,A,,20278,80
 45231,493-494,A,,40568,80

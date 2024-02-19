@@ -6,6 +6,7 @@ The following options can be set with the parameter "--options":
     - Exclude cognate sets marked as Loan event
     - Exclude cognate sets marked as Parallel Loan event
     - Include Parallel Loan events as independent cognate sets
+    - Merge loanwords into their source cognatesets if given
 
 by using a '1' for True and a '0' for False.
 """
@@ -28,6 +29,7 @@ NEXUS_COMMENTS = [
     ('excludeLoanword', "Exclude cog. sets: Loan event: {}"),
     ('excludePllLoan', "Exclude cog. sets: Pll Loan: {}"),
     ('includePllLoan', "Include Pll Loan as independent cog. sets: {}"),
+    ('mergeLoanword', "Merge loanword into source cog. sets: {}"),
 ]
 
 
@@ -38,15 +40,15 @@ def register(parser):
         type=str,
         help='''a string separated by a space of 0\'s and 1\'s specifying:
         excludePllDerivation excludeIdeophonic excludeLoanword
-        excludePllLoan includePllLoan''',
-        default='1 1 0 0 1',
+        excludePllLoan includePllLoan mergeLoanword''',
+        default='1 1 0 0 1 0',
     )
 
 
 def run(args):
 
     opts = args.options.split()
-    if len(opts) != 5:
+    if len(opts) != 6:
         args.log.error('Please check the number of options - run "cldfbench iecor.make_nexus -h" for help')
         return 1
 
@@ -60,6 +62,7 @@ def run(args):
         'excludeLoanword': opts[2],
         'excludePllLoan': opts[3],
         'includePllLoan': opts[4],
+        'mergeLoanword': opts[5],
     }
 
     dialect_full_name = "NeighborNet"
@@ -141,10 +144,13 @@ def run(args):
 
     for row_ in matrix:
         language_name, row = row_[0], row_[1:]
+
         def quoted(s):
             return "'{}'".format(s)
+
         for i, ccn in enumerate(cognate_class_names):
             nexwriter.add(quoted(row_[0]), ccn, row_[i+1])
+
         exportBEAUti.append("    {} {}{}".format(
                       quoted(language_name),
                       " " * (max_len - len(quoted(language_name))),
@@ -204,21 +210,38 @@ def construct_matrix(ds_cldf,
                      excludeLoanword,          # bool
                      excludePllLoan,           # bool
                      includePllLoan,           # bool
+                     mergeLoanword,           # bool
                      **spec_dict):             # don't care
 
     cs = {c['ID']: c for c in ds_cldf.get('cognatesets.csv') if c['ID']}
 
-    loans = {c['Cognateset_ID']: c for c in ds_cldf.get('loans.csv') if c['Cognateset_ID']}
+    cognates = list(ds_cldf.get('cognates.csv'))
+    forms = {f['ID']: f for f in ds_cldf['FormTable']}
+
+    if mergeLoanword:
+        loans = {}
+        form_id_from_cognates = {c['Cognateset_ID']: c for c in ds_cldf.get('cognates.csv')}
+        for c in ds_cldf.get('loans.csv'):
+            if not c['Cognateset_ID']:
+                continue
+            if not c['SourceCognateset_ID']:
+                loans[c['Cognateset_ID']] = c
+            else:
+                new_d = form_id_from_cognates[c['Cognateset_ID']]
+                new_d['Cognateset_ID'] = c['SourceCognateset_ID']
+                cognates.append(new_d)
+                del cs[c['Cognateset_ID']]
+    else:
+        loans = {c['Cognateset_ID']: c for c in ds_cldf.get('loans.csv') if c['Cognateset_ID']}
 
     cognates_form_ids = set(c['Form_ID'] for c in ds_cldf.get('cognates.csv'))
 
-    forms = {f['ID']: f for f in ds_cldf['FormTable']}
     parameters = {p['ID']: p for p in meanings}
 
     cognate_classes = defaultdict(list)
     cj_for_meaning = defaultdict(list)
 
-    for c in ds_cldf.get('cognates.csv'):
+    for c in cognates:
         if c['Cognateset_ID'] not in cs:
             continue
         if excludePllDerivation:
@@ -234,6 +257,8 @@ def construct_matrix(ds_cldf,
             if c['Cognateset_ID'] in loans and loans[c['Cognateset_ID']]['Parallel_loan_event']:
                 continue
         frm = forms[c['Form_ID']]
+        if not frm['Parameter_ID'] in parameters:
+            continue
         param = parameters[frm['Parameter_ID']]
         c['Parameter_Name'] = param['Name']
         c['Parameter_ID'] = param['ID']

@@ -90,7 +90,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 889,3,113,nuk,,,"From PAlb *nuka, cf such negatives in Skt naca, Lat nique, Goth nih, OIr na-ch, MW na-c, OBret na-c 'and not'. ",103,False,False,,,,
 890,3,114,vjetër,,,Borrowed < Lat veterem 'id'.,104,False,False,,,,
 891,3,115,nji,,,"From IE *sem- via Balkan-IE *sm-ijos > Arm mi, Gk μια and PAlb *mja. Orel disagrees, postulating an IE origin of *oi-no > Lat ūnus, Goth and OPrus ains, etc, all with identical meanings.",105,False,False,,,,
-893,3,117,njeri,,,"Goes back to PAlb *nera, further connected with Skt nár-, ανηρ (now husband), Arm ayr, all with identical meanings.",107,False,False,,,,
+893,3,117,njeri,,,"Goes back to PAlb *nera, further connected with Skt nár-, ανηρ (now husband), Arm ayr, all with identical meanings.	",107,False,False,,,,
 894,3,118,lu(e)j,,,,108,False,False,,,,
 895,3,119,hek,,,,109,False,False,,,,
 896,3,121,shi,,,"From PAlb *sūja, also connected with IE *sū- 'rain; to rain' and OPrus suge 'rain'.",110,False,False,,,,
@@ -1440,16 +1440,16 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 4718,20,5,ved,veð,,,4,False,False,,,,
 4719,20,6,ryg,ˈʁœɡ,,removed baɡ.,5,False,False,,ryg,,
 4720,20,7,ond,ˈɔnˀ,'evil',,6,False,True,,,,
-4721,20,8,bark,ˈbɑːɡ,,,7,False,False,,bark,,
+4721,20,8,bark,ˈbɑːg,,,7,False,True,,bark,,
 4722,20,9,fordi,fʌˈd̥iˀ,,,8,False,False,,,,
-4723,20,10,bug,ˈbuˀ,,,9,False,False,,bug,,
-4724,20,11,stor,ˈsdoˀɐ̯,,originally CC 360,10,False,False,,stor,,
-4725,20,12,fugl,ˈfuˀl,,ˈfuːlə in composition.,11,False,False,,fugl,,
+4723,20,10,bug,ˈbuˀ,,"MJCS: Not target lexeme. ""bug is not the usual word for 'belly' (Thomas Olander, p.c.)",9,False,True,,bug,,
+4724,20,11,stor,ˈsdoˀɐ̯,,,10,False,False,,stor,,
+4725,20,12,fugl,ˈfuˀl,,,11,False,False,,fugl,,
 4726,20,13,bide,ˈbiːðə,,,12,False,False,,bide,,
 4727,20,14,sort,ˈsoɐ̯d,,,13,False,False,,sort,,
 4728,20,15,blod,ˈbloˀð,,,14,False,False,,blod,,
-4729,20,16,blæse,ˈblɛːsə,,,15,False,False,,blæse,,
-4730,20,17,ben,b̥eˀn,,,16,False,False,,ben,,
+4729,20,16,blæse,ˈblεːsə,,,15,False,False,,blæse,,
+4730,20,17,ben,b̥eˀn,,"MJCS: Not the target lexeme. ""'ben' for bone is old-fashioned; in modern Danish is mostly means 'leg'"" (Thomas Olander, p.c.).",16,False,True,,ben,,
 4731,20,19,ånde,ˈʌnə,,,17,False,False,,ånde,,
 4732,20,20,brænde,ˈbʁanə,,,18,False,False,,brænde,,
 4733,20,21,barn,ˈbɑˀn,,,19,False,False,,barn,,
@@ -1457,11 +1457,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 4735,20,23,kold,ˈkʌlˀ,,,21,False,False,,kold,,
 4736,20,24,komme,ˈkʌmə,,,22,False,False,,komme,,
 4737,20,25,tælle,ˈtɛlə,,,23,False,False,,tælle,,
-4738,20,26,skære,ˈsɡɛːʌ,,,24,False,False,,skære,,
+4738,20,26,skære,ˈsgεːʌ,,,24,False,False,,skære,,
 4739,20,27,dag,ˈdæˀ,,,25,False,False,,dag,,
 4740,20,28,dø,ˈdøˀ,,,26,False,False,,dø,,
 4741,20,29,grave,ˈɡʁɑːvə,,,27,False,False,,grave,,
-4742,20,30,skiden,ˈsɡiðən,'shitty',removed beskidt,28,False,True,,,,
+4742,20,30,skiden,ˈsgiðən,'shitty',removed beskidt,28,False,True,,,,
 4743,20,31,hund,ˈhunˀ,,,29,False,False,,hund,,
 4744,20,32,drikke,ˈdʁɛɡə,,,30,False,False,,drikke,,
 4745,20,33,tør,ˈtɶˀɐ̯,,,31,False,False,,tør,,
@@ -1475,11 +1475,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 4753,20,41,falde,ˈfalə,,,39,False,False,,falde,,
 4754,20,42,fjern,ˈfjæɐ̯ˀn,"'distant, remote'",,40,False,True,,,,
 4755,20,43,fedt,ˈfed,,,41,False,False,,fedt,,
-4756,20,44,fader,ˈfɑː,,,42,False,False,,fader,,
-4757,20,45,frygte,ˈfʁœɡdə,,,43,False,False,,frygte,,
+4756,20,44,far,ˈfɑː,,,42,False,False,,far,,
+4757,20,45,frygte,ˈfʁœgdə,,,43,False,True,,frygte,,
 4758,20,46,fjer,ˈfjeˀɐ̯,,,44,False,False,,fjer,,
 4759,20,47,få,ˈfɔˀ,,,45,False,False,,,,
-4760,20,48,kæmpe,ˈkɛmbə,,,46,False,True,,,,
+4760,20,48,kæmpe,ˈkεmbə,,,46,False,True,,,,
 4761,20,50,ild,ˈilˀ,,,47,False,False,,ild,,
 4762,20,51,fisk,ˈfesɡ,,,48,False,False,,fisk,,
 4763,20,52,fem,ˈfɛmˀ,,,49,False,False,,fem,,
@@ -1517,29 +1517,29 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 4795,20,86,dræbe,ˈdʁɛːbə,,more common,81,False,False,,dræbe,,
 4796,20,88,vide,ˈviːðə,,,82,False,False,,vide,,
 4797,20,89,sø,ˈsøˀ,,,83,False,False,,sø,,
-4798,20,90,le,ˈleˀ,,,84,False,False,,le,,
+4798,20,90,le,ˈleˀ,,"MJCS: this is not the target lexeme. ""'grine' is probably more common than 'le' which is a bit old fashioned"" (Thomas Olander, p.c.)",84,False,True,,le,,
 4799,20,91,løv,ˈløˀw,,,85,False,True,,,,
 4800,20,92,venstre,ˈvɛnsdʁʌ,,,86,False,False,,venstre,,
 4801,20,93,ben,ˈbeˀn,,,87,False,False,,ben,,
-4802,20,94,ligge,ˈleɡə,,,88,False,False,,ligge,,
-4803,20,95,leve,ˈleːvə,,,89,False,True,,,,
+4802,20,94,ligge,ˈlegə,,,88,False,False,,ligge,,
+4803,20,95,leve,ˈleːvə,,,89,False,False,,,,
 4804,20,96,lever,ˈlewˀʌ,,,90,False,False,,lever,,
 4805,20,97,lang,ˈlɑŋˀ,,,91,False,False,,lang,,
 4806,20,98,lus,ˈluˀs,,,92,False,False,,lus,,
 4807,20,99,mand,ˈmanˀ,,,93,False,False,,mand,,
 4808,20,100,mange,ˈmɑŋə,,,94,False,False,,,,
 4809,20,101,kød,ˈkøð,,,95,False,False,,kød,,
-4810,20,103,moder,ˈmoɐ̯,,,96,False,False,,moder,,
+4810,20,103,mor,ˈmoɐ̯,,,96,False,False,,mor,,
 4811,20,104,bjerg,ˈbjæɐ̯ˀw,,,97,False,False,,bjerg,,
 4812,20,105,mund,ˈmɔnˀ,,,98,False,False,,mund,,
 4813,20,106,navn,ˈnɑwˀn,,,99,False,False,,navn,,
 4814,20,107,smal,smalˀ,,seems to be most basic TKD,100,False,False,,smal,,
-4815,20,108,i nærheden,i ˈnɛɐ̯ˌheðˀən,,,101,False,False,,nær,,
+4815,20,108,i nærheden,i ˈnɛɐ̯ˌheðˀən,,"MJCS: Updated from nær, which cannot be used in the example sentence 'You can walk there easily; it's near.' (Thomas Olander, p.c.)",101,False,False,,nær,,
 4816,20,109,hals,ˈhalˀs,,,102,False,False,,hals,,
 4817,20,110,ny,ˈnyˀ,,,103,False,False,,ny,,
 4818,20,111,nat,ˈnad,,,104,False,False,,nat,,
 4819,20,112,næse,ˈnɛːsə,,,105,False,False,,næse,,
-4820,20,113,ikke,"ˈeɡə, ˈeɡ",,,106,False,False,,ikke,,
+4820,20,113,ikke,"ˈegə, ˈeg",,,106,False,False,,ikke,,
 4821,20,114,gammel,ˈɡɑməl,,,107,False,False,,gammel,,
 4822,20,115,en,ˈeˀn,,,108,False,False,,en,,
 4823,20,116,anden,ˈanən,,,109,False,False,,,,
@@ -1555,7 +1555,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 4833,20,126,vej,ˈvɑjˀ,,,119,False,False,,,,
 4834,20,127,rod,ˈʁoˀð,,,120,False,False,,rod,,
 4835,20,128,reb,ˈʁɛˀb,,,121,False,False,,,,
-4836,20,129,rådden,ˈʁʌðən,,,122,False,True,,,,
+4836,20,129,rådden,ˈʁʌðən,,,122,False,False,,,,
 4837,20,131,gnide,ˈɡniːðə,,,123,False,False,,,,
 4838,20,132,salt,ˈsalˀd,,,124,False,False,,salt,,
 4839,20,133,sand,ˈsanˀ,,,125,False,False,,sand,,
@@ -1610,7 +1610,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 4888,20,182,vende sig,ˈvɛnə sɑj,'turn around',also [sɑ].,174,False,True,,,,
 4889,20,183,to,ˈtoˀ,,,175,False,False,,to,,
 4890,20,184,kaste op,ˈɡ̥ʰasd̥ə ʌb̥,,,176,False,False,,kaste op,,
-4891,20,185,gå,ˈɡɔˀ,,,177,False,False,,gå,,
+4891,20,185,gå,ˈgɔˀ,,,177,False,False,,gå,,
 4892,20,186,varm,ˈvɑˀm,,,178,False,False,,varm,,
 4893,20,187,vaske,ˈvasɡə,,,179,False,False,,vaske,,
 4894,20,188,vand,ˈvanˀ,,,180,False,False,,vand,,
@@ -9077,143 +9077,143 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 20146,80,1,ḫu-u-ma-an-te-eš,,,"pl., maybe related to Lat. OMNIS (Weeks 1985:194)",0,False,False,,,,hūmantes
 20147,80,2,-Ca ~ -ya,,,clitics,1,False,False,,,,
 20148,80,3,suppalas,,,"actually 'cattle' (Kloekhorst: 788); or actually 'domestic animal' (Hoffner/Melchert, Hittite grammar, passim)",2,False,False,,,,
-20149,80,4,ḫāšš-,,"ash(es), dust, soap",In Hittite the full grade stem (*h₂éh₁s-) was generalized.,3,False,False,,,,ḫa-a-aš
-20150,80,6,iškiš-,,"back, backside, rear","probably loanword.  Cf. Gk. ἰσχίον 'hips', Hesych. ἰσχίον· ὀσφύς 'loins'. ",4,False,False,,,,iš-ki-iš
-20151,80,7,idālu-,,"bad, evil; evilness",,5,False,False,,,,i-da-a-lu-uš
+20149,80,4,ḫāš(š)-,,"ash(es), dust, soap",Cf. HW² Ḫ 388-391 s.v. ḫāš(š)- 'Asche' for attestations and discussion. In Hittite the full grade stem (*h₂éh₁s-) was generalized.,3,False,False,,,,ḫa-a-aš
+20150,80,6,iškiš-,,"back, backside, rear","Cf. HW² I 187-191 s.v. (UZU)iškiš- 'Rücken, Rückhalt' for attestations and further discussion.",4,False,False,,,,iš-ki-iš
+20151,80,7,idālu-,,"bad, evil; evilness","Cf. HW² I 293-302 s.v. idalu- 'böse, böswillig, ungünstig, schlecht, schlimm' for attestations and discussion.",5,False,False,,,,i-da-a-lu-uš
 20152,80,9,ku-it,,,,6,False,False,,,,kuit
-20153,80,10,šarḫuu̯ant-,,"belly, innards, foetus, unborn child",Native script form šar-ḫu-u-u̯a-an-da-an is acc.sg.; the nom.sg. form is not attested.,7,False,False,,,,šar-ḫu-u̯a-an-da-an
-20154,80,11,šalli- / šallai-,,"big, great, large","The form is connected a.o. with Gk. ὅλος ‘whole, complete’, Skt. śarva- ‘whole, all’, Lat. salvus ‘complete, intact’ (despite the semantic difference between 'big' and 'whole').",8,False,False,,,,ša-al-li-iš
-20156,80,13,u̯āk- / u̯akk-,waːɡ-/wək-,bite,"Old ablauting ḫi-verb (wāk-/wakk-, typ āk-/akk- ‘to die’). Cf. tentatively Pal. wakk- ‘id.?’, too.",10,False,False,,,,u̯a-a-ki
-20158,80,14,dankui- / dankuu̯ai-,,"black, dark","A zero-grade is possible, see the cognate OHG tunkal < *dhngw-lo-.",12,False,False,,,,da-an-ku-iš
-20159,80,15,ēšḫar / išḫan-,,"blood, bloodshed",heteroclitic noun ēšḫar/išḫan-. Cf. Gk. ἔαρ ‘blood’ (rare).,13,False,False,,,,e-eš-ḫar / iš-ḫa-na-aš
+20153,80,10,šarḫuu̯ant-,,"belly, innards, foetus, unborn child","Native script form šar-ḫu-u-u̯a-an-da-an is acc.sg.; the nom.sg. form is not attested, cf. CHD Š 253-254 for attestations and discussion.",7,False,False,,,,šar-ḫu-u̯a-an-da-an
+20154,80,11,šalli- / šallai-,,"big, great, large",Cf. CHD Š 92-100 for attestations and discussion.,8,False,False,,,,ša-al-li-iš
+20156,80,13,u̯āk- / u̯akk-,,bite,"Old ablauting ḫi-verb (wāk-/wakk-, typ āk-/akk- ‘to die’). Cf. tentatively Pal. wakk- ‘id.?’, too. For the etymology and semantic interpretation, cf. EDHIL 939-940; cf. Oettinger 1979: 444-445 for attestations.",10,False,False,,,,u̯a-a-ki
+20158,80,14,dankui- / dankuu̯ai-,,"black, dark",Cf. EDHIL 829 s.v. dankui- / dankuu̯ai- for a survey of the forms attested and further discussion.,12,False,False,,,,da-an-ku-iš
+20159,80,15,ēšḫar / išḫan-,,"blood, bloodshed","heteroclitic noun ēšḫar/išḫan-, cf. HW² E 115-121 s.v. ešḫar (išḫar) 'Blut' for attestations and further discussion.",13,False,False,,,,e-eš-ḫar / iš-ḫa-na-aš
 20160,80,16,parai- / pari-,,"to blow (a horn); to blow on (a fire); to blow up, to inflate",belonging to dāi/tii̯anzi-class.,14,False,False,,,,pa-ra-a-i
-20161,80,17,ḫaštāi / ḫašti-,,"bone, (fig.) strenght, a measure of lenght",diphthong-stem inflection. cf. within Anatolian CLuw. ḫāš- ‘bone’ and HLuw. has- ‘force(?)’ (abl.-instr. “*314”ha-sa-ti-i ‘by force’ KARKAMIŠ A11c §30).,15,False,False,,,,ḫa-aš-ta-a-i
-20163,80,20,ur- / u̯ar-,,"burn (intr.), to be burned",ur-āri (attested in OS textsalready) / u̯ar-āri (from MS texts onwards)(Med.). Pres.3sg. u̯(a)rāni shows dissimilation from original *u̯(a)rāri.,17,False,False,,,,ú-ra-a-ni
+20161,80,17,ḫaštāi / ḫašti-,,"bone, (fig.) strength, a measure of length",diphthong-stem inflection. cf. within Anatolian CLuw. ḫāš- ‘bone’ and HLuw. has- ‘force(?)’ (abl.-instr. “*314”ha-sa-ti-i ‘by force’ KARKAMIŠ A11c §30). Cf. HW² Ḫ 425- s.v. ḫaštāi- 'Knochen' for attestations and further discussion.,15,False,False,,,,ḫa-aš-ta-a-i
+20163,80,20,ur- / u̯ar-,,"burn (intr.), to be burned","ur-āri (attested in OS textsalready) / u̯ar-āri (from MS texts onwards)(Med.). Pres.3sg. u̯(a)rāni shows dissimilation from original *u̯(a)rāri. Cf. EDHIL 923-925 s.v. ur-/u̯ar-, for a survey of the forms attested and further discussion.",17,False,False,,,,ú-ra-a-ni
 20164,80,21,ḫāšša-,,"offspring, descendant",,18,False,False,,,,ḫa-aš-ša-aš
-20165,80,22,alpa-,,cloud,"Connection with Lat. albus 'white' and ἀλφός 'dull-white leprosy' plausible, albeit the generally accepted reconstruction as *h2elbho- 'white' shows serious difficulties concerning the existence of PIE *a.Weeks discusses relation to /cognate/955/ ,white (thing) > cloud' '(1985: 20f).",19,False,False,,,,al-pa-aš
-20166,80,23,ekuna- / ikuna-,,cold,"alternation ekuna/ikuna-. The form can be traced back to *ig-euno- (full grade stem ek- was probably introduced later), cf. aruna- ‘sea’ < *h3r-eu-no-.",20,False,False,,,,e-ku-na-aš
-20167,80,24,u̯ē-/uu̯a-,,,"*u 'hither' + *i 'come' (Weeks 1985: 154), the latter part being cognate with /cognate/2377/",21,False,False,,,,ú-e-ez-zi
-20168,80,25,kappuu̯e/a-,,,"maybe related to Lat. COMPUTARE, but rejected by Kloekhorst",22,False,False,,,,kap-pu-u-ez-zi
+20165,80,22,alpa-,,cloud,Cf. HW² A 60 s.v. alpa- 'Wolke' for attestations and interpretation.,19,False,False,,,,al-pa-aš
+20166,80,23,ekuna- / ikuna-,,cold,alternation ekuna/ikuna-. Cf. HW² E 33 s.v. ekuna- (ikuna-) 'kalt' for attestations and interpretation.,20,False,False,,,,e-ku-na-aš
+20167,80,24,u̯ē-/uu̯a-,,,Cf. EDHIL 992-993 s.v. u̯e-/uu̯a- 'to come' for a survey of the forms attested and further discussion.,21,False,False,,,,ú-e-ez-zi
+20168,80,25,kappuu̯e/a-,,"tally, count, reckon, calculate","Cf. HED K 66-71 s.v. kappuwai- 'tally, count, reckon, calculate' for attestations and discussion. Lexeme citation form follows EDHIL 440.",22,False,False,,,,kap-pu-u-ez-zi
 20169,80,26,kuer- / kur-,,"to cut, to cut up, to cut out off",,23,False,False,,,,ku-e-er-zi
-20170,80,27,šīu̯att-,,day,,24,False,False,,,,ši-i-u̯a-az
-20171,80,28,āk- / akk-,,"to die, to be killed, to be eclipsed","etym. dubious, maybe related to Lat. NECARE 'to kill', Gr. NEKYS 'corpse' or Toch. AK(E) (Weeks 1985: 76). Acc to Puhvel, an IE root is probable and links the form to an obscure Venetic compound. Naturally this is not a particularly pleasing link.",25,False,False,,,,ak-i
-20172,80,29,padda- / padd-,,to dig,,26,False,False,,,,pád-da-a-i
+20170,80,27,šīu̯att-,,day,Cf. CHD Š 494-504 s.v. šiwatt- 'day' for citations and further discussion.,24,False,False,,,,ši-i-u̯a-az
+20171,80,28,āk- / akk-,,"to die, to be killed, to be eclipsed","Cf. HED A+E/I 17-23 s.v. ak(k)- / ek- 'die, be killed' for attestations.",25,False,False,,,,ak-i
+20172,80,29,padda- / padd-,,to dig,Cf. s.v. CHD P 235-237 s.v. padda- 'to dig (the ground)' etc. for attestations and discussion.,26,False,False,,,,pád-da-a-i
 20173,80,30,iškunant-,,,"Cf. iškii̯e/a- 'to smear, to daub, to salve', cf. Tischler TEG A-K p.404.",27,False,False,,,,iš-ku-na-an-ta!
-20174,80,31,kuu̯an- / kun-,,dog,Indirectly attested in the form of (LÚ)kuu̯an- 'hound-man'.,28,False,False,,,,ku-u̯a-aš
-20175,80,32,eku- / aku-,,"drink, drink to (+dat.), to toast (+acc.)","akuttara- 'drinker, toaster'",29,False,False,,,,e-ku-zi
-20176,80,33,ḫātant-,,dry,Literally a participle ḫatant- from ḫāt- 'dry up'.,30,False,False,,,,ḫa-ta-an-za
+20174,80,31,kuu̯an- / kun-,,dog,"Indirectly attested in the form of (LÚ)kuu̯an- 'hound-man'. We have included *kuu̯an- / kun- as the best currently-known potential candidate based on parallel vocabulary (cf. Melchert 1989, EDHIL s.v.), while at the same time we acknowledge that due to the fragmentary attestation of Hittite a more suitable target lexeme may also have existed.",28,False,False,,,,ku-u̯a-aš
+20175,80,32,eku- / aku-,,"drink, drink to (+dat.), to toast (+acc.)",Cf. HW² E 29-33 s.v. eku- / aku- 'trinken' for attestations and discussion.,29,False,False,,,,e-ku-zi
+20176,80,33,ḫātant-,,dry,"Cf. HW² Ḫ 478-482 s.v. ḫat- ""aus/vertrocknen"" with ptcp ḫatant- ""trocken, getrocknet"" for attestations and discussion.",30,False,False,,,,ḫa-ta-an-za
 20177,80,34,alpanz,,,etym. dub.,31,False,False,,,,
-20178,80,36,ištāman- / ištāmin-,,ear,"Sum. GEŠTUG, Akk. UZNU. Cognate with Gk. στόμα 'mouth' (ntr.), Av. staman- 'maw' (m.).",32,False,False,,,,iš-ta-mi-na-aš
-20179,80,37,tēkan / takn-,,earth,,33,False,False,,,,te-e-kán
-20180,80,38,ed- / ad-,,eat,,34,False,False,,,,e-za-az-zi
-20181,80,40,šākuu̯a-,,eye,Nom.sg. is only attested through Sumerogram IGI or Akkadogram ĪNU. The given native script form ša-a-ku-u̯a is nom.pl.,35,False,False,,,,ša-a-ku-u̯a
-20182,80,41,"mau- / mu-, maušš-",,to fall,,36,False,False,,,,ma-uš-zi
-20183,80,42,tuu̯ān,,far,adv.,37,False,False,,,,tu-u̯a-a-an
+20178,80,36,ištāman- / ištāmin-,,ear,"Cf. HW² I 234-236 s.v. (UZU)ištamana-, ištamin(a)- 'Ohr' for attestations and further discussion.",32,False,False,,,,iš-ta-mi-na-aš
+20179,80,37,tēkan / takn-,,earth,Cf. EDHIL 858-862 s.v. tēkan / takn- for a survey of forms attested and further discussion.,33,False,False,,,,te-e-kán
+20180,80,38,ed- / ad-,,eat,"Cf. HW² E 128-138 s.v. ed-/ad- 'essen, fressen' for attestations and discussion.",34,False,False,,,,e-za-az-zi
+20181,80,40,šākuu̯a-,,eye,"Nom.sg. is only attested through Sumerogram IGI or Akkadogram ĪNU. The given native script form ša-a-ku-u̯a is nom.pl., cf. CHD Š 65-77 for attestations and further discussion.",35,False,False,,,,ša-a-ku-u̯a
+20182,80,41,"mau- / mu-, maušš-",,to fall,Cf. CHD L-N 211-213 for attestations and further discussion.,36,False,False,,,,ma-uš-zi
+20183,80,42,tuu̯ān,,far,"adv., cf. EDHIL 904-905 for a survey of forms attested and further discussion.",37,False,False,,,,tu-u̯a-a-an
 20184,80,43,appuzzi-,,"animal fat, tallow",,38,False,False,,,,ap-pu-uz-zi
 20185,80,44,atta-,,father,,39,False,False,,,,at-ta-aš
-20186,80,45,nāḫ- / naḫḫ-,,to fear,,40,False,False,,,,na-a-ḫi
+20186,80,45,nāḫ- / naḫḫ-,,to fear,Cf. CHD L-N 338-341 for attestations and further discussion.,40,False,False,,,,na-a-ḫi
 20187,80,47,tēpawes,,,,41,False,False,,,,
-20188,80,48,ḫulle- / ḫull-,,to fight,,42,False,False,,,,ḫu-ul-le-ez-zi
-20189,80,49,šankui- / šankuu̯ai-,,"nail, a unit of linear measure",,43,False,False,,,,ša-an-ku-u̯i-i̯a-aš
-20190,80,50,paḫḫur / paḫḫuen-,,fire,,44,False,False,,,,pa-aḫ-ḫur / pa-aḫ-ḫu-e-na-aš
+20188,80,48,ḫulle- / ḫull-,,"to smash, to defeat, to strike/beat (in conflict)","Cf. HW² Ḫ 685-689 s.v. ḫulla/e- trans. und Med. '(nieders)schlagen (milit.), (obj.) zerschlagen, anfechten, bestreiten, verwerfen (jur.)', corresponds in meaning to '(im Kampf) schlagen' Akkad. abāku bzw. dawdâ dâku.",42,False,False,,,,ḫu-ul-le-ez-zi
+20189,80,49,šankui- / šankuu̯ai-,,"nail, a unit of linear measure",Cf. CHD Š 180-181 for attestations and discussion.,43,False,False,,,,ša-an-ku-u̯i-i̯a-aš
+20190,80,50,paḫḫur / paḫḫuen-,,fire,Cf. CHD P 12-16 for attestations and further discussion.,44,False,False,,,,pa-aḫ-ḫur / pa-aḫ-ḫu-e-na-aš
 20191,80,51,parḫu-*,,(a creature whose meat was dried and eaten),Weeks gives KU-U ,45,False,True,,,,pár-ḫu-u-u̯a-i̯a-aš
 20192,80,54,a-ar-aš-zi,,,,46,False,False,,,,ārš-/arš-
-20193,80,55,alil-,,flower,,47,False,False,,,,a-li-il
-20194,80,56,pattai- / patti-,,"to run, to fly",verb,48,False,False,,,,pád-da-a-i
-20195,80,57,u̯arša-,,"fog, mist",,49,False,False,,,,u̯a-ar-ša-aš
-20196,80,58,"pāt- / pat-, pata-",,"foot, leg","The lexeme is normally spelled using the Sumerogram GÌR (Akk. ŠĒPU), e.g. nom.sg. GÌR-aš. The native script form given, pa-a-tu-u[š] is acc.pl. Also attested are instr. pa-te-et, gen.pl. pa-ta-a-an, and dat.-loc.pl. pa-ta-a-aš. According to Kloekhorst (2008:653-654) the OH forms may reflect the original athematic root noun, while the thematic pata- forms attested in NH are secondary innovations.",50,False,False,,,,pa-a-tu-u[š]
-20197,80,59,me(i̯)u̯- / mei̯au̯-,,four,"perhaps derived from the adjective 'little': 'little hand', the fingers minus the thumb (Gvozdanovic 1992:77).",51,False,False,,,,mi-e-u̯a-aš
-20198,80,60,egai- / igai-,,to cool down,"intrans., < IE *iég-o-, cognate with 'ice' in /lexeme/24026/, 'cold' in /cognate/982/. Not exactly 'to freeze', but 'to cool down'. Form i-ga-it 3.sg.pret.act. (3.sg.pres.act. not attested).",52,False,False,,,,i-ga-it
-20199,80,61,šēša-,,"fruit, fruit-tree",,53,False,False,,,,še-ša-aš
-20200,80,62,šūu- / šūuau̯-,,"full, complete",comp. 'heavy' /lexeme/20213/,54,False,False,,,,šu-u-uš
-20201,80,63,pai- / pi-,,"to give, to pay, to grant, to hand over",,55,False,False,,,,pa-a-i
-20202,80,64,āššu- / āššau̯-,,good,"= ON ÁST 'love, affection', Goth. ANSTS 'grace, favor' (Weeks 1985: 235)",56,False,False,,,,a-aš-šu-uš
-20203,80,65,u̯ēlku-,,"grass, vegetation",,57,False,False,,,,ú-e-el-ku
-20204,80,66,ḫaḫliu̯ant-,,green,,58,False,False,,,,ḫa-aḫ-li-u-u̯a-an-za
+20193,80,55,alil-,,flower,Cf. HW² A 58-59 for attestations and discussion.,47,False,False,,,,a-li-il
+20194,80,56,pattai- / patti-,,"to run, to fly","The spelling (and etymological interpretation) of this word follows EDHIL 655-656 where Kloekhorst convincingly argues that the first syllable should be read pat. For the target sense see CHD P 354-355 s.v. piddai-, pittiya-, pitte-, 4.",48,False,False,,,,pád-da-a-i
+20195,80,57,u̯arša-,,"fog, mist","Cf. EDHIL 971-972 s.v. u̯arša- 'fog, mist' for a survey of forms attested and discussion.",49,False,False,,,,u̯a-ar-ša-aš
+20196,80,58,"pāt- / pat-, pata-",,"foot, leg","The lexeme is normally spelled using the Sumerogram GÌR (Akk. ŠĒPU), e.g. nom.sg. GÌR-aš. The native script form given, pa-a-tu-u[š] is acc.pl. Also attested are instr. pa-te-et, gen.pl. pa-ta-a-an, and dat.-loc.pl. pa-ta-a-aš. According to Kloekhorst (2008:653-654) the OH forms may reflect the original athematic root noun, while the thematic pata- forms attested in NH are secondary innovations. Cf. CHD P 231-235 for attestations and further discussion.",50,False,False,,,,pa-a-tu-u[š]
+20197,80,59,me(i̯)u̯- / mei̯au̯-,,four,"perhaps derived from the adjective 'little': 'little hand', the fingers minus the thumb (Gvozdanovic 1992:77). Cf. CHD L-N 308 for attestations.",51,False,False,,,,mi-e-u̯a-aš
+20198,80,60,egai- / igai-,,to cool down,Form i-ga-it 3.sg.pret.act. (3.sg.pres.act. not attested). Cf. HW² E 28 s.v. egai- / igai- 'erkalten' for attestations and discussion. Perhaps not the precise target lexeme.,52,False,False,,,,i-ga-it
+20199,80,61,šēša-,,"fruit, fruit-tree","Cf. CHD Š 445-448 s.v. šēša-, šešan- 'fruit; fruit tree' for attestations and discussion.",53,False,False,,,,še-ša-aš
+20200,80,62,šūu- / šūuau̯-,,"full, complete","Cf. CHD P 657-660 s.v. šūu-, šū- 'full' for attestations and discussion.",54,False,False,,,,šu-u-uš
+20201,80,63,pai- / pi-,,"to give, to pay, to grant, to hand over",Cf. CHD P 40-55 for attestations and discussion.,55,False,False,,,,pa-a-i
+20202,80,64,āššu- / āššau̯-,,good,Cf. HW² A 492-527 s.v. āššu- 'gut' for attestations and discussion.,56,False,False,,,,a-aš-šu-uš
+20203,80,65,u̯ēlku-,,"grass, vegetation","Cf. EDHIL 971-972 s.v. u̯ēlku- 'grass, vegetation' for a survey of forms attested and discussion.",57,False,False,,,,ú-e-el-ku
+20204,80,66,ḫaḫliu̯ant-,,green,Cf. HW² Ḫ 12 s.v. ḫaḫli(u)u̯ant- 'gelb (grün)' for attestations and interpretation.,58,False,False,,,,ḫa-aḫ-li-u-u̯a-an-za
 20205,80,67,karāt-,,"entrails, innards; inner being, character",,59,False,False,,,,ka-ra-a-a[z]
-20206,80,68,tetana-,,hair,Native script form te-e-da-an is acc.sg. (cf. Tischler TEG T p.345).,60,False,False,,,,te-e-da-an
-20207,80,69,keššar / kiššer- / kišr-,,"hand, arm",,61,False,False,,,,ke-eš-šar
+20206,80,68,tetana-,,hair,Native script form te-e-da-an is acc.sg. (cf. Tischler HEG T p.345).,60,False,False,,,,te-e-da-an
+20207,80,69,keššar / kiššer- / kišr-,,"hand, arm","Cf. HW² K 313-326 s.v. (UZU)keššar-, (UZU)kišši/ara- 'Hand' for attestations and discussion.",61,False,False,,,,ke-eš-šar
 20208,80,70,-aš,,,clitic?,62,False,True,,,,as
-20209,80,71,ḫaršar / ḫaršn-,,head,,63,False,False,,,,ḫa-ar-ša-ar
-20210,80,72,ištamašš-,,to hear,,64,False,False,,,,iš-ta-ma-aš-zi
-20211,80,73,ker / kard(i)-,,heart,AF kard-,65,False,False,,,,ke-er / kar-ti-i̯a-aš
+20209,80,71,ḫaršar / ḫaršn-,,head,Cf. HW² Ḫ 344-357 s-v- ḫaršar 'Kopf' for attestations and discussion.,63,False,False,,,,ḫa-ar-ša-ar
+20210,80,72,ištamašš-,,to hear,Cf. HW² I 236-242 s.v. ištamaš- 'hören' for attestations and discussion.,64,False,False,,,,iš-ta-ma-aš-zi
+20211,80,73,ker / kard(i)-,,heart,"Cf. HED K 189-191 s.v. kir(ti), kart(i) 'heart; center, core' and EDHIL 469-471 s.v. ker / kard(i) 'heart; center, core' for a survey of forms attested and discussion.",65,False,False,,,,ke-er / kar-ti-i̯a-aš
 20212,80,74,nakkī̆š,,"important, powerful","'important, powerful', etym. difficult, maybe IE *(h)nek- 'to seize, carry' ",66,False,True,,,,nak-ki-(i-)iš
-20213,80,74,daššu- / daššau̯-,,heavy,"'strong, powerful, heavy'",67,False,False,,,,da-aš-šu-uš
+20213,80,74,daššu- / daššau̯-,,heavy,"'strong, powerful, heavy', Cf. Tischler HEG T 259-260.",67,False,False,,,,da-aš-šu-uš
 20214,80,75,kā,,here,,68,False,False,,,,ka-a
-20215,80,76,u̯alḫ-,,to hit,,69,False,False,,,,u̯a-al-aḫ-zi
+20215,80,76,u̯alḫ-,,to hit,"Cf. EDHIL 945-946 s.v. u̯alḫ- 'to hit, to strike' for a survey of forms attested and discussion.",69,False,False,,,,u̯a-al-aḫ-zi
 20216,80,77,ḫar-zi,,,,70,False,False,,,,harzi
-20217,80,78,karāu̯ar / karaun-,,horn,Oblique ka-ra-ú-ni is dat.-loc.sg.,71,False,False,,,,ka-ra-a-u̯a-ar / ka-ra-ú-ni
+20217,80,78,karāu̯ar / karaun-,,horn,"Oblique ka-ra-ú-ni is dat.-loc.sg. Cf. HW² K 139-144 s.v. karawar 'Gehörn, Horn (von Tieren)' for attestations and discussion.",71,False,False,,,,ka-ra-a-u̯a-ar / ka-ra-ú-ni
 20218,80,79,māhhan,,how,,72,False,False,,,,ma-a-aḫ-ḫa-an
-20219,80,80,ḫuu̯arn- / ḫurn-,,to hunt,Native script form ḫu-ur-nu-u̯a-an-zi is an infinitive. The 3.sg.pres. is only attested as an imperfective stem [ḫ]u-u-u̯a-ar-ni-iš-ke-ez-zi.,73,False,False,,,,ḫu-ur-nu-u̯a-an-zi
+20219,80,80,ḫuu̯arn- / ḫurn-,,to hunt,"Native script form ḫu-ur-nu-u̯a-an-zi is an infinitive. The 3.sg.pres. is only attested as an imperfective stem [ḫ]u-u-u̯a-ar-ni-iš-ke-ez-zi. Cf. HW² K 761 s.v. ḫurna-, ḫuwarna- 'jagen, (Gebiet) bejagen' for attestations and discussion",73,False,False,,,,ḫu-ur-nu-u̯a-an-zi
 20220,80,81,pisēnas,,,'man' /lexeme/20236/,74,False,False,,,,
 20221,80,82,ūk,,I,"OH ūk, NH ammuk (taken over from the original oblique stem amm-).",75,False,False,,,,ú-uk
-20222,80,83,eka-,,ice,,76,False,False,,,,e-kán
+20222,80,83,eka-,,ice,Cf. HW² E 27-28 s.v. eka- 'Eis' for attestations and discussion,76,False,False,,,,e-kán
 20223,80,84,ták-ku,,,,77,False,False,,,,takku
 20224,80,85,an-da-an,,,(adv.),78,False,False,,,,andan
-20225,80,86,kue(n)- / kun-,,to kill,,79,False,False,,,,ku-e-en-zi
-20226,80,87,gēnu,,knee,,80,False,False,,,,ge-e-nu
-20227,80,88,šākk-/šakk-,,"to know, to experience, to pay attention to, to heed",,81,False,False,,,,ša-a-ak-ki
-20228,80,89,lūli-,,lake,,82,False,False,,,,lu-li-iš
-20230,80,91,paršdu-,,"leaf, foliage","Cf. tentatively OE brord, -es m. ‘prick, point, lance, javelin, the first blade or spire of grass/corn, etc.’ from *bhrsdh-.",84,False,False,,,,pár-aš-du-uš
+20225,80,86,kue(n)- / kun-,,to kill,"Cf. EDHIL 485-486 s.v. kue(n)- / kun- /kuu̯a(n)- 'to kill, to slay, to ruin' for a survey of forms attested and discussion.",79,False,False,,,,ku-e-en-zi
+20226,80,87,gēnu,,knee,"Cf. HW² K 293-298 s.v. (UZU) genu-, (UZU) ginu- 'Knie' for attestations and discussion",80,False,False,,,,ge-e-nu
+20227,80,88,šākk-/šakk-,,"to know, to experience, to pay attention to, to heed",Cf. CHD Š 21-32 for attestations and discussion.,81,False,False,,,,ša-a-ak-ki
+20228,80,89,lūli-,,lake,Cf. CHD L-N 80-82 for attestations and discussion.,82,False,False,,,,lu-li-iš
+20230,80,91,paršdu-,,"leaf, foliage","Cf. CHD P 190-191 s.v. (GIŠ)paršdu- 'leaf, foliage' for attestations and discussion.",84,False,False,,,,pár-aš-du-uš
 20231,80,93,egdu-,,"""Fleisch enthaltenender Teil des Beines"" (HW² E)",Lexeme refers to a 'fleshy part of the leg' (HW² E). Further semantics and etymology are unclear.,85,False,False,,,,e-ik-du
-20232,80,94,ki-,,"to lie, to be laid, to be in place, to be set",,86,False,False,,,,ki-it-ta-ri
-20233,80,95,ḫuiš- / ḫuš-,,to live,,87,False,False,,,,ḫu-iš-zi
-20234,80,96,leši- / lišši-,,liver,,88,False,False,,,,le-e-ši
-20235,80,97,taluki- / talugai-,,long,"Nom.sg. only attested with Sumerographic writing GÍD.DA-aš. Native script form reconstructed using stem attested from oblique cases: ta-lu-kán (acc.sg.), ta-lu-ga (nom./acc.n.), da-lu-ga-aš (gen.sg.).",89,False,False,,,,*ta-lu-ka-aš
+20232,80,94,ki-,,"to lie, to be laid, to be in place, to be set","Cf. HW² K 328-334 s.v. ki- 'liegen, gelegt sein, sich befinden' for attestations and discussion",86,False,False,,,,ki-it-ta-ri
+20233,80,95,ḫuiš- / ḫuš-,,to live,"Cf. HW² Ḫ 654-655 s.v. ḫuiš- ḫueš-, (ḫuš-) 'leben, am Leben sein; am Leben bleiben' for attestations and discussion",87,False,False,,,,ḫu-iš-zi
+20234,80,96,leši- / lišši-,,liver,Cf. CHD L-N 72 for attestations and discussion.,88,False,False,,,,le-e-ši
+20235,80,97,taluki- / talugai-,,long,"Nom.sg. only attested with Sumerographic writing GÍD.DA-aš. Native script form reconstructed using stem attested from oblique cases: ta-lu-kán (acc.sg.), ta-lu-ga (nom./acc.n.), da-lu-ga-aš (gen.sg.). Cf. EDHIL 819-821 s.v. *taluki- / talugai- 'long' for a survey of forms attested and discussion.",89,False,False,,,,*ta-lu-ka-aš
 20236,80,99,pešna- / pišna-,,man,Nom.sg. always uses Sumerographic writing LÚ-aš. Native script form reconstructed based on attested gen.sg. pé-eš-na-aš.,90,False,False,,,,*pé-es-na-aš
 20237,80,100,me-ek-ke-e-es,,,,91,False,False,,,,mēkkies
-20238,80,102,*arma-,,"moon(god), month","The reading arma- underlying the Sumerograms ᵈEN.ZU, ITU⁽ᴷᴬᴹ⁾, or Akkadogram ᵈSÎN in Hittite is supported by derivatives like armanni- 'lunula' and names like ᵐAr-ma-zi-ti- = ᵐ˙ᵈSÎN-ma-LÚ-i-, armuu̯alai- 'to shine (of the moon)'. Cf. further notes in cognate class.",92,False,False,,,,ᵈEN.ZU
+20238,80,102,*arma-,,"moon(god), month","The reading arma- underlying the Sumerograms ᵈEN.ZU, ITU⁽ᴷᴬᴹ⁾, or Akkadogram ᵈSÎN in Hittite is supported by derivatives like armanni- 'lunula' and names like ᵐAr-ma-zi-ti- = ᵐ˙ᵈSÎN-ma-LÚ-i-, armuu̯alai- 'to shine (of the moon)'. Cf. HW² A 313-324 s.v. arma- 'Mond', HW² A 324-326 s.v. armanni- 'lunula', etc. for attestations and EDHIL 206-207 s.v. *arma- 'moon(god); month' for further discussion.",92,False,False,,,,ᵈEN.ZU
 20239,80,103,anna-,,mother,,93,False,False,,,,an-na-aš
-20240,80,105,aiš- / išš-,,mouth,AF iss-,94,False,False,,,,a-i-iš
-20241,80,106,lāman,,"name, reputation",,95,False,False,,,,la-a-ma-an
-20242,80,107,ḫatku- / ḫatgau-,,"tight, pressed, stressful",,96,False,False,,,,ḫa-at-ku-uš
-20243,80,108,*maninku(u̯a)-,,near,"Native script form ma-ni!-in-ku-e-eš (nom.pl.). In context (KUB 23.55 iv 8) the form could also be restored as a verb ma-ni!-in-ku-e-eš[-ta], but even if that restoration is correct, one would posit an adjective *maninkuu̯a- to explain the formation of the verb maninkuu̯anu- and the adverb maninkuu̯an (CHD). Cf. 'short' /lexeme/20273/",97,False,False,,,,ma-ni!-in-ku-e-eš
+20240,80,105,aiš- / išš-,,mouth,Cf. HW² A 48-49  s.v. aiš- / išš- 'Mund' for attestations and discussion,94,False,False,,,,a-i-iš
+20241,80,106,lāman,,"name, reputation",Cf. CHD L-N 31-36 for attestations and discussion,95,False,False,,,,la-a-ma-an
+20242,80,107,ḫatku- / ḫatgau-,,"tight, pressed, stressful","Cf. HW² Ḫ 513 s.v. ḫatku- 'eng, hart schwierig' for attestations and discussion.",96,False,False,,,,ḫa-at-ku-uš
+20243,80,108,ma(n)ni(n)kuu̯an,,near,"Native script form ma-ni!-in-ku-e-eš (nom.pl.). In context (KUB 23.55 iv 8) the form could also be restored as a verb ma-ni!-in-ku-e-eš[-ta], but even if that restoration is correct, one would posit an adjective *maninkuu̯a- to explain the formation of the verb maninkuu̯anu- and the adverb maninkuu̯an (CHD). Cf. 'short' /lexeme/20273/ and *maninkuwa- (adj.) 'near' (cf. CHD M 170-174). Native script ma-an-ni-in-ku-an KBo &.2 i 48 (OS), see CHD for further attestations.",97,False,False,,,,ma-an-ni-in-ku-an
 20244,80,109,?kuttar-,,"throat, neck","Lexeme given by Buck (1949:234) in comparison to Lat. guttur. Somewhat dubious comparison. Tischler HEG A-K glosses as 'Partie unter dem Hals und über der Brust beim Menschen, etwa. ‘Schulter’ oder ‘Oberarm’'.",98,True,True,,,,
-20245,80,110,nēu̯a-,,new,Nom.sg.com. form attested by Sumerographic writing GIBIL-aš. The native script form *ne-e-u̯a-aš has been reconstructed from the attested accusative form ne-e-u̯a-an.,99,False,False,,,,*ne-e-u̯a-aš
-20246,80,111,išpant-,,night,,100,False,False,,,,iš-pa-an-za
+20245,80,110,nēu̯a-,,new,Nom.sg.com. form attested by Sumerographic writing GIBIL-aš. The native script form *ne-e-u̯a-aš has been reconstructed from the attested accusative form ne-e-u̯a-an. Cf. CHD L-N 455-458 for attestations and discussion.,99,False,False,,,,*ne-e-u̯a-aš
+20246,80,111,išpant-,,night,Cf. HW² I 207-210 s.v. išpant- 'Nacht' for attestations and discussion.,100,False,False,,,,iš-pa-an-za
 20247,80,112,titita-,,nose,"Native script form ti-it-ti-te-et is abl.-instr., cf. Tischler TEG T p.393.",101,False,False,,,,ti-it-ti-te-et
 20248,80,113,natta,,not,Frequently written using Akkadogram <i>ŪL</i> or Sumerogram NU.,102,False,False,,,,na-at-ta
 20249,80,114,*mi(i̯a)ḫu(u̯a)nt-,,"old, mature","Always written using the Sumerograms LÚ.ŠU.GI. There are no syllabic writings attested, but the reconstructed stem is based on the factitive verb *mi(i̯a)ḫu(u̯a)ntaḫḫ-, mieḫuu̯andaḫḫ-, miḫuntaḫḫ- 'to make old', derived noun *mii̯aḫuu̯andatar 'old age', mii̯a(ḫ)ḫuntešš- 'to become old'.",103,False,False,,,,ŠU.GI-an-za
 20251,80,116,ta-ma-iš,,,,105,False,False,,,,damais
 20252,80,117,antuu̯aḫḫaš- / antuḫš-,,person,"Earliest texts show an inflection nom.sg. antuu̯aḫḫaš, acc.sg. antuḫšan. Besides these, we find a thematic stem antuḫša- which must be based on the original athematic oblique antuḫš- (EDHIL).",106,False,False,,,,an-tu-u̯a-aḫ-ḫa-aš
-20253,80,118,tušk(ii̯e/a)-,,"to be happy, to entertain (oneself), to play",,107,False,False,,,,tu-uš-ki-ez-zi
-20255,80,119,ḫuett-,,to pull,,109,False,False,,,,ḫu-et-ti-i̯a-ri
-20256,80,120,šuu̯e/a-,,"to push (away), to shove, to cast off",Native script šu-(u-)u̯a-an-zi is 3.pl.pres.act.; the 3.sg.pres.act. form is unattested.,110,False,False,,,,šu-(u-)u̯a-an-zi
-20257,80,121,ḫēu- / ḫē(i̯)au-,,rain,noun,111,False,False,,,,ḫé-e-ú-uš
-20258,80,122,mit(t)a- / miti-,,red,,112,False,False,,,,mi-i-ti-iš
+20253,80,118,tušk(ii̯e/a)-,,"to be happy, to entertain (oneself), to play","Cf. EDHIL 901-902 s.v. tušk(ii̯e/a)- 'to be happy, to entertain (oneself), to play' for a survey of attested forms and further discussion.",107,False,False,,,,tu-uš-ki-ez-zi
+20255,80,119,ḫuett-,,to pull,"Cf. HW² Ḫ 672-681 s.v. ḫuittiya-, ḫuettiya-, ḫuet- 'ziehen' for attestations and discussion.",109,False,False,,,,ḫu-et-ti-i̯a-ri
+20256,80,120,šuu̯e/a-,,"to push (away), to shove, to cast off",Native script šu-(u-)u̯a-an-zi is 3.pl.pres.act.; the 3.sg.pres.act. form is unattested. Cf. EDHIL 797-798 for a survey of forms attested and discussion.,110,False,False,,,,šu-(u-)u̯a-an-zi
+20257,80,121,ḫēu- / ḫē(i̯)au-,,rain,Cf. HW² Ḫ 577-579 s.v. ḫeu- 'Regen' for attestations and discussion.,111,False,False,,,,ḫé-e-ú-uš
+20258,80,122,mit(t)a- / miti-,,red,We have included Hittite mit(t)a- / miti- as the best possible candidate for this meaning. For attestations and interpretation of the forms cf. CHD L-N 301-304.,112,False,False,,,,mi-i-ti-iš
 20259,80,123,āra,,,,113,False,False,,,,a-a-ra
-20260,80,124,kunna-,,right,,114,False,False,,,,ku-un-na-aš
-20261,80,125,ḫapa-,,river,Nom.sg. only as Sumerographic ÍD-aš; native script form reconstructed from gen.sg. ḫa-pa-aš,115,False,False,,,,*ḫa-pa-aš
+20260,80,124,kunna-,,right (hand or side),"Cf. EDHIL 493-494 s.v. kunna- 'right (hand or side); right, favourable, successful' for a survey of attestations and discussion.",114,False,False,,,,ku-un-na-aš
+20261,80,125,ḫapa-,,river,"Nom.sg. only as Sumerographic ÍD-aš; native script form reconstructed from gen.sg. ḫa-pa-aš. Cf. HW² Ḫ 197-205 s.v. ḫapa- 'Fluß, (Bach)' for attestations and discussion.",115,False,False,,,,*ḫa-pa-aš
 20262,80,126,palsas,,,,116,False,False,,,,
-20263,80,127,šurka/i-,,root,Native script form šu-ur-ki-in is acc.sg.; the nom.sg. form is unattested.,117,False,False,,,,šu-ur-ki-in
+20263,80,127,šurka/i-,,root,Native script form šu-ur-ki-in is acc.sg.; the nom.sg. form is unattested. Cf. CHD P 651-652 for attestations and discussion.,117,False,False,,,,šu-ur-ki-in
 20264,80,128,iš-ḫi-ma-a-aš,,,,118,False,False,,,,ishimas
 20266,80,131,pé-eš-zi,,,,120,False,False,,,,peszi
-20267,80,134,tē- ≠ ter-/tar-,,"to say, speak",Paradigmatically suppletive between ter-/tar- (*ter- 'to speak') and tē- (*dʰeh₁- 'to put').,121,False,False,,,,te-e-ez-zi
+20267,80,134,tē- ≠ ter-/tar-,,"to say, speak","Paradigmatically suppletive between ter-/tar- (*ter- 'to speak') and tē- (*dʰeh₁- 'to put'). Cf. EDHIL 857-858 s.v. tē- 'to speak, to state' and 870-871 s.v. ter- & tar- 'id.' for a survey of forms attested and discussion.",121,False,False,,,,te-e-ez-zi
 20268,80,135,arrirra-,,(etwas) abkratzen (HW² A),Native script form ar-ri-ir-ra-an-zi is 3.pl.pres.act.,122,False,False,,,,ar-ri-ir-ra-an-zi
-20269,80,136,aruna-,,sea,,123,False,False,,,,a-ru-na-aš
-20270,80,137,au- / u-,,"to see, to look","Puhvel gives au(s)-, u(wa)-. auszi is a secondary, late form according to him. Derived from Skt. avati 'observe, notice'.",124,False,False,,,,a-uš-zi
-20271,80,138,u̯a(ru)u̯alan-,,"seed, progeny",Luvian gloss. Nom.sg. NUMUN-an; the native script form has been reconstructed on the basis of the syllabic spelling of the gen.sg. u̯ar-ru-u̯a-la-na-aš.,125,False,False,,,,*u̯a-ar-ru-u̯a-la-an
-20272,80,140,alpu-,,pointed,,126,False,False,,,,al-pu
-20273,80,141,*manninku(u̯a)-,,short,the same lexeme in 'near' /lexeme/20243/,127,False,False,,,,ma-ni!-in-ku-e-eš
-20274,80,142,išḫamai- / išḫami-,,sing,,128,False,False,,,,iš-ḫa-ma-i
-20275,80,143,eš- / aš-,,"‘(midd.) to sit down, to seat oneself; (+ =ššan) to sit; (act.) to sit, to reside; (trans.) to settle",,129,False,False,,,,e-eš-zi
-20276,80,145,nēpiš-,,"sky, heaven",,130,False,False,,,,ne-e-pí-iš
-20277,80,146,šeš-,,"to sleep, to rest, to lie down",,131,False,False,,,,še-eš-zi
-20278,80,147,kappi- / kappai-,,"small, little",,132,False,False,,,,kap-pí-iš
-20279,80,149,tuḫḫuu̯ai- / tuḫḫui-,,smoke,,133,False,False,,,,túḫ-ḫu-iš
-20280,80,150,mīu-,,"smooth, gentle, soft",,134,False,False,,,,mi-i-uš
+20269,80,136,aruna-,,sea,Cf. HW² A 350-354 s.v. aruna- 'Meer' for attestations and discussion.,123,False,False,,,,a-ru-na-aš
+20270,80,137,au- / u-,,"to see, to look","Cf. HW² A 572-627 s.v. au-/u- 'sehen' and EDHIL 227-229 s.v. au-/u- 'to see, to look' for attested forms and discussion.",124,False,False,,,,a-uš-zi
+20271,80,138,u̯ar(ru)u̯alan-,,"seed, progeny",Luvian gloss. Nom.sg. NUMUN-an; the native script form has been reconstructed on the basis of the syllabic spelling of the gen.sg. u̯ar-ru-u̯a-la-na-aš.,125,False,True,,,,*u̯a-ar-ru-u̯a-la-an
+20272,80,140,alpu-,,pointed,"This lexeme appears as a pair with dampu- and together mean 'blunt' and 'pointed'; derivative vocabulary (alpuemar 'point, tip' and alpuēšš- vb. 'to be sharp, to be acute') suggest that dampu- means 'blunt', and therefore alpu- the counterpart meaning 'pointed'. Cf. HW² A 61 s.v. alpu- 'spitzig'(?), EDHIL 170-171 s.v. alpu- 'pointed' for attestations and further discussion with references to further literature.",126,False,False,,,,al-pu
+20273,80,141,ma(n)ni(n)kuu̯ant-,,short,"Native script form ma-ni-in-ku-wa-an-za from KBo 21.6 obv. 7 (NS). For further attestations see CHD. Derived from the same stem as the adverb 'near', *maninkuwa- (adj.) 'near' (cf. CHD L-N 170-174) .",127,False,False,,,,ma-ni-in-ku-wa-an-za
+20274,80,142,išḫamai- / išḫami-,,sing,"Cf. HW² I 121-128 s.v. išḫamai- 'singen, besingen' etc. for attestations and discussion.",128,False,False,,,,iš-ḫa-ma-i
+20275,80,143,eš- / aš-,,"‘(midd.) to sit down, to seat oneself; (+ =ššan) to sit; (act.) to sit, to reside; (trans.) to settle","Cf. HW² E 97-133 s.v. eš- Med.m eš-/aš- Akt. 'sitzen, sich setzen' for attestations and discussion.",129,False,False,,,,e-eš-zi
+20276,80,145,nēpiš-,,"sky, heaven",Cf. CHD L-N 448-453 for attestations and discussion.,130,False,False,,,,ne-e-pí-iš
+20277,80,146,šeš-,,"to sleep, to rest, to lie down",Cf. CHD Š 439-445 for attestations and discussion.,131,False,False,,,,še-eš-zi
+20278,80,147,kappi- / kappai-,,"small, little","Cf. HW² K 103-107 s.v. kappi- 'klein, jung' for attestations and discussion.",132,False,False,,,,kap-pí-iš
+20279,80,149,tuḫḫuu̯ai- / tuḫḫui-,,smoke,Cf. s.v. EDHIL 895 s.v. tuḫḫuu̯ai- / tuḫḫui- 'smoke' for a survey of attested forms and discussion.,133,False,False,,,,túḫ-ḫu-iš
+20280,80,150,mīu-,,"smooth, gentle, soft","Cf. CHD L-N 306-308 s.v. (:)miu- 'soft, smooth, mild, gentle, pleasant, agreeable' for attestations and discussion.",134,False,False,,,,mi-i-uš
 20281,80,153,kuiesqa,,,,135,False,False,,,,
 20282,80,154,allap(p)aḫḫ-,,to spit (intr.); spit out (tr.),,136,False,False,,,,al-la-ap-pa-aḫ-ḫi
 20283,80,155,iš-kal-la-i,,,,137,False,False,,,,iskallai
 20284,80,156,sai,,,,138,False,False,,,,
-20285,80,158,ar-,,"to stand (by), to be stationed, to remain standing; to be present, to occur",,139,False,False,,,,ar-ta-ri
-20286,80,159,ḫašter(a)-,,star,,140,False,False,,,,ḫa-aš-te-er-za
-20287,80,160,ḫu(u̯a)ḫurpal-,,"stick, whip","Occurs in a ritual fragment KBo 12, 123:9f.: p]iran GIŠ.MAR.GÍD.DA unuwanda (10) GIŠ ḫu-]u-u̯a-ḫur-pa-al KÙ.BABBAR GAR.RA A-NA GU₄.ḪI.A=ya ""Ahead are decked-out wagons. The stick is decorated with silver and for the oxen' (cf. HW² Ḫ). Cf. also turi- 'spear, lance', CLuv. tura/i- 'stick, weapon'.",141,False,False,,,,ḫu-ḫu-ur-pa-al
-20288,80,161,peru- / perun-,,"stone, boulder",nom.-acc.sg.n. pé-e-ru; nom.sg.c. pé-e-ru-na-aš.,142,False,False,,,,pé-e-ru
+20285,80,158,ar-,,"to stand (by), to be stationed, to remain standing; to be present, to occur","Cf. HW² A 194-219 s.v. ar- Med. intr. 'stehen, dastehen' for attestations and discussion.",139,False,False,,,,ar-ta-ri
+20286,80,159,ḫašter(a)-,,star,Cf. HW² Ḫ 434-438 s.v. ḫašter(a)- 'Stern' for attestations and discussion.,140,False,False,,,,ḫa-aš-te-er-za
+20287,80,160,ḫu(u̯a)ḫurpal-,,"stick, whip","Occurs in a ritual fragment KBo 12, 123:9f.: p]iran GIŠ.MAR.GÍD.DA unuwanda (10) GIŠ ḫu-]u-u̯a-ḫur-pa-al KÙ.BABBAR GAR.RA A-NA GU₄.ḪI.A=ya ""Ahead are decked-out wagons. The stick is decorated with silver and for the oxen' (cf. HW² Ḫ 645 s.v. GIŠ ḫu(wa)ḫurpal- 'Stock'). Cf. also turi- 'spear, lance', CLuv. tura/i- 'stick, weapon'.",141,False,False,,,,ḫu-ḫu-ur-pa-al
+20288,80,161,peru- / perun-,,"rock, cliff, boudler","nom.-acc.sg.n. pé-e-ru; nom.sg.c. pé-e-ru-na-aš. Cf. CHD P 314-315 for attestations. We have included this term as the best currently-known potential candidate, while acknowledging that due to the fragmentary attestation of Hittite a more suitable target lexeme may have existed, but is unattested.",142,False,False,,,,pé-e-ru
 20289,80,163,u(n)hzi,,,,143,False,False,,,,
-20290,80,164,ištanu-,,"sun, sungod",Normally written with Sumerogram ᵈUTU (± phonetic complements).,144,False,False,,,,ᵈIš-ta-nu-un
-20291,80,165,putkii̯e/a-,,to swell (said of fermented dough and of a tumor or boil on the head) (EDHIL),,145,False,False,,,,pu-ut-ki-i-e-et-ta
-20292,80,167,šiššai-,,"?tail, body part of animals","Only attested in two contexts, as a body part of bears, šāša-animals, and lions, and leopards. This may mean tail, but could be some other body part shared in common to these animals. The identification of this lexeme as TAIL is therefore not entirely certain. Cf. discussion in EDHIL.",146,False,False,,,,ši-ša-i
+20290,80,164,ištanu-,,"sun, sungod",Normally written with Sumerogram ᵈUTU (± phonetic complements). Cf. HED A/E+I 465-468 for attestations and discussion.,144,False,False,,,,ᵈIš-ta-nu-un
+20291,80,165,putkii̯e/a-,,"to swell (said of fermented dough and of a tumor or boil on the head) (CHD P, EDHIL)",Cf. CHD P s.v. putkiya- 'to swell (said of fermented dough and of a tumor or boil on the head)' for attestations and discussion.,145,False,False,,,,pu-ut-ki-i-e-et-ta
+20292,80,167,šiššai-,,"?tail, body part of animals","Only attested in two contexts, as a body part of bears, šāša-animals, and lions, and leopards. This may mean tail, but could be some other body part shared in common to these animals. The identification of this lexeme as TAIL is therefore not entirely certain. Cf. discussion in EDHIL, CHD P 449.",146,False,False,,,,ši-ša-i
 20293,80,168,apā-,,that,see also comment on 'there' in /lexeme/20294/,147,False,False,,,,a-pa-a-aš
 20294,80,169,apii̯a-,,there,"APU-, APA-: ""no direct cognates in other IE languages"", but maybe *Ho- (< *(h)e-, (h)o-) + *bo-  (Kloekhorst), but see comment on 'that' in /lexeme/20293/",148,False,False,,,,a-pí-i̯a
 20295,80,170,-e,,they,-e <*-oi̯.,149,False,False,,,,
@@ -9221,37 +9221,37 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 20297,80,174,kā-,,this,,151,False,False,,,,ka-a-aš
 20298,80,175,zīk,,you (sg.),Stem shows allomorphy between nom. stem zī- < Proto-Anatolian *ti- vs. oblique tu- < Proto-Anatolian *tu-.,152,False,False,,,,zi-i-ik
 20299,80,176,tēri-,,three,"The numeral '3' is only attested in full syllabographic spelling once: te-ri-i̯a-aš (gen.pl.; KUB 43.60 i 9 OH/NS). Elsewhere the logogram 3 is used, e.g. nom.pl. 3-e-eš. We may assume the reading underlying 3-e-eš would have been *terii̯ēš (Kloekhorst 2008:873).",153,False,False,,,,3-e-eš
-20301,80,177,peššii̯e/a-,,,,155,False,False,,,,pé-eš-ši-i-e-ez-zi
-20302,80,178,išḫai- / išḫi-,,"to bind, to wrap; to obligate with, to impose upon",,156,False,False,,,,iš-ḫa-a-i
-20304,80,179,lāla-,,,"prob. ""onomatopoetic"" (Weeks 1985: 60)",158,False,False,,,,la-a-la-aš
-20305,80,180,kaka-,,,,159,False,False,,,,ga-ga-aš
-20306,80,181,tāru,,,Frequently also spelled with Sumerogram GIŠ.,160,False,False,,,,ta-a-ru
-20307,80,182,nai- / ne- / nei̯a-,,,"to turn, to turn someone, to turn oneself, to send",161,False,False,,,,ne-e-a
-20309,80,183,dān,,two,Adverbial form. As an adjective the numeral is only attested using the logographic spelling '2' taking case endings from the pronominal declension. Cf. Hoffner & Melchert (2008:156).,163,False,False,,,,da-a-an
+20301,80,177,peššii̯e/a-,,,"Cf. CHD P 316-323 s.v. peš(š)iya/e-, piš(š)a/e-, peššiyai-, pišya- 'to throw, cast, shove', etc. for attestations and discussion.",155,False,False,,,,pé-eš-ši-i-e-ez-zi
+20302,80,178,išḫai- / išḫi-,,"to bind, to wrap; to obligate with, to impose upon","Cf. HW² I 113-117 s.v. išḫai-/išḫiya- 'anbinden, binden; (ein/um)wickeln; fesseln' etc. for attestations and discussion.",156,False,False,,,,iš-ḫa-a-i
+20304,80,179,lāla-,,,Cf. CHD L-N 21-25 for attestations and discussion.,158,False,False,,,,la-a-la-aš
+20305,80,180,kaka-,,tooth,"Cf. HW² K 8-12 s.v. gaga-, UZU qaqa- 'Zahn' for attestations and discussion.",159,False,False,,,,ga-ga-aš
+20306,80,181,tāru,,,Frequently also spelled with Sumerogram GIŠ. Cf. EDHIL 849-850 s.v. tāru- 'wood' for a survey of attested forms and further discussion.,160,False,False,,,,ta-a-ru
+20307,80,182,nai- / ne- / nei̯a-,,"to turn, to turn someone, to turn oneself, to send",Cf. CHD L-N 347-364 for attestations and discussion.,161,False,False,,,,ne-e-a
+20309,80,183,dān,,"for the second time, again, subordinately","Adverbial form. As an adjective the numeral is otherwise only attested using the logographic spelling '2' taking case endings from the pronominal declension, cf. Hoffner & Melchert (2008:156). Cf. EDHIL 826-827 s.v. tān 'for the second time, again, subordinately' for examples of forms attested and discussion.",163,False,False,,,,da-a-an
 20310,80,185,i̯e/a-,,'go',,164,False,False,,,,i̯a-at-ta
-20311,80,186,ānt-,,hot,Lit. a participle derived from the verb ā(i)- 'to be hot'.,165,False,False,,,,a-a-an-za
-20312,80,187,ārr- / arr-,,to wash,,166,False,False,,,,a-ar-ri
+20311,80,186,ānt-,,hot,"Lit. a participle derived from the verb ā(i)- 'to be hot', cf. HW² A 44-45 s.v. a- (1) 'warm, heiß sein', EDHIL 164-165 s.v. ā(i)- 'to be hot' for attestations and discussion.",165,False,False,,,,a-a-an-za
+20312,80,187,ārr- / arr-,,to wash,Cf. HW² A 224-234 s.v. arra- (a-)ar-r- 'waschen' for attestations and discussion.,166,False,False,,,,a-ar-ri
 20313,80,187,u̯arp-,,"to wash, to bathe",,167,False,True,,,,u̯a-ar-ap-zi
-20314,80,188,u̯ātar / u̯itēn-,,water,,168,False,False,,,,u̯a-a-tar / ú-u̯i₅-te-na-aš
+20314,80,188,u̯ātar / u̯itēn-,,water,Cf. EDHIL 987-988 s.v. u̯ātar / u̯itēn- 'water¨ for a survey of attested forms and further discussion.,168,False,False,,,,u̯a-a-tar / ú-u̯i₅-te-na-aš
 20315,80,189,u̯ēš,,"we, us",Oblique stem anz-.,169,False,False,,,,ú-e-eš
 20316,80,190,*hurniyant-,,,"The verb is consistently spelled with the syllabogram ḪAR, which can be read as both ḫar and ḫur. There is some debate over whether the stem should be read as ḫarn- or ḫurn-. The attestation of the 3.sg.imptv. ḫa-ar-ni-i̯a-ad-du argues for the former reading. (Kloekhorst 2008:308-309). Consequently note that in HED H the forms are found under the stem ḫurnai- / ḫurniya-, but in HW² Ḫ under ḫarnai-, ḫarniya-.",170,True,True,,,,
 20317,80,191,kuit,,what,,171,False,False,,,,ku-it
 20318,80,192,kuwāpi(t),,"when, where, whenever",,172,False,False,,,,ku-u̯a-a-pí-it
 20319,80,193,kuwāpi(t),,"when, where, whenever",,173,False,False,,,,ku-u̯a-a-pí-it
-20320,80,194,ḫarki-,,"white, bright",,174,False,False,,,,ḫar-ki-iš
+20320,80,194,ḫarki-,,"white, bright",Cf. HW² Ḫ 307-314 s.v. ḫarki- 'weiß' (Sumerogr. BABBAR) for attestations and discussion.,174,False,False,,,,ḫar-ki-iš
 20321,80,195,kui-,,who,,175,False,False,,,,ku-iš
-20322,80,196,palḫi-,,wide,,176,False,False,,,,pal-ḫi-iš
+20322,80,196,palḫi-,,"wide, broad","Cf. CHD P 65-67 s.v. palḫi- 'wide, broad' for attestations and discussion.",176,False,False,,,,pal-ḫi-iš
 20323,80,197,*kuwanz,,,the same as 'woman' in /lexeme/20329/,177,False,False,,,,
-20324,80,198,ḫuu̯ant-,,wind,,178,False,False,,,,ḫu-u̯a-an-za
-20325,80,199,partāu̯ar / partaun-,,"wing, feather",Native script oblique stem form pár-ta-u-na-az is abl.; the gen.sg. is unattested.,179,False,False,,,,pár-ta-u-u̯a-ar / pár-ta-u-na-az
-20326,80,199,pattar / pattan-,,"wing, feather",Oblique stem attested via dat.-loc.pl. pád-da-na-aš and pát-ta-na-aš.,180,False,False,,,,pát-tar / pát-ta-na-aš
+20324,80,198,ḫuu̯ant-,,wind,Cf. HW² Ḫ 812-815 s.v. ḫuwant- 'Wind' (Sumerogr. IM) for attestations and discussion.,178,False,False,,,,ḫu-u̯a-an-za
+20325,80,199,partāu̯ar / partaun-,,"wing, feather",Native script oblique stem form pár-ta-u-na-az is abl.; the gen.sg. is unattested. Cf. CHD P 198-199 for attestations and discussion.,179,False,False,,,,pár-ta-u-u̯a-ar / pár-ta-u-na-az
+20326,80,199,pattar / pattan-,,"wing, feather",Oblique stem attested via dat.-loc.pl. pád-da-na-aš and pát-ta-na-aš. Cf. CHD P 240-241 for attestations and discussion.,180,False,False,,,,pát-tar / pát-ta-na-aš
 20327,80,200,a-an-ši,,,,181,False,False,,,,ānssi
 20328,80,201,katti,,together with,"Normally takes enclitic possessive pronoun, e.g. kat-ti=mi 'with me'.",182,False,False,,,,kat-ti
-20329,80,202,*kuu̯an-,,woman,"Reconstructed stem is not actually attested. The form underlying the Sumerogram MUNUS-an-za, MUNUS-na-aš, etc. is an n-stem and quite likely to be reconstructed as *kuu̯an- (Kloekhorst 2008:501-505) based on the inflection and the attestation of CLuw. u̯āna- 'woman', Lyd. kãna- 'wife'.",183,False,False,,,,MUNUS-an-za
-20330,80,203,tii̯eššar / tii̯ešn-,,forest,The oblique stem ti-e-eš-ni is dat.-loc.sg.,184,False,False,,,,ti-i-e-eš-šar / ti-i-e-eš-ni
+20329,80,202,*kuu̯an-,,woman,"This term is only partially attested in Hittite. The form underlying the Sumerogram MUNUS-an-za, MUNUS-na-aš, etc. is an n-stem and quite likely to be reconstructed as *kuu̯an- (Kloekhorst 2008: 501-505) based on the inflection and the attestation of CLuw. u̯āna- 'woman', Lyd. kãna- 'wife', which reflect the inherited word *gʷen-. For further discussion see also M. Serangeli ""Kinship Terms in the Anatolian Languages"" In B. Nielsen Whitehead, B. A. Olsen & J. B. Jacquet eds., Kin, Clan and Community in Indo-European Society (Copenhagen, 2020) pp. 212-213 for further discussion. We further note that this lexical identification was also accepted by the CPHL lexical dataset.",183,False,False,,,,MUNUS-an-za
+20330,80,203,tii̯eššar / tii̯ešn-,,forest,"The oblique stem ti-e-eš-ni is dat.-loc.sg. The contexts of this word are uncertain, but the consistent use of the determinative GIŠ indicates the word has something to do with wood. It is argued that the word may be connected with the Sumerogram (GIŠ)TIR 'forest' that is sometimes phonetically complemented with a -šar/-šn- flexional ending, and so the translation 'forest' has commonly been adopted for this lexeme, although the evidence for this identification is admittedly circumstantial. We have included this word as the best possible candidate, but given the fragmentary attestation of Hittite the possibility remains open that it might not be the target lexeme.",184,False,False,,,,ti-i-e-eš-šar / ti-i-e-eš-ni
 20331,80,205,šumēš,,you (pl.),,185,False,False,,,,šu-me-e-eš
-20332,80,206,u̯itt-,,year,"Nom.sg. only as Sumerographic MU.KAM-za. Stem attested in syllabic spellings of oblique case forms ú-i-it-ti (dat.-loc.sg.), ú-i-[-it-ta-an], ú-it-ta-an, ú-i-it-ta-aš (gen.pl.) and derived vocab., e.g. u̯ettandātar 'period of a year', etc.",186,False,False,,,,MU.KAM-za
-20333,80,207,ḫaḫliu̯ant-,,"yellow, green",origin unknown (Weeks 1988: 215f),187,False,False,,,,ḫa-aḫ-li-u-u̯a-an-za
+20332,80,206,u̯itt-,,year,"Nom.sg. only as Sumerographic MU.KAM-za. Stem attested in syllabic spellings of oblique case forms ú-i-it-ti (dat.-loc.sg.), ú-i-[-it-ta-an], ú-it-ta-an, ú-i-it-ta-aš (gen.pl.) and derived vocab., e.g. u̯ettandātar 'period of a year', etc. Cf. EDHIL 1014-1015 s.v. u̯itt- 'year¨ for a survey of attested forms and further discussion.",186,False,False,,,,"MU.KAM-za, ú-i-it-ti"
+20333,80,207,ḫaḫliu̯ant-,,"yellow, green",Cf. HW² Ḫ 12 s.v. ḫaḫli(u)u̯ant- 'gelb (grün)' for attestations and interpretation.,187,False,False,,,,ḫa-aḫ-li-u-u̯a-an-za
 20334,112,1,omnis,ˈomnis,"the whole, all",G.sg. omnis,0,False,False,ˈomnis,,,
 20335,112,1,tōtus,ˈtoːtus,"the whole of, all",EXCLUDED.,1,False,True,ˈtoːtus,,,
 20336,112,2,et,et,"and, too",,2,False,False,et,,,
@@ -9441,7 +9441,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 20530,112,169,ibi,ˈibiː,"in that place, there","Adv., cf. 'here' in /cognate/2691/",196,False,False,ˈibiː,ibi,,
 20531,112,169,illīc,,,EXCLUDED.,197,False,True,,,,
 20532,112,170,eī,eiː,they,"eī, eae, ea (G.sg. eōrum); plural form of is, ea, id '(s)he, it' /lexeme/20418/",198,False,False,eiː,ei1,,
-20533,112,171,crassus,ˈkrassus,"having considerable thickness in section, thick","G.sg. crassī; crassus, crassa, crassumsee 'fat' in /cognate/1262/. Etymology unclear.",199,False,False,ˈkrassus,crassus1,,
+20533,112,171,crassus,ˈkrassus,"having considerable thickness in section, thick","G.sg. crassī; crassus, crassa, crassum. See 'fat' in /cognate/1262/. Etymology unclear.",199,False,False,ˈkrassus,crassus1,,
 20534,112,171,spissus,ˈspisːus,"dense, solid, compact (of solids); thick, viscous (of liquids)",EXCLUDED.,200,False,True,ˈspisːus,,,
 20535,112,172,tenuis,ˈtenuis,"slender, thin (of things small in cross-section)",G.sg. tenuis,201,False,False,ˈtenuis,tenuis,,
 20536,112,172,macer,ˈmaker,"thin, lean, scraggy (of men and animals)","EXCLUDED. macer, macra, macrum.",202,False,True,ˈmaker,,,
@@ -9449,7 +9449,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 20539,112,174,hic,hik,"this (indicating a particular person or thing that is present in place, time, or thought)","G.sg. huius; hic, haec, hoc.Lat. hic < *⁽g̑⁾ʰo k̑e.",205,False,False,hik,hic,,
 20540,112,175,tū,tuː,"thou, you (sg.)","G.sg. tuī, D.sg. tibi, A.sg. tē, Ab.sg. tē",206,False,False,tuː,tu,,
 20541,112,176,trēs,treːs,three,G.sg. trium,207,False,False,treːs,tres,,
-20542,112,177,iacere,ˈjakere,"to propel through the air, throw, cast","iaciō, iacere, iēcī, iactum",208,False,False,ˈjakere,jaceo,,
+20542,112,177,iacere,ˈjakere,"to propel through the air, throw, cast","iaciō, iacere, iēcī, iactum",208,False,False,ˈjakere,jacio,,
 20543,112,178,ligāre,liˈɡaːre,"to fasten, bind, tie","ligō, ligāre, ligāuī, ligātum",209,False,False,liˈɡaːre,ligo1,,
 20544,112,179,lingua,ˈliŋɡwa,tongue,G.sg. linguae,210,False,False,ˈlinɡwa,lingua,,
 20545,112,180,dens,dens,"'tooth' (of humans and animals), also 'tusk, ivory' (of a boar or elephant)",G.sg. dentis,211,False,False,dens,dens,,
@@ -11203,7 +11203,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 23673,51,181,rūkha,rukʰ,,,202,False,False,,,,रूख
 23677,38,181,dair,,,'oak',194,False,True,,,,
 23685,99,144,fell,felː,,'hide',242,False,True,,,,
-23687,80,144,mī/a/eluli-,,"skin, flesh, soft tissue?",,190,False,False,,,,mi-i-lu-ú-li
+23687,80,144,mī/a/eluli-,,"skin, flesh, soft tissue?",,190,False,True,,,,mi-i-lu-ú-li
 23718,35,73,hr̥day,ɦr̥d̪əj,,,201,False,True,,,,हृदय
 23766,8,102,amis,amis,,,201,False,True,,,,ամիս
 23767,46,102,mėnùlis,mʲeːˈnʊlʲɪs,,Changed from MENUO.,206,False,False,mʲeːˈnʊlʲɪs,menulis,,
@@ -11981,7 +11981,6 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 24723,51,62,pūrā,pura,,,206,False,False,,,,पूरा
 24726,35,62,bhar,bʱəɾ,,,205,False,True,,,,भर
 24727,10,62,bharti,bʱort̪i,,,199,False,False,,,,ভর্তি
-24730,80,146,šupp-,,fall asleep,,192,False,True,,,,šu-up-pa-ri
 24733,75,64,xub,,,,182,False,True,,,,
 24736,51,64,rāmro,ramro,,,210,False,False,,,,राम्रो
 24738,38,66,uaine,ˈuənʲə,,,195,False,True,,,,
@@ -12043,7 +12042,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 24872,35,117,insān,ɪnsɑn,,,207,False,False,ɪnsɑn,,,इनसान
 24880,8,185,šrǰel,,, ,199,False,True,,,,շրջել
 24881,51,185,him̐ḍnu,ɦiɾ̠nu,, ,217,False,False,,,,हिँड्नु
-24883,73,185,ìti,iˈtɪ,,Also 'to go'. Unidirectional verb. Depending on the phonetic context an alternative phonetic form 'йти' is used.,211,False,True,,,,іти
+24883,73,185,ìti,iˈtɪ,,Also 'to go'. Unidirectional verb. 	Depending on the phonetic context an alternative phonetic form 'йти' is used.,211,False,True,,,,іти
 24884,16,185,ìscì,isʲˈtsʲi,,Also 'to go'. Unidirectional verb.,204,False,True,,,,ісці
 24885,17,185,caminar,kəmiˈna,,,204,False,False,kəmiˈna,,,
 24886,56,185,caminhar,kɐmiˈɲaɾ,,,204,False,True,,,,
@@ -12091,7 +12090,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 24998,39,130,tondo,ˈtondo,,,206,False,False,ˈtondo,,,
 24999,68,130,redondo,reˈðɔn̪do,,,203,False,False,reˈdondo,w=redondo,,
 25000,59,130,rotund,ɾoˈtund,,,206,False,False,roˈtund,rotund,,
-25003,20,130,rund,ˈʁɔnˀ,,,200,False,False,,rund,,
+25003,20,130,rund,ˈʁɔnˀ,ˈ,,200,False,False,,rund,,
 25004,69,130,rund,rɵnd,,,213,False,False,,rund,,
 25005,22,130,round,,,"Middle English via Anglo-Norman rounde, variant of Old French rond, ultimately from vulgar Latin retundus, from Latin rotundus",200,False,False,ɹaʊnd,167938,,
 25006,38,130,cruinn,ˈkˠɹ̥ʷɪɲ,,,198,False,False,ˈkrən̪ʲ,cruinn,,
@@ -12272,7 +12271,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 25502,8,76,zarkel,,, ,214,False,True,,,,զարկել
 25504,51,76,hānnu,ɦanːu,, ,235,False,False,,,,हान्नु
 25506,50,76,mārane,maɾɳe,, ,211,False,False,,,,मारणे
-25507,20,76,træffe,ˈtʁafə,, ,204,False,True,,,,
+25507,20,76,træffe,ˈtʁafə,,,204,False,True,,,,
 25508,24,76,treffen,,,appears to be most basic TKD,206,False,False,,,,
 25509,24,76,raken,,, ,207,False,True,,,,
 25511,21,76,stoten,ˈstotə(n),, ,209,False,True,,stoten,,
@@ -16628,12 +16627,12 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 33301,69,197,fru,frʉː,,,291,False,False,,,,
 33302,20,5,på,ˈpɔˀ,,,205,False,False,,,,
 33303,20,7,dårlig,ˈdɒːli,,,206,False,False,,dårlig,,
-33304,20,10,mave,ˈmæːvə,'stomach',,207,False,True,,,,
-33305,20,30,uren,ˈuˌʁɛˀn,'unclean',,208,False,True,,,,
+33304,20,10,mave,ˈmæːvə,,,207,False,False,,mave,,
+33305,20,30,uren,ˈuˌʁεˀn,'unclean',,208,False,True,,,,
 33306,20,30,snavset,ˈsnɑwsəð,,,209,False,False,,snavset,,
 33307,20,37,muld,ˈmulˀ,'soil',,210,False,True,,,,
-33308,20,38,æde,ˈɛːðə,,appear to be true synonyms TKD,211,False,False,,æde,,
-33309,20,42,langt væk,ˈlɑŋˀd ˈvɛɡ,,,212,False,False,,langt,,
+33308,20,38,æde,ˈɛːðə,,"appear to be true synonyms TKD; MJCS: æde is mostly used for animals (Thomas Olander, p.c.)",211,False,True,,æde,,
+33309,20,42,langt væk,ˈlɑŋˀd ˈvɛɡ,'far away',,212,False,False,,langt,,
 33310,20,45,ræddes,ˈʁaðəs,,,213,False,True,,,,
 33311,20,48,slås,ˈslʌs,,slightly more basic,214,False,False,,slås,,
 33313,20,48,stride,ˈsdʁiːðə,,,215,False,True,,,,
@@ -16646,15 +16645,15 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 33320,20,18,bryst,ˈbʁœsd,,,222,False,False,,bryst,,
 33321,20,91,blad,ˈblað,,,223,False,False,,blad,,
 33322,20,101,huld,ˈhulˀ,,,224,False,True,,,,
-33323,20,104,fjeld,ˈfjɛlˀ,,,225,False,True,,,,
+33323,20,104,fjeld,ˈfjεlˀ,,,225,False,True,,,,
 33324,20,102,måne,ˈmɔːnə,,,226,False,False,,måne,,
 33325,20,107,trang,ˈtʁɑŋˀ,,,227,False,True,,,,
 33326,20,107,snæver,ˈsnɛwˀʌ,,from old norse snæfr,228,False,True,,,,
-33327,20,109,nakke,ˈnɑɡə,,,229,False,True,,,,
+33327,20,109,nakke,ˈnɑgə,,,229,False,True,,,,
 33328,20,114,forne,ˈfɒːnə,'ancient,,230,False,True,,,,
 33329,20,118,spille,ˈsbelə,,more common,231,False,False,,spille,,
 33330,20,119,drage,ˈd̥ʁɑːwə,,,232,False,True,,,,
-33331,20,120,skyde,ˈsɡyːðə,,less common,233,False,True,,,,
+33331,20,120,skyde,ˈsgyːðə,,less common,233,False,True,,,,
 33332,20,120,skubbe,ˈsɡɔbə,,,234,False,False,,skubbe,,
 33333,20,125,å,ˈɔˀ,,,235,False,True,,,,
 33334,20,125,elv,ˈɛlˀv,,,236,False,True,,,,
@@ -16662,10 +16661,10 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 33336,20,135,klø,ˈkløˀ,,means both 'scratch' and 'itch'; other seems more basic,238,False,True,,,,
 33337,20,136,sø,ˈsøˀ,,,239,False,True,,,,
 33338,20,138,frø,ˈfʁœˀ,,,240,False,False,,frø,,
-33339,20,144,skind,ˈsɡenˀ,,more commonly of animals,241,False,True,,,,
+33339,20,144,skind,ˈsgenˀ,,more commonly of animals,241,False,True,,,,
 33340,20,147,små,ˈsmɔˀ,,,242,False,True,,,,
-33341,20,150,jævn,ˈjɛwˀn,'even',,243,False,True,,,,
-33342,20,151,snog,ˈsnoˀ,,,244,False,True,,,,
+33341,20,150,jævn,ˈjεwˀn,'even',,243,False,True,,,,
+33342,20,151,snog,ˈsnoˀ,ˈ,,244,False,True,,,,
 33343,20,153,somme,ˈsʌmə,,,245,False,False,,,,
 33344,20,156,presse,ˈpʁasə,,,246,False,False,,,,
 33345,20,156,klemme,ˈɡ̊ʰlɛmə,,,247,False,False,,,,
@@ -16678,7 +16677,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 33352,20,202,dame,ˈdɛːmə,'lady',,252,False,True,,,,
 33556,20,178,knytte,ˈknydə,'bind',,253,False,True,,,,
 33588,69,95,bo,buː,,,294,False,True,,,,
-33589,20,95,bo,boˀ,,,254,False,False,,bo,,
+33589,20,95,bo,boˀ,,"MJCS: not the target lexeme. 'bo' means 'dwell' (Thomas Olander, p.c.)",254,False,True,,bo,,
 33590,109,95,búa,buːa,'dwell',"Also used in the meaning 'live', but not the default.",331,False,True,,b0084,,
 33591,23,95,búgva,ˈb̥ɪɡ̊va,,,314,False,False,,búgva,,
 33592,36,10,kviður,ˈkʰvɪːðʏr,,,229,False,False,ˈkvɪːðʏr,,,
@@ -17168,7 +17167,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 34491,20,182,vride,ˈvʁiːðə,'twist',,255,False,True,,,,
 34492,20,182,dreje,ˈdʁɑjə,,,256,False,False,,dreje,,
 34494,69,150,jämn,jɛmn,,,297,False,True,,,,
-34495,20,160,kæp,ˈkɛb,,less common,257,False,True,,,,
+34495,20,160,kæp,ˈkεb,,less common,257,False,True,,,,
 34497,69,160,käpp,ɕɛpː,,,298,False,True,,,,
 34498,58,160,kjepp,çɛpː,"'staff, cudgel'",,284,False,True,çɛpː,,,
 34503,36,129,morkinn,ˈmɔr̥kʰɪnː,,,298,False,False,,,,
@@ -17212,11 +17211,11 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 34541,58,37,mold,mɔlː,'topsoil',,285,False,True,mɔlː,,,
 34543,23,76,berja,,,,319,False,True,,,,
 34544,58,89,innsjø,ˈɪ̀nːˌʃøː,,,286,False,False,ˈɪ̀nː,,,
-34545,20,90,grine,ˈɡʁiːnə,,"primary meaning 'grin', 'laugh' is secondary",259,False,True,,,,
+34545,20,90,grine,ˈɡʁiːnə,,"TKD: primary meaning 'grin', 'laugh' is secondary. MJCS: this is the target lexeme. ""'grine' is probably more common than 'le' which is a bit old fashioned"" (Thomas Olander, p.c.)",259,False,False,,,,
 34546,21,107,smal,,,,260,False,False,,smal,,
 34547,21,108,dichtbij,,,,261,False,False,,bij1,,
 34548,23,117,fólk,,,collective,320,False,True,,,,
-34549,20,117,menneske,ˈmɛnəsɡə,,more technical,260,False,True,,,,
+34549,20,117,menneske,ˈmεnəsgə,,more technical,260,False,True,,,,
 34550,69,120,puffa,,,,300,False,True,,,,
 34551,69,120,trycka,,,,301,False,True,,,,
 34552,58,120,trykke,ˈtɾʏ̀kːɛ,,most frequent TKD,287,False,True,ˈtrʏ̀kːɛ,,,
@@ -17224,7 +17223,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 34554,109,125,fljót,fljoːt,,,335,False,True,,b0161,,
 34555,157,129,mör,mør,,,296,False,False,mør,,,
 34556,109,129,meyrr,,,,336,False,True,,b0426,,
-34557,20,129,mør,ˈmøˀ,,,261,False,False,,mør,,
+34557,20,129,mør,ˈmøˀ,,,261,False,True,,mør,,
 34558,36,129,meyr,,'soft',,300,False,True,,,,
 34560,69,129,multen,,,,302,False,True,,,,
 34563,21,129,vermolmd,,,,262,False,True,,vermolmd,,
@@ -17239,7 +17238,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 34572,36,167,skott,,,of foxes and dogs,301,False,True,,,,
 34573,58,182,vri,ʋɾiː,'twist',,290,False,True,ʋriː,,,
 34574,109,182,ríða,riːða,'ride','turn' meaning is secondary,338,False,True,,b0497,,
-34575,20,184,brække sig,ˈbʁaɡə ˈsɑj,'puke',,263,False,True,,,,
+34575,20,184,brække sig,ˈbʁagə ˈsɑj,'puke',,263,False,True,,,,
 34576,58,186,ly,lyː,'lukewarm',,291,False,True,lyː,,,
 34579,22,205,you,,,,208,False,False,,232147?,,
 34580,22,175,you,,,,209,False,False,,232147?,,
@@ -17854,7 +17853,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 35254,97,26,rezati,ˈɾèːzɑ̈ti,,,191,False,False,ˈrèːzati,4291358/rezati,,
 35255,172,98,"louenn, laoüen","ˈlowen, ˈlawen",louse,"Singulative. The corresponding collective is Early Modern Breton laou, laöu.",109,False,False,,,,
 35256,172,99,"den, din",ˈdeːn,"human being, man, person",Not the Swadesh term if the opposition man - woman is intended. ,110,False,True,,,,
-35257,172,99,gour,ˈɡuːr,"man, servant, person","According to the Catholicon (1499) synonymous to ozech. The latter is however found in other sources with the meaning 'husband, married man'.",111,False,False,,,,
+35257,172,99,gour,ˈɡuːr,"man, servant, person","According to the Catholicon (1499) synonymous to ozech. The latter is however found in other sources with teh meaning 'husband, married man'.",111,False,False,,,,
 35258,172,100,cals,ˈkals,"many, much","Can be used with count nouns and with abstract nouns, e.g. cals merit 'much merit', cals tyez 'many houses'. Sometimes preceded by a 'of', e.g. cals a doan 'much sorrow', cals a clevedou 'many deseases' (Hemon 1975, 148).",112,False,False,,,,
 35259,172,101,"quic, quicq, quyc",ˈkiːk,"meat, flesh",,113,False,False,,,,
 35260,172,102,"loar, loàr, loer","ˈloar, ˈloer",moon,,114,False,False,,,,
@@ -18295,7 +18294,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 35722,174,59,tcahora,tsɐhɔːrɐ,NUM,,21,False,False,t͜sahora,,,
 35723,174,176,drai,drɐi,NUM,,22,False,False,drai̯,,,
 35724,174,115,śśau,ʃʲɔː,NUM,,23,False,False,ʃoː,,,
-35725,80,115,šia-,,one,"Nom.sg. always spelled as 1-iš (OS), 1-aš (NS).  The native script form as given is reconstructed from gen.sg. ši-i-e-el, dat.-loc.sg. ši-e-da-ni, etc. Cf. CHD for full range of forms attested.",197,False,False,,,,*ši-i-aš
+35725,80,115,šia-,,one,"Nom.sg. always spelled as 1-iš (OS), 1-aš (NS).  The native script form as given is reconstructed from gen.sg. ši-i-e-el, dat.-loc.sg. ši-e-da-ni, etc. Cf. CHD P 333-337 for full range of forms attested.",197,False,False,,,,*ši-i-aš
 35726,128,3,pasu-,,domestic animal,,212,False,False,,,,
 35727,105,212,"hyáḥ, hiáḥ",ˈɦjɐh,adv.,,295,False,False,hiás,1306,,ह्यः
 35729,174,206,salī,sɐliː,NOM.SG.f,stem salīa-,24,False,False,saliː,,,
@@ -20310,7 +20309,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 37883,152,212,ephéži,e̞ˈpʰe̞ʒi,,,240,False,False,e̞ˈpʰe̞ʒi,,,επ̔έζ̌ι
 37884,152,205,emoú,e̞ˈmu,,/e̞ˈmi/ NPT,241,False,False,e̞ˈmu,,,εμού
 37888,133,150,mīu-/mīi̯au̯-,,smooth?,Native script form is nom.pl.,116,True,False,,,,mi-i-i̯a-u̯i₅-en-zi (CL)
-37889,80,214,per- / parn-,,house,"Nom.sg. is always spelled as a Sumerogram É-er, (gen.sg. É-aš). The nominative stem per- is certain from dat.-loc.sg. pé-e-ri (beside pár-ni) and abl. É-er-za beside pár-na-za.",195,False,False,,,,É-er / pár-n-
+37889,80,214,per- / parn-,,house,"Nom.sg. is always spelled as a Sumerogram É-er, (gen.sg. É-aš). The nominative stem per- is certain from dat.-loc.sg. pé-e-ri (beside pár-ni) and abl. É-er-za beside pár-na-za. Cf. CHD P 	273-291 for attestations and discussion.",195,False,False,,,,É-er / pár-n-
 37890,135,164,tii̯at-,,,"Ti-i̯a-az N.sg., specifically referring in context to the Sungod, written without determinative and uninflected.",18,True,False,,,,Ti-i̯a-az(-)
 38383,188,1,oúo,ˈuo̞,,,1,False,False,ˈuo̞,,,ούο
 38384,188,4,stáchtī,ˈstaxti,,,2,False,False,ˈstaxti,,,στάχτη
@@ -25314,7 +25313,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 47795,99,221,niman,ˈnimɑn,,,270,False,False,nimɑn,,,
 47796,99,209,þēoh,θeːox,,,271,False,False,θeːoh,,,
 47797,99,212,gyrstandæg,ˈjyɻstɑndæj,,"Many variants (gestran-, gestor-, georstan-, gister-, gestron-). The base is the adjective geostra ""yester-, of yesterday""",272,False,False,ɣyrstɑndæɣ,,,
-47798,80,12,u̯attai-,,bird,Form attested only once (nom.pl. wa-at-ta-e-eš). Identification with Sum. MUŠEN (Friedrich 1927:190 1) is generally accepted. The word (a diphthong stem) is probably inherited.,196,False,False,,,,u̯a-at-ta-e-eš
+47798,80,12,u̯attai-,,bird,"Form attested only once (nom.pl. wa-at-ta-e-eš). Identification with Sum. MUŠEN (Friedrich 1927:190 1) is generally accepted. The word (a diphthong stem) is probably inherited. We have added this term as the best currently-known potential candidate, while acknowledging that due to the fragmentary attestation of Hittite a more suitable target lexeme may have existed, but is unattested. The CPHL dataset included for this concept 'suwais (?)' regarding which Kloekhorst (EDHIL 795) accepts the analysis of Y. Cohen (2010. Rara avis: A study of the HU section of the Sa vocabulary. In H. Baker, E. Robson, & G. Zólyomi eds., Your praise is sweet. A memorial volume for Jeremy Black from students, colleagues and friends. London pp. 29-40. British Institute for the Study of Iraq.) that this word does not mean 'bird', but rather 'rejection'.",196,False,False,,,,u̯a-at-ta-e-eš
 47799,189,208,furmicola,furˈmikələ,,,238,False,False,furˈmikələ,,,
 47800,189,215,amaro,amˈaɾə,,,239,False,False,amˈarə,,,
 47801,189,220,purtà,purˈta,,,240,False,False,purˈta,,,
@@ -26673,15 +26672,15 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 49935,125,91,t'affæ,tʼɑffɜ,,,206,False,False,tʼaffɜ,,,тъаффӕ
 49936,125,104,k'æʒæx,kʼɜdzɜχ,"cliff, mountain",,207,False,False,kʼɜʒɜχ,,,къӕдзӕх
 49937,125,105,c'ux,tsʼuχ,,,208,False,False,cʼuχ,,,цъух
-49938,80,220,peda- / ped-,,"to take (somewhere), to carry, to transport; to spend (time)","prefix pe- and verb dā- 'to take, to wed, to decide', cf. uda- ‘to bring (here)’ from prefix u- and dā- 'id.'.",197,False,False,,,,pé-e-da-i
-49939,80,226,parta/i-,,"?talon, leg (an item associated with beds and eagles)",unclear etymology.,198,True,False,,,,pár-ta-aš
-49940,80,224,i̯e/a-,,"to do, make",,199,False,False,,,,i-e-ez-zi
+49938,80,220,peda- / ped-,,"to take (somewhere), to carry, to transport; to spend (time)","prefix pe- and verb dā- 'to take, to wed, to decide', cf. uda- ‘to bring (here)’ from prefix u- and dā- 'id.'. Cf. CHD P 345ff. for attestations and discussion.",197,False,False,,,,pé-e-da-i
+49939,80,226,parta/i-,,"?talon, leg (an item associated with beds and eagles)","unclear etymology. Cf. CHD P 197 s.v. parta/i- leg(?), talon(?) under 2 '(an item associated with eagles'. This may not be the target lexeme.",198,True,True,,,,pár-ta-aš
+49940,80,224,i̯e/a-,,"to do, make","Cf. HW² I 6-18 s.v. iye- / iya-'machen, tun', etc. for attestations and discussion.",199,False,False,,,,i-e-ez-zi
 49941,134,224,a(i)-,,"to do, make","3.sg.pres. adi, stem a-/ai-; translates/translated by Greek κατασκευάζω in bilingual inscriptions.",42,False,False,,,,𐊀𐊅𐊆
 49942,133,224,ā- / āi̯a-,,,,117,False,False,,,,a-ti (CL)
-49943,80,46,pattar / pattan-,,"feather, wing","(r/n-stem) pattar/pattan- 'wing, feather' (*petH- 'to fly'). Cf. also partāu̯ar/partaun- 'wing, feather'.",200,False,False,,,,pát-tar / pád-da-na-aš
-49944,80,218,pai- / pa-,,to go,cf. i- 'to go'.,201,False,False,,,,pa-iz-zi
+49943,80,46,pattar / pattan-,,"feather, wing","(r/n-stem) pattar/pattan- 'wing, feather', see also partāu̯ar/partaun- 'wing, feather'. Cf. CHD P 240-241 for attestations and further discussion.",200,False,False,,,,pát-tar / pád-da-na-aš
+49944,80,218,pai- / pa-,,to go,Cf. CHD P 18-40 for attestations and discussion.,201,False,False,,,,pa-iz-zi
 49945,125,121,k'ævda,kʼɜvdɑ,,,209,False,False,kʼɜvda,,,къӕвда
-49946,80,225,malla- / mall-,,"to mill, to grind",,202,False,False,,,,ma-al-la-i
+49946,80,225,malla- / mall-,,"to mill, to grind",Cf. s.v. CHD L-N 125-126 for attestations and discussion.,202,False,False,,,,ma-al-la-i
 49947,125,138,muggag,mukːɑɡ,,,210,False,False,mukːaɡ,,,муггаг
 49948,125,154,lixsun,liχsun,,Past stem: liχst-.,211,False,False,liχs-un,,,лихсун
 49949,125,160,læʒæg,lɜdzɜɡ,,,212,False,False,lɜʒɜɡ,,,лӕдзӕг
@@ -26714,17 +26713,17 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 49976,125,221,esun,jesun,,Past stem: ist-.,237,False,False,jes-un,,,есун
 49977,125,209,sujnæ,sujnɜ,,,238,False,False,sujnɜ,,,суйнӕ
 49978,125,212,æzinæ,ɜʒinɜ,,,239,False,False,ɜzinɜ,,,ӕзинӕ
-49979,80,222,munnai-,,"to hide, to conceal",probably a nasal infixed verb that was trasferred to the hatrai-class.,203,False,False,,,,mu-un-na-a-iz-zi
+49979,80,222,munnai-,,"to hide, to conceal","Probably a nasal-infixed verb that was transferred to the hatrai-class, cf. CHD L-N 329-332 for attestations and discussion.",203,False,False,,,,mu-un-na-a-iz-zi
 49984,81,220,pärtär,pɨrtɨr,"carries, bears","Root /kāmā-/, suppletive pres. /pr(a)-/.",186,False,False,pr-tr,,,pärtär ≠ kāmā-/
 49985,81,226,kolye,kolʲe,"hoof, claw, paw",Hapax in A12 b4,187,False,False,kolʲe,,,
 49987,81,224,yaṣ,jəʂ,"does, makes","Root /yām-/, suppletive irregular pres. /ya-/ ~ /ypa-/. Most likely related to either Ved. yam- 'hold (out, back)' < PIE *i̯em- or the family of Lat. emō 'take, buy', Lith. im̃ti, OCS ęti 'take' < PIE *h₁em-; Plausibly related to /ym-/ 'achieve, obtain' by paradigm split. Etymology of pres. ya- ~ ypa- hotly disputed.",189,False,False,jə-ʂ,,,yaṣ ≠ /yām-/
 49996,81,218,yäṣ,jɨʂ,goes,"Root /klkā-/, alternating with /kalkā-/ in the subj. and pret.; suppletive pres. /y(a)-/.",198,False,False,j-ʂ,,,yäṣ ≠ klkā-
 49999,81,222,tpukäṣ,tpukɨʂ,hides,"Morphologically causative; cf. tpuknātär* 'hides (intr.), is hidden'. Proto-Toch. reconstruction unclear; unlikely *(wə)-təwk- (per Adams).",201,False,False,tpuk-ʂ-ʂ,,,tpukäṣ*
 50000,81,214,waṣt,wəʂt,house,,202,False,False,wəʂt,,,
-50006,80,219,ḫuu̯ai-,,"to run, to hurry, to spread (of vegetation)",,204,False,False,,,,ḫu-u̯a-a-i
+50006,80,219,ḫuu̯ai-,,"to run, to hurry, to spread (of vegetation)","Cf. HW² Ḫ 796-806 s.v. ḫuwai- 'gehen,, ansteuern, entfliehen, entkommen, entlaufen' etc. for attestations and discussion.",204,False,False,,,,ḫu-u̯a-a-i
 50007,133,219,ḫui(i̯a)-,,to run,"CL native script form is 1.pl.pres. Cf. HLuw. hwia- 'to run, to march'.",118,False,False,,,,ḫu-u-i-un-ni (CL)
 50018,81,140,pśär,pɕɨr,"sharp, raw",,218,False,False,pɕr,,,
-50021,80,139,šar-,,"?to embroider, to sew on",,205,False,False,,,,sa-ri-ez-zi
+50021,80,139,šar-,,"?to embroider, to sew on","The precise semantics of this lexeme remain under discussion, but it seems to be the best candidate. Cf. CHD P 257-259 s.v. šariya- B 'to embroider(?), sew on(?), decorate (cloth) with attached jewels(?); to truss(?)/sew up(?), EDHIL 727 s.v. šar-, šarii̯e/a- ‘to embroider(?), to sew on(?); to truss(?) / sew(?) up’ for attestations and discussion.",205,False,False,,,,sa-ri-ez-zi
 50026,81,217,swār,swar,sweet,,225,False,False,swar,,,
 50030,81,221,eṃtsäṣtär,ẽtsɨʂtɨr,"takes, seizes","Root /enʦ-/, surely cognate with Toch. B /enk-/, though details remain difficult. Sense closer in many contexts to 'grasp, seize', but no more ""neutral"" verb for 'take' attested.",229,False,False,ents-ʂ-tr,,,
 50034,81,123,kārme,karme,"true, straight; truth",,233,False,False,kārme,,,
@@ -26745,7 +26744,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 50107,44,219,skriet,skriɛt,,,248,False,False,skriɛt,,,
 50108,190,219,skrīt,skriːtʲ,,,227,False,False,skriːtʲ,,,
 50109,44,226,nags,nɑks,,,249,False,False,nɑks,,,
-50110,80,151,illui̯anka-,,"snake, serpent",different stems: illui̯anka- illii̯anka- ellii̯anku-. Determinative MUŠ (cf. also CLuv. MUŠ 'snake'). ,206,False,False,,,,il-lu-i̯a-an-ka-aš
+50110,80,151,illui̯anka-,,"snake, serpent","different stems: illui̯anka- illii̯anka- ellii̯anku-. Determinative MUŠ (cf. also CLuv. MUŠ 'snake'). Used especially of the serpent-adversary of the Stormgod. Cf. HW² I 46-48 s.v. (MUŠ)illuyanka/u-, (MUŠ) elluyanka/u- 'Schlangenungeheuer, Schlangendrache, eine Art Schlange(?)' and HED A/E+I 358-359 s.v. illuyanka-, elliyanku- 'snake, serpent' for attestations and discussion.",206,False,False,,,,il-lu-i̯a-an-ka-aš
 50112,69,103,mamma,,,,306,False,False,,mamma,,
 50113,69,160,pinne,,,,307,False,True,,,,
 50114,126,211,fliogâ,,,,286,False,False,,,,
@@ -26769,7 +26768,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 50134,20,215,bitter,ˈbedʌ,,Low German loan,265,False,False,,bitter,,
 50135,107,16,blesan,,,,242,False,False,,021.html,,𐌱𐌻𐌴𐍃𐌰𐌽
 50136,24,16,blazen,,,,219,False,False,,,,
-50137,80,217,miliddu- / maliddu-,,"sweet, pleasant","derivative to militt-/malitt- 'honey'. nom.sg.com. [mi-l]i-id-du-uš, cf. nom.-acc.sg.neut. mi-li-id-du, ma-li-id-du.",207,False,False,,,,[mi-l]i-id-du-uš
+50137,80,217,miliddu- / maliddu-,,"sweet, pleasant","derivative to militt-/malitt- 'honey'. nom.sg.com. [mi-l]i-id-du-uš, cf. nom.-acc.sg.neut. mi-li-id-du, ma-li-id-du. Cf. CHD L-N 252-253 s.v. miliddu-, maliddu-, meliddu- 'sweet (of figs, honey); pleasant (of mood or disposition [ZI] of a god)' for attestations and discussion.",207,False,False,,,,[mi-l]i-id-du-uš
 50138,69,208,myra,,,,309,False,False,,myra,,
 50139,133,217,malidima/i-,,honey-sweet,Derivative to militt-/malitt- 'honey'. Native script form ma-li-⎡ri+i⎤-mi-i-sá is nom.sg.com. (MARAŞ §1i),119,False,False,,,,ma-li-⎡ri+i⎤-mi-i-sá (HL)
 50140,69,215,bitter,,,,310,False,False,,bitter,,
@@ -26795,7 +26794,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 50160,69,221,taga,,,,326,False,True,,,,
 50161,58,220,bære,ˈbæ̀ːɾə,,,294,False,False,ˈbæ̀ːrɛ,,,
 50162,69,209,lår,,,,327,False,False,,lår,,
-50163,80,221,dā-,,"to take, to wed, to decide",,208,False,False,,,,da-a-i
+50163,80,221,dā-,,"to take, to wed, to decide","Cf. EDHIL 803-805 s.v. dā- / d- 'to take, to wed, to decide' for a survey of attested forms and further discussion.",208,False,False,,,,da-a-i
 50164,69,123,sann,,,,328,False,False,,sann,,
 50165,23,220,bera,,,,325,False,False,,bera,,
 50166,69,212,igår,,,,329,False,False,,igår,,
@@ -26808,7 +26807,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 50174,20,225,male,ˈmæːlə,,,272,False,False,,male,,
 50175,24,18,borst,,,,221,False,False,,,,
 50176,20,216,hård,ˈhɒˀ,,,273,False,False,,hård,,
-50177,20,222,skjule,ˈsɡjuːlə,,,274,False,False,,skjule,,
+50177,20,222,skjule,ˈsgjuːlə,,,274,False,True,,skjule,,
 50178,20,214,hus,ˈhuˀs,,,275,False,False,,hus,,
 50179,20,210,navle,ˈnɑwlə,,,276,False,False,,navle,,
 50180,20,219,løbe,ˈløːbə,,,277,False,False,,løbe,,
@@ -27098,7 +27097,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 50989,134,26,χurzei-,,,hapax (3.sg. xurzide). Semantics plausible. Possible etymological connection to luv. kuwar-.,42,False,False,,,,𐊜𐊒𐊕𐊈𐊆𐊅𐊁
 50990,133,209,kaldunni-,,"?thigh, ?leg (one of paired body part).",Only CL.,117,True,False,,,,kal-du-un-ni-iš (CL)
 50991,82,192,kwri (kᵤri),kʷri,"if, when",Cf. Toch. A kupre (kᵤpre).,235,False,True,kʷrəj,,,
-50992,80,146,šupp-,,to sleep,,203,False,False,,,,šu-up-pa-ri
+50992,80,146,šupp-,,to sleep,"Cf. CHD Š s.v. šup(p)-, šuppiye-, šuppa- 'to (go to) sleep, fall asleep' for attestations and discussion, From (OH/MS).",203,False,False,,,,šu-up-pa-ri
 50993,133,190,wida-,,wet,Native script form ú-i-da-an-za is dat.-loc. pl.,117,False,False,,,,ú-i-da-an-za (CL)
 50994,135,170,-as,,,,19,False,False,,,,
 50995,134,170,ebẽi,,they,Demonstr. Pron. used as Person.Pron.,43,False,False,,,,
@@ -32544,7 +32543,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 58903,272,28,ḍhukāi jûwā,ɖʰukɑi dʒʊwɑ,,,202,False,True,,,,ঢুকাই যোৱা
 58904,272,73,him̐ẏā,ɦi ̃jɑ,,,203,False,True,,,,হিঁয়া
 58905,272,104,pāhār,pɑhɑr,,,204,False,True,,,,পাহাৰ
-58906,80,223,išḫaḫruu̯e/a-,,,,200,False,False,,,,iš-ḫa-aḫ-ru-u̯a-at-ta-at
+58906,80,223,išḫaḫruu̯e/a-,,"to cry, weep","Secondarily derived from Hitt. išḫaḫru- 'tear', cf. HW² I 111-112 s.v. išḫaḫruwa(i)- 'weinen'  for attestations and discussion. Lexeme citation form follows EDHIL 391.",200,False,False,,,,iš-ḫa-aḫ-ru-u̯a-at-ta-at
 58907,266,109,dʰouṇ,,,,309,False,False,,,,ਧੌਣ
 58908,266,135,kʰurakṇā,,,,310,False,False,,,,ਖੁਰਕਣਾ
 58909,266,49,nahuⁿdar,,,,311,False,False,,,,ਨਹੁੰਦਰ
@@ -38968,7 +38967,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 68918,303,15,bloþ,bloːθ,,,0,False,False,bloːθ,,,𐌱𐌻𐍉𐌸
 68919,303,73,hairto,ˈhɛrtoː,,,0,False,False,ˈhɛrtoː,,,𐌷𐌰𐌹𐍂𐍄𐍉
 68920,303,117,manna,ˈmanna,,,0,False,False,ˈmanna,,,𐌼𐌰𐌽𐌽𐌰
-68921,303,99,guma,ˈɡuma,,,0,False,False,ˈɡuma,,,𐌲𐌿𐌼𐌰
+68921,303,99,guma,ˈɡuma,,,0,False,True,ˈɡuma,,,𐌲𐌿𐌼𐌰
 68922,303,202,qino,ˈkwinoː,,,0,False,False,ˈkwinoː,,,𐌵𐌹𐌽𐍉
 68923,303,21,barn,barn,,,0,False,False,barn,,,
 68924,303,44,fadar,ˈfaðar,,,0,False,False,ˈfadar,,,
@@ -38977,14 +38976,14 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 68927,303,31,hunds,hunds,,,0,False,False,hunds,,,𐌷𐌿𐌽𐌳𐍃
 68928,303,78,haurn,hɔrn,,,0,False,False,hɔrn,,,𐌷𐌰𐌿𐍂𐌽
 68929,303,151,waurms,wɔrms,,,0,False,False,wɔrms,,,𐍅𐌰𐌿𐍂𐌼𐍃
-68930,303,204,waurms,wɔrms,,,0,False,False,wɔrms,,,𐍅𐌰𐌿𐍂𐌼𐍃
+68930,303,204,waurms,wɔrms,,,0,False,True,wɔrms,,,𐍅𐌰𐌿𐍂𐌼𐍃
 68931,303,51,fisks,fisks,,,0,False,False,fisks,,,𐍆𐌹𐍃𐌺𐍃
 68932,303,12,fugls,fuɣls,,,0,False,False,fuɡls,,,𐍆𐌿𐌲𐌻𐍃
 68933,303,181,bagms,baɣms,,,0,False,False,baɡms,,,𐌱𐌰𐌲𐌼𐍃
 68934,303,91,laufs,lɔːfs,,,0,False,False,lɔːfs,,,𐌻𐌰𐌿𐍆𐍃
 68935,303,127,waurts,wɔrts,,,0,False,False,wɔrts,,,𐍅𐌰𐌿𐍂𐍄𐍃
 68936,303,55,bloma,ˈbloːma,,,0,False,False,ˈbloːma,,,𐌱𐌻𐍉𐌼𐌰
-68937,303,138,atisk,ˈatisk,,,0,False,False,ˈatisk,,,𐌰𐍄𐌹𐍃𐌺
+68937,303,138,atisk,ˈatisk,,,0,False,True,ˈatisk,,,𐌰𐍄𐌹𐍃𐌺
 68938,303,65,gras,ɡras,,,0,False,False,ɡras,,,𐌲𐍂𐌰𐍃
 68939,303,145,himins,ˈhimins,,,0,False,False,ˈhimins,,,𐌷𐌹𐌼𐌹𐌽𐍃
 68940,303,22,milhma,ˈmilhma,,,0,False,False,ˈmilhma,,,𐌼𐌹𐌻𐌷𐌼𐌰
@@ -39053,7 +39052,7 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 69003,303,154,speiwan,ˈspiːwan,,,0,False,False,ˈspiːwan,,,
 69004,303,184,speiwan,ˈspiːwan,,,0,False,False,ˈspiːwan,,,𐍃𐍀𐌴𐌹𐍅𐌰𐌽
 69005,303,13,beitan,ˈbiːtan,,,0,False,False,ˈbiːtan,,,𐌱𐌴𐌹𐍄𐌰𐌽
-69006,303,38,itan,ˈitan,,,0,False,False,ˈitan,,,𐌹𐍄𐌰𐌽
+69006,303,38,itan,ˈitan,,,0,False,True,ˈitan,,,𐌹𐍄𐌰𐌽
 69007,303,32,drigkan,ˈdriŋkan,,,0,False,False,ˈdrinkan,,,𐌳𐍂𐌹𐌲𐌺𐌰𐌽
 69008,303,45,faurhtjan,ˈfɔrhtjan,,,0,False,False,ˈfɔrhtjan,,,𐍆𐌰𐌿𐍂𐌷𐍄𐌾𐌰𐌽
 69009,303,88,witan,ˈwitan,,,0,False,False,ˈwitan,,,𐍅𐌹𐍄𐌰𐌽
@@ -41089,3 +41088,12 @@ id,language_id,meaning_id,romanised,phon_form,gloss,notes,_order,dubious,not_swa
 72663,147,63,cur ≠ coyrt,koːɹt,,"The interchangeable verbal nouns cur and coyrt have both been entered into the database, as Manx expresses the present (3rd sg.) with be + verbal noun. Most forms in the paradigm of this verb reflect those of Old Irish do·beir (cf. Irish tabhair), but cur is suppletive (cf. Irish cur). Coyrt is considered cognate with tabhairt (hence assigned to the same set as Irish tabhair) but with interference from cur in the onset.",216,False,False,koːrt,,,
 72664,209,53,cuisse,,,,202,False,False,,,,
 72665,209,209,cuisse,,,,203,False,False,,,,
+72666,20,17,knogle,ˈknɒwlə,,,283,False,False,,knogle,,
+72667,20,45,være bange,ˈvɛːʌ ˈbɑŋə,,,284,False,False,,,,
+72668,20,222,gemme,ˈɡɛmə,,,285,False,False,,,,
+72670,303,38,matjan,ˈmatjan,,,150,False,False,ˈmatjan,,,𐌼𐌰𐍄𐌾𐌰𐌽
+72671,303,99,manna,ˈmanna,,,151,False,False,ˈmanna,,,𐌼𐌰𐌽𐌽𐌰
+72672,303,138,fraiw,frɛːw,,,152,False,False,frɛːw,,,𐍆𐍂𐌰𐌹𐍅
+72673,303,204,maϸa,ˈmaθa,,,153,False,False,ˈmaθa,,,𐌼𐌰𐌸𐌰
+72674,303,28,gadauþnan,,,,154,False,True,,,,𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌰𐌽
+72676,80,134,mēma(i)- / mēmi-,,"to speak, recite, read aloud, tell, report, reveal","Native script me-e-ma-i (KUB 31.143 ii 5, 12, 19, 25, 33, OS). See CHD L-N: 254-263 for further attestations.",200,False,False,,,,me-e-ma-i

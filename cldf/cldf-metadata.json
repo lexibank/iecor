@@ -1,20 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Leipzig: Max Planck Institute for Evolutionary Anthropology",
+    "dc:bibliographicCitation": "Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew 2024. Indo-European Cognate Relationships database (IE-CoR version 1.1). Leipzig: Max Planck Institute for Evolutionary Anthropology",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://iecor.clld.org",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database project\" (IE-CoR) from 2019",
+    "dc:title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database\" ([IE-CoR version 1.0](https://github.com/lexibank/iecor/releases/tag/v1.0)) from 2019",
     "dcat:accessURL": "https://github.com/lexibank/iecor",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/iecor",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-8-g46557dc",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.10"
+            "dc:description": "3.10.13"
         },
         {
             "dc:title": "python-packages",
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 25918,
+            "dc:extent": 25731,
             "tableSchema": {
                 "columns": [
                     {
@@ -175,7 +175,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 161,
+            "dc:extent": 160,
             "tableSchema": {
                 "columns": [
                     {
@@ -351,7 +351,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 25928,
+            "dc:extent": 25741,
             "tableSchema": {
                 "columns": [
                     {
@@ -462,7 +462,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
-            "dc:extent": 5013,
+            "dc:extent": 4981,
             "tableSchema": {
                 "columns": [
                     {
@@ -551,7 +551,7 @@
             "url": "cognatesets.csv"
         },
         {
-            "dc:extent": 1039,
+            "dc:extent": 1036,
             "tableSchema": {
                 "columns": [
                     {
@@ -586,7 +586,7 @@
             "url": "loans.csv"
         },
         {
-            "dc:extent": 40,
+            "dc:extent": 27,
             "tableSchema": {
                 "columns": [
                     {
