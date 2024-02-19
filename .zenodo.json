@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database project\" (IE-CoR) from 2019",
+    "title": "CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew\u2019s \"Indo-European Cognate Relationships database\" ([IE-CoR version 1.0](https://github.com/lexibank/iecor/releases/tag/v1.0)) from 2019",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -11,6 +11,9 @@
         },
         {
             "name": "Cormac Anderson"
+        },
+        {
+            "name": "Matthew Scarborough"
         },
         {
             "name": "Hans-J\u00f6rg Bibiko"
@@ -51,5 +54,5 @@
     "license": {
         "id": "CC-BY-4.0"
     },
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Heggarty, Paul &amp; Anderson, Cormac &amp; Scarborough, Matthew 2019. Indo-European Cognate Relationships database project (IE-CoR). Leipzig: Max Planck Institute for Evolutionary Anthropology</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Heggarty, Paul &amp; Anderson, Cormac &amp; Scarborough, Matthew 2024. Indo-European Cognate Relationships database (IE-CoR version 1.1). Leipzig: Max Planck Institute for Evolutionary Anthropology</p>\n</blockquote>"
 }

@@ -397,11 +397,8 @@ Cognateset_ID,SourceCognateset_ID,Comment,Source_languoid,Source_form,Parallel_l
 6147,,,?,,false
 6148,1345,,Old Norse,drit,false
 6162,,Italian meaning 'hip',Italian,anca,false
-6167,6505,,Italian,largo,false
 6169,,,Latin,asper,false
-6173,,"Cf. Hittite kuu̯anna(n)- '(blue as) copper, ornamental stone'",?Anatolian,,false
 6182,211,Definite article analysed as part of the stem in the borrowed form.,Italian,(l')occhio,false
-6190,,,Greek: Medieval,κατσηφ-άρα,false
 6191,,,Persian (< Arabic),مکان / makān,true
 6198,9470,,Old French,rivere,true
 6213,,,French,jambe,false
@@ -412,7 +409,6 @@ Cognateset_ID,SourceCognateset_ID,Comment,Source_languoid,Source_form,Parallel_l
 6231,,,Slavic,log(ŭ),false
 6233,,,Turkish,pus,false
 6236,,,Turkish,çayır,false
-6240,,,Latin,cella,false
 6247,,"A verbal derivative from Greek γούλα 'throat, neck', a loanword from Latin gula 'throat, gullet'",Latin,gula,false
 6256,,,Latin,virga,false
 6263,1172,,Tocharian A,iprer,false
@@ -477,7 +473,7 @@ Cognateset_ID,SourceCognateset_ID,Comment,Source_languoid,Source_form,Parallel_l
 6540,,,Sanskrit,chāyā-,true
 6544,,,Turkish,murdar,false
 6545,,,Slavic,prachŭ,false
-6555,131,,Persian,ستاره / setāreh,false
+6555,131,,Persian,ستاره	/ setāreh,false
 6557,,,Germanic,*brekan-,false
 6566,6360,"Early loan from some Eastern Iranic source with *sr > š; alternatively simply Persian, cf. {ref Morgenstierne 1938}: 544.",East Iranic or Persian,,false
 6569,,,Slavic,,false
@@ -699,7 +695,6 @@ Cognateset_ID,SourceCognateset_ID,Comment,Source_languoid,Source_form,Parallel_l
 8224,2001,,Persian,برگ / barg,true
 8226,3381,,Persian,بلند / buland,true
 8228,720,,Sanskrit,párvata-,true
-8268,5419,,Luvian,u̯aru̯alan-,false
 8289,1409,,Old French,jalne,false
 8295,,,Greek: Ancient,κόλαφος / kólaphos,false
 8307,8233,,Old Norse,,false
@@ -1038,3 +1033,5 @@ Cognateset_ID,SourceCognateset_ID,Comment,Source_languoid,Source_form,Parallel_l
 9973,,,Middle Low German,,false
 9977,,,Anglo-Norman,botun,false
 9978,,,,aēr,false
+9980,,,Middle Low German,knokel,false
+9981,,,Middle Low German,bange,false
