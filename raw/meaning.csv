@@ -15,7 +15,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 14,black,,,98.35164835164835,False,False,0,,0,Charcoal is black.,180,163
 15,blood,,,98.86363636363636,False,False,0,,0,Blood is red.,58,946
 16,blow,,,89.82035928143712,False,True,0,"The  verb '(to) blow', not the noun for (a) blow from hitting.",0,He blew on the sticks to start the fire.,220,0
-17,bone,,,98.83720930232558,False,False,0,,0,He fell and broke a bone.,57,1394
+17,bone,,,98.84393063583815,False,False,0,,0,He fell and broke a bone.,57,1394
 18,chest,,,96.0,True,False,0,The part of the body between shoulders and stomach.  *Not* specifically the female breast.,0,His wore a medal on his chest.,46,1592
 19,breathe,,,98.84393063583815,False,False,0,,0,People can't breathe underwater. ,218,1407
 20,burn,,,97.02970297029702,True,False,0,"Intransitive verb, not transitive.  ",0,The wood is burning in the fire.,280,2102
@@ -26,7 +26,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 25,count,,,100.0,False,False,0,,0,I counted the stones; there were five stones.,240,1420
 26,cut,,,97.98994974874371,False,False,0,,0,"I've cut my finger; look, it's bleeding.",272,1432
 27,day,,,98.93617021276596,False,False,0,,0,Day and night.,112,1225
-28,die,,,99.4475138121547,False,False,0,,0,Everyone dies sooner or later.,214,1494
+28,die,,,99.45054945054945,False,False,0,,0,Everyone dies sooner or later.,214,1494
 29,dig,,,95.72192513368984,False,False,0,,0,He is digging in the ground.,292,1418
 30,dirty,,,98.49246231155779,False,False,0,,0,This cup is clean and that one is dirty.,166,1230
 31,dog,,,99.45945945945945,False,False,0,,0,I would like to own a dog.,79,2009
@@ -43,7 +43,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 42,far,,,100.0,False,False,0,,0,You can't walk there in one day; it's too far.,303,1406
 43,fat,,,87.02702702702703,True,True,0,"Noun, not adjective:  the substance.  'Fat' as opposed to muscle, bone, skin, etc..  *Not* the opposite of 'thin'.",0,Cut the fat off the meat.,140,323
 44,father,,,87.16577540106952,False,True,0,,0,Everyone has a father and a mother.,72,1217
-45,fear,,,98.99497487437186,True,False,0,,0,"While the dog was here, I was scared.",234,1419
+45,fear,,,99.0,True,False,0,,0,"While the dog was here, I was scared.",234,1419
 46,feather,,,98.85057471264368,False,False,0,,0,What bird does this feather come from?,84,1201
 47,few,,,81.81818181818181,False,False,0,,0,It's a small village. There are few houses. (Eng. There are not many houses.),907,1242
 48,fight,,,96.46017699115045,False,False,0,,0,The two men are fighting outside.,254,1423
@@ -97,7 +97,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 96,liver,,,99.40119760479043,False,False,0,,0,When he died they found that his liver was very swollen.,61,1224
 97,long,,,100.0,False,False,0,,0,This is a long rope; that is a short rope.,158,1203
 98,louse,,,100.0,False,False,0,,0,I picked a louse from his hair.,96,1392
-99,man,,,98.19004524886878,False,False,0,"Specifically an adult male, not the (outdated) generic sense of ‘person’ or ‘humankind’.",0,I saw a man and a woman.,63,1554
+99,man,,,98.1981981981982,False,False,0,"Specifically an adult male, not the (outdated) generic sense of ‘person’ or ‘humankind’.",0,I saw a man and a woman.,63,1554
 100,many,,,88.59649122807018,False,False,0,,0,We picked many (a lot of) (insert name of local fruit) today.,914,1198
 101,meat,,,100.0,False,False,0,,0,What animal does this meat come from?,137,634
 102,moon,,,100.0,False,False,0,,0,I saw the moon in the sky.,113,1313
@@ -132,11 +132,11 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 131,rub,,,83.69565217391305,False,False,0,,0,He rubbed his belly.,918,1449
 132,salt,,,99.4186046511628,False,False,0,,0,She puts too much salt in her food.,139,1274
 133,sand,,,99.42528735632185,False,False,0,,0,She let the sand fall through her hands.,120,671
-134,say,,,98.57142857142857,False,False,0,,0,She said that she would be late.,246,1458
+134,say,,,98.5781990521327,False,False,0,,0,She said that she would be late.,246,1458
 135,scratch,,,97.6878612716763,False,False,0,,0,She scratched her head.,274,1436
 136,sea,,,100.0,False,False,0,,0,Her house is beside the sea.,129,1474
 137,see,,,99.45054945054945,False,False,0,,0,I see him every day on the road.,204,1409
-138,seed,,,99.47089947089947,False,False,0,,0,You can eat the seeds of (insert name of local fruit).,106,714
+138,seed,,,99.47368421052632,False,False,0,,0,You can eat the seeds of (insert name of local fruit).,106,714
 139,sew,,,100.0,False,False,0,,0,He sewed the two pieces of cloth together.,278,1457
 140,sharp,,,97.42268041237114,False,False,0,,0,A sharp knife cuts better than a blunt one.,173,1396
 141,short,,,100.0,False,False,0,,0,This is a short rope; that is a long rope.,159,1645
@@ -144,7 +144,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 143,sit,,,99.42528735632185,True,False,0,"Stative verb, ‘be sitting’, *not* change of state ‘sit down’. ",0,He is sitting over there.,190,1416
 144,skin,,,99.5,False,False,0,,0,His skin was old and hard.,56,763
 145,sky,,,99.4475138121547,False,False,0,,0,There were white clouds in the blue sky.,108,1732
-146,sleep,,,98.86363636363636,False,False,0,,0,He is sleeping in the house.,216,1585
+146,sleep,,,98.85714285714286,False,False,0,,0,He is sleeping in the house.,216,1585
 147,small,,,97.87234042553192,False,False,0,,0,This is a small stone. That is a big stone.,170,1246
 148,smell,,,99.40119760479043,True,False,0,Verb for a person *perceiving* an odour (transitive).  *Not* the sense of emitting an odour (intransitive).  ,0,I (can) smell smoke.,208,1586
 149,smoke,,,100.0,False,False,0,,0,I could see the smoke from the fire.,131,778
@@ -202,7 +202,7 @@ id,gloss,description,notes,percent_coded,doubleCheck,exclude,meaningSetIx,toolti
 201,with,,,88.88888888888889,False,True,0,,0,I saw him walking with a friend.,307,1340
 202,woman,,,97.1830985915493,False,False,0,,0,I saw a man and a woman.,65,962
 203,forest,,,100.0,False,False,0,,0,There are many animals in the forest.,98,420
-204,worm,,,98.90710382513662,False,False,0,,0,Don’t step on that worm.,90,1219
+204,worm,,,98.91304347826087,False,False,0,,0,Don’t step on that worm.,90,1219
 205,you_pl.,,,85.3932584269663,False,True,0,^See full meaning description.*,0,^See full meaning description.*,322,0
 206,year,,,99.47368421052632,False,False,0,,0,The year is almost over.,133,1226
 207,yellow,,,100.0,False,False,0,,0,Egg yolk is yellow,178,1424
