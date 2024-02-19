@@ -26,12 +26,12 @@ setup(
         'pyconcepticon>=3.0.0',
         'pylexibank>=3.4.0',
         'pycdstar>=1.1.0',
-        'pycldf>=1.34.0',
-        'clldutils>=3.14.0',
+        'pycldf>=1.35.0',
+        'clldutils>=3.20.0',
         'csvw>=3.1.3',
-        'nameparser>=1.1.2',
-        'Markdown>=3.4.1',
-        'python-nexus>=2.8.0',
+        'nameparser>=1.1.3',
+        'Markdown>=3.4.4',
+        'python-nexus>=2.9.0',
     ],
     extras_require={
         "test": [
