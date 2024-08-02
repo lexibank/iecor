@@ -5,7 +5,6 @@ from csvw import dsv
 from clldutils.path import Path
 
 from nameparser import HumanName
-from pycldf.dataset import Wordlist
 from pycldf.sources import Source
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Lexeme, Concept

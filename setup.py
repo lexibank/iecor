@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 
@@ -14,6 +14,7 @@ setup(
     py_modules=['lexibank_iecor'],
     include_package_data=True,
     zip_safe=False,
+    packages=find_packages(where="."),
     entry_points={
         'lexibank.dataset': [
             'iecor=lexibank_iecor:Dataset',
