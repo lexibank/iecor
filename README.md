@@ -16,6 +16,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ li
 
 Available online at https://iecor.clld.org
 
+
+Conceptlists in Concepticon:
+- [Heggarty-2020-200](https://concepticon.clld.org/contributions/Heggarty-2020-200)
 ## Statistics
 
 
