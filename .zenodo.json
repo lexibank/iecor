@@ -14,9 +14,6 @@
         },
         {
             "name": "Matthew Scarborough"
-        },
-        {
-            "name": "Hans-J\u00f6rg Bibiko"
         }
     ],
     "contributors": [
@@ -25,23 +22,19 @@
             "type": "DataCurator"
         },
         {
-            "name": "Paul Heggarty",
-            "type": "Editor"
-        },
-        {
             "name": "Cormac Anderson",
             "type": "DataCurator"
-        },
-        {
-            "name": "Cormac Anderson",
-            "type": "Editor"
         },
         {
             "name": "Matthew Scarborough",
             "type": "DataCurator"
         },
         {
-            "name": "Matthew Scarborough",
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Other"
+        },
+        {
+            "name": "Frederic Blum",
             "type": "Editor"
         }
     ],
