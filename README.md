@@ -1,4 +1,4 @@
-# CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew’s "Indo-European Cognate Relationships database" ([IE-CoR version 1.0](https://github.com/lexibank/iecor/releases/tag/v1.0)) from 2019
+# CLDF dataset derived from Heggarty, Paul & Anderson, Cormac & Scarborough, Matthew’s "Indo-European Cognate Relationships database" from 2024
 
 [![CLDF validation](https://github.com/lexibank/iecor/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/iecor/actions?query=workflow%3ACLDF-validation)
 
@@ -19,15 +19,23 @@ Available online at https://iecor.clld.org
 
 Conceptlists in Concepticon:
 - [Heggarty-2020-200](https://concepticon.clld.org/contributions/Heggarty-2020-200)
+## Notes
+
+This dataset is decribed in Anderson et al. 2025 [DOI: 10.1038/s41597-025-05445-3](https://doi.org/10.1038/s41597-025-05445-3).
+
+![map](map.svg)
+
+
+
 ## Statistics
 
 
 [![CLDF validation](https://github.com/lexibank/iecor/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/iecor/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 0%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 160 (linked to 152 different Glottocodes)
 - **Concepts:** 170 (linked to 170 different Concepticon concept sets)
@@ -43,9 +51,8 @@ Conceptlists in Concepticon:
 
 ## Possible Improvements:
 
+- Entries missing sources: 25731/25731 (100.00%%)
 
-
-- Entries missing sources: 25731/25731 (100.00%)
 
 # Contributors
 

@@ -1,5 +1,8 @@
-from collections import OrderedDict, defaultdict
+import re
 from itertools import groupby
+from collections import OrderedDict, defaultdict
+import dataclasses
+from typing import Optional
 
 from csvw import dsv
 from clldutils.path import Path
@@ -10,18 +13,13 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Lexeme, Concept
 from sqlalchemy import create_engine
 from pyconcepticon import Concepticon
-import re
-import attr
-
-from mappings import FIELD_MAP, AUTHOR_MAP
 
 LANGUAGE_LIST = "IE-CoR_1-1"
 MEANING_LIST = "JenaFinal170"
 
 
-def dicts(name, to_cldf=False):
-    res = []
-    for item in dsv.reader('raw/{0}.csv'.format(name), dicts=True):
+def iter_dicts(name, to_cldf=False):
+    for item in dsv.reader(f'raw/{name}.csv', dicts=True):
         if to_cldf:
             nitem = {}
             for k, v in FIELD_MAP[name].items():
@@ -31,26 +29,11 @@ def dicts(name, to_cldf=False):
             nitem = item
         if name == 'lexeme':
             nitem['Value'] = nitem['Form']
-        res.append(nitem)
-    return res
+        yield nitem
 
 
 def source_to_kw(src):
     res = {'note': src['citation_text']}
-    """
-description
-bookauthor
-note
-shorthand
-editora
-authortype
-booksubtitle
-editoratype
-editortype
-subtitle
-deprecated
-TRS
-    """
     for k in [
         'author',
         'title',
@@ -83,7 +66,7 @@ TRS
 
 def iterrefs(type_, refid):
     for id_, items in groupby(
-            sorted(dicts(type_), key=lambda i: i[refid]), lambda i: i[refid]):
+            sorted(iter_dicts(type_), key=lambda i: i[refid]), lambda i: i[refid]):
         refs = [
             (
                 i['source_id'],
@@ -93,50 +76,56 @@ def iterrefs(type_, refid):
             )
             for i in items
         ]
-        refs = ['{0}{1}'.format(sid, '[{0}]'.format(p.strip()) if p else '') for sid, p
-                in refs]
-        yield id_, refs
+        yield id_, ['{0}{1}'.format(sid, f'[{p.strip()}]' if p else '') for sid, p in refs]
 
 
-@attr.s
+@dataclasses.dataclass
 class IECORLanguage(Language):
-    Author_ID = attr.ib(default=None)
-    Description = attr.ib(default=None)
-    Clade = attr.ib(default=None)
-    Color = attr.ib(default=None)
-    Variety = attr.ib(default=None)
-    clade_name = attr.ib(default=None)
-    ascii_name = attr.ib(default=None)
-    loc_justification = attr.ib(default=None)
-    historical = attr.ib(default=False)
-    distribution = attr.ib(default=False)
-    logNormalMean = attr.ib(default=False)
-    logNormalOffset = attr.ib(default=False)
-    logNormalStDev = attr.ib(default=False)
-    normalMean = attr.ib(default=False)
-    normalStDev = attr.ib(default=False)
-    fossil = attr.ib(default=False)
-    sort_order = attr.ib(default=None)
+    """
+    An IE-CoR variety.
+    """
+    Author_ID: Optional[str] = None
+    Description: Optional[str] = None
+    Clade: Optional[str] = None
+    Color: Optional[str] = None
+    Variety: Optional[str] = None
+    clade_name: Optional[str] = None
+    ascii_name: Optional[str] = None
+    loc_justification: Optional[str] = None
+    historical: Optional[bool] = False
+    distribution: Optional[bool] = False
+    logNormalMean: Optional[bool] = False
+    logNormalOffset: Optional[bool] = False
+    logNormalStDev: Optional[bool] = False
+    normalMean: Optional[bool] = False
+    normalStDev: Optional[bool] = False
+    fossil: Optional[bool] = False
+    sort_order: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class IECORLexeme(Lexeme):
-    Gloss = attr.ib(default=None)
-    phon_form = attr.ib(default=None)
-    Phonemic = attr.ib(default=None)
-    Phonemic_Segments = attr.ib(default=None)
-    native_script = attr.ib(default=None)
-    url = attr.ib(default=None)
+    """
+    IE-CoR lexeme.
+    """
+    Gloss: Optional[str] = None
+    phon_form: Optional[str] = None
+    Phonemic: Optional[str] = None
+    Phonemic_Segments: Optional[str] = None
+    native_script: Optional[str] = None
+    url: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class IECORConcept(Concept):
-    Concepticon_Definition = attr.ib(default=None)
-    Description_md = attr.ib(default=None)
+    """
+    IE-CoR concepts often have an additional description.
+    """
+    Concepticon_Definition: Optional[str] = None
+    Description_md: Optional[str] = None
 
 
 class Dataset(BaseDataset):
-
     id = 'iecor'
     dir = Path(__file__).parent.resolve()
 
@@ -144,48 +133,11 @@ class Dataset(BaseDataset):
     lexeme_class = IECORLexeme
     concept_class = IECORConcept
 
-    @staticmethod
-    def db_dump_to_csv():
-        def query(db, q):
-            res = db.execute(q)
-            header = res.keys()
-            return header, list(res)
-
-        exclude = [
-            'lastEditedBy',
-            'lastTouched',
-            'modified',
-        ]
-
-        dbc = create_engine('postgresql://postgres@/cobl_old')
-
-        for t in query(dbc, "SELECT tablename FROM pg_catalog.pg_tables")[1]:
-            table = t[0]
-            if not table.startswith(
-                    'lexicon_') or table == 'lexicon_nexusexport':
-                continue
-            header, rows = query(dbc, 'select * from {0}'.format(table))
-            print(table)
-            with dsv.UnicodeWriter(
-                    'raw/{0}.csv'.format(table.partition('_')[2])) as w:
-                h = [c for c in header if c not in exclude]
-                for c in h:
-                    print('    {0}'.format(c))
-                w.writerow(h)
-                for row in sorted(rows):
-                    d = OrderedDict(zip(header, row))
-                    for k in exclude:
-                        if k in d:
-                            del d[k]
-                    w.writerow(d.values())
-
-    def cmd_download(self, args):
-        self.db_dump_to_csv()
-
     def cmd_makecldf(self, args):
-
-        with args.writer as ds:
-
+        with (args.writer as ds):
+            ds.cldf.properties['dc:description'] = \
+                ("This dataset is decribed in Anderson et al. 2025 "
+                 "[DOI: 10.1038/s41597-025-05445-3](https://doi.org/10.1038/s41597-025-05445-3).")
             used_sources = set()
 
             def clean_md(t):
@@ -215,16 +167,13 @@ class Dataset(BaseDataset):
 
             def make_source_link(m):
                 shorthand_ref = m.groups()[0]
-
                 # fixes:
                 if shorthand_ref == 'Meyer-Lübke 1930–1935':
                     shorthand_ref = 'Meyer-Lübke 1935'
 
                 if shorthand_ref in shorthand_sources:
                     used_sources.add(shorthand_sources[shorthand_ref])
-                    return "[{}](src-{})".format(
-                        shorthand_ref,
-                        shorthand_sources[shorthand_ref])
+                    return f"[{shorthand_ref}](src-{shorthand_sources[shorthand_ref]})"
                 if ':' in shorthand_ref:  # : typo {ref Foo 2000:16-18}
                     arr = shorthand_ref.split(':', 2)
                     if arr[0] in shorthand_sources:
@@ -245,39 +194,20 @@ class Dataset(BaseDataset):
                     return "[lexeme {}](lex-{})".format(lex_ref, lex_ref)
                 return 'lexeme {}'.format(lex_ref)
 
-            authors_dict = dicts('author', to_cldf=True)
+            authors_dict = list(iter_dicts('author', to_cldf=True))
             initials_author_id = {a['initials']: a['ID'] for a in authors_dict}
             # add programmers
             last_author_id = max(int(a['ID']) for a in authors_dict)
             authors_dict.extend([
-                {
-                    'ID': str(last_author_id + 1),
-                    'Last_Name': 'Bibiko',
-                    'First_Name': 'Hans-Jörg',
-                    'URL': 'https://www.eva.mpg.de/linguistic-and-cultural-evolution/staff/hans-joerg-bibiko/'
-                },
-                {
-                    'ID': str(last_author_id + 2),
-                    'Last_Name': 'Runge',
-                    'First_Name': 'Jakob',
-                    'URL': 'https://github.com/runjak'
-                }
+                {'ID': str(last_author_id + 1), 'Last_Name': 'Bibiko', 'First_Name': 'Hans-Jörg'},
+                {'ID': str(last_author_id + 2), 'Last_Name': 'Runge', 'First_Name': 'Jakob'}
             ])
-            authors = {
-                '{0} {1}'.format(v['First_Name'], v['Last_Name']): v for v in
-                authors_dict}
+            authors = {'{0} {1}'.format(v['First_Name'], v['Last_Name']): v for v in authors_dict}
             author_max_id = max(int(a['ID']) for a in authors.values())
 
-            # for p in Path('cldf').iterdir():
-            #     if p.is_file():
-            #         Path.unlink(p)
-
-            for src in dicts('source'):
+            for src in iter_dicts('source'):
                 shorthand_sources[src['shorthand']] = src['id']
 
-            lrefs = {k: v for k, v in iterrefs('lexemecitation', 'lexeme_id')}
-            crefs = {k: v for k, v in
-                     iterrefs('cognatejudgementcitation', 'cognate_judgement_id')}
             csrefs = {k: v for k, v in
                       iterrefs('cognateclasscitation', 'cognate_class_id')}
 
@@ -349,8 +279,8 @@ class Dataset(BaseDataset):
             ds.cldf['LanguageTable', 'normalMean'].datatype.base = 'integer'
             ds.cldf['LanguageTable', 'normalStDev'].datatype.base = 'integer'
 
-            clade_cldf = [c for c in dicts('clade', to_cldf=True) if c['export'].strip() == 'True']
-            cladesObj = [c for c in dicts('clade') if c['export'].strip() == 'True']
+            clade_cldf = [c for c in iter_dicts('clade', to_cldf=True) if c['export'].strip() == 'True']
+            cladesObj = [c for c in iter_dicts('clade') if c['export'].strip() == 'True']
 
             clade_table = sorted(clade_cldf, key=lambda x: (
                 int(x['clade_level0']),
@@ -362,7 +292,7 @@ class Dataset(BaseDataset):
                 del c['export']
 
             clades = {d['id']: d for d in cladesObj}
-            lcdict = dicts('languageclade')
+            lcdict = list(iter_dicts('languageclade'))
             l2clade = {d['language_id']: clades[d['clade_id']] for d in lcdict if d['clade_id'] in clades}
             for lc in sorted(lcdict, key=lambda d: d['cladesOrder'], reverse=True):
                 if lc['clade_id'] not in clades:
@@ -376,29 +306,26 @@ class Dataset(BaseDataset):
                 l2clade[llid]['cladeNames'] = [x for i, x in enumerate(l2clade[llid]['cladeNames'])
                                                if l2clade[llid]['cladeNames'].index(x) == i]
 
-            llists = {d['id']: (d['name'], set()) for d in dicts('languagelist')}
+            llists = {d['id']: (d['name'], set()) for d in iter_dicts('languagelist')}
             for llid, _ds in groupby(
-                    sorted(dicts('languagelistorder'),
-                           key=lambda d: d['language_list_id']),
-                    lambda d: d['language_list_id'],
+                sorted(iter_dicts('languagelistorder'), key=lambda d: d['language_list_id']),
+                lambda d: d['language_list_id'],
             ):
                 for d in _ds:
                     llists[llid][1].add(d['language_id'])
             llists = {v[0]: v[1] for v in llists.values()}
 
-            mlists = {d['id']: (d['name'], set()) for d in dicts('meaninglist')}
+            mlists = {d['id']: (d['name'], set()) for d in iter_dicts('meaninglist')}
             for mlid, _ds in groupby(
-                    sorted(dicts('meaninglistorder'),
-                           key=lambda d: d['meaning_list_id']),
-                    lambda d: d['meaning_list_id'],
+                sorted(iter_dicts('meaninglistorder'), key=lambda d: d['meaning_list_id']),
+                lambda d: d['meaning_list_id'],
             ):
                 for d in _ds:
                     mlists[mlid][1].add(d['meaning_id'])
             mlists = {v[0]: v[1] for v in mlists.values()}
 
-            langs = [d for d in dicts('language', to_cldf=True) if
-                     d['notInExport'] == 'False' and d['ID'] in llists[
-                         LANGUAGE_LIST]]
+            langs = [d for d in iter_dicts('language', to_cldf=True) if
+                     d['notInExport'] == 'False' and d['ID'] in llists[LANGUAGE_LIST]]
             lang_urls = {lg['ID']: lg.pop('url') for lg in langs}
             for i, lang in enumerate(sorted(langs, key=lambda x: (
                     int(x['level0']), int(x['level1']), int(x['level2']),
@@ -409,7 +336,7 @@ class Dataset(BaseDataset):
                     clade_name=l2clade[lang['ID']]['clade_name'],
                     sort_order=i + 1)
             lids = set(d['ID'] for d in langs)
-            forms = [f for f in dicts('lexeme', to_cldf=True) if
+            forms = [f for f in iter_dicts('lexeme', to_cldf=True) if
                      f['Form'] and (f['Language_ID'] in lids and f[
                          'Comment'] != 'EXCLUDE.') and f['Parameter_ID'] in mlists[
                          MEANING_LIST] and f['not_swadesh_term'] == 'False']
@@ -422,27 +349,18 @@ class Dataset(BaseDataset):
                 f['Source'] = []
                 # f['Source'] = lrefs.get(f['ID'], [])
             mids = set(f['Parameter_ID'] for f in forms)
-            meanings = [d for d in dicts('meaning', to_cldf=True) if
-                        d['ID'] in mids]
+            meanings = [d for d in iter_dicts('meaning', to_cldf=True) if d['ID'] in mids]
 
-            wikidir = Path(__file__).resolve().parent.parent / 'CoBL.wiki'
+            wikidir = Path(__file__).resolve().parent.parent / 'CoBL-public.wiki'
             c_api = Concepticon()
             for m in meanings:
                 cl = c_api.conceptsets.get(m['Concepticon_ID'])
                 m['Concepticon_Gloss'] = cl.gloss
                 m['Concepticon_Definition'] = cl.definition
 
-                wiki_data = ''
                 wiki_page = wikidir / 'Meaning:-{0}.md'.format(m['Name'])
-                if not wiki_page.exists():
-                    print('no wiki page for "{}" found'.format(m['Name']))
-                    wiki_page = wikidir / 'DO-Meaning:-{0}.md'.format(m['Name'])
-                    if wiki_page.exists():
-                        wiki_data = '##### Illustrative Context\n_' +\
-                            m['exampleContext'] +\
-                            '_\n\n> Full meaning definition being reformatted and restructured for publication.'
-                else:
-                    wiki_data = clean_md(Path.read_text(wiki_page))
+                assert wiki_page.exists()
+                wiki_data = clean_md(Path.read_text(wiki_page))
                 m['Description_md'] = wiki_data
 
             for lang in langs:
@@ -453,8 +371,7 @@ class Dataset(BaseDataset):
                 lang['Authors'] = re.sub(r'\s*&\s*', ' and ', lang['Authors'])
                 lang['Authors'] = lang['Authors'].split(' and ') if lang[
                     'Authors'] else []
-                lang['Authors'] = [AUTHOR_MAP.get(a, a) or a for a in
-                                   lang['Authors']]
+                lang['Authors'] = [AUTHOR_MAP.get(a, a) or a for a in lang['Authors']]
 
                 ids = []
 
@@ -474,8 +391,8 @@ class Dataset(BaseDataset):
 
             fids = set(f['ID'] for f in forms)
             csids = set()
-            cognates = [d for d in dicts('cognatejudgement',
-                                         to_cldf=True) if d['Form_ID'] in fids]
+            cognates = [d for d in iter_dicts('cognatejudgement',
+                                              to_cldf=True) if d['Form_ID'] in fids]
 
             for c in cognates:
                 csids.add(c['Cognateset_ID'])
@@ -484,7 +401,7 @@ class Dataset(BaseDataset):
             dyen = {
                 csid: [d['name'].strip() for d in dyens if d['doubtful'] == 'False']
                 for csid, dyens in
-                groupby(sorted(dicts('dyencognateset'),
+                groupby(sorted(iter_dicts('dyencognateset'),
                                key=lambda d: d['cognate_class_id']),
                         lambda d: d['cognate_class_id'])
             }
@@ -560,13 +477,11 @@ class Dataset(BaseDataset):
                             else:
                                 break
                 # Branch lookup
-                affectedFormIds = set(
-                    [i['Form_ID'] for i in cognates if i['Cognateset_ID'] == cid]
-                )
+                affectedFormIds = set([i['Form_ID'] for i in cognates if i['Cognateset_ID'] == cid])
                 affectedLgIds = set(
                     [i['Language_ID'] for i in forms if i['ID'] in affectedFormIds])
-                commonCladeIds = [i['clade_id'] for i in lcdict_sorted
-                                  if i['language_id'] in affectedLgIds]
+                commonCladeIds = [
+                    i['clade_id'] for i in lcdict_sorted if i['language_id'] in affectedLgIds]
                 if commonCladeIds:
                     commonCladeIds = commonCladeIds[0]
                     affectedLgIdsByClade = [
@@ -627,7 +542,7 @@ class Dataset(BaseDataset):
                                 break
                 return ''
 
-            for cset in dicts('cognateclass', to_cldf=True):
+            for cset in iter_dicts('cognateclass', to_cldf=True):
                 if cset['ID'] in csids:
                     csrc = csrefs.get(cset['ID'], [])
                     if len(csrc):
@@ -674,7 +589,7 @@ class Dataset(BaseDataset):
             for c in css:
                 c['Source'] = parse_links_to_markdown(c['Source'])
 
-            for src in dicts('source'):
+            for src in iter_dicts('source'):
                 if src['id'] in used_sources:
                     ds.cldf.add_sources(
                         Source(src['ENTRYTYPE'], src['id'], **source_to_kw(src)))
@@ -783,3 +698,188 @@ class Dataset(BaseDataset):
                    'authors.csv': sorted(authors.values(),
                                          key=lambda d: d['Last_Name']),
                    'clades.csv': clade_table})
+
+
+AUTHOR_MAP = {
+    'Tonya Dewey': 'Tonya Kim Dewey-Findell',
+    'Maria Reina Bastardas': 'Maria-Reina Bastardas',
+    'Ganesh Gupta': '',
+    'Henrik Liljegren': '',
+    'Simone Loi': '',
+    'Ulrich Geupel': '',
+    'Shervin Farridnejad': '',
+    'Adam Benkato': '',
+    'Mandar Purandare': '',
+    'Sam Mersch': '',
+    'Borana Lushaj': '',
+    'Asfar Ali Khan': '',
+    'Patrycja Markus': '',
+    'Nicholas Sims-Williams': '',
+    'Paul Videsott': '',
+    'Paul Versloot': '',
+    'Charalambos Christodoulou': '',
+    'Guto Rhys': '',
+    'Annemarie Verkerk': '',
+    'Mojtaba Gheitasi': '',
+    'Harald Hammarstr\xf6m': '',
+    'Giorgio Cadorini': '',
+    'Lo\xefc Cheveau': '',
+    'Arash Zeini': '',
+    'J\xe9r\xe9mie Delorme': '',
+    'Lars Steensland': '',
+    'Manuel Widmer': '',
+    'Stephen Dworkin': '',
+    'Esther Baiwir': '',
+    'Khawaja Rehman': '',
+    'Sabine Tittel': '',
+    'Heather Pagan': '',
+}
+
+FIELD_MAP = {
+    'author':
+        {
+            "id": "ID",
+            "surname": "Last_Name",
+            "firstNames": "First_Name",
+            "email": "",
+            "website": "URL",
+            "initials": "initials",
+            "user_id": "",
+        },
+    'lexeme':  # -> forms.csv
+        {
+            "id": "ID",
+            "language_id": "Language_ID",
+            "meaning_id": "Parameter_ID",
+            "romanised": "Form",
+            "phon_form": "phon_form",
+            "gloss": "Gloss",
+            "notes": "Comment",
+            "_order": "",
+            "dubious": "",
+            "not_swadesh_term": "not_swadesh_term",
+            "phoneMic": "Phonemic",
+            "rfcWebLookup1": "url",
+            "rfcWebLookup2": "",  # all empty
+            "nativeScript": "native_script",
+        },
+    'language':  # -> languages.csv
+        {
+            "id": "ID",  # -> id
+            "iso_code": "ISO639P3code",  # -> iso639P3code
+            "ascii_name": "ascii_name",
+            "utf8_name": "Name",  # -> Name
+            "description": "Description",
+            "earliestTimeDepthBound": "",
+            "latestTimeDepthBound": "",
+            "progress": "",
+            "author": "Authors",
+            "foss_stat": "fossil",
+            "glottocode": "Glottocode",  # -> glottocode
+            "level0": "level0",
+            "level1": "level1",
+            "level2": "level2",
+            "level3": "level3",
+            "low_stat": "",  # always False
+            "representative": "representative",
+            "reviewer": "",
+            "rfcWebPath1": "url",
+            "rfcWebPath2": "",  # all empty
+            "soundcompcode": "",
+            "variety": "Variety",
+            "sortRankInClade": "sortRankInClade",
+            "sndCompLevel0": "",
+            "sndCompLevel1": "",
+            "sndCompLevel2": "",
+            "sndCompLevel3": "",
+            "entryTimeframe": "",
+            "originalAsciiName": "",
+            "historical": "historical",
+            "notInExport": "notInExport",
+            "distribution": "distribution",
+            "logNormalMean": "logNormalMean",
+            "logNormalOffset": "logNormalOffset",
+            "logNormalStDev": "logNormalStDev",
+            "normalMean": "normalMean",
+            "normalStDev": "normalStDev",
+            "uniformLower": "",
+            "uniformUpper": "",
+            "latitude": "Latitude",  # -> Latitude
+            "longitude": "Longitude",  # -> Longitude
+            "exampleLanguage": "exampleLanguage",
+            "fragmentary": "",
+            "loc_justification": "loc_justification",
+        },
+    'meaning':  # -> parameters.csv
+        {
+            "id": "ID",
+            "gloss": "Name",
+            "description": "",  # always empty!
+            "notes": "",  # always empty!
+            "percent_coded": "",
+            "doubleCheck": "",
+            "exclude": "",
+            "meaningSetIx": "",
+            "tooltip": "Description",
+            "meaningSetMember": "",
+            "exampleContext": "exampleContext",
+            "ixElicitation": "",
+            "concepticon_id": "Concepticon_ID",
+        },
+    'cognatejudgement':  # -> cognates.csv
+        {
+            "id": "ID",
+            "lexeme_id": "Form_ID",
+            "cognate_class_id": "Cognateset_ID",
+        },
+    'cognateclass':
+        {
+            "id": "ID",
+            "root_form": "Root_Form",
+            "gloss_in_root_lang": "Root_Gloss",
+            "root_language": "Root_Language",
+            # alias
+            "notes": "Comment",
+            "justificationDiscussion": "Justification",
+            # name  - always empty
+
+            "loan_notes": "loan_notes",
+            "loan_source": "loan_source",  # pretty variable languoid names
+            "loanword": "loanword",
+            # loanEventTimeDepthBP
+            "loanSourceCognateClass_id": "loanSourceCognateClass_id",
+            "sourceFormInLoanLanguage": "sourceFormInLoanLanguage",
+            # should be put in forms.csv!? (only 509, though)
+            "parallelLoanEvent": "parallelLoanEvent",
+            # -> if True, split into individual borrowings!
+
+            # notProtoIndoEuropean
+            "dubiousSet": "dubiousSet",
+            "parallelDerivation": "parallelDerivation",
+            "revisedBy": "revised_by",
+            # revisedYet
+            "ideophonic": "Ideophonic",
+            "proposedAsCognateTo_id": "proposedAsCognateTo_pk",
+            "proposedAsCognateToScale": "proposedAsCognateToScale",
+            "supersetid": "supersetid",
+        },
+    'clade': # -> clades.csv
+        {
+            "id": "ID",
+            "cladeName": "clade_name",
+            "hexColor": "color",
+            "shortName": "short_name",
+            "taxonsetName": "taxonsetName",
+            "export": "export",
+            "atMost": "",
+            "atLeast": "",
+            "cladeLevel0": "clade_level0",
+            "cladeLevel1": "clade_level1",
+            "cladeLevel2": "clade_level2",
+            "cladeLevel3": "clade_level3",
+            "level0Name": "level0_name",
+            "level1Name": "level1_name",
+            "level2Name": "level2_name",
+            "level3Name": "level3_name"
+        }
+}
